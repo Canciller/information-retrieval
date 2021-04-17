@@ -1,6 +1,7 @@
 set(SOURCE_FILES
   pack.cpp
   unpack.cpp
+  s16.cpp
   coding_policy.cpp
   pfordelta.cpp)
 

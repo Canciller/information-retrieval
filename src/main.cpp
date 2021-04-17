@@ -3,38 +3,10 @@
 
 #include <golomb.h>
 #include <coding_policy.h>
-
-void test_pfordelta()
-{
-  //unsigned int input[] = {2322231,2,3,4,5,6,7,8,9,10};
-  unsigned int input[128] = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 10, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 10, 10, 10, 10, 10, 10, 10, 10};
-  unsigned int *coded;
-  unsigned int *output;
-
-  int size = 128;
-  int newsize;
-  int finalsize;
-  int i;
-
-  coded = (unsigned int *)malloc(size * sizeof(unsigned int));
-  output = (unsigned int *)malloc(size * sizeof(unsigned int));
-  //printf("coded = %X\n", coded);
-  //printf("output = %X\n", output);
-  newsize = compress_pfordelta(input, coded, size, 32);
-  finalsize = decompress_pfordelta(coded, output, size, 32);
-
-  printf("Normal size: %d\n", size);
-  printf("Compress size: %d\n", newsize);
-  printf("Consumed size: %d\n", finalsize);
-  for (i = 0; i < size; i++)
-  {
-    printf("%u -> %X -> %u\n", input[i], coded[i], output[i]);
-  }
-}
+#include <s16.h>
 
 void pfordelta(unsigned int *input, int size)
 {
-
   unsigned int *coded, *decoded;
 
   coded = (unsigned int *)malloc(size * sizeof(unsigned int));
@@ -43,12 +15,11 @@ void pfordelta(unsigned int *input, int size)
   int newsize;
   int finalsize;
 
-  newsize = compress_pfordelta(input, coded, size, 4);
-  finalsize = decompress_pfordelta(coded, decoded, size, 4);
+  newsize = compress_pfordelta(input, coded, size, 32);
+  finalsize = decompress_pfordelta(coded, decoded, size, 32);
 
-  printf("Normal size: %d\n", size);
-  printf("Compress size: %d\n", newsize);
-  printf("Consumed size: %d\n", finalsize);
+  printf("Normal size: %d\n", size * sizeof(unsigned int));
+  printf("Encoded size: %d\n", newsize * sizeof(unsigned int));
 
   for (int i = 0; i < size; ++i)
     printf("%d ", decoded[i]);
@@ -56,18 +27,65 @@ void pfordelta(unsigned int *input, int size)
   printf("\n");
 }
 
-void golomb()
+void simple16(unsigned int *input, int size)
 {
+  unsigned int *coded, *decoded;
+
+  coded = (unsigned int *)malloc(size * sizeof(unsigned int));
+  decoded = (unsigned int *)malloc(size * sizeof(unsigned int));
+
+  int newsize;
+  int finalsize;
+
+  newsize = s16_compress(input, coded, size);
+  finalsize = s16_decompress(coded, decoded, size);
+
+  printf("Normal size: %d\n", size * sizeof(unsigned int));
+  printf("Encoded size: %d\n", newsize * sizeof(unsigned int));
+
+  for (int i = 0; i < size; ++i)
+    printf("%d ", decoded[i]);
+
+  printf("\n");
+}
+
+void golomb(unsigned int *input, int size)
+{
+  unsigned char *ge, *gd;
+  unsigned long ge_size, gd_size;
+  unsigned int golomb_param;
+
+  int result = golomb_encode((void *)input, size * sizeof(unsigned int), (void **) &ge, &ge_size, &golomb_param);
+  if(result == 0) {
+    int result = golomb_decode(ge, ge_size, golomb_param, (void **)&gd, &gd_size);
+    if(result == 0) {
+      printf("Normal size: %ld\n", size * sizeof(unsigned int));
+      printf("Enconded size: %ld\n", ge_size);
+      printf("Decoded size: %ld\n", gd_size);
+
+      unsigned int *out = (unsigned int *) gd;
+
+      for(int i = 0; i < size; ++i) {
+        printf("%d ", *(out + i));
+      }
+      printf("\n");
+    }
+  }
 }
 
 int main(int argc, char const *argv[])
 {
-  unsigned int input[10] = {13, 32, 5, 54, 3, 32, 3, 12, 31, 23};
-  int size = 10;
+  unsigned int input[128] = {13, 32, 5, 54, 3, 32, 3, 12, 31, 23, 3, 43, 12,312,321 ,312,31,231,2312,3,123,123,123, 12,312};
+  int size = 128;
 
+  printf("PForDelta\n");
   pfordelta(input, size);
 
-  golomb();
+  printf("\nGolomb\n");
+  golomb(input, size);
+
+  printf("\nSimple16\n");
+  simple16(input, size);
 
   return 0;
 }

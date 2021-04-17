@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <cstdio>
 #include "pfordelta.h"
 #include "coding_policy.h"
 

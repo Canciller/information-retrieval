@@ -66,8 +66,8 @@
 // It's available at http://code.google.com/p/poly-ir-toolkit/source/browse/trunk/src/compression_toolkit/pfor_coding.cc
 //
 
-#include<stdio.h>
-#include<stdlib.h>
+#include<cstdio>
+#include<cstdlib>
 
 #include "pfordelta.h"
 #include "pack.h" //for pack function
