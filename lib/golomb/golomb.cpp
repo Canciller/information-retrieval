@@ -143,7 +143,7 @@ int get_run_length_encoding(unsigned char *in,
     }
   }
 
-  if (!(*out = malloc(sizeof(unsigned int) * (rle_index))))
+  if (!(*out = (unsigned int *)malloc(sizeof(unsigned int) * (rle_index))))
   {
     perror("cant malloc: ");
     return 1;
@@ -1038,7 +1038,7 @@ int zlib_encode(void *input, unsigned long input_len,
       {
         unsigned extra = buf_realloc_penalty * CHUNK;
         unsigned offset = out - out_head;
-        if (!(out_head = realloc(out_head, input_len + extra)))
+        if (!(out_head = (unsigned char *)realloc((void *)out_head, input_len + extra)))
         {
           printf("allocing more bytes didnt work");
           goto encode_error_save;
@@ -1077,7 +1077,7 @@ int zlib_encode(void *input, unsigned long input_len,
     printf("encoding sucks: input was %lu but output is %lu\n",
            input_len, bytes_written);
 
-  if (!(out_head = realloc(out_head, bytes_written)))
+  if (!(out_head = (unsigned char *)realloc((void *)out_head, bytes_written)))
   {
     perror("realloc failed: ");
     goto encode_error_save;
@@ -1185,7 +1185,7 @@ int zlib_decode(void *input, unsigned long input_len,
       {
         unsigned extra = buf_realloc_penalty * CHUNK;
         unsigned offset = out - out_head;
-        if (!(out_head = realloc(out_head, output_bytes + extra)))
+        if (!(out_head = (unsigned char *)realloc((void *)out_head, output_bytes + extra)))
         {
           printf("allocing more bytes didnt work");
           goto decode_error_save;
@@ -1236,7 +1236,7 @@ int zlib_decode(void *input, unsigned long input_len,
            "output is %lu\n",
            input_len, bytes_written);
 
-  if (!(out_head = realloc(out_head, bytes_written)))
+  if (!(out_head = (unsigned char *)realloc((void *)out_head, bytes_written)))
   {
     perror("realloc failed: ");
     goto decode_error_save;

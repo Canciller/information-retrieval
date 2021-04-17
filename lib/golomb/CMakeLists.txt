@@ -1,5 +1,5 @@
 set(SOURCE_FILES
-  golomb.c)
+  golomb.cpp)
 
 add_library(golomb SHARED ${SOURCE_FILES})
 
