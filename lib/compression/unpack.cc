@@ -1,13 +1,3 @@
-////
-// Copyright (c) 2012 Universidad de Concepción, Chile. 
-//
-// Author: Diego Caro
-//
-// @UDEC_LICENSE_HEADER_START@ 
-//
-// @UDEC_LICENSE_HEADER_END@ 
-
-////
 // Copyright (c) 2008, WEST, Polytechnic Institute of NYU
 //
 // Redistribution and use in source and binary forms, with or without
@@ -33,29 +23,22 @@
 // THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-//
+
 // Author(s): Torsten Suel, Jiangong Zhang, Jinru He
 //
 // If you have any questions or problems with our code, please contact:
 // jhe@cis.poly.edu
-//
 
 #include "unpack.h"
 
-pf unpack[17] = {unpack0, unpack1, unpack2, unpack3, unpack4, unpack5, unpack6,
-		 unpack7, unpack8, unpack9, unpack10, unpack11, unpack12, unpack13,
-		 unpack16, unpack20, unpack32};
-
 void unpack0(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i++) {
+  for (int i = 0; i < BS; i++) {
     p[i] = 0;
   }
 }
 
 void unpack1(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 1) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 1) {
     p[0] = (w[0] >> 31);
     p[1] = (w[0] >> 30) & 1;
     p[2] = (w[0] >> 29) & 1;
@@ -92,8 +75,7 @@ void unpack1(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack2(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 2) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 2) {
     p[0] = (w[0] >> 30);
     p[1] = (w[0] >> 28) & 3;
     p[2] = (w[0] >> 26) & 3;
@@ -130,8 +112,7 @@ void unpack2(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack3(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 3) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 3) {
     p[0] = (w[0] >> 29);
     p[1] = (w[0] >> 26) & 7;
     p[2] = (w[0] >> 23) & 7;
@@ -170,8 +151,7 @@ void unpack3(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack4(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 4) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 4) {
     p[0] = (w[0] >> 28);
     p[1] = (w[0] >> 24) & 15;
     p[2] = (w[0] >> 20) & 15;
@@ -208,8 +188,7 @@ void unpack4(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack5(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 5) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 5) {
     p[0] = (w[0] >> 27);
     p[1] = (w[0] >> 22) & 31;
     p[2] = (w[0] >> 17) & 31;
@@ -250,8 +229,7 @@ void unpack5(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack6(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 6) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 6) {
     p[0] = (w[0] >> 26);
     p[1] = (w[0] >> 20) & 63;
     p[2] = (w[0] >> 14) & 63;
@@ -292,8 +270,7 @@ void unpack6(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack7(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 7) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 7) {
     p[0] = (w[0] >> 25);
     p[1] = (w[0] >> 18) & 127;
     p[2] = (w[0] >> 11) & 127;
@@ -336,8 +313,7 @@ void unpack7(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack8(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 8) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 8) {
     p[0] = (w[0] >> 24);
     p[1] = (w[0] >> 16) & 255;
     p[2] = (w[0] >> 8) & 255;
@@ -374,8 +350,7 @@ void unpack8(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack9(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 9) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 9) {
     p[0] = (w[0] >> 23);
     p[1] = (w[0] >> 14) & 511;
     p[2] = (w[0] >> 5) & 511;
@@ -420,8 +395,7 @@ void unpack9(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack10(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 10) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 10) {
     p[0] = (w[0] >> 22);
     p[1] = (w[0] >> 12) & 1023;
     p[2] = (w[0] >> 2) & 1023;
@@ -466,8 +440,7 @@ void unpack10(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack11(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 11) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 11) {
     p[0] = (w[0] >> 21);
     p[1] = (w[0] >> 10) & 2047;
     p[2] = (w[0] << 1) & 2047;
@@ -514,8 +487,7 @@ void unpack11(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack12(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 12) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 12) {
     p[0] = (w[0] >> 20);
     p[1] = (w[0] >> 8) & 4095;
     p[2] = (w[0] << 4) & 4095;
@@ -560,8 +532,7 @@ void unpack12(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack13(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 13) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 13) {
     p[0] = (w[0] >> 19);
     p[1] = (w[0] >> 6) & 8191;
     p[2] = (w[0] << 7) & 8191;
@@ -610,8 +581,7 @@ void unpack13(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack16(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 16) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 16) {
     p[0] = (w[0] >> 16);
     p[1] = (w[0]) & 65535;
     p[2] = (w[1] >> 16);
@@ -648,8 +618,7 @@ void unpack16(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack20(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 20) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 20) {
     p[0] = (w[0] >> 12);
     p[1] = (w[0] << 8) & ((1 << 20) - 1);
     p[1] |= (w[1] >> 24);
@@ -702,8 +671,7 @@ void unpack20(unsigned int* p, unsigned int* w, int BS) {
 }
 
 void unpack32(unsigned int* p, unsigned int* w, int BS) {
-  int i;
-  for (i = 0; i < BS; i += 32, p += 32, w += 32) {
+  for (int i = 0; i < BS; i += 32, p += 32, w += 32) {
     p[0] = w[0];
     p[1] = w[1];
     p[2] = w[2];

@@ -1,13 +1,3 @@
-////
-// Copyright (c) 2012 Universidad de Concepción, Chile. 
-//
-// Author: Diego Caro
-//
-// @UDEC_LICENSE_HEADER_START@ 
-//
-// @UDEC_LICENSE_HEADER_END@ 
-
-////
 // Copyright (c) 2008, WEST, Polytechnic Institute of NYU
 //
 // Redistribution and use in source and binary forms, with or without
@@ -33,19 +23,27 @@
 // THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-//
-// Author(s): Torsten Suel, Jiangong Zhang, Jinru He
-//
-// If you have any questions or problems with our code, please contact:
-// jhe@cis.poly.edu
-//
 
-#ifndef S16_H_
-#define S16_H_
+// Author(s): Roman Khmelichek
+//
+// Null Coding:
+// Simply takes the input and writes it to the output. Does not perform any compression or decompression.
 
-int s16_compress(unsigned int*, unsigned int*, int);
-int s16_encode(unsigned int*, unsigned int*, unsigned int);
-int s16_decompress(unsigned int*, unsigned int*, int);
-int s16_decode(unsigned int*, unsigned int*);
+#ifndef NULL_CODING_H_
+#define NULL_CODING_H_
 
-#endif
+#include "coding.h"
+
+class null_coding : public coding {
+public:
+  null_coding();
+  int Compression(unsigned int* input, unsigned int* output, int size);
+  int Decompression(unsigned int* input, unsigned int* output, int size);
+  int get_type();
+  void set_size(int size);
+private:
+  int block_size;
+  int coding_type;
+};
+
+#endif /* NULL_CODING_H_ */

@@ -1,2 +1,2 @@
+add_subdirectory(compression)
 add_subdirectory(golomb)
-add_subdirectory(pfordelta)

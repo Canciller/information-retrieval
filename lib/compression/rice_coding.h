@@ -1,13 +1,3 @@
-////
-// Copyright (c) 2012 Universidad de Concepción, Chile.
-//
-// Author: Diego Caro
-//
-// @UDEC_LICENSE_HEADER_START@
-//
-// @UDEC_LICENSE_HEADER_END@
-
-////
 // Copyright (c) 2008, WEST, Polytechnic Institute of NYU
 //
 // Redistribution and use in source and binary forms, with or without
@@ -33,18 +23,35 @@
 // THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-//
+
 // Author(s): Torsten Suel, Jiangong Zhang, Jinru He
 //
 // If you have any questions or problems with our code, please contact:
 // jhe@cis.poly.edu
+//
+// Rice Coding:
+// We calculate b for each block in which the size is defined by the user,
+// and write b as the first word of the buffer, followed by the compressed data.
 
-////
-// It includes some basic bitwise operations.
+#ifndef RICE_CODING_H_
+#define RICE_CODING_H_
 
-#ifndef PACK_H
-#define PACK_H
+#include "coding.h"
 
-void pack(unsigned int *v, unsigned int b, unsigned int n, unsigned int *w);
+class rice_coding : public coding {
+public:
+  rice_coding();
+  int Compression(unsigned int* input, unsigned int* output, int size);
+  int Decompression(unsigned int* input, unsigned int* output, int size);
+  int get_type();
+  void set_size(int size);
+private:
+  void rice_encode(unsigned int* buf, unsigned int* bp, unsigned int val, unsigned int bits);
+  unsigned int rice_decode(unsigned int* buf, unsigned int* bp, unsigned int bits);
 
-#endif /* PACK_H */
+  int b;
+  int block_size;
+  int coding_type;
+};
+
+#endif /* RICE_CODING_H_ */

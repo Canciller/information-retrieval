@@ -1,13 +1,3 @@
-////
-// Copyright (c) 2012 Universidad de Concepción, Chile.
-//
-// Author: Diego Caro
-//
-// @UDEC_LICENSE_HEADER_START@
-//
-// @UDEC_LICENSE_HEADER_END@
-
-////
 // Copyright (c) 2008, WEST, Polytechnic Institute of NYU
 //
 // Redistribution and use in source and binary forms, with or without
@@ -33,35 +23,47 @@
 // THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-//
+
 // Author(s): Torsten Suel, Jiangong Zhang, Jinru He
 //
 // If you have any questions or problems with our code, please contact:
 // jhe@cis.poly.edu
-//
 
-#ifndef UNPACK_H
-#define UNPACK_H
+#include "coding_factory.h"
 
-void unpack0(unsigned int *p, unsigned int *w, int BS);
-void unpack1(unsigned int *p, unsigned int *w, int BS);
-void unpack2(unsigned int *p, unsigned int *w, int BS);
-void unpack3(unsigned int *p, unsigned int *w, int BS);
-void unpack4(unsigned int *p, unsigned int *w, int BS);
-void unpack5(unsigned int *p, unsigned int *w, int BS);
-void unpack6(unsigned int *p, unsigned int *w, int BS);
-void unpack7(unsigned int *p, unsigned int *w, int BS);
-void unpack8(unsigned int *p, unsigned int *w, int BS);
-void unpack9(unsigned int *p, unsigned int *w, int BS);
-void unpack10(unsigned int *p, unsigned int *w, int BS);
-void unpack11(unsigned int *p, unsigned int *w, int BS);
-void unpack12(unsigned int *p, unsigned int *w, int BS);
-void unpack13(unsigned int *p, unsigned int *w, int BS);
-void unpack16(unsigned int *p, unsigned int *w, int BS);
-void unpack20(unsigned int *p, unsigned int *w, int BS);
-void unpack32(unsigned int *p, unsigned int *w, int BS);
+#include <cstddef>
 
-// Pointer to a function
-typedef void (*pf)(unsigned int *p, unsigned int *w, int BS);
+#include "pfor_coding.h"
+#include "rice_coding.h"
+#include "rice_coding2.h"
+#include "s9_coding.h"
+#include "s16_coding.h"
+#include "vbyte_coding.h"
+#include "null_coding.h"
 
-#endif /* UNPACK_H */
+coding_factory::coding_factory()
+{
+}
+
+coding *coding_factory::get_coder(int type)
+{
+  switch (type)
+  {
+  case RICE:
+    return new rice_coding();
+  case PFOR:
+    return new pfor_coding();
+  case VBYT:
+    return new vbyte_coding();
+  case S9:
+    return new s9_coding();
+  case S16:
+    return new s16_coding();
+  case TRICE:
+    return new rice_coding2();
+  case NULC:
+    return new null_coding();
+  default:
+    return NULL;
+  }
+}

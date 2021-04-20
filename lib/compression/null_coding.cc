@@ -1,13 +1,3 @@
-////
-// Copyright (c) 2012 Universidad de Concepción, Chile. 
-//
-// Author: Diego Caro
-//
-// @UDEC_LICENSE_HEADER_START@ 
-//
-// @UDEC_LICENSE_HEADER_END@ 
-
-////
 // Copyright (c) 2008, WEST, Polytechnic Institute of NYU
 //
 // Redistribution and use in source and binary forms, with or without
@@ -33,28 +23,34 @@
 // THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-//
-// Author(s): Torsten Suel, Jiangong Zhang, Jinru He
-//
-// If you have any questions or problems with our code, please contact:
-// jhe@cis.poly.edu
-//
 
-#include "pack.h"
+// Author(s): Roman Khmelichek
 
-void pack(unsigned int* v, unsigned int b, unsigned int n, unsigned int* w) {
-  unsigned int i;
-  int bp, wp, s;
+#include "null_coding.h"
+using namespace std;
 
-  for (bp = 0, i = 0; i < n; i++, bp += b) {
-    wp = bp >> 5;
-    s = 32 - b - (bp & 31);
-    if (s >= 0)
-      w[wp] |= (v[i] << s);
-    else {
-      s = -s;
-      w[wp] |= (v[i] >> s);
-      w[wp + 1] = (v[i] << (32 - s));
-    }
+null_coding::null_coding() {
+  coding_type = 6;
+}
+
+int null_coding::Compression(unsigned int* input, unsigned int* output, int size) {
+  for (int i = 0; i < size; ++i) {
+    output[i] = input[i];
   }
+  return size;
+}
+
+int null_coding::Decompression(unsigned int* input, unsigned int* output, int size) {
+  for (int i = 0; i < size; ++i) {
+    output[i] = input[i];
+  }
+  return size;
+}
+
+int null_coding::get_type() {
+  return coding_type;
+}
+
+void null_coding::set_size(int size) {
+  block_size = size;
 }
