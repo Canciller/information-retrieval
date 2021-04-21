@@ -1,10 +1,5 @@
-#include "coding_factory.h"
-#include <cstdlib>
-#include <cstdio>
-#include <string>
-#include <iostream>
-
-#define MAX_NUMBER 10000
+#include "ir/common.h"
+#include <chrono>
 
 /*
 RICE 0
@@ -16,41 +11,75 @@ S16 5
 NULC 6
 */
 
-char *read_file(const char *path, long *size = NULL)
+int main(int argc, char const *argv[])
 {
-  FILE *file = fopen(path, "r");
-  if (file == NULL)
-    return NULL;
+  using namespace ir;
 
-  fseek(file, 0, SEEK_END);
-  long fsize = ftell(file);
-  fseek(file, 0, SEEK_SET);
+  if (argc < 3)
+  {
+    fprintf(stderr, "Usage: %s INPUT_FILE OUTPUT_FILE [CODING_TYPE]\n", argv[0]);
+    return EXIT_FAILURE;
+  }
 
-  char *buff = new char[fsize];
+  const char *input_path = argv[1],
+             *output_path = argv[2];
 
-  // TODO: check read error
-  fread(buff, 1, fsize, file);
-  fclose(file);
+  int coding_type = NULC;
+  if (argc >= 4)
+    coding_type = std::atoi(argv[3]);
 
-  if (size)
-    *size = fsize;
+  printf("Input path: %s\n", input_path);
+  printf("Output path: %s\n", output_path);
+  printf("Coding type: %d\n", coding_type);
 
-  return buff;
+  try
+  {
+    Input in;
+    unsigned int *input = in.load(input_path);
+
+    putchar('\n');
+    printf("Input length: %ld\n", in.size());
+    /*
+    for (int i = 0; i < in.size(); ++i)
+      printf("%d ", input[i]);
+    putchar('\n');
+    */
+
+    auto t_start = std::chrono::high_resolution_clock::now();
+
+    Compressed compressed;
+    compressed.init(output_path, input, in.size(), coding_type);
+    compressed.compress();
+
+    auto t_end = std::chrono::high_resolution_clock::now();
+    double elapsed_time_ms = std::chrono::duration<double, std::milli>(t_end - t_start).count();
+
+    putchar('\n');
+    printf("Normal size bytes: %d\n", compressed.bytes());
+    printf("Compressed size bytes: %d\n", compressed.bytes_compressed());
+
+    putchar('\n');
+    printf("Normal size kb: %lf\n", compressed.kb());
+    printf("Compressed size kb: %lf\n", compressed.kb_compressed());
+
+    double ratio = compressed.kb() / compressed.kb_compressed();
+
+    putchar('\n');
+    printf("Ratio: %lf\n", ratio);
+    printf("Bits per symbol: %lf\n", sizeof(unsigned int) * 8 / ratio);
+
+    putchar('\n');
+    printf("Duration: %lf ms\n", elapsed_time_ms);
+  }
+  catch (const std::runtime_error &e)
+  {
+    fprintf(stderr, "Error: %s\n", e.what());
+  }
+
+  return EXIT_SUCCESS;
 }
 
-int write_file(const char *path, char *buff, long size)
-{
-  FILE *file = fopen(path, "w");
-  if (file == NULL)
-    return -1;
-
-  // TODO: check write error
-  fwrite(buff, 1, size, file);
-  fclose(file);
-
-  return 0;
-}
-
+/*
 int decompress(int argc, char const *argv[])
 {
   if (argc < 4)
@@ -114,7 +143,7 @@ int compress(int argc, char const *argv[])
   if (argc >= 5)
     type = std::atoi(argv[4]);
 
-  printf("Coding type: %d\n", type);
+  //printf("Coding type: %d\n", type);
 
   // TODO: delete cod
   coding *cod = coding_factory::get_coder(type);
@@ -173,6 +202,8 @@ int create_test(int argc, char const *argv[])
 
   // TODO: delete output
   unsigned int *output = new unsigned int[size];
+
+  srand(time(NULL));
 
   for (int i = 0; i < size; ++i)
     output[i] = rand() % MAX_NUMBER + 1;
@@ -241,3 +272,4 @@ int main(int argc, char const *argv[])
     return EXIT_FAILURE;
   }
 }
+*/
