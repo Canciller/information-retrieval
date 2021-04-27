@@ -37,16 +37,19 @@
 
 #include "coding.h"
 
-class rice_coding2 : public coding {
+class rice_coding2 : public coding
+{
 public:
   rice_coding2();
-  int Compression(unsigned int* input, unsigned int* output, int size);
-  int Decompression(unsigned int* input, unsigned int* output, int size);
+  int Compression(unsigned int *input, unsigned int *output, int size);
+  int Decompression(unsigned int *input, unsigned int *output, int size);
   int get_type();
   void set_size(int size);
+  int get_size(int size);
+
 private:
-  void turbo_rice_encode(unsigned int** w, unsigned int** buf, unsigned int bits);
-  void turbo_rice_decode(unsigned int** w, unsigned int* buf, unsigned int bits, unsigned int flag);
+  void turbo_rice_encode(unsigned int **w, unsigned int **buf, unsigned int bits);
+  void turbo_rice_decode(unsigned int **w, unsigned int *buf, unsigned int bits, unsigned int flag);
 
   int b;
   int coding_type;

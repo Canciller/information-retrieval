@@ -38,15 +38,17 @@
 #include <cassert>
 #include <stdint.h>
 
-#include <iostream>  // Only useful for debugging.
+#include <iostream> // Only useful for debugging.
 
 #include "unpack.h"
 
-#define TESTBIT(buffer, bp) ((((buffer)[(bp)>>5])>>((bp)&31))&1)
+#define TESTBIT(buffer, bp) ((((buffer)[(bp) >> 5]) >> ((bp)&31)) & 1)
 
-class coding {
+class coding
+{
 public:
-  coding() {
+  coding()
+  {
     MASK[0] = 0x00000000;
     MASK[1] = 0x00000001;
     MASK[2] = 0x00000003;
@@ -100,8 +102,8 @@ public:
     unpack[16] = unpack32;
   }
 
-  virtual int Compression(unsigned int* input, unsigned int* output, int size) = 0;
-  virtual int Decompression(unsigned int* input, unsigned int* output, int size) = 0;
+  virtual int Compression(unsigned int *input, unsigned int *output, int size) = 0;
+  virtual int Decompression(unsigned int *input, unsigned int *output, int size) = 0;
 
   // Returns the coding type.
   virtual int get_type() = 0;
@@ -110,6 +112,13 @@ public:
   // Note: for some batch packing methods, such as Tubo-Rice and PForDelta, it could only be set to 64, 128, or 256.
   virtual void set_size(int size) = 0;
 
+  virtual int get_size(int size)
+  {
+    return size;
+  }
+
+  virtual ~coding() = default;
+
 protected:
   // Packs the 'b' least significant bits of the 'n' elements from input buffer at 'v' into output buffer at 'w'.
   // 'v' is a pointer to the input array of the numbers to be packed.
@@ -117,16 +126,19 @@ protected:
   // 'n' is the number of elements to be packed.
   // 'w' is a pointer to the output array.
   // Note: this function does not modify the output array pointer, it will need to be calculated and modified outside this function.
-  void pack(unsigned int* v, unsigned int b, unsigned int n, unsigned int* w) {
+  void pack(unsigned int *v, unsigned int b, unsigned int n, unsigned int *w)
+  {
     unsigned int i;
     int bp, wp, s;
 
-    for (bp = 0, i = 0; i < n; i++, bp += b) {
+    for (bp = 0, i = 0; i < n; i++, bp += b)
+    {
       wp = bp >> 5;
       s = 32 - b - (bp & 31);
       if (s >= 0)
         w[wp] |= (v[i] << s);
-      else {
+      else
+      {
         s = -s;
         w[wp] |= (v[i] >> s);
         w[wp + 1] = (v[i] << (32 - s));
@@ -139,7 +151,8 @@ protected:
   // 'bp' is the "bit pointer" (offset in number of bits) indicating the current position in the input buffer.
   // 'b' is the number of bits to be read starting from the bit pointer.
   // Returns the number corresponding to the 'b' bits from the input buffer.
-  unsigned int readBits(unsigned int* buf, unsigned int* bp, unsigned int b) {
+  unsigned int readBits(unsigned int *buf, unsigned int *bp, unsigned int b)
+  {
     unsigned int bPtr;
     unsigned int w;
     unsigned int v;
@@ -162,7 +175,8 @@ protected:
   // 'bp' is the "bit pointer" (offset in number of bits) indicating the current position in the output buffer.
   // 'val' is the value of the number to be packed.
   // 'bits' is the bit width of the value to pack.
-  void writeBits(unsigned int* buf, unsigned int* bp, unsigned int val, unsigned int bits) {
+  void writeBits(unsigned int *buf, unsigned int *bp, unsigned int val, unsigned int bits)
+  {
     unsigned int bPtr;
     unsigned int w;
 
@@ -174,7 +188,8 @@ protected:
     buf[(*bp) >> 5] |= ((val & MASK[w]) << bPtr);
     (*bp) += w;
 
-    if (bits - w > 0) {
+    if (bits - w > 0)
+    {
       buf[(*bp) >> 5] = (val >> w) & MASK[bits - w];
       (*bp) += (bits - w);
     }
@@ -184,7 +199,8 @@ protected:
   // 'buf' is a pointer to the output buffer.
   // 'bp' is the "bit pointer" (offset in number of bits) into the output buffer at which to set the bit.
   // 'val' is the value to set the bit to.
-  void setBit(unsigned char* buf, unsigned int* bp, unsigned int val) {
+  void setBit(unsigned char *buf, unsigned int *bp, unsigned int val)
+  {
     unsigned int bPtr;
     bPtr = (*bp) & 7;
     if (bPtr == 0)

@@ -9,6 +9,20 @@
 #include <stdexcept>
 #include <new>
 
+const char *EXT[] = {"rice",
+                     "pfor",
+                     "vbyt",
+                     "trice",
+                     "s9",
+                     "s16",
+                     "nulc"};
+
+const char *
+get_extension_for_coding(int type)
+{
+  return EXT[type];
+}
+
 void read_file(const char *path, char **buffer, long *size = NULL)
 {
   FILE *file = fopen(path, "r");
@@ -134,6 +148,7 @@ namespace ir
     unsigned int *m_output = nullptr;
     unsigned int *m_arr = nullptr;
     unsigned int m_size;
+    unsigned int m_arr_size;
     long m_bytes;
 
     coding *m_coding = nullptr;
@@ -163,9 +178,16 @@ namespace ir
       if (m_bytes < sizeof(unsigned int))
         throw std::runtime_error("Input file is invalid");
 
-      m_size = m_input[0];
+      m_arr_size = m_input[0];
+      m_size = m_coding->get_size(m_arr_size);
       if (m_size == 0)
         throw std::runtime_error("Cannot decompress empty file");
+
+      if (coding_type == TRICE)
+      {
+        fprintf(stderr, "ARR SIZE: %ld\n", m_arr_size);
+        fprintf(stderr, "SIZE: %ld\n", m_size);
+      }
 
       m_arr = m_input + 1;
 
@@ -184,7 +206,7 @@ namespace ir
 
     unsigned int size()
     {
-      return m_size;
+      return m_arr_size;
     }
 
     unsigned int bytes()
@@ -228,13 +250,15 @@ namespace ir
       if (!m_coding)
         throw std::runtime_error("Failed to get coder");
 
-      m_output = new (std::nothrow) unsigned int[size + 1];
+      m_size = m_coding->get_size(size);
+
+      m_output = new (std::nothrow) unsigned int[m_size + 1];
       if (!m_output)
         throw std::runtime_error("Failed to create output buffer");
 
       m_arr = m_output + 1;
-      m_output[0] = size;
-      m_bytes = size * sizeof(unsigned int);
+      m_output[0] = size; // real size
+      m_bytes = m_size * sizeof(unsigned int);
     }
 
     void compress()
