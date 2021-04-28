@@ -8,6 +8,7 @@
 #include <iostream>
 #include <stdexcept>
 #include <new>
+#include <cstring>
 
 const char *EXT[] = {"rice",
                      "pfor",
@@ -23,7 +24,7 @@ get_extension_for_coding(int type)
   return EXT[type];
 }
 
-void read_file(const char *path, char **buffer, long *size = NULL)
+void read_file(const char *path, char **buffer, long *size = NULL, bool zeroTerminated = false)
 {
   FILE *file = fopen(path, "r");
   if (!file)
@@ -33,7 +34,7 @@ void read_file(const char *path, char **buffer, long *size = NULL)
   long bytes = ftell(file);
   fseek(file, 0, SEEK_SET);
 
-  char *buff = new (std::nothrow) char[bytes];
+  char *buff = new (std::nothrow) char[zeroTerminated ? bytes + 1 : bytes];
   if (!buff)
     throw std::runtime_error("Failed to create buffer for file");
 
@@ -45,6 +46,9 @@ void read_file(const char *path, char **buffer, long *size = NULL)
     delete[] buff;
     throw std::runtime_error("Failed to read whole file");
   }
+
+  if (zeroTerminated)
+    buff[bytes] = '\0';
 
   if (size)
     *size = bytes;
@@ -183,15 +187,9 @@ namespace ir
       if (m_size == 0)
         throw std::runtime_error("Cannot decompress empty file");
 
-      if (coding_type == TRICE)
-      {
-        fprintf(stderr, "ARR SIZE: %ld\n", m_arr_size);
-        fprintf(stderr, "SIZE: %ld\n", m_size);
-      }
-
       m_arr = m_input + 1;
 
-      m_output = new (std::nothrow) unsigned int[m_size + 10];
+      m_output = new (std::nothrow) unsigned int[m_size + 30];
       if (!m_output)
         throw std::runtime_error("Failed to create output buffer");
     }
@@ -230,6 +228,8 @@ namespace ir
 
     coding *m_coding = nullptr;
 
+    bool manage_input = false;
+
   public:
     ~Compressed()
     {
@@ -238,6 +238,9 @@ namespace ir
 
       if (m_coding)
         delete m_coding;
+
+      if (manage_input && m_input)
+        delete[] m_input;
     }
 
     void init(const char *output_path, unsigned int *input, unsigned int size, int coding_type = NULC)
@@ -251,6 +254,14 @@ namespace ir
         throw std::runtime_error("Failed to get coder");
 
       m_size = m_coding->get_size(size);
+      if (m_size > size)
+      {
+        manage_input = true;
+        m_input = new (std::nothrow) unsigned int[m_size];
+        if (!m_input)
+          throw std::runtime_error("Failed to create input buffer");
+        memcpy(m_input, input, size * sizeof(unsigned int));
+      }
 
       m_output = new (std::nothrow) unsigned int[m_size + 1];
       if (!m_output)

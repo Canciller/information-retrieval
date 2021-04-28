@@ -22,14 +22,12 @@ for i in $(seq $N); do
   INCOM="$IN/$TST.$EXT"
   OUTTXT="$INCOM.txt"
 
-  RES=$($DEC "$INCOM" "$COD")
+  $DEC "$INCOM" "$COD" "$OUTTXT"
   if [ $? -ne 0 ]; then
     FAIL=$((FAIL + 1))
     echo "Failed: $INCOM"
     echo "--------------"
   else
-
-    echo "$RES" > "$OUTTXT"
     if cmp --silent "$OUTTXT" "$DATATXT"; then
       echo "Success: $INCOM"
       echo "---------------"

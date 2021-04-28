@@ -11,4 +11,4 @@ N=$1
 ./compression_tests.sh "$N" 3 trice > "$OUT/compress.trice.txt"
 ./compression_tests.sh "$N" 4 s9 > "$OUT/compress.s9.txt"
 ./compression_tests.sh "$N" 5 s16 > "$OUT/compress.s16.txt"
-./compression_tests.sh "$N" 6 nulc > "$OUT/compress.nulc.txt"
+#./compression_tests.sh "$N" 6 nulc > "$OUT/compress.nulc.txt"
