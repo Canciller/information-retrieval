@@ -124,6 +124,14 @@ private:
   }
 
 public:
+  virtual ~InvertedIndex() = default;
+
+  void clear_postings(const Term &term)
+  {
+    m_dictionary.erase(term);
+    m_loaded[term] = false;
+  }
+
   Posting &get_posting(const Term &term, int doc)
   {
     Postings &postings = m_dictionary[term];
@@ -142,7 +150,7 @@ public:
     return *it;
   }
 
-  Dictionary &dictonary()
+  Dictionary &dictionary()
   {
     return m_dictionary;
   }
@@ -188,7 +196,11 @@ public:
 
     Token &token = tokens.front();
 
-    std::string &lexeme = token.lexeme;
+    return get_with_lexeme(token.lexeme);
+  }
+
+  Postings &get_with_lexeme(const std::string &lexeme)
+  {
     if (m_loaded[lexeme])
       return m_dictionary[lexeme];
 
@@ -205,6 +217,25 @@ public:
   void set_coding_type(int type)
   {
     this->coding_type = type;
+  }
+
+  Token tokenize(const Term &term)
+  {
+    Scanner sc;
+    sc.load(term + " ");
+    auto &tokens = sc.scan();
+
+    if (tokens.empty())
+      throw std::runtime_error("Term is empty");
+
+    return tokens.front();
+  }
+
+  TokenArray tokenize_all(const std::string &terms, bool sort = false)
+  {
+    Scanner sc;
+    sc.load(terms + " ");
+    return sc.scan(0, sort);
   }
 
   void compress(const std::string &outdir, int coding_type)

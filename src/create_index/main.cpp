@@ -33,7 +33,7 @@ int main(int argc, char const *argv[])
       Scanner sc;
       sc.load(path.c_str());
 
-      auto &tokens = sc.scan();
+      auto &tokens = sc.scan(1);
       unsigned int size = (unsigned int)tokens.size();
 
       for (auto &token : tokens)
@@ -46,23 +46,6 @@ int main(int argc, char const *argv[])
     inverted_index.sort();
 
     inverted_index.compress(outdir, coding_type);
-    /*
-    inverted_index.set_indir(outdir);
-    inverted_index.set_coding_type(coding_type);
-
-    Postings &postings = inverted_index.get_postings("a");
-
-    std::cout << "A ->";
-    for (auto &posting : postings)
-    {
-      std::cout << " { ";
-      std::cout << posting.doc << ", ";
-      for (auto &entry : posting.entries)
-        std::cout << entry.index << ":" << entry.position << " ";
-      std::cout << "}";
-    }
-    std::cout << "\n";
-    */
 
     /*
     Dictionary &dic = inverted_index.dictonary();
