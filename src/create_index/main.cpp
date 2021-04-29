@@ -8,17 +8,18 @@
 
 int main(int argc, char const *argv[])
 {
-  if (argc < 4)
+  if (argc < 5)
   {
-    fprintf(stderr, "Usage: %s TOTAL_DOCS DOCS_DIR CODING_TYPE\n", argv[0]);
+    fprintf(stderr, "Usage: %s TOTAL_DOCS DOCS_DIR OUTPUT_DIR CODING_TYPE\n", argv[0]);
     return EXIT_FAILURE;
   }
 
   InvertedIndex inverted_index;
 
-  std::string dir(argv[2]);
   int total_docs = std::atoi(argv[1]);
-  int coding_type = std::atoi(argv[3]);
+  int coding_type = std::atoi(argv[4]);
+  std::string dir(argv[2]);
+  std::string outdir(argv[3]);
 
   try
   {
@@ -44,10 +45,28 @@ int main(int argc, char const *argv[])
 
     inverted_index.sort();
 
+    inverted_index.compress(outdir, coding_type);
+    /*
+    inverted_index.set_indir(outdir);
+    inverted_index.set_coding_type(coding_type);
+
+    Postings &postings = inverted_index.get_postings("a");
+
+    std::cout << "A ->";
+    for (auto &posting : postings)
+    {
+      std::cout << " { ";
+      std::cout << posting.doc << ", ";
+      for (auto &entry : posting.entries)
+        std::cout << entry.index << ":" << entry.position << " ";
+      std::cout << "}";
+    }
+    std::cout << "\n";
+    */
+
+    /*
     Dictionary &dic = inverted_index.dictonary();
     Keys &keys = inverted_index.keys();
-
-    Dictionary::iterator it;
 
     for (auto &key : keys)
     {
@@ -70,6 +89,7 @@ int main(int argc, char const *argv[])
 
       std::cout << "\n";
     }
+    */
   }
   catch (std::runtime_error &e)
   {

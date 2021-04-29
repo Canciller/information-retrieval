@@ -9,6 +9,7 @@
 #include <stdexcept>
 #include <new>
 #include <cstring>
+#include <chrono>
 
 const char *EXT[] = {"rice",
                      "pfor",
@@ -21,6 +22,8 @@ const char *EXT[] = {"rice",
 const char *
 get_extension_for_coding(int type)
 {
+  if (type >= 7)
+    return nullptr;
   return EXT[type];
 }
 
@@ -226,6 +229,8 @@ namespace ir
     unsigned int *m_output = nullptr;
     unsigned int *m_arr = nullptr;
 
+    double elapsed_time_ms;
+
     coding *m_coding = nullptr;
 
     bool manage_input = false;
@@ -274,11 +279,16 @@ namespace ir
 
     void compress()
     {
+      auto t_start = std::chrono::high_resolution_clock::now();
+
       m_coding->set_size(m_size);
       m_com_bytes = m_coding->Compression(m_input, m_arr, m_size) * sizeof(unsigned int);
       m_out_bytes = m_com_bytes + sizeof(unsigned int);
 
       write_file(m_output_path, (char *)m_output, m_out_bytes);
+
+      auto t_end = std::chrono::high_resolution_clock::now();
+      elapsed_time_ms = std::chrono::duration<double, std::milli>(t_end - t_start).count();
     }
 
     unsigned int bytes()
@@ -299,6 +309,21 @@ namespace ir
     double kb_compressed()
     {
       return (double)m_com_bytes / 1000;
+    }
+
+    double ratio()
+    {
+      return kb() / kb_compressed();
+    }
+
+    double bps()
+    {
+      return sizeof(unsigned int) * 8 / ratio();
+    }
+
+    double duration()
+    {
+      return elapsed_time_ms;
     }
   };
 }

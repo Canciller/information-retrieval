@@ -31,6 +31,8 @@ class Scanner
   int m_start = 0;
   char m_c;
 
+  bool manage_str = false;
+
 private:
   bool isAlphanumeric(char c)
   {
@@ -77,18 +79,25 @@ private:
 public:
   ~Scanner()
   {
-    if (m_str)
+    if (manage_str && m_str)
       delete[] m_str;
   }
 
   void load(const char *path)
   {
+    manage_str = true;
     read_file(path, &m_str, NULL, true);
+  }
+
+  void load(const std::string &str)
+  {
+    m_str = const_cast<char *>(str.c_str());
   }
 
   TokenArray &scan()
   {
-    ignoreLines(1);
+    if (manage_str)
+      ignoreLines(1);
 
     //std::cout << "Document length: " << strlen(m_str) << "\n";
     //std::cout << "Content start index: " << m_start << "\n";
