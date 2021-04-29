@@ -62,6 +62,11 @@ struct DocOffsetPair
   {
     return doc == other.doc && offset == other.offset;
   }
+
+  bool operator!=(const DocOffsetPair &other) const
+  {
+    return doc != other.doc || offset != other.offset;
+  }
 };
 
 struct SearchInterval
@@ -143,6 +148,8 @@ public:
   DocOffsetPair last(const std::string &lexeme);
 
   SearchInterval next_phrase(const TokenArray &tokens, DocOffsetPair position = DocOffsetPair::NINF_PAIR);
+
+  void search_all(SearchResult &result, const TokenArray &tokens, DocOffsetPair position = DocOffsetPair::NINF_PAIR);
 };
 
 #endif

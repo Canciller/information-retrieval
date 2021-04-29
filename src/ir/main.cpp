@@ -115,6 +115,18 @@ SearchInterval InvertedIndexSearch::next_phrase(const TokenArray &tokens, DocOff
   return next_phrase(tokens, u);
 }
 
+void InvertedIndexSearch::search_all(SearchResult &result, const TokenArray &tokens, DocOffsetPair position)
+{
+  auto interval = next_phrase(tokens, position);
+  if (interval.end != DocOffsetPair::PINF_PAIR)
+  {
+    result.push_back(interval);
+    return search_all(result, tokens, interval.end);
+  }
+
+  return;
+}
+
 int main(int argc, char const *argv[])
 {
   if (argc < 3)
@@ -131,18 +143,45 @@ int main(int argc, char const *argv[])
   in.set_coding_type(coding_type);
   in.set_indir(indir);
 
-  std::string phrase = "The closest fossil group to the Milky Way is NGC 6482";
+  std::string phrase = "galaxies";
   auto tokens = in.tokenize_all(phrase);
   std::cout << "Size: " << tokens.size() << "\n";
+  std::cout << "Tokens: ";
   for (auto &token : tokens)
     std::cout << token.lexeme << " ";
-  std::cout << "\n";
+  std::cout << "\n---------------------------------------\n";
 
-  SearchInterval result = in.next_phrase(tokens);
+  SearchResult results;
+  in.search_all(results, tokens);
 
-  std::cout << "Document: " << result.start.doc << "\n"
-            << "Offset: " << result.start.offset << ", " << result.end.offset << "\n"
-            << "Position: " << result.start.position << ", " << result.end.position << "\n";
+  for (auto &result : results)
+  {
+    uint doc = result.start.doc;
+
+    if (doc != DocOffsetPair::PINF)
+    {
+      uint start = result.start.position;
+      uint end = result.end.position + tokens.back().lexeme.size();
+
+      std::cout << "Document: " << doc << "\n"
+                << "Offset: " << result.start.offset << ", " << result.end.offset << "\n"
+                << "Position: " << start << ", " << end << "\n";
+
+      char *buffer = nullptr;
+      long size;
+
+      std::string path = "../docs/" + std::to_string(doc) + ".txt";
+
+      read_file(path.c_str(), &buffer, &size);
+
+      std::cout << "\n";
+      std::cout << "Extract from document: " << path << "\n";
+      fwrite(buffer + start, 1, end - start, stdout);
+      std::cout << "\n---------------------------------------\n";
+
+      delete[] buffer;
+    }
+  }
 
   return EXIT_SUCCESS;
 }
