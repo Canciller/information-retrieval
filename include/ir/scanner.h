@@ -4,6 +4,7 @@
 #include <vector>
 #include <string>
 #include <cstring>
+#include <algorithm>
 #include "ir/common.h"
 
 struct Token
@@ -11,6 +12,11 @@ struct Token
   std::string lexeme;
   unsigned int position;
   unsigned int index;
+
+  bool operator<(const Token &token) const
+  {
+    return lexeme < token.lexeme;
+  }
 };
 
 using TokenArray = std::vector<Token>;
@@ -28,7 +34,7 @@ class Scanner
 private:
   bool isAlphanumeric(char c)
   {
-    return (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || (c >= '0' && c <= '9') || c == '-' || c == '_';
+    return (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || (c >= '0' && c <= '9');
   }
 
   void ignoreLines(int n)
@@ -84,8 +90,8 @@ public:
   {
     ignoreLines(1);
 
-    std::cout << "Document length: " << strlen(m_str) << "\n";
-    std::cout << "Content start index: " << m_start << "\n";
+    //std::cout << "Document length: " << strlen(m_str) << "\n";
+    //std::cout << "Content start index: " << m_start << "\n";
 
     while (m_str[m_i] != '\0')
     {
@@ -96,6 +102,8 @@ public:
 
       m_i++;
     }
+
+    std::sort(m_tokens.begin(), m_tokens.end());
 
     return m_tokens;
   }
