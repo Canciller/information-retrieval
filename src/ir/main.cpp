@@ -108,6 +108,9 @@ SearchInterval InvertedIndexSearch::next_phrase(const TokenArray &tokens, DocOff
   for (i = n - 2; i >= 0; --i)
     u = prev(tokens[i].lexeme, u);
 
+  if (u.doc != v.doc)
+    return infinf;
+
   size_t distance = v.offset - u.offset;
   if (n - 1 == distance)
     return SearchInterval(u, v);
@@ -127,23 +130,11 @@ void InvertedIndexSearch::search_all(SearchResult &result, const TokenArray &tok
   return;
 }
 
-int main(int argc, char const *argv[])
+InvertedIndexSearch in;
+const char *docsdir;
+
+void find_phrase(const std::string &phrase)
 {
-  if (argc < 3)
-  {
-    fprintf(stderr, "Usage: %s INDEX_DIR CODING_TYPE\n", argv[0]);
-    return EXIT_FAILURE;
-  }
-
-  std::string indir = argv[1];
-  int coding_type = std::atoi(argv[2]);
-
-  InvertedIndexSearch in;
-
-  in.set_coding_type(coding_type);
-  in.set_indir(indir);
-
-  std::string phrase = "galaxies";
   auto tokens = in.tokenize_all(phrase);
   std::cout << "Size: " << tokens.size() << "\n";
   std::cout << "Tokens: ";
@@ -153,6 +144,13 @@ int main(int argc, char const *argv[])
 
   SearchResult results;
   in.search_all(results, tokens);
+
+  if (results.empty())
+  {
+    std::cout << "No results for query: " << phrase << "\n";
+    std::cout << "---------------------------------------\n";
+    return;
+  }
 
   for (auto &result : results)
   {
@@ -170,17 +168,58 @@ int main(int argc, char const *argv[])
       char *buffer = nullptr;
       long size;
 
-      std::string path = "../docs/" + std::to_string(doc) + ".txt";
+      std::string path = docsdir;
+      if (!path.empty())
+      {
+        path += "/" + std::to_string(doc) + ".txt";
 
-      read_file(path.c_str(), &buffer, &size);
+        read_file(path.c_str(), &buffer, &size);
 
-      std::cout << "\n";
-      std::cout << "Extract from document: " << path << "\n";
-      fwrite(buffer + start, 1, end - start, stdout);
-      std::cout << "\n---------------------------------------\n";
+        std::cout << "\n";
+        std::cout << "Extract from document: " << path << "\n";
+        fwrite(buffer + start, 1, end - start, stdout);
+        std::cout << "\n---------------------------------------\n";
 
-      delete[] buffer;
+        delete[] buffer;
+      }
     }
+  }
+
+  std::cout << results.size() << " results found for query: " << phrase << "\n";
+  std::cout << "---------------------------------------\n";
+}
+
+int main(int argc, char const *argv[])
+{
+  if (argc < 4)
+  {
+    fprintf(stderr, "Usage: %s INDEX_DIR DOCS_DIR CODING_TYPE\n", argv[0]);
+    return EXIT_FAILURE;
+  }
+
+  std::string indir = argv[1];
+  docsdir = argv[2];
+  int coding_type = std::atoi(argv[3]);
+
+  in.set_coding_type(coding_type);
+  in.set_indir(indir);
+
+  std::string line;
+  while (true)
+  {
+    std::cout << "Search: ";
+    if (!std::getline(std::cin, line))
+      break;
+    std::cout << "\n";
+
+    if (line.empty())
+    {
+      std::cout << "Phrase cannot be empty\n";
+      continue;
+    }
+
+    find_phrase(line);
+    std::cout << "\n";
   }
 
   return EXIT_SUCCESS;
