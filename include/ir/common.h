@@ -158,6 +158,9 @@ namespace ir
     unsigned int m_arr_size;
     long m_bytes;
 
+    double elapsed_time_ms_dec;
+    double elapsed_time_ms_init;
+
     coding *m_coding = nullptr;
 
   public:
@@ -175,6 +178,8 @@ namespace ir
 
     void init(const char *input_path, int coding_type = NULC)
     {
+      auto t_start = std::chrono::high_resolution_clock::now();
+
       m_input_path = input_path;
 
       m_coding = coding_factory::get_coder(coding_type);
@@ -195,12 +200,20 @@ namespace ir
       m_output = new (std::nothrow) unsigned int[m_size + 30];
       if (!m_output)
         throw std::runtime_error("Failed to create output buffer");
+
+      auto t_end = std::chrono::high_resolution_clock::now();
+      elapsed_time_ms_init = std::chrono::duration<double, std::milli>(t_end - t_start).count();
     }
 
     unsigned int *decompress()
     {
+      auto t_start = std::chrono::high_resolution_clock::now();
+
       m_coding->set_size(m_size);
       m_coding->Decompression(m_arr, m_output, m_size);
+
+      auto t_end = std::chrono::high_resolution_clock::now();
+      elapsed_time_ms_dec = std::chrono::duration<double, std::milli>(t_end - t_start).count();
 
       return m_output;
     }
@@ -213,6 +226,21 @@ namespace ir
     unsigned int bytes()
     {
       return m_size * sizeof(unsigned int);
+    }
+
+    double compressed_kb()
+    {
+      return m_bytes / 1024.0;
+    }
+
+    double duration()
+    {
+      return elapsed_time_ms_dec;
+    }
+
+    double duration_init()
+    {
+      return elapsed_time_ms_init;
     }
   };
 

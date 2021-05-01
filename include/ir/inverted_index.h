@@ -89,6 +89,14 @@ private:
     uint *output = dec.decompress();
     uint size = dec.size();
 
+    std::cout << "Decompress file: " << path << "\n\n";
+    std::cout << "Compress file size: " << dec.compressed_kb() << " KB\n";
+    std::cout << "Decompress file size: " << dec.bytes() / 1024.0 << " KB\n\n";
+    std::cout << "Loading file duration: " << dec.duration_init() << " ms\n";
+    std::cout << "Decompress duration: " << dec.duration() << " ms\n";
+    std::cout << "Total duration: " << dec.duration_init() + dec.duration() << " ms\n";
+    std::cout << "---------------------------------------\n";
+
     Postings postings;
 
     for (uint i = 0; i < size;)
