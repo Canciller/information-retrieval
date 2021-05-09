@@ -1,0 +1,24 @@
+https://en.wikipedia.org/wiki/Markarian_galaxies
+Markarian galaxies
+The Markarian galaxies are a class of galaxies that have nuclei with excessive amounts of ultraviolet emissions compared with other galaxies. Benjamin Markarian drew attention to these types of galaxies starting in 1963.  The nuclei of the galaxies had a blue colour, associated to stars in the classes from O to A. This blue core did not match the rest of the galaxy.  The spectrum in detail tends to show a continuum that Markarian concluded was produced non-thermally.  Most of these have emission lines and are characterized by highly energetic activity.
+Markarian Catalogue entries are of the form Markarian ####, and can frequently use the abbreviations Mrk, Mkr, Mkn; and rarely Ma, Mk, Mark.
+In 1964 Markarian decided to search for this kind of galaxy.
+The First Byurakan Survey commenced in 1965 using the Schmidt telescope at the Byurakan Astrophysical Observatory in Armenian SSR. The telescope used a 132\xa0cm mirror and 102\xa0cm correcting plate.  When this started it was the largest telescope to have a full aperture objective prism.  The purpose of the survey was to find galaxies with an ultraviolet excess.
+The optics used were corrected for blue violet. Prisms in this had a low dispersion of 180\xa0nm/mm in order not to spread out the galactic core spectrum too much and confuse it with other objects. This permitted classification of galaxies with magnitudes down to 17.5. Seventy galaxies with UV-continuum appeared on lists, and the term Markarian galaxies came into use.  Two more lists brought the number of galaxies up to 302 in 1969. The FBS continued observations till 1978 with a full spectra survey at high galactic latitudes. 1980 saw the completion of plate analysis and picking the objects that would be included.  Twelve more papers with objects from the First Byurakan Survey brought the list up to 1500 galaxies.
+A list titled First Byurakan Survey circulated in 1986, including the original 1500 galaxies and 32 extras numbered from 9001 to 9032. In 1989 an extended list numbering up to 1515 was published.
+In 2005, the Second Byurakan Survey (SBS, SBSSS, BSS, MrkII, Markarian II) was carried out, extending the MrkI survey to fainter objects, making a catalogue of 3563 objects of 1863 galaxies (SBSG) and 1700 stars (SBSS); 761 of the galaxies are AGN (155 Seyferts, 596 quasars, 10 blazars).
+The catalogues of galaxies included a name, coordinates, spectral type, visible size and morphological type of galaxy. A custom designator for the galaxy core of s for star-like or d for diffuse was used, with hybrids of ds or sd.  A digit 1,2 or 3 indicated strong, moderate or weak UV emission.  A letter e was appended if emission lines were apparent. Eleven galaxies had a blue star in the foreground creating the ultraviolet excess, so these galaxies do not really fall into the class.  Another problem is duplicate entries where Mrk 107 is Mrk 20, Mrk 1318 is Mrk 49, and Mrk 890 is Mrk 503.
+The various objects in this catalogue include Seyfert galaxies, starburst galaxies, H II regions, active galactic nuclei, BL Lac objects and quasars.  Some objects are actually giant glowing regions of ionized hydrogen in a galaxy including Mrk 59, 71, 86b, 94, 256b, 404, 489b, 1039, 1236, 1315, and 1379a.  Other galaxies have black holes shooting hot gas in energetic jets.  Many are variable, showing the brightness comes from a small region.
+171
+205
+209
+231
+266
+273
+331 (top center)
+421
+501
+509
+533
+817
+848

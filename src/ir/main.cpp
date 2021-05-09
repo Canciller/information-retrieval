@@ -108,12 +108,12 @@ SearchInterval InvertedIndexSearch::next_phrase(const TokenArray &tokens, DocOff
   for (i = n - 2; i >= 0; --i)
     u = prev(tokens[i].lexeme, u);
 
-  if (u.doc != v.doc)
-    return infinf;
-
-  size_t distance = v.offset - u.offset;
-  if (n - 1 == distance)
-    return SearchInterval(u, v);
+  if (u.doc == v.doc)
+  {
+    size_t distance = v.offset - u.offset;
+    if (n - 1 == distance)
+      return SearchInterval(u, v);
+  }
 
   return next_phrase(tokens, u);
 }
@@ -156,14 +156,24 @@ void find_phrase(const std::string &phrase)
   {
     uint doc = result.start.doc;
 
+    uint extra_chars = 50;
+
     if (doc != DocOffsetPair::PINF)
     {
       uint start = result.start.position;
       uint end = result.end.position + tokens.back().lexeme.size();
 
+      uint term_start = start;
+      uint term_end = end;
+
       std::cout << "Document: " << doc << "\n"
                 << "Offset: " << result.start.offset << ", " << result.end.offset << "\n"
                 << "Position: " << start << ", " << end << "\n";
+
+      if (start >= extra_chars)
+        start -= extra_chars;
+      else
+        start = 0;
 
       char *buffer = nullptr;
       long size;
@@ -175,9 +185,18 @@ void find_phrase(const std::string &phrase)
 
         read_file(path.c_str(), &buffer, &size);
 
+        if (end >= size - extra_chars - 1)
+          end = size - 1;
+        else
+          end += extra_chars;
+
         std::cout << "\n";
         std::cout << "Extract from document: " << path << "\n";
-        fwrite(buffer + start, 1, end - start, stdout);
+        fwrite(buffer + start, 1, term_start - start, stdout);
+        printf("\e[32m");
+        fwrite(buffer + term_start, 1, term_end - term_start, stdout);
+        printf("\e[0m");
+        fwrite(buffer + term_end, 1, end - term_end, stdout);
         std::cout << "\n---------------------------------------\n";
 
         delete[] buffer;

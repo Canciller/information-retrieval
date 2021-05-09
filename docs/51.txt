@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/Wikipedia:Please_clarify
+Wikipedia:Please clarify
+The aim of this page is to describe ways to clarify text or request such clarification. There are inline cleanup tags to flag specific wording that is likely to be confusing to the average reader.
+It is always best to take care of something when you notice it, but that is not always possible. You can choose one of these templates that tag text with inline messages to request specific clarifications that you cannot provide yourself:
+When using these templates, be specific: mark individual phrases, sentences, and sections in preference to entire articles.  Also be sure to leave specific suggestions for improvement on the articles talk-page.
+The templates pages will almost always have additional documentation on usage and parameters. If not, you can leave a message on the templates talk page requesting such information be added.
+There are some common situations where use of a more specific clarification template might make the desired clarification clearer. A common case is an article citing a scientific measurement without indicating how the measurement was taken. For example, the following statement about solar intensity at the earths surface without specifying the suns elevation could be annotated with the following tag:

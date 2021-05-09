@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/3C48
+3C 48
+3C48 is a quasar discovered in 1960; it was the second source conclusively identified as such.
+3C48 was the first source in the Third Cambridge Catalogue of Radio Sources for which an optical identification was found by Allan Sandage and Thomas A. Matthews in 1960 through interferometry.
+Jesse L. Greenstein and Thomas Matthews found that it had a redshift of 0.367, making it one of the highest redshift sources then known.
+It was not until 1982 that the surrounding faint galactic nebulosity was confirmed to have the same redshift as 3C48, cementing its identification as an object in a distant galaxy.  This was also the first solid identification of a quasar with a surrounding galaxy at the same redshift.
+3C 48 is one of four primary calibrators used by the Very Large Array (along with 3C 138 and 3C 147, and 3C 286). Visibilities of all other sources are calibrated using observed visibilities of one of these four calibrators.

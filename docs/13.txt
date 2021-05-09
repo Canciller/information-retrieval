@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/List_of_nearest_galaxies
+List of nearest galaxies
+This is a list of known galaxies within 3.8 megaparsecs (12 million light-years) of the Solar System, in ascending order of heliocentric distance, or the distance to the Sun. 
+This encompasses all of the about 50 major Local Group galaxies, and some that are members of neighboring galaxy groups, the    M81 Group and the Centaurus A/M83 Group, and some that are currently not in any defined galaxy group.
+The list aims to reflect current knowledge: not all galaxies within the 3.8 Mpc radius have been discovered. Nearby dwarf galaxies are still being discovered, and galaxies located behind the central plane of the Milky Way are extremely difficult to discern. It is possible for any galaxy to mask another located beyond it.
+Intergalactic distance measurements are subject to large uncertainties.  Figures listed are composites of many measurements, some of which may have had their individual error bars tightened to the point of no longer overlapping with each other.

@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Lyons_Groups_of_Galaxies
+Lyons Groups of Galaxies
+Lyons Groups of Galaxies (or LGG) is an astronomical catalog of nearby groups of galaxies complete to a limiting apparent magnitude B0=14.0 with a recession velocity smaller than 5,500\xa0km/s. Two methods were used in group construction: a percolation method derived from Huchra and Geller  and a hierarchical method initiated by R. Brent Tully. The catalog is a synthesized version of the two results.
+The LGG includes 485 groups and 3,933 member galaxies.
+
+This galaxy-related article is a stub. You can help Wikipedia by expanding it.
