@@ -66,6 +66,8 @@ class InvertedIndex
   std::string indir;
   int coding_type = NULC;
 
+  double duration = 0;
+
 private:
   Postings get_decompressed_postings(const std::string &lexeme)
   {
@@ -96,6 +98,8 @@ private:
     std::cout << "Decompress duration: " << dec.duration() << " ms\n";
     std::cout << "Total duration: " << dec.duration_init() + dec.duration() << " ms\n";
     std::cout << "---------------------------------------\n";
+
+    duration += dec.duration_init() + dec.duration();
 
     Postings postings;
 
@@ -138,6 +142,16 @@ public:
   {
     m_dictionary.erase(term);
     m_loaded[term] = false;
+  }
+
+  void reset_duration()
+  {
+    duration = 0;
+  }
+
+  double get_duration()
+  {
+    return duration;
   }
 
   Posting &get_posting(const Term &term, int doc)

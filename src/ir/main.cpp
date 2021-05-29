@@ -1,5 +1,6 @@
 #include <iostream>
 #include <limits>
+#include <chrono>
 #include "ir/inverted_index_search.h"
 
 const long DocOffsetPair::PINF = std::numeric_limits<long>::max();
