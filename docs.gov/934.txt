@@ -1,0 +1,152 @@
+https://www.justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-remarks-47th-annual-conference
+Assistant Attorney General Makan Delrahim Delivers Remarks at the 47th Annual Conference on International Antitrust Law and Policy and Antitrust Economics Workshops
+Washington, DCUnited States
+~
+Thursday, October 8, 2020
+Virtual Event
+Video Killed the Radio Star*: Promoting a Culture of Innovation
+Introduction
+Good morning.
+Thank you for the introduction and thank you to the Fordham Competition Law Institutefor inviting me back to participate in this conference today.
+I know first-hand the challenges of hosting virtual international events, and I congratulate you for making this important event possible despite the obstacles.
+I also want to acknowledge and thank Executive Vice President Vestager for her continued contributions to promotes a culture of competition and for the valuable and constructive partnership she and I have had the past three years.
+We have accomplished a lot, worked civilly though minor disagreements, and have together improved, in my view, the free markets to the benefit of consumers across the globe.
+Some of us are old enough to remember that life-changing moment when MTV launched in August 1981.
+As you may know, the first video MTV aired was a song by the Buggles called Video Killed the Radio Star.
+ The song is about the transformative power of innovation.
+A new form of musical entertainment had arrived on the scene, and radios dominance was under a very real threat.
+Today, nearly forty years later, MTVs video stars long since have been killed by the technologies that followed.
+The songs sentiment nonetheless remains as relevant to antitrust policy as ever: innovation and technology continually are changing markets and the economic landscape, and even creating new industries.
+It is incumbent on competition law enforcers to champion policies that support the incentives for the next generation of video stars to emerge.
+The pandemic has underscored the
+importance of protecting the climate for innovation.
+We all are counting on innovations in medical science for the development of strategies to treat and protect infection.
+Today, I would like to share some examples of innovations the Antitrust Division has undertaken to ensure that we enforce the antitrust laws in a way that accomplishes the goals of protecting competition and also supporting growth and innovation.
+Over the past three years, we have taken a fresh look at the Divisions policies across nearly all aspects of our work to ensure that they accomplish these aims.
+That mindset of embracing flexibility and adaptability served us well as we pivoted to telework and pandemic-related competition challenges.
+In many ways, the pandemic actually reinforced our perspective that experimenting with new ways of doing things provides opportunities to learn, grow, and ultimately make us better, or as I have noted before antifragile.
+
+Of course, competition law is about protecting a process, not about mandating a particular result.
+In that spirit, we have focused on improving processes that promote and sustain conditions for innovation to thrive, rather than directing specific outcomes in the marketplace.
+At the OECDs Global Forum on Competition last fall, I was struck by some familiar insights of Nobel-prize winning economist Jean Tirole.
+He offered some advice to enforcers for tackling the complex issues we all face in the digital space.
+He said, We dont need more laws.
+We need more guidance.
+ He called for more participative antitrust between competition agencies and stakeholders to consider appropriate enforcement or regulatory approaches to modern competition challenges.
+I agree with Professor Tirole that our existing antitrust laws are up to the task of addressing modern competition problems.
+Yet, we need to be flexible, self-reflective, and collaborative to ensure that our approach keeps pace with evolving facts and economic wisdom.
+The participative approach has served us well at the Antitrust Division.
+In the past three years, we have improved our transparency: we actively have updated guidelines, made speeches, issued business review letters, and submitted amicus briefs to courts in a deliberate effort to share and explain our analytical processes.
+Clear guidance helps mitigate the risks innovators and entrepreneurs face when investing resources to develop new products.
+Whenever possible, we welcome a wide range of views, including from industry participants, academics, and consumer advocates.
+For example, we regularly hold public workshops and post draft guidelines for public comment.
+The dialogue that plays out in these fora inevitably leads to better and more thoughtful results.
+You may have noticed, I often invite the views of my biggest detractors.
+I would now like to share some specific examples of the Divisions efforts to promote innovation, which I will group into four broad categories: (1) better explaining the state of the antitrust laws relating to patent licensing practices; (2) promoting substantive and procedural convergence with our international partners; (3) modernizing our domestic enforcement program; and (4) encouraging innovation within the Antitrust Division itself.
+New Madison Approach
+I will start with our approach to the intersection of antitrust and intellectual property law.
+I first presented an updated and transparent analytical framework last year in an article called The New Madison Approach to Antitrust and Intellectual Property Law in the University of Pennsylvania Law Schools Journal of Law and Innovation.
+This correctly balanced approach is aimed at ensuring continued innovation and dynamic competition in the context of standard setting.
+We have cautioned that antitrust law should not be used as a tool to police contractual commitments to license standard-essential patents on fair, reasonable and nondiscriminatory, or FRAND, terms.
+When licensing negotiations fail, patent owners should have the full range of statutory remedies available to them when their patents are infringed, including injunctions.
+At the same time, coordination among members of standards development organizations can raise competition concerns that should not be overlooked.
+We have advocated for these principles through speeches,guidance documents,business review letters,and statements of interest as amicus in federal courts.
+I am encouraged that the principles of the New Madison approach continue to gain acceptance not only in USA courts, but in international courts as well.
+In May, the German Federal Court of Justice issued its decision in Sisvel v.
+Haier in support of a standard-essential patent holders enforcement rights.
+In that case, Haier, the potential licensee (or implementer), had been intransigent in negotiations, rejecting Sisvels repeated licensing offers but making no offers of its own.
+The German high court held that an implementer must take an active role in negotiations and be willing to take on a license on any terms that are FRAND.
+Other German courts have echoed this concern for patent holder rights.
+In a decision in early September in a dispute between patent-holder Sharp Corporation and implementer Daimler, a Munich court rejected Daimlers antitrust-law based defense.
+The court granted the Japanese corporation Sharp an injunction against Daimlers sales of the Mercedes-Benz for infringing Sharps patent which is essential to LTE technology.
+Likewise, the UK Supreme Courts decision in August in Unwired Planet v.
+Huawei aligns closely with the New Madison approach.
+There, the Court held that SEP holders may be entitled to injunctive relief and are not limited to seeking monetary damages.
+These decisions are important successes reflecting the convergence of legal systems around New Madison principles, and in doing so, promoting innovation.
+International Engagement
+This leads me to the topic of international engagement more generally, which has been a key focus of my tenure at the Antitrust Division.
+With more than 140 competition agencies around the world, and as mergers and conduct increasingly draw attention from enforcers in multiple jurisdictions, convergence on substantive and procedural approaches is more and more critical.
+As the great American innovator Henry Ford once said, Coming together is a beginning, staying together is progress, and working together is a success.
+ We have had many successes over the past several years.
+We have worked together as a strong community of international enforcers as we have reacted in real time to the many challenges posed by the pandemic.
+Since March, the Division has participated in a number of virtual events hosted by multilateral organizations such as the ICN, OECD, and UNCTAD to compare notes on pandemic responses.
+We appreciate the opportunities to learn from others experience in these unprecedented times.
+We have not neglected other priorities in the meantime.
+Promoting greater procedural norms and due process is a prime example.
+The International Competition Networks Framework for Competition Agency Procedures, or the CAP, is a huge step forward toward harmonizing due process principles.
+When I first announced the initiative in June 2018, at that time called the Multilateral Framework on Procedures (or MFP), I urged competition authorities to go beyond soft commitments and sign on to a multilateral agreement on due process that included meaningful compliance mechanisms.
+Less than a year later, that vision was fulfilled when the CAP came into effect through the ICN with 70 founding competition agencies, importantly including authorities in Europe, Canada, and the United States.
+Through this agreement, we will be more transparent, predictable, and consistent as law enforcers, and we will continue to build trust in our enforcement actions.
+The CAP also represents a remarkable achievement for the ICN, an innovative organization in its own right.
+The ICN was launched less than twenty years ago by a group of 15 agencies, including the Antitrust Division.
+Today, the ICN has grown to include 138 member agencies from 125 jurisdictions.
+It has become an influential force in driving sound policies through recommendations and guidance for its members.
+A recent example of the ICNs meaningful policy work is this years Guidance on Enhancing Cross-Border Leniency Cooperation.
+The ICNs influence was on display last month at the ICN 2020 conference hosted by the Antitrust Division and the Federal Trade Commission, which featured spirited discussions on some of the most challenging issues in competition policy.
+The OECD is another important forum for advancing international convergence that enhances innovation for the benefit of consumers.
+The Competition Committees biannual meetings provide an opportunity for wide-ranging competition policy discussions.
+Over the last three years alone, we have addressed the digital economy, intellectual property licensing, labor, education, and fintech markets to name just a few of many topics.
+It has been a true privilege for me to chair the Working Party 3 of the Competition Committee, where so much has been accomplished.
+Cooperation with respect to specific cases has increased substantially in recent years as the number of jurisdictions active in merger review has grown.
+We communicate with our global counterparts on a daily basis.
+Last year, we collaborated with at least 25 jurisdictions on cross-border investigations and global cartel enforcement and with 15 international counterparts on merger and civil nonmerger matters.
+There is still work to be done, particularly as agencies around the globe grapple with the challenging issues presented by the digital economy.
+At the Antitrust Division, we are continually looking for innovative ways to strengthen international cooperation.
+For example, in September, I signed a new competition enforcement Framework among the DOJ and the Federal Trade Commission, and competition agencies in Australia, Canada, New Zealand, and the United Kingdom.
+The Framework provides the basis for future bilateral agreements focused on investigative assistance.
+Innovations in Domestic Enforcement
+Back at home, we have launched a number of domestic enforcement initiatives aimed at promoting free markets and a culture of innovation.
+Not surprisingly, over the past seven months, responding to the COVID-19 pandemic has been a key priority.
+In March 2020, the Antitrust Division and the FTC announced an expedited process for reviewing and providing guidance relating to collaborations of businesses working to protect the health and safety of Americans during the pandemic.
+The Division has issued four COVID-19 business review letters through this process.
+At the same time, we remain vigilant about combatting anticompetitive behavior by firms seeking to take advantage of the turmoil.
+The pandemic did not sideline other important efforts to rethink and improve our enforcement program.
+One such initiative was to withdraw and reconsider the Divisions 2011 guidance on merger remedies.
+The DOJs modernized Merger Remedies Manual, released in September, reflects our strong preference for structural over behavioral remedies.
+As I have explained before, antitrust enforcement is law enforcement, not regulation.
+Behavioral remedies tend to be regulatory in nature, entangling the Division and the courts in the ongoing operation of a market.
+Such regulatory meddling can require businesses to act counter to their profit-maximizing interests, distort the market, and stifle innovation.
+In a similar vein, we undertook a comprehensive effort to review nearly 1,300 so-called legacy judgments, some of which date back to the 1890s, in our Judgment Termination Initiative.
+We filed motions in federal district courts across the country to terminate decrees that were no longer needed to protect competition, and in some cases were potentially harmful to competition.
+In a recent case, a federal court terminated the Paramount Consent Decrees, which for over seventy years had regulated how certain movie studios distribute films to movie theatres.
+As the Court noted, Gone with the Wind, The Wizard of Oz, and Its a Wonderful Life were the blockbusters when these decrees were litigated.
+As a result of this ongoing Initiative, courts have terminated nearly 800 perpetual decrees.
+This effort ensures that regulatory decrees do not stand in the way of the free market functioning as it should.
+It also frees up the Divisions resources and attention so that we may better focus on protecting competition.
+Another example of our efforts to advance merger policy is the recent update to our guidance on vertical mergers, which we revised for the first time since 1984.
+We, along with the FTC, released joint draft Vertical Merger Guidelines in February 2020 and conducted workshops to collect feedback and perspectives from diverse groups.
+The revised final Guidelines, issued in June, provide transparency into our approach to evaluating vertical transactions.
+Knowing that delays can create business uncertainty and harm innovation, we also took a fresh look at our merger review processes to seek ways to streamline our investigations.
+In September 2018, I announced a goal of resolving most investigations within six months of filing, provided that the parties promptly comply with Division requests throughout the entire process.
+The Division published a Model Voluntary Request Letter and a Model Timing Agreement to facilitate expeditious cooperation and compliance.
+We sought to streamline enforcement actions where possible too.
+Earlier this year, the Division made its first ever use of arbitration to resolve the proposed merger of Novelis Inc.
+and Aleris Corporation.
+The arbitration proved to be an effective and efficient way to resolve the one dispositive issue in the case, and I expect it will be used again under the right circumstances.
+Turning to an innovation in our criminal program, last November, we launched the Procurement Collusion Strike Force, or PCSF, which is an interagency partnership among the Antitrust Division, 13 USA Attorneys Offices, investigators from the Federal Bureau of Investigation and four federal Offices of Inspectors General.
+Liaisons from these agencies are working together to deter, detect, and prosecute cartels in government contracting.
+It has generated an overwhelmingly positive response from stakeholders.
+We have received more than 50 inquiries to PCSF from federal, state, and local government agencies seeking outreach training, assistance with safeguarding their procurement processes.
+So far, we have opened nearly two dozen PCSF grand jury investigations in connection with the PCSF.
+We just appointed our first ever permanent Director of the PCSF, and we are now searching for a permanent Assistant Director given the overwhelming response.
+Promoting a Culture of Innovation Within the Antitrust Division
+Finally, I will briefly mention a couple of our efforts to encourage innovative thinking within the Antitrust Division itself.
+Technological advancements in recent years have changed virtually every industry within our purview.
+In August, I announced a restructuring of our civil program to ensure efficient and effective enforcement that accounts for these changes.
+This included a realignment of responsibilities within the civil sections.
+We also created an Office of Decree Enforcement and Compliance to dedicate Division personnel to ensuring proactive enforcement of consent decrees.
+In addition, we created a Civil Conduct Task Force to focus full time on civil non-merger work.
+We are paying close attention to a number of emerging issues, and we are making sure we develop and maintain expertise on cutting-edge issues and developments.
+Late last year, we launched a novel program to build our expertise by training some of our attorneys and economists in emerging technologies in the fields of blockchain, machine learning, and artificial intelligence.
+It is critical to understand these technologies and their growing business applications.
+We have selected this training through MITs Sloan School, and so far have trained over 30 of our professional staff, all of whom have had an overwhelmingly positive response to the courses.
+Conclusion
+To conclude, the Antitrust Division is committed to ensuring that competition policy remains a force for good in fostering innovation.
+Back in 1981, video may have killed the radio star.
+In 2020, however, streaming video provides a lifeline for the rest of us to carry on with our livesfrom learning, shopping, or enforcing the antitrust lawsin the face of unprecedented physical limitations.
+Recent experience has shown the power of technology to improve our quality of life, and also how much we have come to depend on it.
+As the Buggles put it, we cant rewind, weve gone too far.
+ There is no way to predict what life-changing, or even life-saving, innovations are on the horizon.
+We can guarantee that, through vigilance in our role as law enforcers, we will preserve incentives to innovate while promoting the competitive process.
+Speaker:Former Assistant Attorney General, Makan DelrahimAttachment(s): Download Makan Delrahim Full SpeechComponent(s):Antitrust Division
+Updated October 8, 2020

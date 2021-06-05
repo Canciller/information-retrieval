@@ -1,0 +1,70 @@
+https://www.justice.gov/opa/pr/toyota-motor-company-pay-180-million-settlement-decade-long-noncompliance-clean-air-act
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, January 14, 2021
+Toyota Motor Company to Pay $180 Million in Settlement for Decade-Long Noncompliance with Clean Air Act Reporting Requirements
+The USA Department of Justice and USA EnvironmentalProtection Agency (EPA) announced today that the United States has filed and simultaneously settled a civil lawsuit against Toyota Motor Corporation, Toyota Motor North America Inc.
+, Toyota Motor Sales USAA.
+Inc.
+, and Toyota Motor Engineering & Manufacturing North America Inc.
+(Toyota) for systematic, longstanding violations of Clean Air Act emission-related defect reporting requirements, which require manufacturers to report potential defects and recalls affecting vehicle components designed to control emissions.
+Along with the civil complaint, the United States has filed a consent decree, agreed to by Toyota, that resolves the governments complaint through Toyotas payment of a $180 million civil penalty and the imposition of injunctive relief.
+The $180 million penalty is the largest civil penalty for violation of EPAs emission-reporting requirements.
+The injunctive provisions require Toyota to follow compliance and reporting practices designed to ensure timely investigation of emission-related defects and timely reporting to EPA, and include training, communication, and oversight requirements.
+The consent decree remains subject to a period of public comment and court approval.
+This settlement is yet another important milestone settlement for this Administration, and it continues our unwavering commitment to ensuring that our environmental laws as written, including EPAs regulations, are rigorously enforced, said Jeffrey Bossert Clark, Assistant Attorney General of the Justice Departments Environment and Natural Resources Division.
+For a decade, Toyota systematically violated regulations that provide EPA with a critical compliance tool to ensure that vehicles on the road comply with federal emissions standards, said Audrey Strauss, Acting USA Attorney for the Southern District of New York.
+Toyota shut its eyes to the noncompliance, failing to provide proper training, attention, and oversight to its Clean Air Act reporting obligations.
+Toyotas actions undermined EPAs self-disclosure system and likely led to delayed or avoided emission-related recalls, resulting in financial benefit to Toyota and excess emissions of air pollutants.
+Today, Toyota pays the price for its misconduct with a $180 million civil penalty and agreement to injunctive relief to ensure that its violations will not be repeated.
+
+For a decade Toyota failed to report mandatory information about potential defects in their cars to the EPA, keeping the agency in the dark and evading oversight, said Susan Bodine, EPAs Office of Enforcement and Compliance Assurance Assistant Administrator.
+EPA considers this failure to be a serious violation of the Clean Air Act.
+
+The complaint filed in Manhattan federal court today alleges that from approximately 2005 until at least late 2015, Toyota systematically violated Clean Air Act automobile defect reporting requirements designed to protect public health and the environment from harmful air pollutants.
+Clean Air Act regulations require manufacturers to notify EPA by filing an Emissions Defect Information Report (EDIR) when 25 or more vehicles or engines in a given model year have the same defect in an emission control part or an element of design installed in order to comply with emission standards and other EPA regulations.
+The regulations also require vehicle manufacturers to file a Voluntary Emissions Recall Report (VERR) with EPA when they perform a recall to correct defects in emission-related parts, and to update EPA on the progress of such recalls through Quarterly Reports.
+These mandatory reporting requirements are critical to the Clean Air Acts purpose of protecting human health and the environment from harmful air pollutants: They encourage manufacturers to investigate and voluntarily address defects that may result in excess emissions of harmful air pollutants, and provide EPA with important information about emission-related defects for use in its oversight of manufacturers.
+For 10 years, Toyota routinely failed to comply with these reporting requirements.
+During that time, Toyota materially delayed filing an estimated 78 EDIRs, filing many only when disclosing non-compliance to EPA in 2015, at which point some were as much as eight years late.
+These EDIRs related to millions of vehicles with the potential to exhibit emission-related defects.
+Toyota also failed to file 20 VERRs and more than 200 quarterly reports.
+During the period of noncompliance, Toyota managers and staff in Japan knew that Toyota was no longer even attempting to determine whether it was aware of 25 instances of the same emission-related defect in a model year  the threshold requirement for filing an EDIR.
+Rather than follow this legally required standard, Toyota unilaterally decided to file EDIRs principally when Toyota was required to file distinct reports with California regulators under a less strict standard  a standard that EPA had rejected as too lenient when Toyota had previously proposed to rely on it for federal reporting.
+Toyota managers and staff in Japan repeatedly identified the discrepancy between Toyotas procedures and the plain language of the federal requirements but failed to bring Toyota into compliance.
+As a result of its conduct, Toyota deprived EPA of timely information regarding emission-related defects and recalls and avoided the early focus on emission defects contemplated by the regulations.
+Toyotas conduct likely resulted in delayed or avoided recalls, with Toyota obtaining a significant economic benefit, pushing costs onto consumers, and lengthening the time that unrepaired vehicles with emission-related defects remained on the road.
+Toyota admits, acknowledges, and accepts responsibility for what is included in the consent decree.
+Between approximately 2005 and late 2015, Toyota routinely filed emission defect reports to EPA materially late and, in many cases, failed to file such reports at all until a self-disclosure of non-compliance in late 2015.
+Representations to EPA
+In March and May 2002, at EPAs request, Toyota and EPA representatives met to discuss Toyotas internal process for identifying whether 25 instances of a specific emission-related defect exist in vehicles or engines of the same model year, requiring an EDIR filing.
+At a first meeting in March 2002, Toyota described its EDIR process in which Toyota would investigate whether it had 25 defects only upon receiving 25 product reports from its dealers, but would supplement that review by filing an EDIR upon receiving warranty claims for an emission-related part in 4 percent of Toyotas California fleet (a threshold requiring a separate filing to state authorities under California law).
+At the meeting, EPA rejected this EDIR process as not timely considering warranty claims, despite the incorporation of the 4 percent California trigger.
+At a May 2002 meeting with EPA, Toyota presented its revised process.
+Under that process, Toyota would commence an investigation to determine whether an EDIR filing was required when it had received warranty claims for an emission-related part for 1 percent of relevant vehicles nationwide; when it received 500 such warranty claims regardless of the percentage; or when it received 25 similar early warning reports.
+Toyota noted internally that EPA seemed pleased with this approach, which EPA had described as more stringent than California.
+ In 2003, 2004, and 2005, as part of an annual review, Toyota submitted its May 2002 process in writing to EPA as an overview of its EDIR reporting program.
+Toyotas Conduct from Approximately 2005 to 2015
+Without notifying EPA, in approximately 2005, Toyota stopped following the May 2002 EDIR process.
+In approximately 2005, Toyota began filing EDIRs primarily when filing the California reports triggered by the 4 percent threshold.
+Toyota also filed EDIRs in a small number of instances when it was otherwise filing VERRs with EPA.
+From approximately 2005 to 2015, Toyota stopped making any independent determination of whether 25 defects existed requiring an EDIR filing.
+Multiple times during this period, Toyota staff charged with preparing EDIRs identified that the plain language of the EDIR regulations called for filing an EDIR upon the identification of 25 defects, but that Toyota was not doing so.
+These staff did not cause Toyota to change its practice.
+As a result of this conduct, Toyota filed at least 69 EDIRs materially late.
+Thirty-nine of these were filed materially late in the ordinary course of Toyotas business.
+In late 2015, Toyota self-disclosed another 30 that had not been filed at all.
+Some EDIRs were ultimately filed as many as eight years after they were due.
+Beyond EDIRs, Toyota also failed during this period to file 20 VERRs required for emission-related recall campaigns that it conducted and failed to file more than two hundred Quarterly Reports related to such campaigns.
+Between 2005 and 2015, Toyota failed to provide its employees with adequate training, resources, or oversight to ensure that Toyota complied with its reporting obligations to EPA.
+As a result of Toyotas conduct, EPA did not timely receive mandated information regarding emission-related defects and recalls.
+Notice of the proposed consent decree will be published in the Federal Register and the public will have the opportunity to submit comments on the consent decree for a period of at least 30 days before it is submitted for the courts approval.
+To view the consent decree or to submit a comment, visit the Department of Justice website at:www.
+justice.gov/enrd/Consent_Decrees.
+html.
+The Justice Department thanked the attorneys in EPAs Air Enforcement Division, the program staff at EPAs Office of Transportation and Air Quality, and the agents at EPAs Criminal Investigative Division for their critical work on this case.
+This case is being handled by the Environmental Protection Unit of the USA Attorneys Offices Civil Division.
+Senior Trial Attorney Keith Tashima with the Environment and Natural Resources Divisions Environmental Enforcement Section and Assistant USA Attorneys Robert William Yalen, Dominika Tarczynska, and Jennifer Jude of the Southern District of New York are prosecuting the case.
+Attachment(s): Download Toyota ComplaintTopic(s):EnvironmentComponent(s):Environment and Natural Resources DivisionUSAO - New York, SouthernPress Release Number:21-52
+Updated January 14, 2021

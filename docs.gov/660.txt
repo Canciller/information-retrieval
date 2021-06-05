@@ -1,0 +1,236 @@
+https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-national-security-division-adam-hickey-delivers-remarks
+Deputy Assistant Attorney General for the National Security Division Adam Hickey Delivers Remarks at the ACI 2nd National Forum on FARA
+Washington, DCUnited States
+~
+Friday, December 4, 2020
+Remarks as Prepared for Delivery
+Over the last few years, a conventional wisdom has developed about the arc of FARA enforcement.
+It goes a little something like this:In the beginning, Congress created FARA.
+Then DOJ rested.
+For nearly 80 years, it was not enforced, carried no penalties, and was largely ignored.
+Beginning in 2017, the Special Counsels Office used the statute to investigate and charge Russian Internet trolls and politically influential Americans alike.
+Suddenly, this vague statute transformed from an administrative afterthought into an unpredictable source of criminal liability.
+FARA registrations skyrocketed, and conferences of white collar defense attorneys organized soon thereafter.
+There is some truth to that account.
+It is true that for nearly 50 years, between the last major overhaul of the statute in 1966 and 2016, there were only seven criminal prosecutions under the statute.
+Nearly 30 years had passed between the last civil injunction in 2019 and its predecessor.
+By 2014, active FARA registrations had declined by 60 percent from their peak in the late 1980s.
+[i] And the Special Counsels Office undeniably helped reverse that decline by highlighting FARAs relevance to modern challenges of covert foreign influence and injecting adrenaline into the departments enforcement efforts.
+But the evolution of FARA enforcement is a bit more complicated.
+Today, I will use this occasion to summarize how the National Security Division (NSD) has changed its approach to the statute in the last five years, in the hope that it will help you better advise your clients.
+I will highlight some of the initiatives we have made to improve the statutes effectiveness, broadly measured by the extent to which we are facilitating transparency.
+And I will discuss how we approach a couple of the statutes trickier provisions.
+First, let me add a bit more to the origin-story of FARA enforcement.
+As you probably know, beginning in 2015, the departments Inspector General audited our FARA program.
+It concluded, among other things, that the department lacked a strategy for the statute, and that FBI and NSD were not unified in their approach to enforcement.
+It suggested that NSD disfavored criminal prosecutions, because the primary purpose of the statute is to encourage transparency, not to prohibit or punish conduct.
+[ii]
+As someone who took this job shortly before the audit report was released, I appreciated its value as a diagnostic tool and the opportunity it provided to take stock of our approach.
+From my perspective, our enforcement posture changed in response to that report (even before it, in some ways), and in response to the growing threat of malign foreign influence that we identified during the 2016 election cycle.
+One of the most important changes we made was structural.
+The day-to-day face of FARA were attorneys and other staff whose sole focus was the administrative enforcement of the statute.
+Their principal tools were voluntary requests for information and advice.
+They had done an admirable job of making themselves approachable to the bar, but as the saying goes, familiarity breeds contempt.
+We saw in multiple cases that voluntary requests for information were not treated with the same respect as subpoenas.
+Some lawyers told us as much.
+Answers to our questions were incomplete or even misleading.
+Documents were cherry picked to create the impression that registration was not required.
+In at least one prominent case, a political consultant lied about his document retention practices and denied having any responsive documents; a search warrant showed otherwise.
+And to the extent subjects had sought legal advice, what they got was sometimes shockingly inept: a lawyer at a prominent law firm who held himself out as an expert drafted an opinion for a client that did not cite or address the very regulation directly on point; another told his client that FARA only applies to work for foreign governments (when the statute could not be clearer otherwise).
+It is not that we were declining FARA prosecutions (no cases proposed to CES in recent memory had gone unprosecuted); the problem was that we were not gathering the evidence that would prove up such a violation.
+In too many cases, the FARA Unit took no for an answer, perhaps because it felt like it had no choice but to accept a conclusory response to its questions.
+But [a] grand jury need not accept on faith the self-serving assertions of those who may have committed criminal acts.
+Rather, it is entitled to determine for itself whether a crime has been committed.
+[iii]
+To address this, we needed to strengthen the process by which we requested voluntary disclosures and better recognize when criminal investigative tools like subpoenas are more appropriate.
+Of course, opening a criminal case is a serious step, especially when enforcing a statute that relates to political speech, and criminal tools should not be used to obtain a civil remedy.
+But in cases where there were indications that a failure to register was intentional, or that the recipient of a letter of inquiry was acting in bad faith, we needed to consider compulsory process.
+At a minimum, we needed to persist until we received a complete response to our questions, inasmuch as we can through a voluntary process.
+And to do that, we needed to bridge the gap between those who were focused on administering the statute day-to-day in the FARA Unit and the trial attorneys in the Counterintelligence and Export Control Section (CES), who know how to conduct a criminal investigation.
+This ensured complex or contested inquiries received the appropriate attention and adequate resources.
+We solidified this by later creating a new supervisory position, a Deputy Chief of CES who would oversee both the FARA Unit and related criminal investigations.
+As you know, we were fortunate to promote Brandon Van Grack to the position, after nearly a decade in NSD.
+By taking a more aggressive approach in our administrative inquiries, we ferreted out failures to register and false registrations that ultimately led to criminal prosecutions by the Special Counsel.
+Sometimes those prosecutions were criticized, coming as they did after decades in which few other criminal FARA cases were brought, and sometimes in cases where the defendants did belatedly register.
+To those critics, I would make a few points.
+First, criminal liability under FARA only attaches to someone who willfully fails to register, which is to say, with the intent to do something the law forbids.
+[iv] Those defendants, in other words, knew they were breaking the law when they did so.
+And a belated registration after an investigation begins cannot cure an earlier, criminal decision not to register (or to lie in that registration).
+[v] Second, in most of the high-profile FARA prosecutions, the defendants not only willfully evaded their obligations at the time they attached, they went on to compound that offense by lying to NSD when we later opened a FARA inquiry.
+At that moment, they had the opportunity to correct the record, but they chose instead to continue to deceive.
+It is never too early to enforce the law in cases like those.
+And although some of those cases have not turned out as we expected, our job is to bring the hard cases as well as the easy ones, and I think the evidentiary record makes clear why we have chosen to prosecute the individuals we have.
+Nevertheless, we still hear some of the same arguments in our investigations today: counsel sometimes remind us that the purpose of the statute is transparency, suggesting a false choice between that and prosecution.
+Or they will complain that their clients never received a letter of inquiry, as if there were some requirement that we exhaust administrative remedies before investigating an apparently willful violation.
+Ultimately, successful FARA enforcement is reflected by a higher number of voluntary and complete registrations.
+But enforcement, through criminal prosecution in appropriate cases, civil suits for injunctions, and auditing of registrants, encourages voluntary compliance by others.
+A statutory requirement without consequence is a tree that falls in the forest with no one around.
+Beyond criminal prosecutions, we have increased our administrative enforcement efforts, through letters of inquiry, inspections, and notices of deficiency.
+And all of these efforts have borne fruit.
+Comparing 2019 to 2016, the year the Inspector Generals audit was released, twice as many new registrants and new foreign principals filed.
+Almost twice the number of individuals who work for registrants (known as short-form registrants) have registered, increasing transparency concerning the individuals (and not just the entities) engaged in foreign influence activities.
+Though the more aggressive enforcement posture was a key element of our strategy, it is not its only pillar.
+We accomplish transparency through the registrations that disclose foreign influence efforts.
+But those registrations do no good if they are hard to find or analyze.
+Thats why we have been engaged in a long-term project to revamp the FARA website, FARA.gov.
+First, weve improved the registration database so that registrants can now use web-fillable forms instead of PDFs, which makes it easier both for registrants to keep their registrations current and for the public to search for and download information about FARA registrants (including in bulk form).
+That helps transparency groups and the press do their work, which, in turn, increases compliance with the statute.
+Theres still more to do: in the longer term, we should quality-control the OCR of PDF registrations and digitize older, hard-copy materials on file with the FARA Unit.
+And like any software program, the web site has its kinks and inefficiencies, which we encourage you to flag, so that we can improve the site from a users perspective.
+We have also worked to be more transparent about our thinking process.
+We have done this by revising the Frequently Asked Questions on our website; by posting advisory opinions and determination letters for registered parties; and by developing new materials, such as guidance on the Scope of Agency under FARA and an educational brochure highlighting common patterns of FARA evasion.
+To increase the number of people who are aware of FARAs requirements and in a position to flag or investigate potential violations, we have expanded our training programs for federal prosecutors and agents, and our outreach to the Hill.
+We have also been fortunate that the FBI, our principal law enforcement partner, as well as its partners in the intelligence community, have evolved significantly since 2016 in their appreciation of the threat from malign, or covert, foreign influence.
+Previously, FARA investigations had to compete for resources against more traditional counterintelligence tasks, like investigating violations of the Espionage Act.
+But with the creation of the Foreign Influence Task Force (FITF) in October 2017 and its later expansion to cover threats from all countries (not merely Russia), FBI devoted resources to precisely the problem set that FARA was meant to address: covert efforts to influence policy and public opinion or to subvert our democracy by sowing division and otherwise distorting the marketplace of ideas.
+The FITF is a natural partner of the FARA Unit and CES in our efforts to investigate FARA violations and to enforce the statute.
+Now let me discuss our enforcement efforts as they concern particular groups and organizations that pose special challenges.
+Ill start with foreign media organizations.
+The January 2017 Intelligence Community Assessment of Russias efforts to interfere in the 2016 election was a catalyst for us to re-examine our approach to media organizations.
+[vi] In it, the IC referred to RT (formerly Russia Today) TV and Sputnik (radio) as components of Russias state-run propaganda machine which contributed to the influence campaign by serving as a platform for Kremlin messaging to Russian and international audiences.
+State-owned Russian media made increasingly favorable comments about [then-candidate] Trump as the 2016 US general and primary election campaigns progressed while consistently offering negative coverage of Secretary Clinton.
+[vii]
+It did not matter whether we agreed or disagreed with the viewpoints that RT and Sputnik expressed; what mattered was the assessment that the Russian government controlled those media organizations and that they were indisputably working to influence public opinion in the United States on political matters.
+Our own government was publicly describing how those enterprises were engaging in activity at the very heart of what FARA was designed to address: state propaganda published under the guise of independent speech.
+We could not ignore that.
+Turning to the statute, we saw ample legal basis for requiring their registration.
+Of course, FARA only applies to those acting under the direction or control of a foreign principal, but the USA subsidiary of any foreign company is likely to qualify based on principles of corporate law.
+So, under the right circumstances, could a separate company operating under contractual obligations.
+Even those without a physical presence here are capable of acting within the United States, by virtue of the Internet and mail.
+Every media organization disseminates information, which is enough to qualify under the broadest prongs of the statute,[viii] but even if we limit ourselves to the kind of informational materials that qualify as political, FARAs definition of that term is so broad (turning only on the topic of the message and whether it is intended to influence), all but the most fact-bound reporting qualifies.
+Congress could have created an exception for foreign news media, but it did not.
+Instead, by exempting only those news organizations that are at least 80 percent owned and operated by USA citizens, and not financed or subject to policies set by a foreign principal, Congress clearly intended that foreign media organizations would be required to register under FARA if the statute otherwise applied.
+[ix]
+The challenge, therefore, was not in identifying a legal basis for advising the USA agents of RT, Sputnik, and others to register.
+That was easy.
+The challenge for us was focusing our limited enforcement resources in an evenhanded and principled way on the media organizations for which registration is most important to serving FARAs core concerns.
+The most important factors are the kind of direction or control exercised by the foreign principal (whether it is editorial and concerns the content of the informational materials) and whether the foreign principal is a foreign government or political party.
+It is not uncommon for foreign governments to fund news organizations; but if those organizations have a transparent and independent governance structure and editorial independence, even substantial funding may not be dispositive.
+On the other hand, if the news organization is managed by current or former officials of an autocratic government or monarchy, that independence will be harder to identify.
+Other relevant factors have included whether USA editors make the final call on content disseminated here (or whether headquarters does); whether the organizations style guide promulgates policy on how to cover particular topics; whether there is evidence of censorship; whether counterfactual reporting aligns closely with a regimes official statements and policies (which can indicate direction or control); and whether the organizations reputation for independence is otherwise belied by the evidence.
+As a matter of enforcement priorities, the wider the gap between appearances and reality, the more important FARA registration is.
+Some have compared our use of FARA in this context to some kind of media crackdown, comparable to press restrictions in Russia and China, or a kind of enemies list.
+ But media outlets have registered for years (including from close allies), and they have continued to work and publish in the United States.
+Although I acknowledge there may be consequences from the registration, FARA does not regulate their reporting.
+Its record-keeping requirements do not generally concern individual reporters or journalists (who do not register on short-forms).
+And, most of all, we did not make the media organizations register; only a federal judge could do that, and when confronted with our arguments for why the statute applies, most organizations have agreed to register.
+That is hardly comparable to a regulatory regime that censors what journalists can say, arrests or beats them, and raids their offices.
+There isnt even a gravel driveway between our approach and that one, much less a slippery slope.
+Ill turn now to a topic closer to home: the lawyers exemption under FARA.
+To begin with, FARAs registration obligations attach to an agent of a foreign principal who represents the interests of such foreign principal before any agency or official of the Government of the United States as well as one who engages in political activities.
+[x] Those categories could include attorneys, among others.
+From those general standards of inclusion, the statute exempts [a]ny person qualified to practice law, insofar as he engages or agrees to engage in the legal representation of a disclosed foreign principal before any court of law or any agency of the Government of the United States.
+[xi] In 1966, when the lawyers exemption was added, it carried a proviso that, for the purposes of [the exemption,] legal representation does not include attempts to influence or persuade agency personnel or officials other than in the course of established agency proceedings, whether formal or informal.
+[xii]
+At that time, the drafters believed that the day-to-day, routine activities of attorneys in advising and counseling with foreign clients would be exempt under the expanded commercial activities exemption, insofar as they were not political, that is, rendered with the intent to influence Government policy.
+[xiii] The lawyers exemption was intended to cover a different aspect of representation, involving engagement with or before the Executive and Judicial branches of government.
+Some intended to exempt only formal proceedings, but as originally enacted, it applied more broadly to established ones.
+[xiv] The purpose of that compromise was, apparently, to exempt attorneys efforts to influence Executive Branch policies that still qualified as legitimate activities normally conducted before agency officials.
+[xv]
+This turned out to be unhelpful.
+A later Congress would limit the exemption to the enumerated proceedings now listed in the statute: judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record.
+[xvi] We would then clarify by regulation that less formal contacts might still qualify for the exemption, but only to the extent they did not qualify as political activities, geared towards USA policy or broader foreign interests, and only when the relationship with the principal was disclosed.
+[xvii]
+There are a few takeaways from this evolution of the exemption.
+First, the attorneys relationship with their principal needs to be transparent for the exemption to apply, at least to the government officials involved.
+Congress was most comfortable exempting legal representation that was documented publicly, which makes sense: the more transparent the relationship and the nature of the representation is by virtue of the context and applicable procedures, the less FARA needs to suss them out.
+Second, representation of an individual client in an adjudication of that clients interests is distinguishable from advocacy to change USA government policies or advocacy on behalf of a foreign government or political party.
+And third, an attorneys representation in a proceeding itself clearly qualifies, but whether collateral activities do will depend.
+Here, the best guide we have is the legislative history from 1966, which refers to the bounds of normal legal representation of his clients case.
+[xviii] Activities beyond that, like public relations work that has a tangential relationship to pending litigation, would fall outside the exemption; calling a press conference to announce a lawsuit would not.
+To take a recent example, consider the case of an attorney retained by a foreign government, who sought to influence the departments handling of a politically sensitive prosecution of that countrys national.
+The lawyer was not counsel of record for the individual, so his quiet approach to the departments leadership was not public, nor was it in the course of a criminal inquiry (since he did not represent the defendant).
+He fell outside the categories of formal proceedings outlined in the statute.
+Moreover, his pitch  that if DOJ would agree to adjourn a trial date, the foreign government would increase its law enforcement cooperation with the United States  could only be described as political, in the sense that it both intended to influence USA policy and concerned the interests and relations of a foreign country.
+It was exactly the kind of outreach that Congress intended to capture, even when conducted by lawyers.
+On the one hand, it would significantly weaken FARA to exempt a class of persons from its reach merely because they have an advanced degree.
+On the other hand, foreign clients are entitled to retain counsel and to enjoy the same benefits of the attorney-client relationship as Americans in connection with the adjudication of their rights and interests by our courts and administrative agencies.
+The legal exemption and its accompanying regulation attempts to strike a balance between those two concerns by distinguishing political activities and attempts to influence policy from more conventional legal representation.
+
+There is much more I would love to discuss.
+For example, how FARA can apply to efforts by China to leverage financial interests of businesspeople here, to win access and influence on issues important to the PRC using an American face and voice.
+In light of the time, however, I will refer you to the Attorney Generals July speech on China and our recent guidance on the Scope of Agency, which are both relevant to that issue.
+I will close by saying this: it has been a privilege to contribute to the recent evolution of FARA enforcement.
+The statute might have gotten dusty, but it did not become obsolete.
+It is as relevant now as it ever was to the challenge of covert foreign influence, and it provides an elegant and durable framework to meet that challenge without compromising the freedoms of speech and to petition the Government.
+I began these remarks by invoking the criticism that FARA is vague.
+I respectfully disagree.
+It is broad.
+It is true that it can reach a wide array of conduct, but then again, there are many ways to influence our policies and public opinion, and it would be impossible to enumerate the galaxy of them in a statute.
+It does an admirable job of defining categories and leaving application to the facts of a particular case, like any other statute.
+To the extent its breadth makes application unpredictable, the statute and our enforcement techniques compensate for that.
+It remains designed to facilitate transparency, not to prohibit or punish political speech.
+Its criminal prongs cannot trap the unwitting.
+By and large, we continue to administer the statute through voluntary requests for information and advice to register.
+If your client wants to know how the department interprets the statute in their particular case, unlike for most criminal laws, theres a way of finding out.
+And through conferences like these and additional transparency on our end, we are providing additional insight into our enforcement priorities, and how we think you can best serve your clients.
+Thank you.
+[i] Audit of the National Security Divisions Enforcement and Administration of the Foreign Agents Registration Act, at 5 (Sept.
+2016).
+[ii] The act was not intended to bring about wholesale convictions for violations.
+It wasand isintended to bring about disclosure.
+ 112 Cong.
+Rec.
+13,827-28 (1966) (statement of Sen.
+Fulbright).
+[iii] See United States v.
+R.
+Enterprises, Inc.
+, 498 USA 292, 303 (1991).
+[iv] Bryan v.
+United States, 524 USA 184, 193 (1998) (The jury must find that the defendant acted with an evil-meaning mind, that is to say, that he acted with knowledge that his conduct was unlawful.
+).
+[v] 22 USAC.
+ 612(d).
+[vi] See National Intelligence Council, Assessing Russian Activities and Intentions in Recent US Elections (Jan.
+6, 2017), https://www.
+dni.gov/files/documents/ICA_2017_01.
+pdf.
+[vii] Id.
+at 3.
+[T]he word \propaganda\ has a very negative connotation, but indeed, there is not a single international foreign TV channel that is doing something other than promotion of the values of the country that it is broadcasting from.
+; [W]hen Russia is at war, we are, of course, on Russia side.
+Id.
+at 8 (quoting statements by RTs Editor in Chief in 2012).
+[viii] 22 USAC.
+ 611(h), (i).
+[ix] 22 USAC.
+ 611(d).
+[x] 22 USAC.
+ 611(c)(1)(i), (iv).
+[xi] 22 USAC.
+ 613(g).
+[xii] P.
+L.
+89-486,  3(b), 80 Stat.
+244, 246 (1966).
+[xiii] H.
+R.
+Rep.
+No.
+89-1470, at 9-10 (1966)
+[xiv] Id.
+at 12.
+[xv] 112 Cong.
+Rec.
+13,827 (1966) (statement of Sen.
+Fulbright).
+[xvi] H.
+R.
+Rep.
+No.
+104-339, at 6, 21, 31 (1995).
+[xvii] 28 C.
+F.
+R.
+ 5.306.
+[xviii] H.
+R.
+Rep.
+No.
+89-1470, at 12-13 (1966); see also 112 Cong.
+Rec.
+10,537 (1966) (statement of Rep.
+McCulloch) (referring to an exemption for attorneys engaged in the usual practice of law).
+Topic(s):National SecurityComponent(s):National Security Division (NSD)
+Updated December 4, 2020

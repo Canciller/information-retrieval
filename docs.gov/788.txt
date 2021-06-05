@@ -1,0 +1,42 @@
+https://www.justice.gov/opa/pr/russian-cybercriminal-sentenced-prison-role-100-million-botnet-conspiracy
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Monday, November 2, 2020
+Russian Cybercriminal Sentenced to Prison for Role in $100 Million Botnet Conspiracy
+A Russian national was sentenced Oct.
+30 to eight years in prison for his role in operating a sophisticated scheme to steal and traffic sensitive personal and financial information in the online criminal underground that resulted in an estimated loss of over $100 million.
+Acting Assistant Attorney General Brian C.
+Rabbitt of the Justice Departments Criminal Division, USA Attorney G.
+Zachary Terwilliger for the Eastern District of Virginia, and Special Agent in Charge Matthew Miller of the USA Secret Services Washington Field Office made the announcement after the sentencing by Senior USA District Judge T.
+S.
+Ellis III.
+Aleksandr Brovko, 36, formerly of the Czech Republic, pleaded guilty in February to conspiracy to commit bank and wire fraud.
+According to court documents, Brovko was an active member of several elite, online forums designed for Russian-speaking cybercriminals to gather and exchange their criminal tools and services.
+For over a decade, Brovko participated in a scheme to gain access to Americans personal and financial information, causing more than $100 million in intended loss, said Acting Assistant Attorney General Brian C.
+Rabbitt of the Justice Departments Criminal Division.
+This prosecution and the sentence imposed show the departments commitment to work with our international and state counterparts to bring cybercriminals to justice no matter where they are located.
+
+Aleksandr Brovko used his programming skills to facilitate the large-scale theft and use of stolen personal and financial information, resulting in over $100 million in intended loss, said USA Attorney G.
+Zachary Terwilliger for the Eastern District of Virginia.
+Our office is committed to holding these criminals accountable and protecting our communities as cybercrime becomes an ever more prominent threat.
+I also want to thank our prosecutors and investigative partners for their terrific work on this complex case.
+
+This investigation is a prime example of the Secret Services investigative mission; to protect the USA financial infrastructure by pursuing counterfeit and financial crimes investigations, said Special Agent in Charge Matthew Miller of the Secret Service Washington Field Office.
+The Secret Service in alliance with state and local law enforcement is dedicated to effectively identifying those victimizing our communities and bringing them to justice.
+
+As reflected in court documents, from 2007 through 2019, Brovko worked closely with other cybercriminals to monetize vast troves of data that had been stolen by botnets, or networks of infected computers.
+Brovko, in particular, wrote software scripts to parse botnet logs and performed extensive manual searches of the data in order to extract easily monetized information, such as personally identifiable information and online banking credentials.
+Brovko also verified the validity of stolen account credentials, and even assessed whether compromised financial accounts had enough funds to make it worthwhile to attempt to use the accounts to conduct fraudulent transactions.
+According to court documents, Brovko possessed and trafficked over 200,000 unauthorized access devices during the course of the conspiracy.
+These access devices consisted of either personally identifying information or financial account details.
+Under the USA Sentencing Guidelines, the estimated intended loss in this case has been calculated as exceeding $100 million.
+Senior Trial Attorney Laura Fong of the Criminal Divisions Computer Crime and Intellectual Property Section, Assistant USA Attorney Alexander P.
+Berrang, and former Assistant USA Attorney Kellen Dwyer prosecuted the case.
+In addition, the Justice Departments Office of International Affairs and the Cybercrime Intelligence Unit of the New York County District Attorneys Office provided critical assistance.
+The Department of Justice also appreciates the significant cooperation and assistance provided by authorities in the Czech Republic.
+The year 2020 marks the 150th anniversary of the Department of Justice.
+Learn more about the history of our agency atwww.
+Justice.gov/Celebrating150Years.
+Topic(s):Cyber CrimeFinancial FraudComponent(s):Criminal DivisionCriminal - Computer Crime and Intellectual Property SectionCriminal - Office of International AffairsUSAO - Virginia, EasternPress Release Number:20-1193
+Updated November 2, 2020

@@ -4,6 +4,9 @@ COD="6"
 
 [ -z "$EXT" ] && exit 1
 
+DOCS="./docs.gov"
+INDEX="./index.gov"
+
 case "$EXT" in
   "nulc");;
   "rice")
@@ -24,7 +27,7 @@ case "$EXT" in
 esac
 
 if [ -z "$PHRASE" ]; then
-  ./build/bin/ir "./index/$EXT" ./docs "$COD"
+  ./build/bin/ir "$INDEX/$EXT" "$DOCS" "$COD"
 else
-  echo "$PHRASE" | ./build/bin/ir "./index/$EXT" ./docs "$COD"
+  echo "$PHRASE" | ./build/bin/ir "$INDEX/$EXT" "$DOCS" "$COD"
 fi

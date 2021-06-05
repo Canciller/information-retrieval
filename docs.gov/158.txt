@@ -1,0 +1,28 @@
+https://www.justice.gov/opa/pr/massachusetts-man-pleads-guilty-operating-nationwide-scheme-steal-social-media-accounts-and
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Wednesday, April 28, 2021
+Massachusetts Man Pleads Guilty to Operating Nationwide Scheme to Steal Social Media Accounts and Cryptocurrency
+A Massachusetts man pleaded guilty today to conducting a scheme to take over victims social media accounts and steal hundreds of thousands of dollars in cryptocurrency.
+According to court documents and statements made in connection with the plea proceeding, Eric Meiggs, 23, of Brockton, admitted that he and one or more co-conspirators targeted victims who appeared to have significant amounts of cryptocurrency and those who had high value or OG (slang for original gangster) social media account names.
+Using an illegal practice known as SIM-swapping, Meiggs and others conspired to hack into and take control of these victims online accounts to obtain things of value, including OG social media account names and cryptocurrency.
+As alleged in the indictment, SIM-swapping attacks involve convincing a victims cellphone carrier to reassign the victims phone number from the SIM card (Subscriber Identity Module card) inside the victims cellphone to the SIM card inside a cellphone controlled by the cybercriminals.
+Cybercriminals then pose as the victim with an online account provider and request that the provider send account password-reset links or an authentication code to the SIM-swapped device now controlled by them.
+The cybercriminals can then reset the victims account log-in credentials and use those credentials to access the victims account without authorization, or hack into the account.
+According to the indictment, Meiggs and his coconspirators targeted at least 10 identified victims around the country.
+Members of the conspiracy stole, or attempted to steal, more than $530,000 in cryptocurrency from these victims.
+Meiggs also took control of two victims OG accounts with social media companies.
+Meiggs pleaded guilty to each of seven counts in an indictment, charging him with conspiracy, wire fraud, computer fraud and abuse, and aggravated identity theft.
+He is scheduled to be sentenced on Sept.
+15, and faces a mandatory minimum penalty of two years in prison, to be served consecutively to any other sentence.
+A federal district court judge will determine the sentence after considering the USA Sentencing Guidelines and other statutory factors.
+Acting Assistant Attorney General Nicholas L.
+McQuaid of the Justice Departments Criminal Division; Acting USA Attorney Nathaniel R.
+Mendell for the District of Massachusetts; Special Agent in Charge Joseph R.
+Bonavolonta of the FBIs Boston Field Office; and Acting Special Agent in Charge Ramsey E.
+Covington of IRS Criminal Investigation (IRS-CI) made the announcement.
+The FBI and IRS-CI are investigating the case.
+Senior Trial Attorney Mona Sedky of the Criminal Divisions Computer Crime and Intellectual Property Section and Assistant USA Attorney Seth Kosto of the USA Attorneys Office in the District of Massachusetts are prosecuting the case.
+Topic(s):Cyber CrimeIdentity TheftComponent(s):Criminal DivisionCriminal - Computer Crime and Intellectual Property SectionUSAO - MassachusettsPress Release Number:21-388
+Updated April 28, 2021

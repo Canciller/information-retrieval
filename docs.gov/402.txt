@@ -1,0 +1,108 @@
+https://www.justice.gov/opa/speech/acting-assistant-attorney-general-brian-m-boynton-delivers-remarks-federal-bar
+Acting Assistant Attorney General Brian M.
+Boynton Delivers Remarks at the Federal Bar Association    Qui Tam Conference
+Washington, DCUnited States
+~
+Wednesday, February 17, 2021
+Thank you very much for that introduction.
+It is a pleasure to be able to speak with you today  albeit virtually.
+I plan to focus primarily on the Civil Divisions current False Claims Act enforcement priorities.
+But I also would like to say a few words at the end about how the Civil Division identifies cases to pursue.
+The Divisions Priorities
+Let me start with some of the Divisions priorities.
+There are six of them that I want to highlight today.
+These six are not the full universe of priorities for the Division, but they provide a good overview.
+1.
+Pandemic-Related Fraud
+The first is likely on everyones mind.
+This years conference focuses on the role of the False Claims Act during the COVID-19 crisis.
+That is an important theme, as we continue to live through a pandemic that has touched the lives of all Americans and has placed extreme burdens on our health care system and our economy.
+It is clear to me and my colleagues in the Civil Division  and I am sure to all of you  that the False Claims Act will play a significant role in the coming years as the government grapples with the consequences of this pandemic.
+The stimulus programs passed by Congress to blunt the impact of the pandemic have been a lifeline for many Americans.
+The CARES Act, for example, has provided direct financial assistance to individuals and has offered eligible businesses tax credits, deferred tax payments, and loans through the Paycheck Protection Program (PPP).
+The HHS Provider Relief Fund was created to offer financial assistance to eligible health care providers.
+The vast majority of the funds distributed under these programs have gone to eligible recipients.
+Unfortunately, however, some individuals and businesses applied for  and received  payments to which they were not entitled.
+The circumstances of the current pandemic may be novel, but the inevitable fraud schemes it will produce will in many cases resemble misconduct that the False Claims Act has long been used to address.
+These schemes will likely include false representations regarding eligibility, misuse of program funds, and false certifications pertaining to loan forgiveness.
+In fact, just last month, the Eastern District of California announced the first civil settlement resolving allegations of fraud relating to the Paycheck Protection Program.
+SlideBelts, Inc.
+, an internet retail company, and its president and CEO, admitted that they made false statements that SlideBelts was not in bankruptcy in order to obtain a PPP loan.
+The Civil Division is working closely with various Inspector Generals and other agency stakeholders to identify, monitor, and investigate the misuse of critical pandemic relief monies, and we expect this collaborative effort to translate into significant cases and recoveries.
+2.
+Opioids
+I now would like to turn to a crisis that is not new, but that has been exacerbated by the pandemic.
+In December of last year, the CDC reported that over 81,000 drug overdose deaths occurred in the United States in a twelve-month period ending in May 2020.
+This is the highest number of overdose deaths ever recorded in a 12-month period.
+These figures are sobering.
+Criminal and civil enforcement actions against the parties responsible for triggering and fueling the opioid epidemic are a critical part of efforts to address this crisis.
+We anticipate continued focus on pharmaceutical companies that marketed opioids with false and misleading statements, paid kickbacks to increase prescriptions, or targeted health care practitioners with a known pattern of problem prescribing.
+Additionally, the Civil Division will continue to investigate other actors in the opioid distribution chain.
+Those actors include pharmacies that knowingly dispensed medically unnecessary opioids and clinics and doctors that prescribed opioids in exchange for patients agreeing to unnecessary testing or procedures.
+The Civil Division has a number tools available to pursue these various actors, but chief among them is the False Claims Act.
+The treble damage and penalty provisions of the statute allow us to return funds to strapped federal health care programs and serve to deter those who seek to profit from the opioid crisis.
+The recent Reckitt Benckiser and Indivior matters demonstrate how the Civil Division is using the False Claims Act, in concert with its criminal remedies.
+In July 2020, Indivior Solutions pleaded guilty to making false statements to promote a film version of its opioid addiction treatment drug Suboxone.
+In particular, Indivior Solutions admitted that it misrepresented data on accidental pediatric exposure.
+At the same time, Indivior Solutions parent companies agreed to pay $300 million to resolve False Claims Act allegations that the Indivior companies:
+1) promoted the sale and use of Suboxone to physicians who were writing prescriptions that were medically unnecessary and that were often diverted;
+2) promoted Suboxone Film with false and misleading messages that it was less susceptible to diversion, abuse, and accidental pediatric exposure; and
+3) submitted a petition to the FDA that provided false information regarding the discontinuance of the tablet formulation of Suboxone.
+In addition, in July 2019, the Civil Division settled similar criminal and civil claims against Reckitt Benckiser Group, which owned Indivior until December 2014.
+That settlement was for 1.4 billion dollars.
+I expect to see additional criminal and civil actions as the Civil Division continues to focus its resources on abating the opioid crisis.
+3.
+Fraud Targeting Seniors
+Another continuing priority for the Department is preventing the abuse and exploitation of our senior citizens.
+A cornerstone of that effort will be the use of the False Claims Act to combat schemes that take advantage of elderly patients by providing them poor or unnecessary health care  or too often no care at all.
+Recently, we have used the False Claims Act to resolve matters with various skilled nursing facility chains and rehabilitation contactors for knowingly providing or billing for medically unnecessary rehabilitation therapy services.
+And the Department currently has open investigations across the country focused on nursing homes that are providing deficient care to our nations seniors.
+We will continue to pursue these matters actively and aggressively, to protect these vulnerable members of our community.
+4.
+Electronic Health Records
+Another area that is likely to be a focal point of the Divisions future enforcement efforts is fraud relating to electronic health records.
+Providers are increasingly relying on electronic records to improve treatment outcomes for patients.
+While electronic software is intended to reduce errors and improve the delivery of care, the transition to a digital format has also introduced new opportunities for fraud and abuse.
+We have already successfully pursued several matters involving the misuse of electronic health records software.
+For example,just two weeks ago, the Civil Division announced an $18.25 million settlement with athenahealth Inc.
+, a national electronic health records technology vendor.
+The United States alleged that Athena paid kickbacks to generate sales of its product.
+The kickbacks ranged from free trips to events  such as the Masters golf tournament and the Kentucky Derby  to paying lead generation fees to existing customers for signing up new customers.
+We have also pursued cases where vendors misrepresented the capabilities of their software, which in turn resulted in providers falsely claiming incentive payments for using compliant computer systems.
+Given the critical and growing role that electronic records play in our health care system today, and CMS continued use of incentive payments to encourage the use of such records, we expect to see more of these cases.
+5.
+Telehealth
+I also expect a continued focus on telehealth schemes, particularly given the expansion of telehealth during the pandemic.
+Telehealth services can be a vitally important means of reaching underserved communities as well as a way to safely deliver healthcare services in the current environment.
+But, unfortunately, we have also seen the abuse of telehealth benefits.
+For example, earlier this month, the Department announced that a Florida businesswoman pled guilty to criminal charges and agreed to a civil settlement of up to $20.3 million to resolve allegations that she and her company established dozens of medical equipment supply companies in the names of straw owners.
+These companies collectively submitted medical equipment claims to Medicare and the VA  asserting that the claims resulted from telehealth visits when, in fact, doctors were simply paid kickbacks to approve them and no telehealth interaction occurred.
+6.
+Cybersecurity
+Notably, both of the last two areas  electronic health records and telemedicine  reflect the increasing importance of technology to the health care system.
+Our growing reliance on technology is not limited, of course, to the health care arena, and thus neither are fraud schemes involving the development and use of technology.
+For example, cybersecurity related fraud may be another area where we could see enhanced False Claims Act activity.
+With the growing threat of cyberattacks, federal agencies are relying heavily on robust cybersecurity protections to safeguard our vital governmental data and information.
+To the extent that the government pays for systems or services that purport to comply with required cybersecurity standards but fail to do so, it is not difficult to imagine a situation where False Claims Act liability may arise.
+Identifying Cases To Pursue
+Before I conclude, Id like to touch briefly on how the Division identifies cases to pursue.
+When I think about the future direction of the Civil Divisions False Claims Act enforcement, it is not simply about what types of cases are pursued, but also how those cases are identified.
+Over the last several years, while the number of qui tam filings has remained between 600 to 700 per year, the number of non-qui tam cases has increased.
+There are two points here that I think are worth emphasizing.
+First, qui tams will continue to be an essential source of new leads, and the Department will continue to rely on whistleblowers to help root out the misuse and abuse of taxpayer funds.
+Last year alone, qui tam actions were responsible for more than 70 percent of the Departments recoveries.
+Since 1986, when the qui tam provisions were substantially revised and strengthened thanks to Senator Grassleys efforts, relators have helped return more than $46 billion to the American taxpayers.
+Second, you can expect the Civil Division to continue to expand its own efforts to identify potential fraudsters, including its reliance on various types of data analysis.
+For example, the Civil Division has increasingly been undertaking sophisticated analyses of Medicare data to uncover potential fraud schemes that have not been identified by whistleblower suits, as well as to help analyze and support the allegations that we do receive from such suits.
+Our sophisticated data analytics allow us to identify patterns across different types of health care providers  giving us a way to identify trends and extreme outliers.
+We can see where the highest risk physicians are located in each state and federal district, and how much they are costing the Medicare program.
+The data can even allow us to demonstrate and quantify sophisticated relationships, such as a physician offering controlled substance prescriptions to a patient who is likely to divert them.
+Identifying these types of relationships can help us combat prescription drug abuse as well as many other types of health care fraud.
+Indeed, the Civil Division has been actively using its data analysis for this very purpose.
+Of course, the benefits of data analysis extend beyond just the health care arena.
+The Civil Division plans to rely on the use of this analysis to combat other types of frauds, including COVID-19 related misconduct.
+I look forward perhaps to telling you more about our accomplishments on that front at future conferences.
+Thank you again for the opportunity to speak with you today.
+I hope everyone enjoys the rest of this terrific conference.
+Topic(s):False Claims ActComponent(s):Civil Division
+Updated February 22, 2021

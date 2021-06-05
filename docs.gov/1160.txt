@@ -1,0 +1,535 @@
+https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-michael-murray-delivers-remarks-antonin-scalia-law
+Deputy Assistant Attorney General Michael Murray Delivers Remarks at Antonin Scalia Law School
+Arlington, VAUnited States
+~
+Monday, August 31, 2020
+Remarks as Prepared for Delivery
+Thank you, Professor Wright, for inviting me to speak here today.
+The topic of antitrust federalism is not a new one: Congress debated it over a century ago.
+[1] But in the last few years it is increasingly at the forefront of high-profile disputes over the proper enforcement of antitrust lawin entertainment, telecom, and technology industries, to name a few.
+[2]
+Today, I will discuss the Divisions position on the proper interaction between federal and state enforcers.
+Notwithstanding overheated and opportunistic rhetoric from the Divisions perennial and insatiable critics, that position is longstanding, bipartisan, and grounded in sound first principles and Supreme Court precedents.
+It is nonetheless true that, in its day-to-day interactions with state enforcers and its advocacy before courts, the Division understandably focuses on the matter at hand and does not set forth a comprehensive framework.
+There is, therefore, a need to take a step back and explain the Divisions position, its normative and historical foundations, and its implications.
+Assistant Attorney General Delrahim set the stage for that discussion several months ago, when he outlined three straightforward and related points in the context of the T-Mobile/Sprint merger.
+[3] I plan to take up the task more fully today.
+The United States relies on a mix of federal, state, and private enforcers to curb anticompetitive conduct.
+The Supreme Court has explained that this patchwork of enforcement is by design: states and private parties are an integral part of the congressional plan for protecting competition.
+[4] Divergence among these many authorities, particularly state and federal authorities, is sometimes unavoidable, and that is the subject of my remarks.
+The Divisions longstanding position is that federal and state enforcers are not on equal footing with respect to the enforcement of the antitrust laws: courts generally should and do accord more weight to the views of the federal enforcer in moments of conflict.
+Consequently, the best way to conceptualize state and federal conflict in this arena is not a federalism modelneither a separate sovereigns framework in which each authority reigns in its sphere nor a cooperative federalism framework in which the federal enforcer sets a floor makes sense of how courts do and should behave in antitrust law.
+Rather, the best model is a fluid framework in which the weight owed to state enforcers ebbs and flows with the level and type of conflict between state and federal enforcers.
+Background on State Enforcement of the Federal Antitrust Laws
+I will begin by providing some background on state enforcement in the United States.
+Alongside the federal authorities, each of the fifty states, the District of Columbia, and the United States territories has authority to bring suit under the federal antitrust laws.
+A state may seek injunctive relief under Section 16 of the Clayton Act, which allows private parties to obtain injunctive relief against threatened loss or damage by a violation of the antitrust laws.
+[5] A state can use this provision in one of two ways: in a proprietary capacity to protect against loss to itself or as parens patriae to protect against loss to its citizens.
+Although there is no explicit statutory provision authorizing a state to sue as parens patriae in Section 16, the Supreme Court inferred such authority in Georgia v.
+Pennsylvania Railroad in 1945.
+[6] The Court held that Georgia had a parens patriae right to seek injunctive relief in order to redress a price-fixing conspiracy, because the state had an interest apart from the particular individuals affected in the state.
+In the Courts words, Georgia as a representative of the public is complaining of a wrong, which if proven, limits the opportunities of her people, shackles her industries, retards her development, and relegates her to an inferior economic position among her sister States.
+These are matters of grave public concern in which Georgia has an interest apart from that of particular individuals who may be affected.
+[7]
+In 1990, the Supreme Court confirmed in California v.
+American Stores Co.
+that the ability to seek injunctive relief includes the ability to seek divestiture.
+[8] There, the State of California had brought suit pursuant to the Clayton Act to block the merger of supermarket chains in the state.
+In considering the relief available in the states private suit, the Court reviewed the plain text of [Clayton]  16 and concluded it authorized divestiture decrees.
+It also explained California met the statutory requirement to show threatened loss or damage from the antitrust violation because the consummated merger would lead to harm to California consumers.
+[9]
+A state also may sue for monetary damages, standing as an injured purchaser[10] or as parens patriae on behalf of natural persons residing in [the] State.
+[11] The parens patriae power to seek damagesincluding treble damages[12]stems from the Hart-Scott-Rodino Antitrust Improvements Act of 1976, which amended the Clayton Act to authorize state attorneys general to bring parens patriae actions for damages.
+Congress passed this amendment in the wake of the Supreme Courts decision in Hawaii v.
+Standard Oil, in which the Supreme Court held that a state does not have parens patriae authority to sue for treble damages, despite its parallel parens patriae authority to sue for an injunction.
+[13] Due to the express grant of authority in the HSR Act, states have statutory standing to pursue monetary relief.
+The parens patriae concept is not an intuitive one, so it is worth pausing for a moment here.
+The most common historical explanation for parens patriae suits is that the states received the prerogatives of the British Crown at the time of the American Revolution.
+As the Supreme Court summarized in Hawaii v.
+Standard Oil, The concept of parens patriae is derived from the English constitutional system .
+.
+.
+.
+Traditionally, the term was used to refer to the Kings power as guardian of persons under legal disabilities to act for themselves .
+.
+.
+.
+In the United States, the royal prerogative and the parens patriae function of the King passed to the States.
+[14] A related but more philosophical theory, from the mid-nineteenth century, is that parens patriae powers are inherent in the nature of sovereignty.
+The Supreme Court explained in LDS v.
+United States that This prerogative of parens patriae is inherent in the supreme power of every state, whether that power is lodged in a royal person, or in the legislature .
+.
+.
+.
+[15] This philosophical concept evolved in the late nineteenth century toward a general guardianship power, a quasi-sovereign right understood through the lens of the emerging state police powers.
+[16] Both historical and philosophical conceptions of parens patriae, however, support the view that a states power is derived primarily from what occurs within a state or a kingdom.
+ As the Supreme Court stated in the State of Georgia v.
+Pennsylvania Railroad Co.
+, the interests of the State include the so-called quasi-sovereign interests which  are independent of and behind the titles of its citizens, in all the earth and air within its domain.
+[17]
+In sum, states act neither wholly like private parties nor wholly like a government, and they especially do not act wholly like the federal government.
+Rather, the states authority as a state (and not as an injured commercial player) to bring suit to enforce the antitrust laws stems from a quasi-sovereign concept of parens patriae.
+Conflicts Among the Division and the States
+In general, the Antitrust Division works well with its state counterparts, reaching consensus and agreement in the vast majority of cases.
+[18] In 2018, for example, the Division worked closely with five state attorneys generalfrom California, Florida, Hawaii, Mississippi, and Washingtonto pursue significant divestitures in the merger of CVS and Aetna.
+The involvement of state attorneys general often can be a significant asset to the sound development of antitrust law, as the states knowledge and sensitivity to local effects enhances our analysis.
+For example, the Division worked with the North Carolina Attorney Generals Office in reaching a settlement in 2018 with Atrium Health, the largest healthcare system in North Carolina.
+[19] Our settlement prohibited Atrium from using anticompetitive steering restrictions in contracts in the Charlotte North Carolina metropolitan arearestrictions that had protected Atriums dominance by preventing rival hospitals from gaining share by undercutting its prices.
+The settlement therefore benefited local consumers by eliminating restrictions that prevented comparison shopping and that interfered with competition among healthcare providers.
+When there are well over fifty enforcers of the same set of laws, however, it is almost inevitable that disagreements arise.
+For example, nine state attorneys general sought the same remedy as did the Department of Justice in the Microsoft case roughly twenty years ago; ten others, including Washington, D.
+C.
+, decided to pursue a different remedy.
+[20] More recently, the Federal Communications Commission and the Antitrust Division, along with ten state partners, carefully reviewed the proposed merger of T-Mobile and Sprint, and reached a settlement with the parties that would safeguard competition by ordering substantial divestitures to DISH.
+[21] But a small group of state attorneys general disagreed with our remedy, and sought a nationwide injunction that would have undermined the beneficial settlement we reached.
+Although the court ultimately held that our settlement adequately protects competition in the telecommunications industry, the attendant conflict created significant uncertainties for the businesses.
+In the rare instances when views of the federal authorities and those of states diverge, the court is asked to choose among competing visions of a competitive market.
+A fundamental question, then, is whether a court ought to consider each of these views equally in advancing federal antitrust law.
+Some commentators have answered that more stringent enforcement by states should override other judgments, as the federal government sets only a floor on enforcement, enabling states to pick up any supposed slack.
+ Under this view, the dual-enforcement regime of the antitrust laws operates in a functionally similar manner to some kinds of cooperative federalism from the 1970s, pursuant to which Congress ensur[ed] a base level of uniformity while allowing for appropriate experimentation.
+[22]
+Other commentators have taken a contrary approach.
+Former Assistant Attorney General R.
+Hewitt Pate once contemplated that the United States might follow the European system, so that either a federal or state authoritybut never bothbrings an antitrust case challenging a merger.
+[23] Bob Lande similarly argued that tenets of federalism suggest the federal government should be presumptively in charge of transactions with national effects.
+In his view, states were not meant to have so much ability to influence national affairs .
+.
+.
+[A]llowing states to go further and interfere in fundamentally national decisions runs counter to basic principles of federalism.
+[24] Other critics of the dual enforcement system have gone further still: former Judge Posner of the Seventh Circuit suggested that states be stripped of authority to bring antitrust suits, except when the state is a direct purchaser.
+[25] This skepticism stems in part from the concern that state attorneys general are not as well-suited to bring antitrust cases as federal authorities for institutional reasons, including the composition and resources of their offices.
+Some also think that state attorneys general are more likely to be influenced by competitors or other political forces within the state.
+[26]
+The Divisions view over the past several decades charts a middle course between these extremes.
+We reject the position that the decisions of the federal authorities should be viewed as only a floor on enforcement.
+We also do not subscribe to the idea that states should be powerless to bring federal antitrust suits.
+I also in particular reject the argument that state attorneys general should be disempowered because they are accountable to their citizenry for their decisions: the Supreme Court has been clear that the accountability of public officials is a feature rather than a bug in a government organization in both its administrative law[27] and separation of powers[28] jurisprudence.
+The Divisions middle course is that states ought to be involved in matters affecting their citizens but that the actions of federal enforcers deserve greater consideration when the views of enforcers conflict.
+As the Division said in its amicus brief in Microsoft in 2002, Although the States have traditionally played a significant role in American antitrust activity, they do not stand on equal footing with the United States as enforcers of the federal antitrust laws.
+[29] Rather, as the Supreme Court put it in 1954, it is the Attorney General and the United States district attorneys who are primarily charged by Congress with the duty of protecting the public interest under these laws.
+[30] In articulating this perspective, the Divisions goal is not to bar states from antitrust enforcement,[31] but instead to ensure the court gives due consideration to the views of the national enforcer on national issues of national antitrust law.
+[32]
+Federal Authorities and Unequal Footing
+The Divisions longstanding position rests on three rationales.
+The first centers around both how Congress imagined states should fit into the enforcement structure and the nature of the states authority.
+That the states and the federal government are not in the same position finds support in the history of the Clayton Act: Congress expressly rejected the idea that states should enforce the antitrust laws in the name of the United States.
+Senator Reed proposed an amendment to the Clayton Act that would have allowed the attorney general of any state to bring suit in the name of the United States to enforce any of the antitrust laws.
+[33] This amendment would have placed state attorneys general on a par with the United States as enforcers of the antitrust laws.
+[34] Congress, however, rejected the amendment by a vote of 21 to 39, with senators warning of the great danger of having a diversity of conclusions and expressing concern that the amendment might prevent uniform policy in the enforcement of the antitrust law.
+[35] The rejection of the Reed Amendment provides a strong indication that Congress valued uniformity, and that states should be subject to a greater burden when taking measures conflicting with those of the federal agencies.
+[36]
+The nature of state authority under the federal antitrust laws points the same way.
+State standing for non-proprietary suits is limited to assertion of its quasi-sovereign interests asparens patriaeon behalf of its citizens.
+[37] Although its contours are vague, this quasi-sovereign role is undoubtedly a narrower one than the fully sovereign role of the United States.
+Individual states must show some further interest than their governmental status in order to proceed in court,[38] but the United States may sue to restrain violations of either Act without any showing of injury.
+Similarly, when states sue as parens patriae for injunctive relief under Section 16 of the Clayton Act, they are, as the Supreme Court described in American Stores, standing in the shoes of private litigants, and the Supreme Court has long clarified that [t]he private-injunction action .
+.
+.
+supplements Government enforcement of the antitrust laws; but it is the Attorney General and the United States district attorneys who are primarily charged by Congress with the duty of protecting the public interest under these laws .
+.
+.
+.
+Congress did not intend that the efforts of a private litigant should supersede the duties of the Department of Justice in policing an industry.
+[39]
+The second basis for the Divisions view is that federal enforcers are better situated to represent the interests of the entire United States.
+In contrast to state attorneys general, who protect the interests of their own residents, the United States alone is tasked with protecting consumers across the nation from anticompetitive effects.
+[40] Federal antitrust agencies are better able to balance the effects of anticompetitive conduct or mergers on the nation as a whole.
+This is hardly a new idea: As former Assistant Attorney General Bill Baer said in 2014, federal enforcement seeks to protect the interest of all consumers across the nation, while state enforcers understandably focus their efforts on the consumers in their respective states.
+[41]
+The third rationale is related to distinctions between federal and state institutions.
+Some deference, as one judge recently put it, is due to federal enforcement based on the relative expertise and persuasiveness of the agencys conclusion.
+This follows directly from Supreme Court precedent, including the Courts 2010 opinion in Monsanto and its antitrust-specific holding in BMI v.
+CBS.
+In BMI, the Court stressed in its decision that it cannot be ignored that the Federal Executive and Judiciary have carefully scrutinized [a business] and [its] challenged conduct.
+[42] And it is a basic principle of equity, reaffirmed in Monsanto, that courts must consider existing remedies.
+[43]
+Some deference also is consistent with the fact that the federal antitrust agencies have hundreds of specialized lawyers and economists who review antitrust matters each year, across a variety of industries, and often are intimately familiar with th[e] technical subject matter, as well as the competitive realties involved.
+[44] As Judge Marrero explained in his opinion in the T-Mobile/Sprint merger, [w]here federal regulators have carefully scrutinized the challenged merger, imposed various restrictions on it, and stand ready to provide further consideration, the court has a unique indicator that the challenged practice may have redeeming competitive virtues and that the search for those values is not almost sure to be in vain.
+[45]
+Accordingly, although a federal agencys decision to approve a merger does notand should notimmunize it from further challenge by states, federal agencies should be accorded some deference and states with diverging views from federal agencies should be required to grapple with or refute the considered reasoning of the federal agencies.
+Framework for Dual Enforcement
+For the reasons I have described, federal antitrust authorities ought to be considered the primary enforcers of federal antitrust law in moments of conflict.
+[46] But where does this leave courts, in a regime that contemplates multiple enforcers without explaining how their decisions interact? How should courts think about and resolve conflicts? Traditional doctrines such as res judicata or first-to-file are of course of little help in a world of simultaneous challenges.
+Commentators calls for courts to allow states to go above a federal floor or to abolish state authority do not make sense of both the primary role of federal enforcers and the important role of state enforcers.
+Such extremes also do not account for the commonly-held view that some state enforcement actions are more appropriate than others.
+[47]
+One way to add conceptual coherence is to think of the relative weight courts should accord to state enforcers as fluctuating, rather than as constant.
+That weight ebbs and flows based on whether the states suit conflicts with the actions of the federal agencies.
+To put it another way, perhaps a more appropriate model for this arena is not traditional federalism modelslike dual federalism or cooperative federalismbut a separation of powers-style modellike that of the Youngstown framework that governs the interaction between the Executive and the Legislature in the federal system.
+[48] Federalism models tend to assume that the actions of one sovereign may affect the facts on the ground but not the legal abilities of the other sovereign.
+That is simply not the way courts behave in this arena.
+The analogy is not perfect, but I think a model of the following three situations is preferable to the presumptions of the current debate.
+1.
+The first situation is when state enforcement conflicts with federal enforcement.
+In these situations, the federal government has decided that a particular course best serves the interests of the nation as a whole.
+Several states may pursue a different enforcement course that they believe is in the interest of their state citizenry.
+Courts should and do hesitate in favoring the local over the national interest in these situations; it is here that state enforcement weight is at its weakest.
+[49] To the extent that courts credit state enforcement, it is in cases where a particular enforcement action primarily affects activity that occurs within a states borders, which is where a states interest is at its strongest.
+[50]
+I want to pause to note here that conflict does not arise solely when one enforcer wants a certain action and the other enforcer wants to stop that action.
+Rather, it can arise when one enforcer simply wants an antitrust defendant to undertake additional remedies.
+[51] That is because antitrust remedies often require balancing procompetitive and anticompetitive effects, rather than ratcheting only one way.
+[52] When it comes to mergers, for example, remedies should allow consumers to benefit from the efficiencies associated with the merger, while protecting consumers from the harms that would otherwise come from a lessening of competition.
+[53] More stringent remedies are not necessarily always better for the consumer, as a system that leads businesses to be overly cautious can also deter procompetitive transactions.
+As the Supreme Court said in Gypsum, where the conduct prescribed is difficult to distinguish from conduct permitted and indeed encouraged, as in the antitrust context, the excessive caution .
+.
+.
+will not necessarily redound to the publics benefit.
+The antitrust laws differ in this regard from, for example, laws designed to insure that adulterated food will not be sold to consumers.
+[54]
+In addition, in a world where most companies conduct operations across state lines, a consistent ratcheting up of remedies would introduce too much uncertainty to doing businesseffectively substituting a careful balance struck by federal enforcers with the most stringent test possible.
+As Judge Posner put it, the state attorneys general can pile on, but they cannot remove the Department from the pile .
+.
+.
+.
+The danger is that interstate businesses will be forced to conform their business practices to the most restrictive state interpretation of federal antitrust law.
+[55]
+2.
+The second situation is when state enforcement arises in the absence of any federal position.
+The federal agencies may simply not have addressed a particular issue.
+Or they may have addressed a particular issue but the state enforcement is incremental or additive to the federal remedy.
+In these situations, state enforcement does not find support in federal enforcement but it also does not run into contrary judgments of federal enforcers.
+This is a quite common occurrence in non-state, private litigation, and the Division is careful not to get in the way.
+For example, the Antitrust Division explained in our amicus brief in Jeld-Wen that no inference should be drawn from the Divisions decision to close an investigation of the transaction.
+[56]
+In this type of situation, courts can and should evaluate state enforcement as that of a government entity, but without any hesitation that the governmental entity does not speak for the public interest.
+The state of course also should receive greater consideration in cases involving primarily local effects, where the states enforcement does not obviously affect citizens across the country.
+The LiveNation decree modification earlier this year is a good example of this type of situation: in a case where states have expertise with respect to local concerts, the district court judge readily granted the states motion to add their own incremental relief to the relief obtained by the Division.
+3.
+The final situation is one in which the federal and state enforcers are fully aligned.
+In this situation, the state authority is at its zenith, because it is fully consistent with a determination of the national public interest.
+The states interest in local matters is echoed by a federal determination of the national public interest.
+This is the most common situation and it does not require courts to determine how to resolve conflicts among enforcers.
+I hope this analytical framework will help courts understand how they are and how they should be assessing enforcers views in times of divergence.
+This line of thinking on the weight and bounds of state authority also mirrors to great extent how the Division considers these questions internally: our interactions with state partners are similarly governed by the states familiarity with regional markets and industry.
+That is, the Division tends to give the states views more weight when the states have a comparative advantage.
+International Enforcers Coda
+The framework Ive outlined today finds an analog in the international arena, and I will close with this analogy because it is a helpful lens through which to view the federal/state relationship.
+There are more than 130 international enforcers.
+They often simultaneously review mergers and conduct with federal and state enforcers.
+And they inevitably reach conflicting determinations.
+We generally describe our interaction with these enforcers as governed by comity.
+That is to say, we weigh their decisions in a fluid manner, depending on each jurisdictions expertise and the persuasiveness of its argument.
+In the international context, the Division does not insist on making the same decisions as other nations to pursue uniformity at all costs, nor do we reach decisions in a vacuum.
+Rather, we work with our international counterparts when there are joint competitive concerns, but make our own decisions based on the applicable laws.
+For example, the Division worked with the UKs Competition and Markets Authority (CMA) in our review of the merger of Sabre and Farelogix, which the Division argued would have eliminated a disruptive competitor from the market for airline booking services.
+A United States district court denied the Divisions request for injunctive relief in a decision that has since been vacated, but the parties abandoned the merger in May after the UK CMA decided to block the transaction.
+Although we made final determinations to pursue relief on our own, discussions with the UK CMA staff enhanced our understanding of competitive conditions.
+I want to pause for emphasis here: contrary to what some in the bar may say, we make our own enforcement decisions and international agencies make their own decisions.
+It is an insult to their sovereignty to claim that they are USA pawns and it is an insult to the hardworking employees of the Division to claim that the Division is the pawn of any international agency.
+Nonetheless, when our conclusions point to the same outcome, as they did in Sabre, consumers inevitably benefit.
+The international harmonization of the competition laws across the globe redounds to the benefit of Americans.
+And it is one reason that the United States has engaged with our international colleagues to work toward that harmonization[57] and why we have begun filing briefs and letters in international courts advancing harmonization.
+As in the international context, convergence within the United States also serves to benefit consumers.
+In those rare times when our views diverge, however, I am hopeful that the courts will maintain the proper view of enforcement power by granting the deference due to the nations primary antitrust enforcer: The United States.
+Thank you.
+[1] See infra Part III.
+[2] See infra Parts III & IV (discussing LiveNation decree and T-Mobile-Sprint merger).
+[3] Makan Delrahim, Assistant Atty General, Antitrust Div.
+USA Dept of Justice, Getting Better: Progress and Remaining Challenges in Merger Review, Remarks as Prepared at the Media Institute Luncheon (Feb.
+5, 2020), https://www.
+justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-remarks-media-institute-luncheon.
+[4] California v.
+Am.
+Stores Co.
+, 495 USA 271, 284-85 (1990).
+For purposes of these remarks, the term state refers to the fifty states, the District of Columbia, Puerto Rico, and the USA territories of Guam, Northern Mariana Islands, and the Virgin Islands.
+See 15 USAC.
+ 15c, 15g(2).
+[5] 15 USAC.
+ 26 (Any person, firm, corporation, or association shall be entitled to sue for and have injunctive relief  against threatened loss or damage by a violation of the antitrust laws); Am.
+Stores, 495 USA at 283-84.
+[6] State of Georgia v.
+Pennsylvania Railroad Co.
+, 324 USA 439 (1945).
+[7] Id.
+at 451.
+[8] 495 USA 271 (1990).
+[9] Am.
+Stores, 495 USA at 282.
+[10] 15 USAC.
+ 15(a).
+[11] Title III of the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (HSR Act), 15 USAC.
+15c(a)(1).
+See also Illinois Brick Co.
+v.
+Illinois, 431 USA 720, 735 n.
+14 (1977) (explaining Congress created a new procedural device parens patriae actions by States on behalf of their citizens to enforce existing rights of recovery).
+[12] 15 USAC.
+ 15c(a)(2).
+[13] Hawaii v.
+Standard Oil Co.
+of Cal.
+, 405 USA 251 (1972).
+The Court had rejected the states parens patriae authority to sue for treble damages due to the requirement of harm to business and property in Section 4 of the Clayton Act, 15 USAC.
+ 15.
+[14] Hawaii v.
+Standard Oil Co.
+of Cal.
+, 405 USA 251, 257 (1972) (citations omitted).
+See also In re Elec.
+Books Antitrust Litig.
+, 14 F.
+Supp.
+3d 525, 531 (S.
+D.
+N.
+Y.
+2014) (citation omitted) (A State seeks to protect quasi-sovereign interests.
+ The parens patriae (i.
+e.
+, parent of the country) doctrine has its antecedent in the common-law concept of the royal prerogative, that is, the kings inherent power to act as the guardian for those under legal disabilities to act for themselves.
+); Margaret S.
+Thomas, Parens Patriae and the States Historic Policy Power, 69 SMU L.
+Rev.
+759, 769-79 (2016).
+[15] Late Corp.
+of the Church of Jesus Christ of Latter-Day Saints v.
+United States, 136 USA 1, 57 (1890); Margaret S.
+Thomas, Parens Patriae and the States Historic Policy Power, 69 SMU L.
+Rev.
+759, 780-86 (2016).
+[16] See Margaret S.
+Thomas, Parens Patriae and the States Historic Policy Power, 69 SMU L.
+Rev.
+759, 786-807 (2016).
+[17] 324 USA 439, 448 (1945) (internal citation omitted).
+But see Com.
+of Pa.
+v.
+Mid-Atl.
+Toyota Distributors, Inc.
+, 704 F.
+2d 125, 129 n.
+8 (4th Cir.
+1983) (contemplating the statutory right of action is more expansive than the strict contemplation of common law parens patriae actions.
+).
+[18] See, e.
+g.
+, Antitrust Modernization Commn, Report and Recommendations 194-96 (2007), https://govinfo.
+library.
+unt.
+edu/amc/report_recommendation/amc_final_report.
+pdf [hereinafter AMC Report] (The available evidence suggests that  state and federal non-merger antitrust enforcement over the past seventeen years has been broadly consistent and not in conflict and conflicts between state and federal enforcers in the cases they bring or remedies they seek are more the exception than the rule.
+).
+Similarly, for mergers, the vast majority of cases in which states have been involved (with or without federal participation) address competitive problems in local markets, in which states may have particular expertise.
+ Id.
+at 199.
+[19] Press Release, USA Dept of Justice, Atrium Health Agrees to Settle Antitrust Lawsuit and Eliminate Anticompetitive Steering Restrictions (Nov.
+15, 2018), https://www.
+justice.gov/opa/pr/atrium-health-agrees-settle-antitrust-lawsuit-and-eliminate-anticompetitive-steering.
+[20] See infra Part III.
+[21] See infra Part IV.
+[22] Phil Weiser, Colorado Atty General, The Enduring Promise of Antitrust, Blog Posts from the Attorney General, https://coag.gov/blog-post/prepared-remarks-the-enduring-promise-of-antitrust/.
+One way wonder, of course, whether this view is really best understood as a variant of dual federalism/states rights models that cooperative federalism models replaced in the middle of the twentieth century.
+See Heather K.
+Gerken, Federalism 3.0, 105 Cal.
+L.
+Rev.
+1694 (2017).
+[23] R.
+Hewitt Pate, Acting Assistant Atty General, Antitrust Div.
+USA Dept of Justice, The DOJ International Antitrust Program  Maintaining Momentum, Remarks Before the American Bar Association Section of Antitrust Law (Feb.
+6, 2003), https://www.
+justice.gov/atr/speech/doj-international-antitrust-program-maintaining-momentum; Deborah Platt Majoras, Deputy Assistant Atty General, Antitrust and Federalism, Remarks Before the New York State Bar Association (Jan.
+23, 2003), https://www.
+justice.gov/atr/speech/antitrust-and-federalism.
+See Jaret Seiberg, Checks and Imbalances, Daily Deal (July 26, 2004).
+[24] Robert H.
+Lande, When Should States Challenge Mergers: The Past and Future of Antitrust as Public Interest Law, 35 N.
+Y.
+L.
+Sch.
+L.
+Rev.
+1047, 1062 (1990).
+See also Richard Posner, Antitrust Law 281 (2d ed.
+2001) (A situation in which the benefits of government action are concentrated in one state and the costs in other states is a recipe for irresponsible state action.
+).
+[25] Richard Posner, Antitrust in the New Economy, 68 Antitrust L.
+J.
+925, 940 (2001).
+[26] Id.
+([States] are too subject to influence by  competitors.
+This is a particular concern when the [competitor] is a major political force in that state.
+); Richard Posner, Federalism and the Enforcement of Antitrust Laws by State Attorneys General, 2 Geo.
+J.
+L.
+& Pub.
+Poly 5, 8-9 (2004).
+[27] Chevron USAA.
+Inc.
+v.
+Natural Res.
+Def.
+Council, Inc.
+, 467 USA 837 (1984).
+[28] National Labor Relations Board v.
+Noel Canning, 573 USA 513 (2014).
+[29] Memorandum Amicus Curiae of the United States of America Regarding Microsoft Corporations Motion for Dismissal of the Non-Settling States Demand for Equitable Relief, State of New York, et al.
+v.
+Microsoft Corp.
+(filed April 15, 2002), http://www.
+usdoj.gov/atr/cases/f10900/10980.
+htm.
+[30] United States v.
+Borden Co.
+, 347 USA 514, 518-19 (1954).
+[31] Phil Weiser, Colorado Atty General, The Enduring Promise of Antitrust, Blog Posts from the Attorney General, https://coag.gov/blog-post/prepared-remarks-the-enduring-promise-of-antitrust/
+[32] As Justice Scalia put it, federalism is not a principle that runs in only one direction.
+See Antonin Scalia, The Two Faces of Federalism, 6 Harv.
+J.
+L.
+& Pub.
+Pol.
+19 (1982); Deborah Platt Majoras, Deputy Assistant Atty General, Antitrust and Federalism, Remarks Before the New York State Bar Association (Jan.
+23, 2003), https://www.
+justice.gov/atr/speech/antitrust-and-federalism.
+[33] 51 Cong.
+Rec.
+S14,476 (daily ed.
+Aug.
+31, 1914),reprinted in3 Earl W.
+Kintner,The Legislative History of the Federal Antitrust Law and Related Statutes2288 (1978).
+[34] 51 Cong.
+Rec.
+S14,526 (daily ed.
+Sept.
+1, 1914).
+[35] Senator Gallinger asked whether, if the States are in their individual capacities to prosecute suits under the antitrust laws,  there is not great danger of having a diversity of conclusions? 51 Cong.
+Rec.
+S14,477 (daily ed.
+Aug.
+31, 1914).
+Senator Colt stated that the amendment will prevent the carrying out of any uniform policy in the enforcement of the antitrust law.
+ 51 Cong.
+Rec.
+S14,518 (daily ed.
+Sept.
+1, 1914).
+See also Memorandum Amicus Curiae of the United States of America Regarding Microsoft Corporations Motion for Dismissal of the Non-Settling States Demand for Equitable Relief, State of New York, et al.
+v.
+Microsoft Corp.
+(filed April 15, 2002), http://www.
+usdoj.gov/atr/cases/f10900/10980.
+htm.
+[36] Attorney General Weiser argues that Congress intended federal enforcement to serve as a floor, analogizing to the Clean Water Act.
+This is a questionable analogy.
+Unlike in other areas of law where Congress plainly intended to set a floor or ceiling, the antitrust statutes give no indication that the enforcement efforts of the federal government are meant to be only a floor.
+See, e.
+g.
+, 15 USAC.
+\u202f26 (permitting private litigants to seek injunctive relief without mention of the actions of the federal antitrust agencies); 15 USAC.
+\u202f15c (permitting states to recover damages without mention of actions of the federal antitrust agencies).
+For example, the Clean Water Act explicitly clarifies that states can pass further standard[s] or limitation[s], or other requirements only if they are not less stringent than federal requirements.
+33 USAC.
+ 1370 (2000).
+Attorney General Weiser does not point to any similar language in the antitrust statutes.
+[37] As the Supreme Court said in Alfred L.
+Snapp & Son, Inc.
+v.
+Puerto Rico, 458 USA 592, 607 (1982), a state acting asparens patriaeasserts only a quasi-sovereign interest in the health and well-being  both physical and economic  of its residents in general.
+ See also State of Ga.
+v.
+Pennsylvania R.
+Co.
+, 324 USA 439, 448 (1945) (internal citation omitted) ([T]he interests of the State are not confined to those which are proprietary; they embrace the so-called quasi-sovereign interests .
+).
+[38] It is an open question at the appellate level whether states must show a state-specific injury to obtain relief.
+The AMC debated the proper answer to that question.
+[39] United States v.
+Borden Co.
+, 347 USA 514, 518-19 (1954).
+[40] For example, the website of the Office of the Attorney General of California specifies the Attorney General is the states top lawyer and law enforcement official, protecting and serving the people and interests of California.
+.
+.
+ About the Office of the Attorney General, Xavier Becerra, Attorney General, https://oag.
+ca.gov/office.
+The mission statement of the Office of the Attorney General of Texas is likewise to champion[] liberty and justice for Texas.
+ Duties & Responsibilities, Ken Paxton, Atty General of Texas, https://www.
+texasattorneygeneral.gov/about-office/duties-responsibilities.
+[41] Bill Baer, Assistant Atty General, Antitrust Div.
+USA Dept of Justice, Public and Private Antitrust Enforcement in the United States, Remarks as Prepared for Delivery to European Competition Forum (Feb.
+11, 2014), https://www.
+justice.gov/atr/file/517756/download
+[42] Broad.
+Music, Inc.
+v.
+Columbia Broad.
+Sys.
+, Inc.
+, 441 USA 1, 13 (1979).
+[43] Monsanto Co.
+v.
+Geertson Seed Farms, 561 USA 139, 165 (2010).
+[44] New York v.
+Deutsche Telekom AG, 439 F.
+Supp.
+3d 179, 225 (S.
+D.
+N.
+Y.
+2020) (internal quotation omitted).
+[45] Id.
+at 224 (quoting Broad.
+Music, Inc.
+v.
+Columbia Broad.
+Sys.
+, Inc.
+, 441 USA 1, 13 (1979)).
+[46] United States v.
+Borden Co.
+, 347 USA 514, 518-19 (1954).
+[47] Although many hold this view, few agree on which activities are more appropriate.
+[48] Youngstown Sheet & Tube Co.
+v.
+Sawyer, 343 USA 579 (1952).
+[49] For example, in both Microsoft and TMo/Sprint, the court acknowledged it must consider the federal, national remedy, in deciding upon any state-based relief.
+[50] This view is in line with the AMCs recommendations: State non-merger enforcement should focus primarily on matters involving localized conduct or competitive effects.
+ AMC Report at 187, 192.
+[51] One other additional caveat is important: it is rare for the conflict to be between the federal enforcer and one state enforcer.
+It is more common for there to be multiple state enforcers on both sides of the balance.
+But that does not change the calculus, because it is still the federal enforcer that speaks for the nation as a whole.
+[52] Makan Delrahim, Assistant Atty General, Antitrust Div.
+USA Dept of Justice, Getting Better: Progress and Remaining Challenges in Merger Review, Remarks as Prepared at the Media Institute Luncheon (Feb.
+5, 2020), https://www.
+justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-remarks-media-institute-luncheon.
+See also Thomas O.
+Barnett, Assistant Atty General, Antitrust Div.
+USA Dept of Justice, Section 2 Remedies: A Necessary Challenge, Remarks at the Fordham Competition Law Institute (Sept.
+28, 2007), https://www.
+justice.gov/atr/speech/section-2-remedies-necessary-challenge (Where we find a violation of Section 2, we seek an effective remedy.
+We need to consider, however, whether each remedy under consideration is likely to do more good than harm to consumer welfare.
+)
+[53] Makan Delrahim, Assistant Atty General, Antitrust Div.
+USA Dept of Justice, Getting Better: Progress and Remaining Challenges in Merger Review, Remarks as Prepared at the Media Institute Luncheon (Feb.
+5, 2020), https://www.
+justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-remarks-media-institute-luncheon.
+[54] United States v.
+USA Gypsum Co.
+, 438 USA 422, 443 n.
+17 (1978).
+[55] Richard Posner, Federalism and the Enforcement of Antitrust Laws by State Attorneys General, 2 Geo.
+J.
+L.
+& Pub.
+Poly 5, 11 (2004).
+Deborah Platt Majoras, Deputy Assistant Atty General, Antitrust and Federalism, Remarks Before the New York State Bar Association (Jan.
+23, 2003), https://www.
+justice.gov/atr/speech/antitrust-and-federalism (Under the current system .
+.
+.
+businesses may have to tailor their behavior to pass muster with the most restrictive of many potential enforcers, if they can even discern who it is and what that enforcer wants.
+).
+[56] Brief for the United States of America as Amicus Curiae in Support of Appellee Steves and Sons, Inc.
+, Steves and Sons, Inc.
+v.
+Jeld-Wen, Inc.
+, No.
+19-1397 (4th Cir.
+2019).
+[57] That includes through the ICN and other established bodies, such as the OECD.
+Speaker:Michael Murray, Former Acting Principal Deputy Assistant Attorney GeneralAttachment(s): Download Murray Speech Scalia Law School.
+pdfTopic(s):AntitrustComponent(s):Antitrust Division
+Updated January 6, 2021

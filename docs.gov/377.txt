@@ -1,0 +1,51 @@
+https://www.justice.gov/opa/pr/united-airlines-pay-49-million-resolve-criminal-fraud-charges-and-civil-claims
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Friday, February 26, 2021
+United Airlines to Pay $49 Million to Resolve Criminal Fraud Charges and Civil Claims
+United Airlines Inc.
+(United), the worlds third largest airline, has agreed to pay over $49 million to resolve criminal charges and civil claims relating to fraud on postal service contracts for transportation of international mail.
+United entered into a non-prosecution agreement (NPA) with the Criminal Divisions Fraud Section and agreed to pay $17,271,415 in criminal penalties and disgorgement to resolve a criminal investigation into a fraud scheme perpetrated by former employees of Uniteds Cargo Division in connection with Uniteds execution of contracts to deliver mail internationally on behalf of the USA Postal Service (USPS).
+Separately, United has entered into a False Claims Act settlement with the Civil Divisions Commercial Litigation Branch, Fraud Section, for related conduct, under which it is obligated to pay $32,186,687.
+United was entrusted by the USA Postal Service with fulfilling a critical government function  the transportation of USA mail abroad, said Acting Assistant Attorney General Nicholas L.
+McQuaid of the Justice Departments Criminal Division.
+Instead of performing this duty with transparency, United defrauded the USA Postal Service by providing falsified parcel delivery information over a period of years and accepting millions of dollars of payments to which the company was not entitled.
+Todays resolution emphasizes that companies that defraud the government  no matter the context, contract, or federal program  will be held accountable.
+
+Companies that do business with the United States must adhere to their contractual obligations, said Acting Assistant Attorney General Brian M.
+Boynton of the Justice Departments Civil Division.
+The Department of Justice will pursue those who knowingly fail to provide the government with the goods or services for which it has paid and that it is entitled to receive.
+
+The USPS contracts with commercial airlines for the safeguarding and timely delivery of USA Mail to foreign posts, including the mail sent to our soldiers deployed to foreign operating bases, said Director Steven Stuller ofthe USA Postal Service (USPS) Office of Inspector General.
+The Office of Inspector General supports the Postal Service by aggressively investigating allegations of contractual non-compliance within the mail delivery process, including the falsification of delivery information.
+Our special agents worked hand-in-hand with the Department of Justice to help ensure a reasonable resolution and we applaud the exceptional work done by the investigative and legal teams.
+
+According to the criminal NPA and civil settlement agreement, United entered into International Commercial Air (ICAIR) contracts with USPS, by which United transported USA mail internationally on behalf of USPS.
+Pursuant to these ICAIR contracts, United was obligated to provide bar code scans of mail receptacles to USPS when United took possession of the mail receptacles and when the receptacles were delivered to the foreign postal administration or other intended recipient.
+United was entitled to full payment under these ICAIR contracts only if accurate mail scans were provided and mail was timely delivered to the foreign postal administration or intended recipient.
+Between 2012 and 2015, United engaged in a scheme to defraud USPS by submitting false delivery scan data to make it appear that United and partner airlines with which it worked were complying with the ICAIR requirements, when in fact they were not.
+Instead of providing USPS accurate delivery scans based on the movement of the mail, United submitted automated delivery scans based on aspirational delivery times.
+These automated scans did not correspond to the actual movement of the mail, as mandated by the contracts.
+Because this scan data was not tethered to the actual delivery of mail to the foreign recipients, payment was inappropriate under the ICAIR contracts.
+Through this data automation scheme, United secured millions of dollars in payments from the USPS to which United was not entitled under the ICAIR contacts.
+United further admitted that it concealed problems related to scanning and mail movements that, if known, would have subjected United to financial penalties under the ICAIR contracts.
+Certain individuals at United worked to conceal Uniteds automation efforts from the USPS, as they knew that the data being transmitted was fabricated.
+These individuals further knew that the transmission of false data violated the terms of the ICAIR contracts.
+The attempts to hide the automation practices included efforts to revise the falsified delivery times to make the automated scans appear less suspicious to USPS.
+As part of the criminal resolution, United has agreed to continue to cooperate with the Criminal Divisions Fraud Section and to report any evidence or allegation of a violation of USA fraud laws.
+United has further agreed to strengthen its compliance program and to specific reporting requirements, which require United to submit yearly reports to the Fraud Section regarding the status of its remediation and implementation of Uniteds compliance program and internal controls, policies, and procedures aimed at deterring and detecting violations of USA fraud laws in connection with government contracting.
+The Criminal Divisions Fraud Section reached this resolution with United based on a number of factors, including the nature and seriousness of the offense conduct; Uniteds failure to timely and voluntarily selfdisclose the offense conduct to the department; and Uniteds prior history, including a 2016 non-prosecution agreement relating to potential criminal bribery or corruption violations arising out of Uniteds establishment and operation of a non-stop route between Newark Liberty International Airport in New Jersey and Columbia Metropolitan Airport in South Carolina.
+In addition, United, responding to the Fraud Sections requests, cooperated with the Fraud Sections investigation by collecting, organizing, and producing voluminous documents, assisting in making employees available to be interviewed, and making a factual presentation to the Fraud Section.
+The Fraud Section did not require United to pay a victim compensation payment as part of the NPA because United agreed to a global resolution of its criminal and civil liability, entering into a separate civil settlement agreement with the Departments Civil Division.
+The Criminal Divisions Fraud Section also considered that United engaged in remedial measures after the offense conduct, including: (i) removing and replacing the principal manager of the criminal scheme detailed in the Statement of Facts; (ii) hiring outside legal and accounting advisors to review and consult on Uniteds government contracting compliance and related policies and procedures; (iii) establishing an independent Government Contracts Organization to manage and ensure contractual compliance for Uniteds government contracts that reports directly to Uniteds Legal Department; (iv) establishing a training curriculum and holding a monthly training call for employees who have government contracting-related duties and responsibilities; (v) prohibiting automation and limiting access to flight configuration data to ensure that data transmitted to the USPS cannot be manipulated by employees; (vi) conducting international mail operations process reviews; and (vii) enhancing its policies and procedures relating to obtaining and complying with government contracts, including assignment of roles and responsibilities, ensuring accurate representations to the USA government, and subcontracting.
+The civil settlement resolves allegations under the False Claims Act that United falsely reported the times it transferred possession of United States mail to foreign postal administrations or other intended recipients.
+This is the fourth civil settlement involving air carrier liability for false delivery scans under the USPS ICAIR Contracts.
+Including the civil settlement announced today, the United States has recovered nearly $65 million in connection with its investigation of delivery scan practices under the ICAIR Contracts through these civil settlements.
+The criminal case was investigated by the USPS Office of the Inspector General.
+Assistant Chief Timothy A.
+Duree of the Criminal Divisions Fraud Section prosecuted this case.
+The civil matter was handled by the Civil Divisions Commercial Litigation Branch, Fraud Section, with assistance from the USPS Office of the Inspector General and the USPS Office of General Counsel.
+Senior Trial Counsel Don Williamson of the Civil Divisions Commercial Litigation Branch, Fraud Section, represented the government in the civil case.
+Attachment(s): Download United non-prosecution agreement Download United settlement agreementTopic(s):Financial FraudComponent(s):Civil DivisionCriminal DivisionPress Release Number:21-184
+Updated February 26, 2021

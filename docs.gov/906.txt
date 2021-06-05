@@ -1,0 +1,223 @@
+https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-michael-murray-delivers-remarks-university-michigan-law
+Deputy Assistant Attorney General Michael Murray Delivers Remarks at University of Michigan Law School
+Washington, DCUnited States
+~
+Wednesday, October 14, 2020
+The Muscular Role for Antitrust in Fintech, Financial Markets, and Banking: The Antitrust Divisions Decision to Lean In
+Teleconference from Washington, D.
+C.
+Thank you for that kind introduction.
+I am here today to speak about the intersection of the antitrust laws and the financial sector of our economy.
+The financial markets and the financial services industry are currently undergoing massive transformation.
+New technologies are disrupting how we do business, how we transact with each other, and how the economy functions.
+Much of this change benefits consumers with innovative, low cost, and convenient products and services.
+But with rapid change also comes the opportunity for anticompetitive conduct and its attendant harm.
+Incumbents may predict and resist their demise and seek to slow innovation and the growth of rivals, and market participants who should compete against each other can agree to act jointly to the detriment of the American consumer.
+The SEC under the sterling leadership of Chairman Jay Clayton has undertaken many efforts to address these developments.
+Anyone who knows Chairman Clayton will not be surprised by that, for he is a visionary leader and an asset to the American consumer.
+The SEC also is naturally situated to focus on the financial markets.
+What is more remarkable, however, is that under the leadership of AAG Makan Delrahim, the Antitrust Division, too, is rising to meet these challenges of the new millennium.
+Today, I will discuss how the Antitrust Division is addressing these new challenges with substantive and structural changes.
+I will start with a short description of the existing legal framework that governs the overlapping jurisdiction of federal agencies in the financial markets.
+Existing legal doctrines could be read to suggest that antitrust should lean out of some of the most crucial spaces in our economy, forsaking antitrust enforcement and initiatives in deference to regulatory oversight.
+But the Division, with the support of its federal partners such as the SEC and the banking regulators, has refused to abdicate its role and instead has risen to the challenge of ensuring competition in these markets with new efforts, initiatives, and energy.
+Indeed, AAG Delrahim has made several changes that courageously revolutionize our approach to the financial markets and financial services sector.
+I will discuss how the Division is leaning in to this space with a muscular role for antitrust in fintech, financial markets, and banking that should serve the country well in this new time.
+Before that discussion, I want to first underscore why the Antitrust Division is leaning in.
+For all the variety within the sector, and for all the types of products and services, they have something important in common: they are critical, even foundational, to American consumers.
+American consumers, after all, are what the antitrust laws are really all about.
+In the 21st century, the stock market of the big banks is also that of the pension plan and the 401k, and the complicated financial instrument is the path to homeownership and the middle class.
+The Antitrust Divisions resources are best directed to areas like this, where competition and innovation stand to benefit consumers, and where their absence can harm them.
+That is why it is so important that we are leaning in.
+Before discussing the Divisions decision to lean in, it is important by way of background to discuss the legal framework governing the relationship between the antitrust laws and antitrust enforcement and the securities laws and securities enforcement.
+The primary antitrust laws by their terms do not limit their purview to certain regulatory sectors.
+Consequently, the question often arises as to how these laws relate to various regulatory regimes and, specifically, whether both sets of laws can apply to the same set of conduct.
+Some statutes, such as the Telecommunications Act of 1996, explicitly address this relationship, and either declare the antitrust laws precluded or declare them saved from preclusion.
+Courts routinely interpret the scope of these so-called savings clauses.
+ Perhaps most prominently, about twenty years ago, the Supreme Court held in a case called Verizon Communications Inc.
+v.
+Law Offices of Curtis V.
+Trinko, LLP, that the Telecommunications Acts savings clause allowed a court to entertain a refusal to deal claim involving Verizon.
+Other statutes, however, do not include savings clauses.
+ When there is no textual provision on the relationship between the antitrust and other laws, courts conduct what is called an implied preclusion analysis.
+The result varies from industry to industry and regulatory regime to regulatory regime.
+In the securities industry, there are four canonical cases addressing this issue.
+They evidence an evolution in judicial thinking, because they reach different results on similar facts.
+First, in Silver v.
+New York Stock Exchange, the Supreme Court considered a dealers claim that his expulsion from the New York Stock Exchange constituted a group boycott in violation of the antitrust laws.
+The Court held that the claim was not precluded in so far at it involved the denial of a fair procedure for expulsion.
+It set forth a standard that implied repeal of the antitrust laws is appropriate only when it is necessary to make the [securities laws] work.
+
+In the second case, Gordon v.
+New York Stock Exchange, Inc.
+, the Court reached the opposite conclusion about preclusion.
+There, it considered alleged price fixing of commissions among stockbrokers.
+The Court tweaked the Silver standard, glossing that an implied repeal should be found only when there is a plain repugnancy between the antitrust and securities laws.
+It concluded such repugnancy existed because the SEC had, and had deployed, regulatory power over the rates of commissions.
+In United States v.
+National Assn.
+of Securities Dealers, Inc.
+, the Court again ruled the antitrust laws were precluded.
+There, it considered a DOJ complaint alleging the fixing of prices in the mutual fund market.
+The Court concluded the antitrust laws were precluded because, among other things, the securities laws permitted the challenged practice.
+Finally, in Credit Suisse Securities (USA) LLC v.
+Billing, the Court concluded that an antitrust challenge to various underwriting practices resembling tying of products together was precluded.
+It set forth a four-factor test that involved assessing whether the challenged transaction falls squarely within the heartland of the other regulatory context; the agency has clear and adequate authority to regulate; there is active and ongoing agency regulation; and there is a serious conflict between the antitrust and regulatory regimes.
+ After analyzing these factors, the court refused to allow the antitrust claim to proceed.
+This is the doctrinal framework in which important cases, such as the DOJs pricing case involving sub-dollar pricing in the 1990sand the options trading case that reached the Second Circuit in the 2000s, arise.
+Its current state is a multi-factor balancing test, with all of the attendant fluidity that entails in courts across the country.
+I want to offer four brief reflections on this doctrine before discussing how the agencies have reacted to it in practice.
+First, it is important to recognize that the federal agencies are not always in agreement on whether the antitrust laws are precluded.
+In the Credit Suisse case, the SEC generally argued in the Second Circuit for preclusion while the Department argued against it.
+This created an interesting intra-federal government conflict, which is not as unusual as it sounds.
+Even Executive Branch agencies sometimes find themselves in public conflicts.
+In those instances, there is a mechanism for resolving those disputes, namely, the Chief Executive.
+Conflicts between Executive Branch agencies and independent agencies are more intractable, however, in light of the structure of independent agencies.
+Indeed, even when the Executive Branch is united, independent agencies can take a different path.
+Second, it is important to consider the functional interaction of antitrust and securities laws.
+Securities laws set the framework for the functioning of the financial markets.
+Securities law enforcement polices compliance with those laws.
+Within securities law, consequently, there is both an ex ante and an ex post elementsetting the rules of the game and remedying past wrongs.
+Antitrust law enforcement, however, only is ex post (with the caveat that merger enforcement has an ex ante element with respect to market structure).
+As a result, enforcement and regulation can be seen as temporally related: enforcement can be used to rectify gaps in regulation and regulation can be used to obviate, or at least attempt to obviate, the need for enforcement.
+One can see that in the doctrine, where courts grapple not only with whether there is an actual conflict between regulatory obligations but also with whether an agency has or could regulate a particular practice.
+Third, there are important macro trends to the development of the implied preclusion doctrine.
+From the discussion of precedent above, one can infer a trend towards preclusion.
+But that is not true for preclusion cases across the board.
+In Trinko, for example, the Court rejected a preclusion ruling.
+One common denominator of Supreme Court antitrust cases for the 2000s, however, is that the antitrust plaintiff loses.
+In Trinko, though the Court rejected implied immunity, the refusal to deal claim failed.
+In Bell Atlantic Corp.
+v.
+Twombly, which is primarily considered a civil procedure case that heightened pleading standards, the Court in fact explicitly heightened the pleading standards for antitrust cases.
+In Credit Suisse, the antitrust claim was precluded.
+This is not always the caseApple, Inc.
+v.
+Pepper being the most prominent example (there, the Court allowed plaintiffs to pursue their antitrust claim against Apple)but understanding the Supreme Courts skepticism of antitrust claims is an important lens.
+It is not the only lens, for a countervailing trend is that the Court is skeptical of the administrative state, but it is nonetheless an important lens through which to view the development in the doctrine.
+Finally, it is important to consider how the doctrine relates to the practice of the agencies.
+Credit Suisse and its predecessors posit a division of labor between the SEC and the Division, namely, that antitrust law (and consequently the Division) have less of a role in areas of SEC regulatory authority.
+Although that may reflect historical practice at times, it does not reflect the bulk of the Divisions practice, and so it is to the Divisions current muscular view of the role of antitrust law in the financial space that I now turn.
+The American economy has changed drastically over the past two decades in response to technological developments.
+The financial markets and the financial services sector are no different.
+The financial markets are more complex than they have ever been.
+In the financial services sector, the emergence of electronic and mobile payment services, online banks, and other FinTechs have transformed the way that businesses and consumers interact, challenging traditional businesses such as credit cards and banks.
+The Antitrust Division under Makan Delrahim has responded directly to these changes.
+In so doing, the Division has set forth a muscular vision for its role in these sectors.
+We have yet to spell out in one place the Divisions vision to lean in.
+I will do so today.
+We have leaned in in three primary areas, all of which reflect conscious choices to be proactive, energetic, and innovative.
+First, the Division has leaned in to police aggressively the financial markets for ever complex antitrust crimes.
+This is the component where our current approach most reflects historical practice and AAG Delrahims improvements are of the in degree, not in kind, variety.
+Second, the Division has leaned in to update its practicesboth organizationally and substantivelyto adapt to the new realities of the financial markets and the financial services sector.
+Third, the Division has leaned in to cement a lasting and productive partnership with the SEC.
+These latter two components are path marking and put all on notice that the Division is not sitting idly by while anticompetitive conduct threatens American consumers on Main Street.
+The first component of our muscular role is aggressive enforcement of the antitrust laws to police the financial markets.
+Since the financial crisis, the Division has secured over 40 convictions for conduct involving the financial sector.
+For example, in the municipal bonds investigation, working closely with the SEC, which brought their own actions, the Divisions investigation resulted in one financial services firm and 17 individuals being convicted, and over $600 million in restitution, penalties, and disgorgement from four other financial institutions that entered into non-prosecution agreements.
+Similarly, together with its partners, the Division also prosecuted banks and traders for their participation in a scheme to manipulate the London Interbank Offered Rate, also known as the LIBOR rate, a critical benchmark tied to trillions of dollars in derivatives, loans, mortgages, and other financial products.
+The LIBOR investigation resulted in resolutions with six banks, which agreed to pay $1.3 billion in criminal fines, and eight individual convictions.
+In the foreign exchange or FX investigation, banks and individuals were charged for coordinating their currency trades to manipulate benchmark exchange rates to increase their profits, and agreeing to withhold bids or offers to avoid moving the exchange rate in a direction adverse to open positions held by their co-conspirators.
+This investigation led to five major banksCiticorp, JPMorgan Chase, Barclays, The Royal Bank of Scotland, and BNP Paribas USAentering into guilty pleas and agreeing to pay more than $2.5 billion in criminal fines; guilty pleas from two former traders; and the conviction of another trader after trial.
+Most recently, after a three-week trial last November, Akshay Aiyer was found guilty of conspiring to fix prices and rig bids in the foreign currency exchange market.
+In September, he was sentenced to serve 8 months in prison and pay a $150,000 fine.
+Finally, the Antitrust Division prosecuted a conspiracy to submit rigged bids to borrow pre-release American Depository Receipts (ADRs).
+Worldwide, thousands of publicly traded companies list their shares of common stock only on foreign stock exchanges.
+Most USA investors are unable to purchase or sell such foreign shares.
+The Securities and Exchange Commission, however, permits four USA depository banks to create ADRs, which represent foreign ordinary shares and can be traded in the United States.
+Through the purchase and sale of ADRs, USA investors gain exposure to and receive dividends from companies whose common stock is listed only on foreign stock exchanges.
+Two broker dealers and two executives pleaded guilty to criminal charges for their involvement in a conspiracy to borrow pre-release ADRs from USA depository banks at artificially suppressed rates.
+They have been sentenced to pay criminal fines in excess of $5.5 million.
+These prosecutions require substantial resources and evidence the Divisions prioritization of enforcement in the financial markets.
+The second component of the Divisions new vision is to update our modes of analysis, in three separate ways.
+First, we have reformed our organization to recognize the evolution of the financial services sector.
+As of a few months ago, review of conduct and mergers in the financial services sector were divided as follows: the Technology and Financial Services Section handled debit cards, the Media, Entertainment, and Professional Services Section handled credit cards, and the Defense, Industrial, and Aerospace Section handled banking.
+This division of labor may have made sense twenty years ago, when customers generally walked into banks to get cash, carried travelers checks abroad, and wrote out personal checks by hand to send by mail.
+New technologies, however, have transformed the way that we transact in the economy.
+They also have blurred the lines between financial technology services, credit cards, and banking.
+These technologies compete amongst themselves in certain circumstances and also may compete with the traditional business models of credit card companies and banks.
+The pace of change and innovation is in fact remarkable.
+Consequently, we have consolidated financial services, credit cards, debit cards, and banking all under a single section that we plan to call the Financial Services, Fintech, and Banking section.
+(What had been the Technology and Financial Services section will focus entirely now on Technology and Digital Platforms.
+) This reorganization consolidates our expertise to harness synergies and leverage experience.
+As the inaugural DAAG overseeing this section, I can say that it is already bearing fruit.
+We recently reviewed LSE/Refinitiv, a large merger of exchange and data businesses, and are currently reviewing Visa/Plaid, and other deals we cannot talk about publicly or that are not yet public.
+Another related initiative is helping to develop that financial expertise specifically with respect to blockchain, machine learning, and artificial intelligence.
+We are relying on academic coursework offered by the MIT Sloan School of Management to provide valuable foundational insights into these technologies and their role in new and existing business models.
+We are using this coursework so that the Divisions attorneys and economists can understand what effect these types of technologies can have on competition.
+Second, we have paid particular attention to a pair of trends in this space and have updated our modes of thinking.
+One of the major trends we are seeing in the financial space is a greater number of transactions involving acquisitions of nascent competitors in emerging technologies.
+This is not unique to the financial services industrythe Division recently challenged the acquisition by Sabre (the dominant Global Distribution Systems provider) of a nascent disruptor and competitor named Farelogixand it is the subject of numerous academic analyses as evidenced by our recent Venture Capital Workshop.
+It is a trend, however, that is particularly prominent in the world of the fintech startup.
+We have to be vigilant to make sure that traditional business models are not using acquisitions to improperly frustrate innovation and harm consumers.
+This is also an area where it is useful to draw on the wide breadth of experience found throughout the Division.
+A second trend is the increasing number of vertical mergers that involve a number of different financial products and services, such as data platforms and infrastructure that are potentially inputs to the acquiring firms products.
+It is important when reviewing these mergers to consider how the firms involved with these products and services interact within the financial sector.
+And my experience is that we may well need to scrutinize closely the competitive impacts of vertical relationships in these mergers.
+A good example is the recent proposed acquisition of the London Stock Exchange Group of Refinitiv Holdings.
+I will be a little careful what I say about that deal because the transaction is still pending review in other jurisdictions, with the announcement of a partial divestiture of an Italian stock exchange just a few days ago.
+LSEG primarily operates trading platforms such as the London Stock Exchange, while Refinitiv is a well-known provider of financial market data and infrastructure that offers consolidated real-time (and non-real time) data feeds and other related services to financial industry professionals.
+The LSEG/Refinitiv merger was a complex merger review of two industry leading providers of largely complementary financial services.
+The Division considered the vertical relationships between LSEG and Refinitiv, as well as the horizontal aspects of the transaction where LSEG and Refinitiv offer competing products.
+What was particularly interesting about this deal is that the vertical relationships the Division analyzed went both ways: in some markets, Refinitiv is the upstream firm and in other markets, LSEG was the upstream firm.
+In assessing the impact of these vertical relationships, the Division put the new Vertical Merger Guidelines into practice and analyzed,for example, how the proposed transaction could affect the ability and incentives of LSEG and Refinitiv to change licensing terms for proprietary data feeds used by their rivals to supply products that compete against similar products from LSEG and Refinitiv, and specifically, how changes in the licensing could affect competition and affect American consumers.
+In the end, we determined that the proposed transaction was unlikely to significantly lessen competition for those products where rivals rely on LSEG and Refinitiv for inputs and issued a closing statement to that effect to explain to the public how we applied the new Vertical Merger Guidelines to the deal.
+Transparency is an important value, especially in this space.
+The third component of the Divisions muscular role is the Divisions decision to consider whether to revise the 1995 Banking Guidelines by soliciting public comments on any issue that interested stakeholders believe is relevant to the Divisions consideration.
+These guidelines fall within the heartland of the doctrines I discussed earlier this afternoon.
+When a bank merger application is made, it is concurrently reviewed by the Antitrust Division, as well as the relevant bank regulator (e.
+g.
+, the Federal Reserve).
+The Antitrust Divisions review is independent from review by the Federal Reserve and other banking regulators.
+The Division applies the same federal antitrust laws to banking mergers that it applies when analyzing any other industry.
+We have been active in this space: for example, in 2019, we reviewed the BB&T-SunTrust merger and required a multibillion-dollar divestiture across seven geographic markets.
+This merger was the largest bank merger since the financial crisis.
+It combined the #11 and #12 banks in the country.
+The staff conducted an extensive review of this transaction, conducting almost a 100 interviews of market participants, reviewing thousands of documents, analyzing data and considering the broad competitive impact of a merger this size on a national, regional and local level.
+One of the main takeaways, however, was that despite the size of the merger, the primary likely anticompetitive effects were local in nature, and it offered significant procompetitive synergies.
+To resolve the competitive concerns, the parties agreed to divest 28 branches in three states worth approximately $2.3 billion in deposits, which was the largest divestiture in a bank merger in over a decade.
+One of the things that that is interesting about this review is that we did not rely exclusively on the Banking Guidelines and its formulas.
+The Banking Guidelines serve an important function in that they allow the Antitrust Division and the banking regulators to screen the hundreds of banking applications filed each year and clear quickly those transactions that are unlikely to pose competitive concerns.
+They also provide guidance to practitioners advising their banking clients on what is or isnt likely to raise competitive concerns.
+The Banking Guidelines, however, have not been updated in almost two decades.
+They still follow the HHI thresholds in the 1992 Horizontal Merger Guidelines and were specifically exempted from change when the 2010 Merger Guidelines came out.
+In the meantime, much has changed in the way people bank and the new technologies that are available, which provide consumers competitive alternatives to traditional banking.
+Because the need to improve technology capabilities is driving some banks to merge and better compete against the larger firms, there are certain synergies or efficiencies that may be realized from these mergers that could benefit American consumers.
+Consequently, we are looking at ways that these Banking Guidelines can be modernized to reflect market realities and to put on papersimilar to the Vertical Merger Guidelineshow staff analyzes these bank mergers in practice.
+Review of the Banking Guidelines is part of the Antitrust Divisions broader efforts to modernize how we are analyzing financial industries.
+As Ive mentioned, in the past 20 years  and certainly more recentlythe emergence of innovative new technologies and FinTechs are disrupting traditional banking models and how weas consumers and businessesare transacting in the economy.
+Indeed, some of the new technologies may provide consumers competitive alternatives to traditional banking.
+Consequently, as banking and other financial industries have modernized, we must make sure that our analytical tools keep up with these changes.
+For example, we are considering to what extent the way we assess markets and market concentration in the banking industry should be similar to how we do it under the generalized 2010 Merger Guidelines, how to account for non-traditional (e.
+g.
+, online) banks, and whether bank-specific guidelines are useful.
+Though the Division analyzes banking mergers independently, it is of course consulting with the Federal Reserve about potential revisions to the Banking Guidelines.
+The Antitrust Division has a strong relationship with the banking agencies and has and will continue to consult with the Federal Reserve (and other banking regulators) on any changes.
+I should flag that, importantly, the Division has not made any decision about whether or not to revise any aspect of the Banking Guidelines.
+We will review and consider the public comments before making any decision.
+The third component of the Divisions decision to lean in is robust partnership with the SEC.
+This partnership is about being prepared to take proactive steps to protect competition in the financial markets.
+The partnership highlights a level of interaction between the securities and antitrust enforcers that is perhaps not apparent from the doctrines of implied preclusion.
+The partnership has been cemented in several ways.
+First, we have supported the SEC in its efforts to update and modernize its regulation of the financial markets.
+For example, the SEC issued a Market Data Proposal designed to enhance the current market data infrastructure by reducing the existing disparity in content and latency between market data consolidated by securities information processors.
+The Antitrust Division commended these efforts in a public comment in so far as they propose changes intended to lower barriers to entering these markets.
+The Antitrust Division also commented on the SECs proposed rule Amendments to Exemptions from the Proxy Rules for Proxy Voting Advice, also commonly known as the Proxy Rules Proposal.
+ This proposal is designed to help ensure that investors who use proxy voting advice receive more accurate, transparent, and complete information on which to make their voting decisions.
+ In other words, the SEC is trying to modernize regulations and spur competition.
+The Division commented that, as a general matter, competition is aided by better access to better information.
+We also cautioned that competition can be impaired by increasing regulatory burdens because increasing costs may disproportionately affect smaller firms or new entrants.
+Second, the Division recently announced the first-ever Memorandum of Understanding between the two agencies.
+The MOU enhances the strong working relationship that already exists between the SEC and Antitrust Division.
+Specifically, the MOU creates a framework for our respective agencies to discuss and review law enforcement and regulatory matters affecting competition in the securities industry.
+Among other things, the MOU establishes regular means of communication between agency officials to discuss and review law enforcement and regulatory matters related to competitive conditions in the securities markets.
+We found that to be productive for the municipal bonds investigation and hope to enhance the partnership.
+This collaboration is important because financial exchange and securities markets are complex and preserving competition in these markets is critical to realizing consumer benefits.
+It is important, therefore, to make sure that both agencies share their insights and expertise and to identify opportunities to work together to achieve better outcomes.
+We are confident that these regular communications between the Division and the SEC will increase each agencys understanding and each agencys effectiveness in carrying out its respective legal responsibilities.
+We also expect that the MOU will lead to even more robust, comprehensive analyses incorporating both competition and securities law concerns that will benefit American consumers.
+As my remarks have demonstrated, the Antitrust Division under the leadership of AAG Delrahim consciously has decided to play an active role in promotion of competition in the financial markets, through criminal prosecution, civil merger and conduct analysis, and partnership with the SEC.
+We aim not to be popular among securities traders, incumbents in the financial markets and financial services sector, and other backers of the status quo, but rather to be, in the words of our AAG, officious intermeddlers in favor of competition and the American consumer.
+Thank you.
+Speaker:Michael Murray, Former Acting Principal Deputy Assistant Attorney GeneralAttachment(s): Download Murray SpeechComponent(s):Antitrust Division
+Updated October 15, 2020

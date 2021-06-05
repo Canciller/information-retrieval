@@ -5,6 +5,9 @@ COD="6"
 [ -z "$EXT" ] && exit 1
 [ -z "$OUTDIR" ] && exit 1
 
+TOTAL=1196
+DOCS="./docs.gov"
+
 case "$EXT" in
   "nulc");;
   "rice")
@@ -26,4 +29,4 @@ esac
 
 mkdir -p "$OUTDIR"
 
-./build/bin/create_index 96 ./docs "$OUTDIR" $COD
+./build/bin/create_index $TOTAL "$DOCS" "$OUTDIR" $COD

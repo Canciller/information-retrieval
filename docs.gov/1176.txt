@@ -1,0 +1,92 @@
+https://www.usda.gov/topics/animals/bse-surveillance-information-center
+Introduction
+USDA conducts surveillance for Bovine spongiform encephalopathy (BSE), referred to as mad cow disease, in cattle to determine if, and at what level, the disease is present in the USA cattle population.
+Our surveillance program allows us to assess any change in the BSE disease status of USA cattle, and identify any rise in BSE prevalence in this country.
+Identifying any changes in the prevalence of disease allows us to match our preventive measures - feed ban for animal health, and specified risk material removal for public health - to the level of disease in USA cattle.
+It is the longstanding system of interlocking safeguards, including the removal of specified risk materials - or the parts of an animal that would contain BSE - at slaughter and the FDAs ruminant-to-ruminant feed ban that protect public and animal health from BSE.
+Why did USDA decrease the number of samples per year in 2006?
+After the first confirmation of BSE in an animal in Washington State in December 2003, USDA evaluated its BSE surveillance efforts in light of that finding.
+We determined that we needed to immediately conduct a major surveillance effort to help determine the prevalence of BSE in the United States.
+Our goal over a 12-18 month period was to obtain as many samples as possible from the segments of the cattle population where we were most likely to find BSE if it was present.
+This population of cattle was exhibiting some signs of disease.
+We conducted this enhanced surveillance effort from June 2004 - August 2006.
+In that time, we collected a total of 787,711 samples and estimated the prevalence of BSE in the United States to be between 4-7 infected animals in a population of 42 million adult cattle.
+We consequently modified our surveillance efforts based on this prevalence estimate to a level we can monitor for any potential changes, should they occur.
+Our statistical analysis indicated that collecting approximately 40,000 samples per year from the targeted cattle population would enable us to conduct this monitoring.
+Why is USDA only testing 25,000 samples a year?
+USDAs surveillance strategy is to focus on the targeted populations where we are most likely to find disease if it is present.
+This is the most effective way to meet both OIE and our domestic surveillance standards.
+After completing our enhanced surveillance in 2006 and confirming that our BSE prevalence was very low, an evaluation of the program showed that reducing the number of samples collected to 40,000 samples per year from these targeted, high risk populations would allow us to continue to exceed these standards.
+In fact, the sampling was ten times greater than OIE standards.
+A subsequent evaluation of the program in 2016 using data collected over the past 10 years showed that the surveillance standards could still be met with a further reduction in the number of samples collected by renderers and 3D/4D establishments which have a very low OIE point value because the medical history of these animals is usually unknown.
+Therefore, in 2016, the number of samples to be tested was reduced to 25,000 where it remains today.
+How can USDA find every case of BSE in the United States when you are only testing 25,000 animals?
+The goal of our BSE surveillance program, even under the enhanced program, has never been to detect every case of BSE.
+Our goal is determine whether the disease exists at very low levels in the USA cattle population, and we do this by testing those animals most likely to have BSE.
+It is the longstanding system of interlocking safeguards, including the removal of specified risk materials - or the parts of an animal that would contain BSE - at slaughter and the FDAs ruminant-to- ruminant feed ban that protect public and animal health from BSE.
+Why didnt USDA continue to test animals at the enhanced surveillance level?
+USDAs 2004-2006 enhanced surveillance program was initiated in response to the first detection of BSE in the United States and was designed to detect the overall prevalence of the disease in this country.
+This required a very intensive effort and it allowed us to estimate extremely low prevalence levels of disease.
+Once that prevalence level was determined, USDA modified its testing levels to monitor any changes in the level of disease.
+Our current testing of approximately 25,000 targeted animals a year allows USDA to detect BSE at the very low level of less than 1 case per million adult cattle, assess any change in the BSE status of USA cattle, and identify any rise in BSE prevalence in this country.
+Is USDAs surveillance program a food safety or public health measure?
+The primary, and most effective, food safety or public health measure is the removal of specified risk materials (SRMs) - or the parts of an animal that would contain BSE - from every animal at slaughter.
+USDAs BSE surveillance program is not a food safety measure; it is an animal health monitoring measure.
+However, it does support existing public health and food safety measures.
+By allowing us to monitor the level of disease in the US cattle population, we can help determine the appropriate level of public health and animal health measures required, and whether they should be increased or decreased.
+Why doesnt USDA test every animal at slaughter?
+There is currently no test to detect the disease in a live animal.
+BSE is confirmed by taking samples from the brain of an animal and testing to see if the infectious agent - the abnormal form of the prion protein - is present.
+The earliest point at which current tests can accurately detect BSE is 2 to 3 months before the animal begins to show symptoms, and the time between initial infection and the appearance of symptoms is about 5 years.
+Therefore, there is a long period of time during which current tests would not be able to detect the disease in an infected animal.
+Since most cattle are slaughtered in the United States at a young age, they are in that period where tests would not be able to detect the disease if present.
+Testing all slaughter cattle for BSE could produce an exceedingly high rate of false negative test results and offer misleading assurances of the presence or absence of disease.
+Simply put, the most effective way to detect BSE is not to test all animals, which could lead to false security, but to test those animals most likely to have the disease, which is the basis of USDAs current program.
+What animals are USDA testing in the surveillance program? These are random samples at slaughter, arent they?
+No.
+USDA BSE surveillance program is specifically targeted to the population most likely to have the disease, if it is present.
+This population is NOT clinically healthy animals that would be presented for slaughter.
+Rather, it includes animals that have some type of abnormality, such as central nervous system signs; non-ambulatory, or a downer; emaciated; or died for unknown reasons.
+Because these animals would not pass the required ante-mortem inspection requirements at slaughter for human consumption, we collect the majority of our samples at facilities other than slaughter facilities - at rendering or salvage facilities, on-farm, at veterinary clinics or veterinary diagnostic laboratories.
+With this targeted approach, we can monitor the presence of disease in the US cattle population in a much more efficient and meaningful way.
+The key to surveillance is to look where the disease is going to occur.
+Key Points: BSE Ongoing Surveillance Plan
+Note: This Fact Sheet is based on the USDA Animal and Plant Health Inspection Service (APHIS) Bovine Spongiform Encephalopathy (BSE) Ongoing Surveillance Plan, July 20, 2006.
+To learn more, read the complete BSE Ongoing Surveillance Plan (PDF, 187 KB).
+KEY POINTS
+In addition to a stringent feed ban imposed by the Food and Drug Administration in 1997 as well as the removal of all specified risk material which could harbor BSE, USDA has a strong surveillance program in place to detect signs of BSE in cattle in the United States.
+In fact, we test for BSE at levels greater than World Animal Health Organization standards.
+The program samples approximately 25,000 animals each year and targets cattle populations where the disease is most likely to be found.
+The targeted population for ongoing surveillance focuses on cattle exhibiting signs of central nervous disorders or any other signs that may be associated with BSE, including emaciation or injury, and dead cattle, as well as non-ambulatory animals.
+Samples from the targeted population are taken at farms, veterinary diagnostic laboratories, public health laboratories, slaughter facilities, veterinary clinics, and livestock markets.
+USDAs National Veterinary Services Laboratories (NVSL) in Ames, IA, along with contracted veterinary diagnostic laboratories, use rapid screening tests as the initial screening method on all samples.
+Any inconclusive samples undergo further testing and analysis at NVSL.
+NOT A FOOD SAFETY TEST
+BSE tests are not conducted on cuts of meat, but involve taking samples from the brain of a dead animal to see if the infectious agent is present.
+We know that the earliest point at which current tests can accurately detect BSE is 2-to-3 months before the animal begins to show symptoms.
+The time between initial infection and the appearance of symptoms is about 5 years.
+Since most cattle that go to slaughter in the United States are both young and clinically normal, testing all slaughter cattle for BSE might offer misleading assurances of safety to the public.
+The BSE surveillance program is not for the purposes of determining food safety.
+Rather, it is an animal health surveillance program.
+USDAs BSE surveillance program allows USDA to detect the disease if it exists at very low levels in the USA cattle population and provides assurances to consumers and our international trading partners that the interlocking system of safeguards in place to prevent BSE are working.
+The safety of the USA food supply from BSE is assured by the removal of specified risk materials - those tissues known to be infective in an affected animal - from all human food.
+These requirements have been in place since 2004.
+ONGOING BSE SURVEILLANCE PROGRAM SUMMARY
+USDAs BSE surveillance program samples approximately 25,000 animals each year and targets cattle populations where the disease is most likely to be found.
+The statistically valid surveillance level of 25,000 is consistent with science-based internationally accepted standards.
+This level allows USDA to detect BSE at the very low level of less than 1 case per million adult cattle, assess any change in the BSE status of USA cattle, and identify any rise in BSE prevalence in this country.
+The targeted population for ongoing surveillance focuses on cattle exhibiting signs of central nervous disorders or any other signs that may be associated with BSE, including emaciation or injury, and dead cattle, as well as nonambulatory animals.
+Samples from the targeted population are taken at farms, veterinary diagnostic laboratories, public health laboratories, slaughter facilities, veterinary clinics, and livestock markets.
+USDAs National Veterinary Services Laboratories (NVSL) in Ames, IA, along with contracted veterinary diagnostic laboratories, will continue to use rapid screening tests as the initial screening method on all samples.
+Any inconclusive samples will be sent to NVSL for further testing and analysis.
+USDAs surveillance program uses OIEs weighted surveillance points system, which was adopted in May 2005 and reflects international scientific consensus that the best BSE surveillance programs focus on obtaining quality samples from targeted subpopulations rather than looking at the entire adult cattle population.
+The number of points a sample receives correlates directly to an animals clinical presentation at the time of sampling.
+The highest point values are assigned to those samples from animals with classic clinical signs of the disease.
+The lowest point values correspond to clinically normal animals tested at routine slaughter.
+The goal of this weighted approach is to ensure that countries sample those cattle populations where the disease is most likely to be found.
+This system is not different from USDAs previous BSE surveillance approach, it is simply a different method for evaluating surveillance programs.
+Both approaches target those cattle populations where BSE is most likely to be found.
+The OIE is simply assigning point values to different categories of animals.
+USDA has been targeting these subpopulations since BSE surveillance was initiated in 1990, and will continue to do so under the OIE weighted approach.
+Under the OIE guidelines, points compiled over a period of 7 consecutive years are used as evidence of adequate surveillance.
+At the current ongoing level of surveillance, the United States will far exceed OIE guidelines under the point system.

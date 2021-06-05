@@ -1,0 +1,139 @@
+https://www.justice.gov/opa/speech/remarks-deputy-assistant-attorney-general-michael-d-granston-aba-civil-false-claims-act
+Remarks of Deputy Assistant Attorney General Michael D.
+Granston at the ABA Civil False Claims Act and Qui Tam Enforcement Institute
+Washington, DCUnited States
+~
+Wednesday, December 2, 2020
+Good afternoon.
+I want to thank the American Bar Association, as well as the co-leaders of this conference, Sara Mclean, Rick Morgan and Lisa Noller, for inviting me to speak with you.
+The False Claims Act is the Governments primary tool for redressing the knowing misuse of taxpayer funds, and conferences like this one provide an important forum for interested parties to share their views about the act and how it should be interpreted and enforced.
+I cannot help but recall that one of the long-time co-leaders of this conference was Jack Boese, who as many of you are probably aware, passed away on Thanksgiving Day.
+Jack was truly a dean of the False Claims Act bar, and through his treatise, and decades of advocacy, had a lasting impact on the act and its development.
+He was fond of noting that he was counsel in the ATMI case, one of the cases that prompted the 2009 False Claims Act amendments, and not surprisingly, he was one of the individuals asked to testify at the Senate Hearing on those amendments, where he could be heard using his stock introduction  the last names Boese, rhymes with Crazy.
+ The False Claims Act community has lost a true legend, and Jacks boundless energy, booming voice, and generous spirit will be sorely missed.
+Today, I was asked to share with you some thoughts on the future of the Departments False Claims Act enforcement efforts.
+As in many circumstances, however, to understand where we may be headed, it is important to remember where we have been.
+So let me begin with a look at what has transpired over the last four years.
+I think it is fair to say that during this period there were significant developments on a number of fronts.
+Since fiscal year 2017, the Department has recovered approximately $11.4 billion under the False Claims Act  the third largest total for any similar period.
+This total was the result of 993 settlements or judgments, which is the second highest total for any similar period.
+Of the $11.4 billion recovered over the last four years, approximately 80 percent, or $9 billion, was recovered in health care fraud matters.
+The next largest categories of recoveries involved procurement fraud and mortgage fraud.
+Qui tam cases continued to serve as the predominant source of False Claims Act recoveries, accounting for approximately 80 percent of the Departments collections since 2017.
+And over that timeframe, qui tam relators received more than $1.54 billion as their share of these returns.
+The Departments False Claims Act recoveries, however, do not capture the full breadth of the Departments enforcement efforts over the last four years.
+Since fiscal year 2017, the Civil Division opened a record number of new matters.
+These new matters were the result of the filing of 2,638 qui tam cases, and the initiation of more than 660 investigations based on other sources of potential violations.
+While these cases and recoveries reflect the Departments continued commitment to broadly protect federal programs and operations, the Department also used the False Claims Act to target a number of specific enforcement priorities.
+Let me highlight just a few of those priorities.
+In response to the opioid epidemic, which according to data from the CDC claimed nearly 50,000 lives last year, we have used the False Claims Act to pursue individuals and entities that contributed to the epidemic by facilitating the diversion and abuse of prescription opioids.
+For example, Insys Therapeutics, the manufacturer of Subsys, a highly addictive sublingual fentanyl spray, agreed to pay $225 million to resolve its criminal and civil liability for paying kickbacks and engaging in other unlawful marketing practices.
+The kickbacks allegedly took the form of jobs for the prescribers relatives and friends, and lavish meals and entertainment.
+The United States also alleged that Insys improperly encouraged physicians to prescribe Subsys for patients who did not have cancer, and lied to insurers about patients diagnoses to obtain reimbursement for Subsys prescriptions written for Medicare and TRICARE beneficiaries.
+The United States also settled separately with Reckitt Benckiser and Indivior for a total of $2 billion for their shared criminal and civil liability in connection with the marketing of the opioid addiction treatment drug Suboxone.
+The False Claims Act portion of the resolution encompassed allegations that the two companies promoted the sale and use of Suboxone to physicians who were writing prescriptions for uses that lacked a legitimate medical purpose and to state Medicaid agencies using false and misleading safety claims.
+This historic recovery involving Suboxone was subsequently eclipsed by the settlement announced last month with Purdue, which agreed to pay more than $8.3 billion in fines, forfeiture, and damages.
+The $2.8 billion False Claims Act component of the settlement encompassed allegations that Purdue knowingly marketed its opioid drug Oxycontin to physicians that were prescribing the drug for medically unnecessary purposes and also engaged in various kickback schemes.
+Separately, the owners of Purdue, the Sackler family, agreed to pay $225 million to resolve their related False Claims Act liability, which is the largest settlement under the act with a non-corporate entity.
+In addition to pursuing those directly facilitating improper opioid prescriptions, we have also used the False Claims Act against individuals and entities that have sought to exploit the opioid epidemic by improperly billing for services related to opioid prescriptions.
+For example, we settled for $20 million allegations that the owner of a series of pain management clinics in Kentucky and Georgia that performed medically unnecessary balance tests, nerve conduction procedures, and qualitative drug screens.
+And we have pursued drug testing laboratories for using bundled tests or other fraudulent schemes to induce physicians to bill for excessive drug tests.
+A second area of focus over the last four years has been fraudulent schemes contributing to rising drug prices.
+We have used the False Claims Act in various ways to address such schemes.
+We have pursued cases where pharmaceutical companies have failed to report accurate information to the Medicaid program under the Drug Rebate Statute in order to underpay rebates that they owe.
+For example, the drug company Mylan paid $465 million to resolve allegations that it knowingly misclassified its EpiPen product as a generic drug.
+The misclassification allowed the company to demand massive price increases in the private market while avoiding its corresponding obligation to pay higher rebates that would have otherwise been required.
+And recently, the United States filed a complaint under the False Claims Act alleging that Mallinckrodt ARD and its predecessor underpaid Medicaid rebates due as a result of large increases in the price of one of its drugs.
+The Department also used the False Claims Act to pursue fraudsters who grossly inflated the price of compound medications reimbursed by TRICARE, a federally-funded health care program for military personnel and their families.
+In one case, a compounding pharmacy charged TRICARE at least 2,000 percent more for drugs than they charged cash-paying customers.
+Notably, TRICAREs costs for compounded drugs rose from $5 million in 2004 to $1.75 billion in fiscal year 2015.
+Another fraudulent scheme that has undermined safeguards designed to serve as a check on drug pricing has been the practice by pharmaceutical companies of improperly using foundations as conduits for the payment of patient copays.
+When Congress created the Medicare drug program, it included a copayment requirement, which creates customer price sensitivity that in turn serves as a control on overutilization of unnecessary drugs.
+We discovered that drug companies were improperly seeking to avoid this limitation by using information from foundations that allowed the companies to improperly tailor their donations to cover just the copays of patients taking their drugs.
+These practices not only illegally induced prescriptions and gave the violators a competitive advantage, but they also undercut a key safeguard on rising drug costs.
+To date, we have resolved more than 16 separate matters involving such schemes in which we have collectively recovered more than $1 billion.
+Yet another important priority for the Department has been investigating and litigating a growing number of matters related to Medicare Part C, which is Medicares managed care program.
+In 2019, a third of all Medicare beneficiaries  approximately 22 million beneficiaries  were covered by Medicare Part C.
+And in 2018, CMS paid more than $233 billion on behalf of such beneficiaries.
+Unlike Medicare Parts A and B, where Medicare pays for each patient admission or service, Medicare Part C pays a capitated amount for each patient, which is risk-adjusted based on a patients demographic information and health status.
+Over the past four years, we have obtained favorable settlements in a number of Medicare Part C cases involving participating plans or physicians who manipulated the risk adjustment process by submitting unsupported diagnosis codes to make their patients appear sicker than they actually were.
+For example, DaVita Healthcare Partners, which contracted with participating plans to provide healthcare services to Part C beneficiaries, paid $270M in September 2018 to resolve allegations that it (among other things) failed to alert Part C plans to diagnosis codes that its auditors determined were unsupported, provided coding guidance to its physicians that resulted in unsupported diagnoses, and improperly submitted acute care diagnoses based on non-acute encounters with primary care physicians.
+And just last month, California based Kaiser Foundation Health Plan of Washington, formerly known as Group Health Cooperative (GHC), agreed to pay over $6 million to resolve allegations that it submitted invalid diagnoses that resulted in inflated Part C payments.
+One type of scheme, in particular, that we have uncovered has been the attempt by certain participating plans to manipulate the risk-adjustment process by auditing  or hiring others to audit  patient medical records to identify additional codes that would increase their Medicare reimbursement.
+In the process of conducting these audits, the plans have uncovered unsupported diagnosis codes that were improperly submitted to Medicare.
+Rather than deleting these diagnosis codes at the same time they submitted the additional codes, however, they simply ignored the unsupported diagnosis codes.
+We are currently litigating two such cases against participating plans and a third case against a medical services provider.
+The final priority that I want to mention has been the use of the False Claims Act to combat schemes designed to take advantage of the elderly by providing them poor or unnecessary health care  or too often no care at all.
+Over the last four years the Department has reinforced its commitment to protect the health and welfare of these vulnerable members of society, who often lack the ability to advocate for themselves or others who can do so on their behalf.
+This past year, for example, we resolved False Claims Act matters with various skilled nursing facility chains and rehabilitation contactors for knowingly providing and/or billing for medically unnecessary rehabilitation therapy services that were influenced by financial considerations rather than patient needs.
+As another example of the Departments commitment to protect the health of our seniors, in September 2019, Avanir Pharmaceuticals agreed to pay $95.9 million to resolve allegations that it paid kickbacks and engaged in false and misleading marketing of its drug, Nuedexta, to induce providers in long term care facilities, including nursing homes, to prescribe it for behaviors commonly associated with dementia patients, which was not an approved use.
+Over-medicating nursing homes residents is a well-documented problem, which can lead to a host of issues, including unnecessary side effects and over-sedation of patients.
+Particularly disturbing was our settlement last year with Vanguard Healthcare, its majority owner and CEO, as well as its former director of operations, who collectively agreed to pay more than $18 million in allowed claims to resolve a False Claims Act lawsuit brought by the United States and Tennessee for billing the Medicare and Medicaid programs for grossly substandard nursing home services.
+During our investigation, we found a number of troubling practices at certain Vanguard nursing facilities, including the failure to administer medications or to provide standard infection control, as well as the use of unnecessary physical restraints and the failure to meet basic nutrition and hygiene requirements.
+In light of the continuing evidence of deficient care being provided to our nations seniors, in March of this year, the Department launched a National Nursing Home Initiative.
+The Department has opened investigations across the country and is actively and aggressively pursuing those matters.
+Let me turn now to another facet of the Departments approach to False Claims Act enforcement over the last four years.
+During this period, the Department enacted a number of policies governing both when such cases should be brought and how such cases should be settled.
+The first category includes what has become known as the Brand Memo, which announced that agency guidance should not serve as the basis for bringing enforcement actions, and that such actions should instead be based on existing statutory, regulatory or contractual requirements.
+The principles of the Brand Memo were subsequently incorporated into and expanded upon by the Justice Manual, which identifies various purposes for which agency guidance may be used in establishing violations of law.
+The Department also added to the Justice Manual guidance on how attorneys should use the United States authority under the False Claims Act to dismiss a qui tam action that does not advance the acts goal of redressing fraud.
+The guidance identifies the factors that the Department will consider, after investigating the applicable law and facts, in evaluating whether to invoke this authority, and instructs that the authority should be used judiciously.
+Consistent with the guidance, the Department has filed motions to dismiss in approximately 50 qui tam actions since it was issued.
+While that is more than had been dismissed prior to the guidance, it is a very small fraction of the more than 2000 qui tam actions that have been filed over that same period of time.
+As I mentioned, over the last four years the Department also enacted a number of policies that have impacted the settlement of False Claims Act cases.
+For example, the Yates memo was modified in several respects, including to make the identification by a corporate entity of responsible individuals a precondition in civil settlements for the receipt of maximum cooperation credit, rather than a precondition for any cooperation credit.
+Building on the updated Yates Memo, the Civil Division announced a specific cooperation policy applicable to False Claims Act cases.
+Under this policy, corporate defendants can earn credit  and a reduction in penalties and damages  by voluntarily disclosing misconduct, cooperating with pending investigations, and taking remedial measures.
+Since the False Claims Act cooperation policy was issued, the Civil Division has extended cooperation credit consistent with its terms as part of the resolution of a number of matters.
+Two other policies that apply to enforcement actions more generally are the Departments Anti-Piling on Policy and its Third Party Payment Policy.
+The former directs Department components to coordinate with each other, and with other governmental entities, to avoid the unnecessary imposition of duplicative fines and penalties on a settling company.
+The latter provides that it is generally inappropriate to include as part of any resolution a payment to non-governmental, third-party organizations who are not victims or parties to the lawsuit.
+Finally, this past September, the Civil Division adopted guidelines for settling cases based on a defendants ability to pay.
+The guidelines detail both the procedures that the Civil Division will follow, and the factors it will consider, in evaluating whether to settle a matter based on a consideration of the defendants financial condition rather than the underlying merits of the case.
+Against this backdrop of the priorities and policies of the last four years, let me turn now to the question of what may be in store for False Claims Act enforcement over the next four years.
+It is always difficult to predict what the future may hold, and new leadership often brings new ideas and priorities.
+Nevertheless, let me offer a few observations about what may lie ahead.
+First, if the history of the False Claims Act teaches us anything, it is that protecting taxpayer funds is a nonpartisan issue and that enforcement of the False Claims Act will likely continue to be an area of emphasis for the Department.
+Moreover, it is a good bet not only that health care fraud will remain a top focus of the Departments enforcement efforts generally, but that the Department will continue to pursue many of the specific health care fraud priorities of the last four years, including fraud schemes involving prescription opioids, Medicare Part C, and the quality of care provided to the elderly.
+Second, while many aspects of the Departments current enforcement efforts will likely remain unchanged, there are areas where you are likely to see some differences.
+You should expect, for example, that going forward the False Claims Act will play a central role in the Departments pursuit of COVID-19 related fraud.
+The governments coronavirus response includes $2.6 trillion in loans and other economic support for individual citizens, small businesses, hospitals and other medical providers, other impacted industries, and state, local and tribal governments.
+By comparison, the Congressional Budget Office has estimated that total disbursements under the TARP program were about a sixth of this amount.
+Given the unprecedented scale of the COVID-19 relief programs, the potential for fraud is significant.
+While the circumstances of the current pandemic may be novel, the inevitable fraud schemes it will produce will in many cases resemble misconduct that the False Claims Act has long been used to address.
+Whether the target of these schemes is the SBAs Paycheck Protection Program or HHS Provider Relief Program, they will likely include false representations regarding eligibility, misuse of program funds, and false certifications pertaining to loan forgiveness.
+The Civil Division is working closely with various Inspector Generals and other agency stakeholders to identify, monitor, and investigate these potential violations, and these efforts are expected to translate into significant cases and recoveries.
+Another area that is likely to be a focal point of the Departments future enforcement efforts is fraud pertaining to electronic health records.
+Providers increasingly rely on electronic health records to provide vital and unbiased information to improve treatment outcomes for patients.
+While electronic software is intended to reduce errors and improve the delivery of care, the transition to a digital format has also introduced new opportunities for fraud and abuse.
+We have already successfully pursued several matters involving the misuse of electronic health records software.
+In its recent settlement with Purdue, for example, among other matters the United States resolved Purdues criminal and civil liability for paying kickbacks to a health information technology developer in exchange for the latter including clinical alerts in its software that were designed to increase prescriptions for Purdues drugs.
+The United States also settled the criminal and civil liability of the vendor for its role in the kickback arrangement, and has similarly pursued other electronic health records vendors for engaging in kickback schemes.
+And we have pursued cases where vendors misrepresented the capabilities of their software, which in turn resulted in providers falsely claiming incentive payments for using compliant computer systems.
+Given the critical and growing role that electronic health records play in our health care system today, and CMS continued use of incentive payments to encourage the use of such records, we expect to see more of these cases.
+On a related note, cybersecurity related fraud is another area where we could see enhanced False Claims Act activity.
+With the growing threat of cyberattacks, federal agencies are increasingly focused on the importance of robust cybersecurity protections.
+Where such protections are a material requirement of payment or participation under a government program or contract, the knowing failure to include such protections could give rise to False Claims Act liability.
+In addition to these potentially new or expanded uses of the False Claims Act, we could also see changes in how the False Claims Act is applied in connection with existing areas of pursuit.
+For example, to date a significant focus of our opioid related False Claims Act matters have targeted unlawful activity by manufacturers.
+Going forward, you may see False Claims Act cases being brought against other participants in the supply chain who contributed to the opioid crisis.
+Similarly, the False Claims Act has long served as an important vehicle for ensuring compliance with the Anti-Kickback Statute and Stark Law.
+Indeed, such cases have been at or near the top of the list of cases most frequently pursued by the Department over the last several years.
+With the changes that HHS enacted just two weeks ago to the Anti-Kickback Statute and Stark Law regulations, however, we may see new cases and issues arising in this area.
+A third observation I wanted to share relates to the source of future False Claims Act matters.
+In 1995, 269 qui tam cases were filed  and for the first time such cases became the primary source of False Claims Act violations.
+Since then, the number of qui tam cases has continued to increase, and in recent years the number of cases filed has been between 600 and 700 per year.
+Undoubtedly, the Department will continue to rely heavily on whistleblowers to help root out the misuse and abuse of taxpayer funds.
+At the same time, you can expect the Civil Division to expand its reliance on data analysis to identify potential fraud cases.
+Increasingly, the Civil Division has been undertaking sophisticated analyses of Medicare data to uncover potential fraud schemes that have not been identified by whistleblower suits, as well as to help analyze the allegations that we do receive from such suits.
+Our sophisticated data analytics allow us to identify patterns across different types of health care providers to identify trends and extreme outliers.
+We can see where the highest fraud risk physicians are located in each state and federal district, and how much they are costing the Medicare program.
+The data can even allow us to demonstrate and quantify sophisticated relationships, such as a physician offering controlled substance prescriptions to a patient who is likely to divert them.
+Identifying these types of relationships can help combat opioid and other forms of prescription drug abuse, and the Civil Division has been actively using its data analysis for this very purposes.
+The benefits of data analysis extend beyond just the health care arena, however, and the Civil Division is relying on the use of such analysis to combat other types of frauds, including COVID-19 related misconduct that may give rise to False Claims Act liability.
+Finally, I would be remiss if I did not note that, as the Department prepares to meet the new challenges that lie ahead, it will do so with a new management team leading the Fraud Section.
+As many of you already know, Jamie Yavelberg is now the Director of that office, and is ably assisted by her two Deputies, Andy Mao and Colin Huntley.
+The combined experience and skill of these individuals, as well as the broader group of very talented attorneys in the Civil Division and throughout the USA Attorneys Offices, will ensure a smooth transition between the last four years and the next four years  and that the False Claims Act will continue to serve as an important ingredient in the Departments efforts to protect taxpayer funds from fraud.
+Thank you again for the opportunity to share these thoughts with you, and I hope everyone enjoys the rest of the conference.
+Speaker:Deputy Assistant Attorney General Michael Granston (Commercial Litigation Branch)Component(s):Civil Division
+Updated December 16, 2020

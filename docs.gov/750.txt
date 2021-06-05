@@ -1,0 +1,180 @@
+https://www.justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-remarks-future-antitrust
+Assistant Attorney General Makan Delrahim Delivers Remarks on the Future of Antitrust
+Washington, DCUnited States
+~
+Thursday, November 12, 2020
+Remarks as Prepared for Delivery
+Here I Go Again*: New Developments for the Future of the Antitrust Division
+Good afternoon, I am pleased to join you today at the ABA Antitrust Fall Forum, my fourth as Assistant Attorney General.
+Id like to thank the Chair of the ABA Antitrust Law Section, Gary Zanfagna and the Conference Co-Chairs, Melanie Aitken and Anant Raut for their efforts in organizing this event.
+The theme of this conference, The Future of Antitrust, raises the important question of where antitrust is headed.
+Today, I am announcing three new developments that will continue to improve transparency and future enforcement efforts.
+As ever, we are looking back at what weve learned to forge a better path forward.
+First, the Division today will issue new guidance on the use of arbitration to resolve Division matters.
+Second, we are launching a Small Business portal to improve accessibility for these businesses which may be interacting with the antitrust laws for the first time.
+Third, we are expanding Procurement Collusion Strike Force (PCSF) to better safeguard important areas where the government and the American taxpayers are the victim.
+Merger Enforcement, Arbitration, and Small Business
+To set the stage, I will touch first on our recent learnings and accomplishments in merger enforcement.
+About two years ago, we began to modernize the merger review process.
+As part of those reforms, we published a new model timing agreement, which significantly improved how the Division approached Second Request investigations.
+Other improvements such as increased dialogue with the parties, pull-and-refile accountability, and CID enforcement have resulted in more effective and transparent merger review process.
+Our recent modernization of the Merger Remedies Manual reaffirms the Divisions commitment to effective structural relief, which has been a hallmark of my tenure as AAG, and it also incorporates important changes in the merger landscape over the past decade.
+American consumers have benefited recently from these principles.
+For instance, the structural remedy in T-Mobiles acquisition of Sprint required significant divestitures to Dish to expand output significantly by ensuring that large amounts of currently unused and underused spectrum are made available to American consumers in the form of high-quality 5G networks.
+This year, the Division also has crystallized and made more transparent the analytical principles to apply when assessing vertical mergers.
+Most recently, the Vertical Merger Guidelines and our closing statement in London Stock Exchange/Refinitiv reflect our approach to identifying likely harms from a change in incentive or ability to harm rivals.
+The new Guidelines ensure greater predictability, efficiency, and clarity.
+Another recent win for efficiency was the Divisions use of arbitration to streamline the adjudication of a dispositive issue in United States v.
+Novelis.
+Arbitration saved resources for both taxpayers and the merging parties and ensured that competition was preserved.
+I am excited to announce today that we will issue new guidance on the use of arbitration to resolve Division matters.
+The guidance reflects the Divisions experience using arbitration for the first time in Novelis case.
+It outlines case selection criteria that will help identify Antitrust Division cases that would benefit from the application of arbitration and provides guidance on specific practices that may be employed in a future arbitration.
+Additionally, on the subject of transparency and our commitment to the business community, I want to mention briefly that our efforts are not limited to addressing the needs of high-priced antitrust lawyers advising their Fortune 500 clients about how to navigate the merger process.
+Today, we also are launching a Small Business Portal on our website.
+The portal will improve accessibility and transparency for folks who are interacting with the antitrust laws for the first time, on a do-it-yourself basis.
+Consider it our effort to lower entry barriers.
+Fintech and Data
+Speaking of entry barriers, earlier this month, the Division filed suit to enjoin Visas proposed acquisition of Plaid, the leading financial data aggregation company in the United States.
+The Division has filed this lawsuit to enjoin Visas proposed acquisition of Plaid because the transaction would eliminate the nascent but significant competitive threat Plaid poses to Visa in the online debit market and unlawfully maintain Visas monopoly in online debit.
+Today, I would like to focus on another aspect of our challenge: Visas acquisition of Plaids vast trove of consumer data.
+Plaid powers some of todays most innovative fintech apps such as Venmo, Acorns, and Betterment.
+The data Plaid retrieves allows these fintech apps to offer personal financial management tools, manage bill payments or other expenses, support loan underwriting, and transfer funds, among other uses.
+Plaids services can also be used to reduce fraud by verifying the consumers identity and account balance, examining the consumers bank account history, assuring that a transaction is bona fide, and confirming that there are sufficient funds to cover a transaction at the time of payment.
+The fintech world is just one area where large troves of data are being used in cutting-edge business applications.
+Indeed, it is increasingly important that as antitrust lawyers we remain up to speed on the latest technologies and the roles they play in markets today.
+In the last year, the Division launched a novel program to build our expertise by training a handful of our attorneys and economists in blockchain, machine learning, and artificial intelligence.
+That program has been a success and is growing.
+The foundation of this initiative is academic coursework offered by the MIT Sloan School of Management.
+These courses, like other online learning programs, can provide valuable foundational insights into these technologies, while focusing on practical concerns about how they may apply to new and existing business models.
+Our goal is for the Divisions attorneys and economists to develop a basic but critical understanding of how businesses implement these technologies and what effect they might have on competition.
+Machine Learning and Antitrust
+Today, I would like to say a few words about machine learning, a form of data analysis that uses sophisticated algorithms that continuously learn as they are exposed to new data.
+Machine learning is used in many applications that we all recognize.
+Machine learning can be used to refine natural language search results.
+It can provide personalized, contextualized recommendations based on previous purchases or activity.
+Financial institutions can use its power to detect anomalies or outliers to detect fraudulent or suspicious transactions in real time.
+Machine learning can also analyze continuous streams of data from machinery, and be used to predict outages before they occur.
+This technology could have significant implications for many industries and issues the Division analyzes.
+Increasingly, many transactions involve the acquisition of large troves of data.
+Understanding how that data may be used  and the potential competitive implications  is becoming more and more important in merger analysis.
+There may be potential efficiencies stemming from machine learning applied to data that is merged in an acquisition.
+The technology can power better recommendations, or increase manufacturers productivity, or reduce losses through more accurate fraud detection.
+There also may be anticompetitive effects to consider.
+For example, companies that have amassed large troves of data may be able to use it to exclude competitors or to make it more difficult for customers to switch providers.
+We also must be attuned to those situations where access to and the permissioned use of customer data constitutes a unique competitive advantage that forms a barrier to entry.
+One could envision this being true in a variety of cases where the customer data enables its holder to offer a unique service to the consumer.
+Examples of these unique types of data include: taxpayer information, medical health care records, or customer bank account information.
+In cases where incumbents with a dominant market share use their market power to block or otherwise stymie new competitors  particularly new competitors that are able to overcome these data barriers to entry, and are thus uniquely situated to enter, compete, or facilitate another companys entry  we must be willing to take action to preserve competition.
+Even if the data competitor does not currently offer the relevant product or service for sale, antitrust enforcers must act to preserve the opportunity for entry in those markets that are concentrated because of the impact data accumulation has on competition today.
+It is vital that we as antitrust enforcers understand both the potential value of the technology and the potential for its misuse.
+To this end, the Divisions new training initiative helps ensure that we are well-equipped to assess the competitive implications of the next transaction or course of conduct where these cutting-edge business technologies may be pivotal.
+Criminal Enforcement and the Procurement Collusion Strike Force
+Finally, I want to turn to our criminal program: over the past three years, we have obtained convictions in significant trials against high-level executives, the second- and third-ever extraditions on Sherman Act charges, significant prison sentences, and the four highest fines or penalties ever imposed for domestic cartels.
+Under my leadership, the Division secured $529 million in criminal fines and penalties in FY2020the highest total in the last five years, announced a significant policy change to incentivize and potentially reward corporate compliance efforts, and launched a first-of-its-kind Strike Force to bolster our efforts to protect the public purse from collusion.
+It is that Strike Force I want to focus on with you today.
+The Procurement Collusion Strike Force, or the PCSF, celebrated its first anniversary week ago today, and as it continues to grow and expand, its worth reflecting on its activities over the last year.
+The PCSF is an interagency partnership among the Antitrust Division, 13 United States Attorneys Offices, the FBI, and four federal Offices of Inspectors General.
+Leveraging the combined capacity and expertise of the partners, the PCSF has two core objectives.
+The first is to deter and prevent antitrust and related crimes on the front end of the procurement process through outreach and training.
+This includes providing training to the buy side of the procurement, i.
+e.
+, federal, state, and local procurement officials, on spotting the red flags of collusion and fraud, as well as to the sell side, i.
+e.
+, general contractors, trade associations, and the procurement bar, on antitrust criminal violations and potential penalties.
+The second objective is to effectively detect, investigate, and prosecute procurement collusion and fraud through better coordination and partnership in the law enforcement and inspector general communities.
+As I mentioned when I announced the Department initiative alongside Deputy Attorney General Jeffrey A.
+Rosen last year, by forming the PCSF, we are looking to use all the enforcement tools in our arsenal to protect taxpayers funds.
+The premise and promise of the PCSF was to increase collaboration among federal prosecutors and law enforcement agencies to protect the public purse and hold accountable those who corrupt the competitive process to rob taxpayers of the benefits of free competition.
+The Past Year of the PCSF
+Since launching, our dedicated PCSF members have been hard at work.
+The PCSFs prosecutors, including those in the Antitrust Division and AUSAs across the country, and federal agents from various law enforcement agencies, have made incredible strides.
+The pandemicwhich Ill discuss in more detail in a momentdidnt shut down our efforts.
+Indeed, the PCSF didnt miss a beat.
+The first year was about proving the concept, and about standing up the in-district teams, building relationships, and getting the word out.
+Our initial in-district teams had six to eight members eachand our in-district teams now include over 360 federal, state, and local in-district working partners spread all across the country and actively participating in the 13 PCSF districts.
+We have processed more than 50 requests from a diverse mix of federal, state, and local government agencies for training, assistance with safeguarding their procurement processes, and seeking opportunities to work with the PCSF on investigations.
+Weve trained thousands of criminal investigators, certified fraud examiners, auditors, data scientists, and procurement officials from nearly 500 federal, state, and local government agencies on recognizing collusion risks in the procurement process, including more than five dozen local and state inspectors general.
+We have been nimble and able to adapt our tactics to better respond to the global COVID-19 pandemic.
+During any crisis, be it a hurricane or market crash or a pandemic, public spending skyrockets to meet the moment, and too often guardrails go down during the peak of emergency response.
+We know that as the government responds to moments of crisis with increased spending to protect lives and livelihoods, bad actors far too often respond with new schemes to secure a bigger piece of the pie for themselves.
+Established as a virtual Strike Force, the PCSF was uniquely well-positioned to deploy interactive technology, and we have trained more than 8,000 agents, investigators, and auditors over the last 8 months on the heightened risks of collusion and fraud due to the COVID-19 pandemic.
+Weve gone to where the need is greatest, including training customized to the unique needs of the contract management and procurement professionals responsible for CARES Act spending at the Centers for Disease Control and Prevention (CDC), the Federal Emergency Management Agency (FEMA), and the United States Army Corps of Engineers (USACE).
+The PCSF also supported the Departments COVID-19 response by creating a dedicated reporting portal for procurement collusion tips and referring hundreds of price gouging and hoarding tips to the COVID-19 task force.
+And were working with the Pandemic Response Accountability Committee (PRAC) to ensure that tax dollars spent to respond to this crisis are used appropriately.
+The PCSF has opened over two dozen grand jury investigations across the United States.
+These active and ongoing investigations span the range of procurement collusion and fraud matters from defense and national security to public works projects, and from domestic investigations into conduct occurring primarily within a single PCSF district to international investigations into conduct affecting USA government procurement overseas.
+I should also note that our investigations are not limited to only those districts that have stood up PCSF teams.
+In fact, about one fourth of our investigations are located outside of PCSF districts, which demonstrates the breadth of our investigative efforts and that this is truly a nationwide Strike Force.
+Finally, in the past year, the PCSF established its Data Analytics Project.
+This is something Im really focused on, because data is an assetit is something to be used, not just collected.
+We in the enforcement space can use data to advance the goal of maximizing taxpayer value and detecting wrongdoing.
+To do this, the PCSF has supported OIG data teams focused on developing Collusion Analytics models that proactively identify red flags of antitrust crimes and related fraud schemes in bid and award data.
+Weve hosted data analytics events for data scientists, and were working to build out this important toolkit.
+This data will be used not only to provide evidence of conspiracies we already know about (which is something prosecutors and agents already do, to great effect), but to develop leads proactively for further inquiry.
+The Future of the PCSF
+Weve accomplished a lot in the last year, and Id like to turn now to our announcement today and our plans for the next year of the PCSF.
+First, were adding new partners.
+Today, two new national law enforcement partners are joining the PCSF: The Department of Homeland Securitys Office of Inspector General and the Air Force Office of Special Investigations.
+Both agencies are already deeply invested in, and have been working with, our in-district teams.
+Adding these agencies to the roster of national partners is a natural next step.
+Second, I am also announcing today that nine USA Attorneys will joining our effort.
+These USA Attorneys Offices are located in areas of strategic importance with critical spending.
+The new PCSF USA Attorney partners are:
+David L.
+Anderson, Northern District of California
+Robert K.
+Hur, District of Maryland
+Erica H.
+MacDonald, District of Minnesota
+D.
+Michael Hurst, Jr.
+, Southern District of Mississippi
+Seth D.
+DuCharme, Eastern District of New York
+Matthew G.
+T.
+Martin, Middle District of North Carolina
+W.
+Stephen Muldrow, District of Puerto Rico
+Stephen J.
+Cox, Eastern District of Texas
+Ryan Patrick, Southern District of Texas
+Our existing national law enforcement partners are also contributing to this expansion by assigning agents to these new squads.
+FBI (by its International Corruption Unit and its field offices)
+Department of Defense Office of Inspector General
+Defense Criminal Investigative Service,
+General Services Administration, Office of Inspector General
+Department of Justice, Office of the Inspector General
+USA Postal Service, Office of Inspector General
+Third, Im happy to announce that Ive appointed Daniel Glad to be the Director of the PCSF.
+Dan is the first permanent director the PCSF, and by making this a permanent position, I am ensuring that the PCSF is woven into the fabric and structure of the Antitrust Division.
+Dan was an Assistant Chief in our Chicago Office, and hes worked as a line prosecutor in that office and at USAO-N.
+D.
+Ill.
+, and in the City of Chicagos OIG.
+Suffice it to say he has experience combatting collusion and fraud.
+Relatedly, and as a reflection of the PCSFs growing footprint, Ive appointed the first-ever Assistant Director of the PCSF, Sandra Talbott.
+Like Dan, Sandra has worked in our Chicago Office, and she has experience as a prosecutor at the local, state, and federal levels, as well as in the compliance space at a large financial institution.
+Fourth, our efforts to deter and detect are not limited to the shores of United States.
+Indeed, the PCSF has several partners with oversight responsibility for USA government spending abroad that represent a diverse mix of federal agencies.
+These partners play a critical role in deterring, detecting, investigating, and prosecuting those who undermine competition for USA government contracts and grants abroad.
+As evident in past investigations, such as the South Korea Fuel Supply investigation contracts in South Korea, and from current pandemic spending patterns, USA government procurement is not limited by borders, and neither can the PCSFs efforts to deter, detect, and prosecute misconduct.
+In the coming year, the PCSF expects to continue its focus on protecting USA funds spent beyond our borders and coordinating with international counterparts.
+I had very high expectations for the PCSF, but I have been blown away by what the district teams were able to accomplish over the last twelve months.
+They were not satisfied with merely sustaining the early momentum generated for the Strike Force, and despite the challenges posed by the pandemic, they have managed to generate even more momentum by conducting virtual outreach and training, and opening new investigations at a steady clip.
+As the PCSF enters its second year, it will continue to investigate aggressively cases of price fixing, bid rigging, and market allocation that target American taxpayer dollars, using the full range of criminal and civil tools available to the federal government, including the Clayton Acts Section 4A authority to pursue treble damages, to recover damages for the taxpayer.
+I look forward to seeing the Strike Force continue to succeed as it pursues its mission.
+Conclusion
+In conclusion, the Antitrust Division is committed to enforcement that occurs in a transparent manner that fosters innovation.
+These hallmarks are essential for our mission of serving the American people in the pursuit of justice.
+Over the past three plus years, I am very proud of all we have achieved in support of this goal.
+As many of you may know, I have great admiration for former Antirust AAG and Supreme Court Justice, Robert H.
+Jackson, naming a lecture series and a conference room in his honor.
+When addressing the future of antitrust whether the laws should be revised, he stated that the solution must be in terms of our idealsthe ideals of political and economic democracy and that we must keep our economic system under the control of the people who live by and under it.
+ It is impossible to guarantee what the future of antitrust holds, but I know the Antitrust Division will continue to be unwavering as it enforces the law for the benefit of the American consumer.
+___________________
+*Whitesnake, Saints & Sinners (Geffen, 1982).
+Speaker:Former Assistant Attorney General, Makan DelrahimAttachment(s): Download Delrahim Remarks on Future of Antitrust.
+pdfTopic(s):AntitrustComponent(s):Antitrust Division
+Updated November 12, 2020

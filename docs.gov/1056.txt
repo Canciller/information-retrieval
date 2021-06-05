@@ -1,0 +1,46 @@
+https://www.justice.gov/opa/pr/state-sponsored-iranian-hackers-indicted-computer-intrusions-us-satellite-companies
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, September 17, 2020
+State-Sponsored Iranian Hackers Indicted for  Computer Intrusions at USA Satellite Companies
+Multi-Year Campaign Sought to Steal Sensitive Commercial Information, Intellectual Property, and Personal Data
+An indictment was unsealed today charging three computer hackers, all of whom were residents and nationals of the Islamic Republic of Iran (Iran), with engaging in a coordinated campaign of identity theft and hacking on behalf of Irans Islamic Revolutionary Guard Corps (IRGC), a designated foreign terrorist organization, in order to steal critical information related to USA aerospace and satellite technology and resources.
+For the third time in three days, the Department has charged Iranian hackers, said Assistant Attorney General for National Security John C.
+Demers.
+This case highlights the Islamic Revolutionary Guard Corps efforts to infiltrate the networks of American companies in search of valuable commercial information and intellectual property.
+It is yet another effort by a rogue foreign nation to steal the fruits of this countrys hard work and expertise.
+
+We will relentlessly pursue and expose those who seek to harm American companies and individuals wherever they reside in the world, said G.
+Zachary Terwilliger, USA Attorney for the Eastern District of Virginia.
+The use of malware, the theft of commercial data and intellectual property, and the use of social engineering to steal the identities of USA citizens to accomplish unlawful acts will not be tolerated.
+Along with our incredible and steadfast law enforcement partners, the Eastern District of Virginia continues to lead efforts to combat serious cybercrime globally and the charges outlined in the indictment exposing IRGC linked hacking operations in the United States are just another example of the fruits of our seamless teamwork.
+
+Todays charges are yet another example of the FBIs dedication to investigating those who target and attempt to steal data and proprietary information from the USA, said James A.
+Dawson, Assistant Director in Charge of the FBIs Washington Field Office.
+Todays charges allege that these individuals conspired in a coordinated campaign with known IRGC members and acted at their direction.
+The defendants targeted thousands of individuals in an attempt to steal critical information related to USA aerospace and satellite technology.
+The FBI remains dedicated to protecting the USA, and we continue to impose risk and consequences on cyber adversaries through our unique authorities, world-class capabilities, and enduring partnerships.
+
+As alleged in the indictment, the defendants hacking campaign, which targeted numerous companies and organizations in the United States and abroad, began in approximately July 2015 and continued until at least February 2019.
+According to the indictment, the defendants at one time possessed a target list of over 1,800 online accounts, including accounts belonging to organizations and companies involved in aerospace or satellite technology and international government organizations in Australia, Israel, Singapore, the United States, and the United Kingdom.
+To facilitate their victimization of these targets, the defendants engaged in a coordinated campaign of social engineering to identify real USA citizens working in the satellite and aerospace fields whose identities the defendants could assume online.
+The defendants then impersonated those individuals and used their stolen identities to register email addresses and fraudulently purchase domains and hacking tools for use in the scheme.
+The defendants then created customized spear phishing emails that purported to be from the individuals whose identities the defendants had stolen, in an attempt to entice the recipients to click on malicious links embedded in the emails.
+Once a recipient clicked on a malicious link, malware would be downloaded to the individuals computer, giving the defendants unauthorized access to the recipients computer and network.
+The defendants then used additional hacking tools to maintain unauthorized access, escalate their privileges, and steal data sought by the IRGC.
+Using these methods, the defendants successfully compromised multiple victim networks, resulting in the theft of sensitive commercial information, intellectual property, and personal data from victim companies, including a satellite-tracking company and a satellite voice and data communication company.
+Charged in the indictment are defendants Said Pourkarim Arabi, 34, Mohammad Reza Espargham, age unknown, and Mohammad Bayati, 34.
+The USA District Court for the Eastern District of Virginia has issued warrants for their arrest.
+Arabi, who was a member of the IRGC, is charged with conspiracy to commit computer intrusions, which carries a maximum sentence of five years in prison, obtaining information by unauthorized access to protected computers, which carries a maximum sentence of five years in prison, intentional damage to protected computers, which carries a maximum sentence of ten years in prison, aggravated identity theft, which carries a mandatory sentence of two years in prison, and conspiracy to commit wire fraud, which carries a maximum sentence of 20 years in prison.
+Esphargham is charged with conspiracy to commit computer intrusions, which carries a maximum sentence of five years in prison, obtaining information by unauthorized access to protected computers, which carries a maximum sentence of five years in prison, intentional damage to protected computers, which carries a maximum sentence of ten years in prison, and conspiracy to commit wire fraud, which carries a maximum sentence of 20 years in prison.
+Bayati is charged with conspiracy to commit computer intrusions, which carries a maximum sentence of five years in prison, and conspiracy to commit wire fraud, which carries a maximum sentence of 20 years in prison.
+Actual sentences for federal crimes are typically less than the maximum penalties.
+A federal district court judge will determine any sentence after taking into account the USA Sentencing Guidelines and other statutory factors.
+Assistant USA Attorneys Nathaniel Smith III, Jay V.
+Prabhu, and Danya Atiyeh, and Trial Attorney Evan Turgeon of the National Security Divisions Counterintelligence and Export Control Section are prosecuting this case.
+An indictment is merely an accusation.
+The defendant is presumed innocent until proven guilty beyond a reasonable doubt in a court of law.
+Attachment(s): Download us_v_arabi_et_al.
+pdfTopic(s):Counterintelligence and Export ControlNational SecurityComponent(s):National Security Division (NSD)USAO - Virginia, EasternPress Release Number:20-952
+Updated September 17, 2020

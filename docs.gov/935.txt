@@ -1,0 +1,42 @@
+https://www.justice.gov/opa/pr/attorney-general-william-p-barr-announces-publication-cryptocurrency-enforcement-framework
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, October 8, 2020
+Attorney General William P.
+Barr Announces Publication of Cryptocurrency Enforcement Framework
+Attorney General William P.
+Barr announced today the release of Cryptocurrency: An Enforcement Framework, a publication produced by the Attorney Generals Cyber-Digital Task Force.
+The Framework provides a comprehensive overview of the emerging threats and enforcement challenges associated with the increasing prevalence and use of cryptocurrency; details the important relationships that the Department of Justice has built with regulatory and enforcement partners both within the United States government and around the world; and outlines the Departments response strategies.
+Cryptocurrency is a technology that could fundamentally transform how human beings interact, and how we organize society.
+Ensuring that use of this technology is safe, and does not imperil our public safety or our national security, is vitally important to America and its allies, said Attorney General Barr.
+I am grateful to the Cyber-Digital Task Force for producing this detailed report, which provides a cohesive, first-of-its kind framework for those seeking to understand federal enforcement priorities in this growing space.
+
+At the FBI, we see first-hand the dangers posed when criminals bend the important technological promise of cryptocurrency to illicit ends, said FBI Director Christopher Wray.
+As this Enforcement Framework describes, we see criminals using cryptocurrency to try to prevent us from \following the money across a wide range of investigations, as well as to trade in illicit goods like criminal tools on the dark web.
+For example, the cyber criminals behind ransomware attacks often use cryptocurrency to try to hide their true identities when acquiring malware and infrastructure, and receiving ransom payments.
+The men and women of the FBI are constantly innovating to keep pace with the evolution of criminals\ use of cryptocurrency.
+The United States has been enormously successful blocking terrorists, rogue regimes, and their supporters from funding their activity using traditional currencies, said Task Force member John C.
+Demers, Assistant Attorney General for the National Security Division.
+As the Cryptocurrency Enforcement Framework explains, we will adapt our strategy and tools to 21st century financing, including to combat the use of cryptocurrencies to evade enforcement and harm our national security.
+
+Cryptocurrencies and distributed ledger technology present tremendous promise for the future, but it is critical that these important innovations follow the law.
+The Cryptocurrency Enforcement Framework provides the public with important information intended to help them understand and comply with their obligations under the legal regimes that govern these new and fast-developing technologies, said Task Force member Brian C.
+Rabbitt, the acting Assistant Attorney General for the Criminal Division.
+While the Department of Justice and its partners are committed to supporting the advancement of legitimate cryptocurrency technologies and uses, we will not hesitate to enforce the laws that govern these technologies when necessary to protect the public.
+
+Task Force member Beth A.
+Williams, who serves as Assistant Attorney General for the Office of Legal Policy, lauded the release of the Cryptocurrency Enforcement Framework: The Department of Justice is committed to protecting the public from current and emerging cyber threats, including those involving cryptocurrency and related technologies.
+This Framework reflects the Departments extensive cooperation with domestic and international partners in ensuring that we are adequately addressing these challenges, to the benefit of lawful cryptocurrency users and the public at large.
+
+The Enforcement Framework opens with an introductory essay authored by the Task Forces chair, Associate Deputy Attorney General Sujit Raman.
+Then, in Part I, the Framework provides a detailed threat overview, cataloging the three categories into which most illicit uses of cryptocurrency typically fall: (1) financial transactions associated with the commission of crimes; (2) money laundering and the shielding of legitimate activity from tax, reporting, or other legal requirements; and (3) crimes, such as theft, directly implicating the cryptocurrency marketplace itself.
+Part II explores the various legal and regulatory tools at the governments disposal to confront the threats posed by cryptocurrencys illicit uses, and highlights the strong and growing partnership between the Department of Justice and the Securities and Exchange Commission, the Commodity Futures Commission, and agencies within the Department of the Treasury, among others, to enforce federal law in the cryptocurrency space.
+Finally, the Enforcement Framework concludes in Part III with a discussion of the ongoing challenges the government faces in cryptocurrency enforcementparticularly with respect to business models (employed by certain cryptocurrency exchanges, platforms, kiosks, and casinos), and to activity (like mixing and tumbling, chain hopping, and certain instances of jurisdictional arbitrage) that may facilitate criminal activity.
+The Cryptocurrency Enforcement Framework is the second detailed report issued by the Attorney Generals Cyber-Digital Task Force, which was established in February 2018 to answer two basic questions: How is the Department of Justice responding to global cyber threats? And how can federal law enforcement accomplish its mission in this area more effectively? An earlier Task Force report, published in July 2018, canvassed a wide spectrum of cyber threats, ranging from transnational criminal enterprises sophisticated cyber-enabled schemes, to malign foreign influence operations, to efforts to compromise our nations critical infrastructure, and articulated the Departments priorities in detecting, deterring, and disrupting cyber threats.
+Additional Cyber-Digital Task Force members include Andrew E.
+Lelling, United States Attorney for the District of Massachusetts, and two senior FBI executives.
+Components from across the Department contributed to the Cryptocurrency Enforcement Frameworks drafting.
+The Cryptocurrency Enforcement Framework can be downloaded here.
+Component(s):Office of the Attorney GeneralPress Release Number:20-1069
+Updated March 22, 2021

@@ -1,0 +1,32 @@
+https://www.usda.gov/topics/data
+USDA Data Strategy
+USDA has an opportunity to harness its vast data assets strategically to improve internal decision-making and efficient use of resources, maximize the impact of citizen-facing programs, and provide the public and private industry with easy access to data that can solve national problems and drive innovation.
+To learn more, please visit the USDA Data Strategy FY21-23 (PDF, 16 MB).
+Evidence-Based Policy Officials
+As required by the Evidence-Based Policy-making Act of 2018 (Public Law 115-435), USDA is committed to developing evidence-based policy and evaluation plans.
+The following have been designated Evaluation Officers, Statistical Officials and Chief Data Officers to support and implement those new requirements:
+Chief Data Officer: Ted Kaouk
+Evaluation Officer: Erica Navarro
+Statistical Official: Hubert Hamer
+Data Governance Board Charter
+The USDA Office of the Chief Information Officer (OCIO) is responsible for the overall information technology strategy and management across the USA Department of Agriculture (USDA) including enterprise data and analytics activities.
+USDA has established a Data Governance Steering Committee and a Data Governance Advisory Board to lead and implement data governance initiatives at USDA.
+Data Governance Steering Committee Members
+Chief Data Officer (Chair)
+Chief Evaluation Officer
+Chief Statistical Officer
+Chief Operating Officers for USDAs eight mission areas
+Data Governance Steering Committee Meeting Cadence
+Standing quarterly meetings
+Ad hoc meetings as determined by the Chair
+Data Governance Advisory Board Members
+Deputy Chief Data Officer (Chair)
+Assistant Chief Data Officers for USDAs eight mission areas
+Non-voting representatives from the USDA Office of the Inspector General, Privacy, Geospatial Programs and Capital Planning
+Data Governance Advisory Board Meeting Cadence
+Standing monthly meetings
+Ad hoc meetings as determined by the Chair
+To learn more, please visit the Data Governance Board Charter (PDF, 159 KB).
+Open Data
+The USDA Open Data Catalog is the authoritative source of publicly available USDA data.
+Also available are the XML version and JSON version of the catalog.

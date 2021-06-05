@@ -1,0 +1,49 @@
+https://www.justice.gov/opa/pr/justice-department-and-ftc-announce-first-enforcement-actions-violations-better-online-ticket
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Friday, January 22, 2021
+Justice Department and FTC Announce First Enforcement Actions for Violations of the Better Online Ticket Sales Act
+Three Settlements Impose Millions of Dollars in Civil Penalties and Injunctive Terms
+The Department of Justice, together with the Federal Trade Commission (FTC), today announced three settlements resolving alleged violations of the Better Online Ticket Sales (BOTS) Act.
+These are the first enforcement actions that the department and the FTC have brought under the BOTS Act.
+Enacted in 2016, the BOTS Act aims to prevent ticket brokers from buying large numbers of event tickets and reselling them to interested customers at inflated prices.
+To achieve that goal, the BOTS Act prohibits a person from circumventing access controls or measures used by online ticket sellers (such as Ticketmaster) to enforce ticket-purchasing limits.
+It also prevents the resale of tickets obtained by knowingly circumventing access controls.
+As alleged in the three complaints filed by the United States, the defendants  Just In Time Tickets Inc.
+and its owner Evan Kohanian; Concert Specials Inc.
+and its owner Steven Ebrani; and Cartisim Corp.
+and its owner Simon Ebrani  committed violations of the BOTS Act to purchase from Ticketmaster thousands of tickets they then resold for millions of dollars in revenues, often at significant markups.
+The defendants are alleged to have circumvented Ticketmasters restrictions on users holding multiple accounts by creating accounts in the names of family members, friends, and fictitious individuals, and using hundreds of credit cards.
+They also allegedly used ticket bots to fool tests designed to prevent nonhuman visitors.
+In addition, the complaints assert that the defendants used programs to conceal the IP addresses of the computers they used to make purchases.
+These defendants are alleged to have cheated the system to the detriment of consumers, said Acting Assistant Attorney General Brian Boynton of the Justice Departments Civil Division.
+Todays filing serves notice that the Department of Justice will enforce the Better Online Ticket Sales Act in appropriate cases.
+We are pleased to work with our partners at the Federal Trade Commission on this and other matters important to consumers.
+
+Those who violate the BOTS Act cheat fans by forcing them to pay inflated prices to attend concerts, theater performances and sporting events, said Acting USA Attorney Seth D.
+DuCharme for the Eastern District of New York.
+This office will spare no effort in prohibiting deceptive practices that harm consumers.
+
+The three stipulated orders entered by the court assess civil penalties of $11.2 millionagainst Just In Time Tickets Inc.
+and Kohanian, $16 million against Concert Specials Inc.
+and Steven Ebrani, and $4.4 million against Cartisim Corp.
+and Simon Ebrani, allowing suspension of a portion of such civil penalties if the defendants satisfy certain terms.
+The orders further provide for the suspension of the remainder of such civil penalties if the defendants pay $1,642,658.96, $1,565,527.41, and $499,147,12, respectively, and satisfy certain additional terms.
+The stipulated orders also contain terms to prohibit the defendants from using ticket bots or other computer programs to defeat access controls, from concealing the IP addresses of computers they use to make ticket purchases, and from purchasing tickets from any credit or debit account in the name of anyone other than the defendants or their corporate officers and employees.
+Under the terms, the defendants must also maintain records and provide compliance reports to the government.
+This matter was handled by Trial Attorney Benjamin A.
+Cornfeld of the Civil Divisions Consumer Protection Branch and Assistant USA Attorneys Bonni J.
+Perlin and Kevin Yim from the USA Attorneys Office for the Eastern District of New York.
+Christine M.
+Todaro and Frances L.
+Kern represented the FTC.
+For more information about the Consumer Protection Branch and its enforcement efforts, visit its website athttps://www.
+justice.gov/civil/consumer-protection-branch.
+For more information about the FTC, visit its website athttps://www.
+FTC.gov.
+Attachment(s): Download Concert Specials Complaint.
+pdf Download Just In Time Complaint.
+pdf Download Cartisim Complaint.
+pdfTopic(s):Consumer ProtectionComponent(s):Civil DivisionPress Release Number:21-84
+Updated January 22, 2021

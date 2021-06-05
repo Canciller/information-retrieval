@@ -1,0 +1,62 @@
+https://www.hhs.gov/coronavirus/telehealth/index.html
+HIPAA flexibility  Waivers from the Centers for Medicare & Medicaid Services  Cost-sharing for patients in federal health care programs  Billing and reimbursement  Additional flexibilities
+During the COVID-19 Public Health Emergency, HHS has taken steps to make it easier to provide telehealth services.
+Telehealth  sometimes referred to as telemedicine  describes the use of 2-way communication technology for certain health care services.
+We encourage health care providers to adopt and use telehealth as a way to safely provide care to your patients in appropriate situations, including: routine health care, like wellness visits; medication consultation; dermatology (skin care); eye exams; nutrition counseling; mental health counseling.
+Visit telehealth.
+hhs.gov for helpful information about telehealth for patients and health care providers.
+
+>> Watch the video
+HIPAA flexibility during COVID-19
+The HHS Office for Civil Rights (OCR) has issued guidance to empower health care providers to serve patients through telehealth during the national public health emergency.
+HIPAA-covered health care providers may, in good faith, provide telehealth services to patients using remote communication technologies, such as commonly used apps  including FaceTime, Facebook Messenger, Google Hangouts, Zoom, or Skype  for telehealth services, even if the application does not fully comply with HIPAA rules.
+However, providers should not use any platforms that are public-facing  for instance, Facebook Live, Twitch, and TikTok  to provide telehealth.
+For more information on HIPAA flexibility for telehealth services during COVID-19, read:
+Notification of Enforcement Discretion: Telehealth and HIPAA during COVID-19 Emergency | Notificacin de discrecin para telemedicina
+FAQs: Telehealth and HIPAA during COVID-19 | Preguntas frecuentes sobre telemedicina y HIPAA
+Telehealth waivers from the Centers for Medicare & Medicaid Services (CMS)
+Temporary policy changes during the Coronavirus pandemic
+CMS has issued temporary measures to make it easier for people enrolled in Medicare, Medicaid, and the Childrens Health Insurance Program (CHIP) to receive medical care through telehealth services during the COVID-19 Public Health Emergency.
+Some of these changes allow providers to:
+Conduct telehealth with patients located in their homes and outside of designated rural areas
+Practice remote care, even across state lines, through telehealth
+Deliver care to both established and new patients through telehealth
+Bill for telehealth services (both video and audio-only) as if they were provided in person
+Temporary expansion of telehealth services during COVID-19
+During the public health emergency, Federally Qualified Health Centers (FQHCs) and Rural Health Clinics (RHCs) may serve as distant telehealth sites and provide telehealth services to patients in their homes.
+Fact Sheet: Flexibilities for Rural Health Clinics (RHCs) and Federally Qualified Health Centers (FQHCs) during COVID-19
+CMS significantly expanded the list of covered telehealth services that can be provided in Medicare through telehealth to include:
+Emergency department visits
+Initial nursing facility and discharge visits
+Home visits
+Therapy services
+For more information about changes to CMS policies during COVID-19, read:
+Fact Sheet: Medicare and Telemedicine for Health Care Providers during COVID-19
+FAQs: Medicare and Telehealth during COVID-19
+Video: Common Questions about Medicare Telehealth Services during COVID-19
+Toolkit: State Medicaid & CHIP Telehealth Toolkit
+FAQs: State Medicaid and CHIP Flexibilities for COVID-19
+Fact Sheet: COVID-19 Emergency Declaration Blanket Waivers for Health Care Providers
+Cost-sharing for patients in federal health care programs
+The HHS Office of Inspector General (OIG) is providing flexibility for health care providers to reduce or waive cost-sharing for telehealth visits and other virtual care paid for by Federal health care programs, such as Medicare, Medicaid, and the Childrens Health Insurance Program (CHIP), during the public health emergency.
+For more information on OIGs flexibilities related to cost-sharing for telehealth visits and other virtual care during COVID-19, read:
+Policy Statement: Cost-Sharing Obligations and Telehealth for Practitioners during COVID-19
+Fact Sheet: Cost-Sharing Flexibilities for Telehealth during COVID-19
+FAQ: Cost-Sharing Flexibilities for Telehealth during COVID-19
+Billing and reimbursement for telehealth services
+Private insurance
+Check to see if the insurance plans you accept cover reimbursement for any telehealth services.
+Most health insurance plans cover at least some telehealth services.
+FAQs: Telehealth and Private Health Insurance during COVID-19
+Medicaid and Medicare
+Medicaid covers some telehealth services, but coverage differs from state to state.
+Medicare provides coverage for telehealth under certain conditions, some of which are temporarily different during the COVID-19 pandemic.
+Fact Sheet: Medicare and Telemedicine for Health Care Providers during COVID-19
+Additional flexibilities for telehealth during COVID-19
+Federal and state governments are taking actions to remove barriers to telehealth services during COVID-19.
+Check with your state public health officials to see what flexibilities apply to where you live or practice.
+For more HHS guidance on telehealth during COVID-19, read:
+FAQs: Telehealth and Rural Health during COVID-19 (HRSA)
+Letter: Caseworker Visits via Videoconferencing during COVID-19 (ACF)
+Bulletin: Rural Health Care, Medicaid Telehealth Flexibilities, and Guidance for SUPPORT for Patients and Communities Act via Telehealth (CMS)
+Guidance: Veterinary Telemedicine during COVID-19 (FDA)

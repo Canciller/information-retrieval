@@ -1,0 +1,29 @@
+https://www.justice.gov/opa/pr/court-authorizes-service-john-doe-summons-seeking-identities-us-taxpayers-who-have-used-0
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, April 1, 2021
+Court Authorizes Service of John Doe Summons Seeking Identities of USA Taxpayers Who Have Used Cryptocurrency
+A federal court in the District of Massachusetts entered an order today authorizing the IRS to serve a John Doe summons on Circle Internet Financial Inc.
+, or its predecessors, subsidiaries, divisions, and affiliates, including Poloniex LLC (collectively Circle), seeking information about USA taxpayers who conducted at least the equivalent of $20,000 in transactions in cryptocurrency during the years 2016 to 2020.
+The IRS is seeking the records of Americans who engaged in business with or through Circle, a digital currency exchanger headquartered in Boston.
+Those who transact with cryptocurrency must meet their tax obligations like any other taxpayer, said Acting Assistant Attorney General David A.
+Hubbert of the Justice Departments Tax Division.
+The Department of Justice will continue to work with the IRS to ensure that cryptocurrency owners are paying their fair share of taxes.
+
+Tools like the John Doe summons authorized today send the clear message to USA taxpayers that the IRS is working to ensure that they are fully compliant in their use of virtual currency, said IRS Commissioner Chuck Rettig.
+The John Doe summons is a step to enable the IRS to uncover those who are failing to properly report their virtual currency transactions.
+We will enforce the law where we find systemic noncompliance or fraud.
+
+Cryptocurrency, as generally defined, is a digital representation of value.
+Because transactions in cryptocurrencies can be difficult to trace and have an inherently pseudo-anonymous aspect, taxpayers may be using them to hide taxable income from the IRS.
+In the courts order, USA Judge Richard G.
+Stearns found that there is a reasonable basis for believing that cryptocurrency users may have failed to comply with federal tax laws.
+The courts order grants the IRS permission to serve what is known as a John Doe summons on Circle.
+The United States petition does not allege that Circle has engaged in any wrongdoing in connection with its digital currency exchange business.
+Rather, according to the courts order, the summons seeks information related to the IRSs investigation of an ascertainable group or class of persons that the IRS has reasonable basis to believe may have failed to comply with any provision of any internal revenue laws[.
+] According to the copy of the summons filed with the petition, the IRS is requesting that Circle produce records identifying the USA taxpayers described above, along with other documents relating to their cryptocurrency transactions.
+The IRS issued guidance regarding the tax treatment of virtual currencies in IRS Notice 2014-21, which provides that virtual currencies that can be converted into traditional currency are property for tax purposes.
+The guidance explains that receipt of virtual currency as payment for goods or services is treated as income and that a taxpayer can have a gain or loss on the sale or exchange of a virtual currency, depending on the taxpayers cost to purchase the virtual currency (that is, the taxpayers tax basis).
+Topic(s):TaxComponent(s):Tax DivisionPress Release Number:21-298
+Updated April 1, 2021

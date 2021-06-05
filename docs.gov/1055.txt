@@ -1,0 +1,36 @@
+https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-richard-powers-delivers-remarks-cartel-working-group
+Deputy Assistant Attorney General Richard A.
+Powers Delivers Remarks at Cartel Working Group Plenary: Big Data and Cartelization, 2020 International Competition Network Annual Conference
+Washington, DCUnited States
+~
+Thursday, September 17, 2020
+Virtual Event
+Good Morning.
+Thank you for the opportunity to address the International Competition Network and to be here with all of you.
+We have seen early signs of anticompetitive issues and criminal culpability related to the misuse of pricing algorithms, and other, similar tools.
+Although it is too early to know the full scope of the problem, we expect to see the use of algorithmic collusion with increasing frequency.
+As to the question of our overall perspective and what camp we are in, we are content/confident in our existing enforcement tools but increasingly curious about the issue.
+At a high level, the USA legal standard for a criminal antitrust violation remains constant; it requires proof beyond a reasonable doubt of an agreement among two or more competitors to fix prices, rig bids, or allocate markets, that occurs in, or affects, interstate commerce.
+While algorithmssimilar to other technological developmentsmay present new challenges as we enforce a statute written in 1890, so far at least, we feel equipped to confront such challenges without major changes in our enforcement.
+Criminal prosecution is typically limited to bid rigging, price fixing, and allocation agreements, and the Antitrust Division has significant experience prosecuting anticompetitive conspiracies carried out by a range of means and methods, and that could include using pricing algorithms.
+USA law is also well-equipped to prosecute collusive agreements reached and facilitated through intermediaries.
+In the context of algorithms, if an intermediary, such as a programmer or platform, facilitates a conspiracy among competitors to use a common pricing algorithm for the purpose of fixing prices, under USA law, we could prosecute both the competitors and the intermediary who facilitated the illegal agreement.
+Moreover, the doctrine of respondeat superior allows the Division to prosecute companies for the acts of its directors, officers, employees, and agents.
+In the context of collusion facilitated by algorithms, USA law would allow the Division to prosecute companies for antitrust violations committed by its corporate agents that were within the scope of the agents duties and intended, at least in part, to benefit the company.
+As a result, although the Sherman Act is over 130 years old, our legal regime has proven adaptable to prosecuting those who engage in and benefit from collusion, whatever the means or method.
+In addition to the flexibility of our legal framework, we are committed to ensuring that our ability to detect new methods of collusion evolves with the times.
+In November 2019, the Division spearheaded the launch of the Procurement Collusion Strike Force, an interagency partnership to safeguard taxpayer dollars by deterring, detecting, and prosecuting antitrust crimes and related schemes that undermine the government procurement process.
+Through the Strike Force, the Division is facilitating an interagency dialogue on the use of data analytics to detect collusion that affects public procurement.
+The Division is also committed to educating its attorneys and economists on machine learning, artificial intelligence, and blockchain technologies.
+As the Divisions Assistant Attorney General Makan Delrahim has mentioned, civil and criminal Division attorneys as well as economists recently enrolled in classes to develop a basic but critical understanding of how businesses implement these technologies and what effect they might have on competition.
+
+In addition to ensuring our ability to understand and detect novel methods of collusion, we are committed to a policy framework that incentivizes deterrence and detection of antitrust crimes, however effectuated.
+For example, through a policy change last year, we have taken steps to further recognize corporate compliance.
+Just as there is a role for corporate compliance programs in deterring price fixing that occurs in smoke-filled rooms, there is a role for corporate compliance programs in preventing collusion effectuated by algorithms.
+To put a finer point on this, given the level of discussion around this topic over the last few years, a company would have a hard time persuading us that it had an effective compliance program if it didnt account for the types of risks associated with pricing algorithms and similar tools, and this failure contributed, in part, to the criminal anticompetitive conduct at issue.
+Returning to the question of our overall perspective and what camp we are in, it is hard to put us squarely in a single bucket.
+We are confident in our tools and ability to take on evolving forms of collusion because of the flexibility in our legal framework to adapt to novel means and methods of collusion, prosecute intermediaries, and hold companies accountable for the acts of their agents.
+However, there is still much to see and learn about algorithmic collusion, and we remain committed to continuously educating ourselves on this developing area.
+Speaker:Richard A.
+Powers, Acting Assistant Attorney General Component(s):Antitrust Division
+Updated September 17, 2020

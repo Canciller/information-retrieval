@@ -1,0 +1,43 @@
+https://www.justice.gov/opa/pr/owner-bitcoin-exchange-convicted-racketeering-conspiracy-laundering-millions-dollars
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Monday, September 28, 2020
+Owner of Bitcoin Exchange Convicted of Racketeering Conspiracy for Laundering Millions of Dollars in International Cyber Fraud Scheme
+A Bulgarian national was found guilty today for his role in a transnational and multi-million dollar scheme to defraud American victims through online auction fraud.
+Acting Assistant Attorney General Brian C.
+Rabbitt of the Justice Departments Criminal Division, USA Attorney Robert M.
+Duncan Jr.
+of the Eastern District of Kentucky, Assistant Director Michael DAmbrosio of USA Secret Services Office of Investigations and Kentucky State Police Commissioner Rodney Brewer made the announcement.
+Rossen Iossifov, 53, formerly of Bulgaria, was convicted by a federal jury in Frankfort, Kentucky of one count of conspiracy to commit racketeering and one count of conspiracy to commit money laundering after a two-week trial in front of USA District Judge Robert E.
+Wier.
+Sentencing has been set for Jan.
+12, 2021.
+According to court documents and evidence presented at trial, Iossifov and his co-conspirators participated in a criminal conspiracy that engaged in a large-scale scheme of online auction fraud that victimized at least 900 Americans.
+Specifically, Romania-based members of the conspiracy posted false advertisements to popular online auction and sales websitessuch as Craigslist and eBayfor high-cost goods (typically vehicles) that did not actually exist.
+Members of the conspiracy would convince American victims to send money for the advertised goods by crafting persuasive narratives, for example, by impersonating a military member who needed to sell the advertised item before deployment.
+According to court documents, members of the conspiracy created fictitious online accounts to post these advertisements and communicate with victims, often using the stolen identities of Americans to do so.
+They also delivered invoices to the victims bearing trademarks of reputable companies in order to make the transaction appear legitimate.
+Members of the conspiracy also set up call centers, impersonating customer support, to address questions and alleviate concerns over the advertisements.
+According to court documents, once victims were convinced to send payment, the conspiracy participants engaged in a complicated money laundering scheme wherein domestic associates would accept victim funds, convert these funds to cryptocurrency, and transfer proceeds in the form of cryptocurrency to foreign-based money launderers.
+According to evidence presented at trial, Iossifov was the owner of RG Coins, a Bulgaria-based Bitcoin exchange.
+From at least September 2015 to at least December 2018, he exchanged cryptocurrency into local fiat currency on behalf of the Romania-based members of the conspiracy, knowing that the Bitcoin represented the proceeds of illegal activity.
+According to trial testimony, for example, in just the span of about two and a half years, Iossifov exchanged over $4.9 million worth of Bitcoin for just four other members of the criminal enterprise.
+Seventeen total defendants have been convicted in this case.
+Three others are fugitives.
+The investigation was conducted by the USA Secret Service, Kentucky State Police, Lexington Police Department, IRS Criminal Investigation, and USA Postal Inspection Service, and supported by the Justice Departments Organized Crime Drug Enforcement Task Forces (OCDETF) and the International Organized Crime Intelligence and Operations Center (IOC-2).
+Assistance was provided by the Romanian National Police (Service for Combating Cybercrime) and the Romanian Directorate for Investigating Organized Crime and Terrorism (Agency for Prosecuting Organized Crime).
+The Criminal Divisions Money Laundering and Asset Recovery Section provided significant support and the Justice Departments Office of International Affairs provided significant support in securing and coordinating the arrests and extraditions from Romania of more than a dozen defendants.
+The United States was represented at trial by Senior Counsel Frank H.
+Lin of the Criminal Divisions Computer Crime and Intellectual Property Section (CCIPS) and Assistant USA Attorneys Kathryn M.
+Anderson and Kenneth R.
+Taylor of the USA Attorneys Office for the Eastern District of Kentucky.
+The case is additionally being prosecuted by Senior Trial Attorney Timothy C.
+Flowers of CCIPS.
+Individuals believing they may be victims of the advanced fee and online auction fraud or brute-force attack schemes described herein are encouraged to visit the following website to obtain more information: https://justice.gov/usao-edky/information-victims-large-cases.
+Tips to avoid becoming a victim of online auction fraud can be found here on the USA Secret Services website.
+The year 2020 marks the 150th anniversary of the Department of Justice.
+Learn more about the history of our agency at www.
+Justice.gov/Celebrating150Years.
+Topic(s):Cyber CrimeComponent(s):Criminal DivisionCriminal - Computer Crime and Intellectual Property SectionCriminal - Money Laundering and Asset Recovery SectionCriminal - Office of International AffairsUSAO - Kentucky, EasternPress Release Number:20-1006
+Updated April 13, 2021

@@ -1,0 +1,43 @@
+https://www.justice.gov/opa/pr/us-reaches-15-billion-settlement-daimler-ag-over-emissions-cheating-mercedes-benz-diesel
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Monday, September 14, 2020
+The USA Reaches $1.5 Billion Settlement with Daimler AG Over Emissions Cheating in Mercedes-Benz Diesel Vehicles
+Daimler AG to Conduct Nationwide Recall and Repair of Mercedes-Benz Diesel Vehicles, Pay over $945,000,000 in Penalties, Perform Projects to Mitigate Pollution, and Revamp Internal Audit Procedures
+The USA Department of Justice, Environmental Protection Agency (EPA), and California Air Resources Board (CARB) announced today a proposed settlement with German automaker Daimler AG and its American subsidiary Mercedes-Benz USA, LLC (collectively, Daimler) resolving alleged violations of the Clean Air Act and California law associated with emissions cheating.
+Under the proposed settlement, lodged with the USA District Court for the District of Columbia, Daimler will recall and repair the emissions systems in Mercedes-Benz diesel vehicles sold in the United States between 2009 and 2016 and pay $875,000,000 in civil penalties and roughly $70,300,000 in other penalties.
+The company will also extend the warranty period for certain parts in the repaired vehicles, perform projects to mitigate excess ozone-creating nitrogen oxides (NOx) emitted from the vehicles, and implement new internal audit procedures designed to prevent future emissions cheating.
+The recall program and federal mitigation project are expected to cost the company about $436,000,000.
+The company will pay another $110,000,000 to fund mitigation projects in California.
+Taken together, the settlement is valued at about $1.5 billion.
+Vehicle manufacturers are required by the Clean Air Act and federal regulations to apply for and receive a certificate of conformity from EPA before selling a new model year vehicle in the United States.
+As part of the application process, manufacturers must demonstrate through testing that a vehicle meets applicable emissions standards and disclose to EPA all auxiliary emission control devices (AECDs) and any defeat devices installed in the vehicle.
+The settlement addresses allegations made in separate civil complaints filed by the United States and CARB today in the District of Columbia that, from 2009 to 2016, Daimler manufactured, imported, and sold more than 250,000 diesel Sprinter vans and passenger cars with undisclosed AECDs and defeat devices programmed into the vehicles complex emissions control software.
+These devices cause the vehicles to produce compliant results during emissions testing.
+But when not running a test, the vehicles emissions controls perform differently, and less effectively, resulting in an increase in NOx emissions above compliant levels.
+NOx emissions from vehicles play a key role in ground-level ozone production and negatively impact human health.
+Indeed, studies have indicated that breathing ozone may cause damage to lung tissue in children and adults, and it may worsen conditions like asthma, emphysema, and bronchitis.
+The pollutant has also been linked to cardiac disease.
+By requiring Daimler to pay a steep penalty, fix its vehicles free of charge, and offset the pollution they caused, todays settlement again demonstrates our commitment to enforcing our nations environmental laws and protecting Americans from air pollution, said Deputy Attorney General Jeffrey Rosen.
+The message we are sending today is clear.
+We will enforce the law.
+We will protect the environment and public health.
+And if you try to cheat the system and mislead the public, you will be caught, said EPA Administrator Andrew Wheeler.
+Those that violate public trust in pursuit of profits will forfeit both.
+
+EPA and CARB discovered the defeat devices through testing conducted in the wake of the Volkswagen scandal at EPAs National Vehicle and Fuel Emissions Laboratory in Michigan and at CARBs test laboratory in El Monte, California.
+The settlement requires Daimler to implement a recall and repair program to remove all defeat devices from the affected vehicles at no cost to consumers and bring the vehicles into compliance with applicable emissions standards under the Clean Air Act.
+The repair will consist of a software update and replacement of select hardware, which differs across models and model years.
+Daimler must repair at least 85 percent of the affected passenger cars within two years and at least 85 percent of the affected vans within three years.
+The company must also offer an extended warranty covering all updated software and hardware, and it must test repaired vehicles each year for the next five years to ensure the vehicles continue to meet emissions standards over time.
+Daimler will face stiff penalties if any category of updated vehicles fails to meet applicable emissions standards or if it fails to meet the 85 percent recall rate for passenger cars or vans.
+The settlement further requires Daimler to implement systemic corporate reforms to detect and try to eliminate violations in the future.
+This includes conducting significant testing on new diesel and gasoline motor vehicles using a portable emissions measurement system to assess compliance under real-world conditions, installing a robust whistleblower program, enhancing annual AECD and defeat device training for its employees, and performing internal audits subject to review and critique by an external compliance consultant.
+Daimler must also replace 15 old locomotive engines with new, less-polluting engines to offset excess NOx emitted from its vehicles.
+The proposed settlement is subject to a 30-day public comment period and court review and approval.
+Copies of the consent decree lodged with the court are available here.
+Further information about the settlement is available on EPAs website at:https://www.
+epa.gov/enforcement/daimler-ag-and-mercedes-benz-usa-llc-clean-air-act-civil-settlement.
+Attachment(s): Download ComplaintTopic(s):EnvironmentComponent(s):Environment and Natural Resources DivisionOffice of the Deputy Attorney GeneralPress Release Number:20-927
+Updated December 2, 2020

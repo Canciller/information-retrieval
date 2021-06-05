@@ -1,0 +1,42 @@
+https://www.justice.gov/opa/pr/justice-department-sues-block-visas-proposed-acquisition-plaid
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, November 5, 2020
+Justice Department Sues to Block Visas Proposed Acquisition of Plaid
+Acquisition Would Eliminate Nascent Competitor Plaid and Prevent Disruption of Visas Monopoly in Online Debit
+Today, the Department of Justice filed a civil antitrust lawsuit to stop Visa Inc.
+s $5.3 billion acquisition of Plaid Inc.
+Visa is a monopolist in online debit services, charging consumers and merchants billions of dollars in fees each year to process online payments.
+Plaid, a successful fintech firm, is developing a payments platform that would challenge Visas monopoly.
+American consumers and business owners increasingly buy and sell goods and services online, and Visa  a monopolist in online debit services  has extracted billions of dollars from those transactions, said Assistant Attorney General Makan Delrahim of the Justice Departments Antitrust Division.
+Now, Visa is attempting to acquire Plaid, a nascent competitor developing a disruptive, lower-cost option for online debit payments.
+If allowed to proceed, the acquisition would deprive American merchants and consumers of this innovative alternative to Visa and increase entry barriers for future innovators.
+
+According to the complaint, Plaid powers some of the most innovative fintech apps.
+Plaids technology allows developers to plug into consumers various financial accounts, with consumer permission, to aggregate spending data, look up balances, and verify other personal financial data.
+Plaid connects to 200 million consumer bank accounts and 11,000 USA banks.
+Because it accesses data on behalf of so many fintech app customers, Plaid has become the leading financial data aggregation company in the United States.
+Plaid is planning to leverage its connections to build a bank-linked payments network that would compete with Visa.
+Plaids money movement platform would allow consumers to pay merchants directly from their bank accounts using bank credentials rather than a debit card.
+Plaids established connections and technology uniquely positions it to enter the payments market and disrupt Visas monopoly.
+The complaint alleges that Visas CEO viewed the acquisition as an insurance policy to protect against a threat to our important US debit business.
+ This acquisition is the second-largest in Visas history, with an extraordinary price tag of $5.3 billion.
+Visas CEO justified the deal to Visas Board of Directors as a strategic, not financial move, and noted that in part because our US debit business i[s] critical and we must always do what it takes to protect this business.
+ Unless acquired, Visa feared that Plaid on their own or owned by a competitor [was] going to create some threat with a potential downside risk of $300-500M in our US debit business by 2024.
+If Plaid remained free to develop its competing payment platform, then Visa may be forced to accept lower margins or not have a competitive offering.
+
+Millions of American consumers and merchants depend on debit services to transact business online.
+The complaint alleges that Visa has dominated online debit for years and has protected its monopoly with exclusionary tactics that have prevented rivals, including Mastercard, from expanding or entering.
+The lawsuit alleges that Visas proposed acquisition of Plaid is a violation of both Section 2 of the Sherman Act and Section 7 of the Clayton Act.
+The Department filed its lawsuit in the USA District Court for the Northern District of California.
+Visa Inc.
+is a Delaware corporation headquartered in Foster City, California.
+Visa is a global payments company that operates the largest debit network in the United States.
+Visas 2019 revenues were approximately $23 billion.
+Plaid Inc.
+is a Delaware corporation headquartered in San Francisco, California.
+Plaid is a financial services company that operates the leading financial data aggregation platform in the United States.
+In 2019, Plaid earned approximately $100 million in revenues.
+Attachment(s): Download Filed Visa Plaid ComplaintComponent(s):Antitrust DivisionPress Release Number:20-1204
+Updated November 5, 2020

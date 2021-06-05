@@ -1,0 +1,55 @@
+https://www.justice.gov/opa/speech/remarks-assistant-attorney-general-national-security-john-c-demers-announcement-charges
+Remarks By Assistant Attorney General For National Security John C.
+Demers On Announcement of Charges Against Russian Military Intelligence Officers
+Washington, DCUnited States
+~
+Monday, October 19, 2020
+As Prepared For Delivery
+Good afternoon.
+Today, we announce criminal charges against a conspiracy of Russian military intelligence officers who stand accused of conducting the most disruptive and destructive series of computer attacks ever attributed to a single group.
+I am joined in this announcement by FBI Deputy Director David Bowdich, USA Attorney for the Western District of Pennsylvania Scott W.
+Brady, and Special Agent in Charge of the FBIs Pittsburgh Field Office Michael A.
+Christman.
+In the past three months alone, the Department has charged computer intrusions or taken legal action related to the activities of China, Iran and North Korea.
+Each of these cases charged significant malicious conduct that we have called out, in part, to reinforce norms of responsible nation state behavior in cyberspace.
+But as this case shows, no country has weaponized its cyber capabilities as maliciously and irresponsibly as Russia, wantonly causing unprecedented collateral damage to pursue small tactical advantages and to satisfy fits of spite.
+The defendants in this case were all members of Military Unit 74455 of the Russian Main Intelligence Directorate, an intelligence agency known as the GRU.
+The Department previously charged members of this same unit, also known to cybersecurity researchers as Sandworm Team, for their role in Russias efforts to interfere in the 2016 USA elections.
+We make no election interference allegations here.
+Rather, todays charges illustrate how Unit 74455s election activities were but one part of the work of a persistent, sophisticated hacking group busy sabotaging perceived enemies or detractors of the Russian Federation, regardless of the consequences to innocent bystanders or their destabilizing effect.
+Six current and former officers in Unit 74455 are accused of the following disruptive and destructive attacks alleged in the indictment:
+In December of 2015 and 2016, the conspirators launched destructive malware attacks against the electric power grid in Ukraine.
+These were the first reported destructive malware attacks against the control systems of civilian critical infrastructure.
+These attacks turned out the lights and turned off the heat in the middle of the Eastern European winter, as the lives of hundreds of thousands of Ukrainian men, women and children went dark and cold.
+From there, the conspirators destructive path, still putatively aimed at Ukraine, widened to encompass virtually the whole world.
+In what is commonly referred to as the most destructive and costly cyber attack ever, the conspirators unleashed the NotPetya malware.
+Although it masqueraded as ransomware, designed to extort money, this was a false flag: the co-conspirators designed the malware to spread with devastating and indiscriminate alacrity  bringing down entire networks in seconds and searching for remote computer connections through which to attack additional innocent victims, all without hope of recovery or repair.
+The entirely foreseeable result was that the worm quickly spread globally, shutting down companies and inflicting immense financial harm.
+This irresponsible conduct impaired the ability of companies in critical sectors, such as transportation and health, to provide services to the publicnot only in Ukraine, but as far away as Western Pennsylvania.
+As alleged, for just three USA-related victimsthree of at least hundreds of victimsmonetary losses reached nearly one billion dollars.
+Rather than express remorse for the damage they inflicted against victims worldwide, the conspirators callously celebrated their success.
+Next, the conspirators turned their sights on the Winter Olympics, a forum where the international community, despite recurring conflict, comes together to celebrate the common pursuit of physical excellence and mental toughness.
+The conspirators, feeling the embarrassment of international penalties related to Russias state-sponsored doping program, i.
+e.
+, cheating, took it upon themselves to undermine the games.
+Their cyber attack combined the emotional maturity of a petulant child with the resources of a nation state.
+They conducted spearphishing campaigns against South Korea, the host of the 2018 PyeongChang Winter Olympic Games, as well as the International Olympic Committee, Olympic partners, and athletes.
+Then, during the opening ceremony, they launched the Olympic Destroyer malware attack, which deleted data from thousands of computers supporting the Games, rendering them inoperable.
+Although the conspirators took steps to pin the Olympic Destroyer attack on North Korea, this second false-flag attempt also failed.
+Cybersecurity researchers ultimately attributed the attack to Sandworm Team, as we do today.
+These destructive and disruptive malware attacks, and related preparations, were not the conspirators only malicious conduct alleged in the indictment.
+The conspirators also supported a hack-and-leak operation in the days leading up to the 2017 French elections.
+And the conspirators continued their disruptive attacks as recently as October 2019, targeting government and non-government websites in the country of Georgia.
+Todays allegations, in their entirety, provide a useful lens for evaluating Russias offer two weeks ago of a cyber reset between Russia and the United States.
+Russia is certainly right that technologically sophisticated nations that aspire to lead have a special responsibility to secure the world order and contribute to widely accepted norms, peace and stability.
+Thats what were doing here today.
+But this indictment lays bare Russias use of its cyber capabilities to destabilize and interfere with the domestic political and economic systems of other countries, thus providing a cold reminder of why its proposal is nothing more than dishonest rhetoric and cynical and cheap propaganda.
+Before I wrap up my remarks, Id like to thank the team of prosecutors and FBI agents whose diligence and perseverance has led to these charges and the kind of evidence that would allow us to hold these defendants accountable in a court of law.
+Id also like to express the Departments appreciation for assistance from the private sector, such as Ciscos Talos Intelligence Group, Facebook, Google, and Twitter in investigating and disrupting the Unit 74455 cyber threat.
+We also appreciate the hard work and dedication of our foreign law enforcement or intelligence partners, including in Ukraine, Georgia, South Korea, the United Kingdom and New Zealand, who have also pursued these conspirators after attacks and intrusions within their own countries or otherwise assisted in our investigation.
+All of these partnerships send a clear message that responsible nations and the private sector are prepared to work together to defend against and disrupt significant cyber threats.
+Now, I will turn the podium over to USA Attorney Scott W.
+Brady, who will discuss the allegations in the indictment in greater detail.
+Speaker:John C.
+Demers, Assistant Attorney General for National SecurityComponent(s):National Security Division (NSD)
+Updated October 19, 2020

@@ -1,0 +1,276 @@
+https://www.justice.gov/opa/speech/acting-principal-deputy-assistant-attorney-general-michael-murray-delivers-remarks
+Acting Principal Deputy Assistant Attorney General Michael Murray Delivers Remarks to the Honorable Lee Yeakel IP Inn of Court
+Washington, DCUnited States
+~
+Thursday, December 17, 2020
+Remarks as Prepared for Delivery
+Recent Developments at the Intersection of Intellectual Property and Antitrust Law
+Good evening and thank you for inviting me to join you this evening.
+Im pleased to have the opportunity to discuss the Antitrust Divisions intellectual property and antitrust portfolio, which has been a cornerstone of our efforts over the last few years.
+Id like to thank Tim, Jacob, and Craig for their excellent setup, which allows me to dive into some of the critical issues weve spent the last several years addressing.
+Assistant Attorney General Makan Delrahim articulated the Antitrust Divisions guiding principles for IP enforcement early in his tenure.
+[1] The New Madison Approach, as he termed it, is named for founding father James Madisons commitment to strong intellectual property rights, which he saw as critical to preserving innovation.
+Honoring its namesake, this approach fosters a balance between patent holders and implementers: it ensures that patent holders have sufficient incentives to innovate and develop new technologies, while licensees have appropriate incentives to adopt those technologies.
+The New Madison Approach has played a particularly important role in recalibrating the application of antitrust law to conduct involving standard essential patents (SEPs) and the alleged hold up problem.
+For some time, certain advocates have been pushing the view that SEP holders, after making the commitment to license their SEPs on FRAND terms, might renege on this commitment and refuse to do so.
+Instead, they might exploit their newfound position as standard-essential to hold up implementers for supra-FRAND rates or discriminatory terms.
+Some have argued this conduct is not merely a contractual problem (or even a patent problem), but an antitrust one, as well.
+And they have proffered that the hammer of antitrust liability and treble damages should be deployed in such instances.
+Some have gone so far as to argue that the potential competition concerns mean that injunctions should be all but unavailable to SEP holders who have made FRAND commitments.
+The New Madison Approach takes into account the potential for this kind of conduct to actually harm competition, but also takes into account related concerns and phenomena: dynamic competition and innovation over the long term; potential anticompetitive conduct by implementersknown as the hold out problemthe flip side of the hold up coin; and actual observations of how standards development organization (SDO) members have behaved over the last several years.
+By comprehensively analyzing the landscape, the New Madison approach is able to reach a more balanced conclusion and to establish a framework that favors neither patent holders nor implementers, but the consumers who depend upon healthy competition in these markets.
+As explained earlier, there are four basic premises underlying the New Madison approach.
+These are: First, that the hold up problem is not an antitrust concern.
+Second, that SDOs should not be transmuted into vehicles for implementers to engage in concerted action to skew negotiations and conditions in their favor.
+Third, that SDOs and courts should retain the high bar typically required to restrict a patent holders right to exclude, given that right is a foundational patent right.
+Fourth, and relatedly, that a unilateral and unconditional refusal to license a patent should be considered per se legal for antitrust purposes.
+We can discuss these premises further in the Q&A that follows if there is interest, but for now I would like to expand a bit on the issue of whether and when hold up might actually occur, as a factual and empirical matter.
+Some advocates have begun to take the existence and prevalence of holdup in the SEP space as nearly a givensomething that is not only occurring, but is perhaps pervasive and may even be presumed.
+But the evidence says otherwise.
+As the Antitrust Division recently explained in a letter it issued to IEEE-SA (which I will discuss in a moment), concerns over hold-up as a real-world competition problem have largely dissipated.
+[2] While theories that competition might be harmed by ill-intentioned SEP holders were introduced in the early 2000s, they remain today, as AAG Delrahim described them, an empirical enigma.
+[3]
+There are a few likely culprits that help to explain why we are not observing SEP hold up as a common phenomenon.
+As far back as 2007, the Division and the Federal Trade Commission explained, in our joint report on Antitrust Enforcement and Intellectual Property Rights, that [w]hether and at what point hold up can occur will vary, depending on a variety of factors.
+[4] These factors may or may not be present in any given case, and include things like what substitutes might be available, the existence and extent of switching costs, the significance of any relationship-specific investments and, importantly, market power.
+Market power for antitrust purposes is the ability to profitably maintain prices above, or output below, competitive levels for a significant period of time.
+[5] Consistent with Supreme Court guidance, we do not assume that a patent, even a standard essential patent (or a copyright or trade secret, for that matter) necessarily confers market power on its owner.
+[6] This is a basic premise that we recognize in our IP Guidelines, as do competition enforcers across the globe, including the European, Canadian, and Chinese competition agencies.
+[7] Whether market power exists is a fact-specific questionjust like the question of whether hold up is actually occurring.
+To ascertain whether a patent owner has market power, we look to factors such as the presence of alternative products or technologies that may constrain a firms ability to affect market prices or output, and potential barriers to entry that may limit or prevent rivals from entering in response to higher prices or reduced output.
+We need several factors to be present, then, for hold up to be possible in the first instance.
+That should preclude a presumption that hold up is occurring as a general matter.
+Moreover, merely because factors indicating hold up might be possible are present does not necessarily mean hold up will occur.
+There are, in fact, many reasons to be skeptical.
+Numerous patent holders in the SDO space are also implementers, and so would risk other patent holders retaliating in response to perceived hold up.
+Many are also repeat players in SDOs, and a reputation for reneging on FRAND commitments might encourage the SDO to try to design around a bad actor in the future or to alter policies to better police such behavior.
+Indeed, SDO membersboth patent holders and implementersare sophisticated parties with long term stakes in developing successful standards that can be readily deployed.
+If we are concerned with the potential for hold up between sophisticated parties, we should also be attuned to other strategic behavior, including the potential for hold out, when implementers might try to exploit an SEP holders FRAND obligations.
+The hold out concern has, in fact, grown in recent years as some have attempted to shift the bargaining power more heavily to favor implementers.
+For instance, some argue for making breach of a FRAND obligation an antitrust violation, or for making injunctions effectively unavailable to SEP holders who make FRAND commitments.
+The legal landscape affects negotiation leverage, which in turn informs both patent holders and implementers incentives.
+Using antitrust law to enforce FRAND commitments and penalize SEP holders would significantly diminish the incentives of innovators to invest time and money in new inventionsto the detriment of the consumers whom antitrust enforcers are tasked with protecting.
+The Division has worked hard to recalibrate this balance in a more consumer friendly way, and Id like to discuss two areas where we are seeing promising developments.
+The first is in courtsboth domestic and foreignand the second is in the policy space, and in particular our business review process.
+On the amicus side, as we were discussing earlier, the Division submitted an amicus brief in the Ninth Circuit in FTC v.
+Qualcomm, Inc.
+[8] Our brief explained that the district courts opinion failed to identify the requisite harm to competition, condemned legal profit-maximizing conduct, and abandoned clear Supreme Court precedent.
+[9] The Ninth Circuit found the lower court did indeed err, reversing its opinion and vacating its injunction.
+The appellate court explained that this case required it to draw the line between anticompetitive behavior, which is illegal under the federal antitrust law, and hypercompetitive behavior, which is not.
+[10] It correctly identified the focal point of the antitrust analysis: harm to competition.
+In line with this focus, it expressed skepticism that hold up is an antitrust concern, citing experts like retired Chief Judge Paul R.
+Michel of the Court of Appeals for the Federal Circuit, who argued that it would be a mistake to use the hammer of antitrust law .
+.
+.
+to resolve FRAND disputes when more precise scalpels of contract and patent law are effective.
+[11] The court further declined to adopt an additional exception .
+.
+.
+to the general rule that businesses are free to choose the parties with whom they will deal, as well as the prices, terms, and conditions of that dealing, even when SEPs were involved.
+[12] The Ninth Circuit recently declined to rehear this case en banc, meaning the sound principles and conclusions expressed in the unanimous panel opinion will continue to provide good guidance for the lower courts.
+Also as mentioned, the Division filed a statement of interest in the Northern District of Texas in Continental Automotive Systems v.
+Avanciwhich squarely presented the question of whether an SEP holder who makes and allegedly reneges on a FRAND commitment can be liable under Section 2 of the Sherman Act.
+[13] We explained why accepting the plaintiffs theory in the case would work an unwarranted expansion of USA antitrust laws, hamper incentives to innovate, and harm consumers.
+The district court dismissed the case, largely along the lines we articulated in our statement of interest.
+It cited the Ninth Circuits recent Qualcomm decision, noting that courts must be cautious about using the antitrust laws to remedy what are essentially contractual disputes between private parties.
+[14] The court then specifically declined to adopt the approach the Third Circuit established in Broadcom Corp.
+v.
+Qualcomm Inc.
+,[15] holding the use of deception simply to obtain higher prices normally has no particular tendency to exclude rivals and thus to diminish competition.
+[16] Like the Ninth Circuit, the district court recognized that the crux of the antitrust concern is whether competition has been harmed, and ultimately held that [i]t is not anticompetitive for an SEP holder to violate its FRAND obligation.
+ The case is now before the Fifth Circuit on appeal, and we are hopeful that the panel decision will continue to build upon the positive trends we are seeing.
+The Division is also pleased that principles of the New Madison approach have been vindicated in recent foreign court decisions.
+This past May, for instance, the German Federal Court of Justice decided Sisvel v.
+Haiera case involving hold out behavior.
+[17] Haier, the implementer, had been intransigent in negotiations, rejecting Sisvels repeated licensing offers but making no offers of its own.
+The German high court held that an implementer must be willing to take on a license on any terms that are FRAND, and must make offers of its own, rather than merely rejecting the patent holders offers.
+The Court also held that the commitment to offer nondiscriminatory licensing terms doesnt mean that once a patent holder makes an offer to one implementer, it automatically has to make the exact same offer to all other implementers.
+The UK Supreme Courts decision in August in Unwired Planet v.
+Huawei also aligns closely with tenets of the New Madison approach.
+[18] There, the Courtlike the German courtheld that differential pricing was not necessarily discriminatory pricing, and that there are valid reasons for an SEP holder who makes a FRAND commitment to offer each licensee different terms.
+It further held that SEP holders may be entitled to injunctive relief and are not limited to seeking monetary damages.
+The court specifically acknowledged the hold out concern, explaining that, if the patent holder were confined to a monetary remedy, implementers who were infringing the patents would have an incentive to continue infringing until, patent by patent, and country by country, they were compelled to pay royalties.
+[19] The Division has advanced this same position in amicus briefs and in our 2019 Joint Statement with the USPTO and NIST, emphasizing that special rules or standards for injunctive relief in the SEP and FRAND context are unwarranted and that FRAND commitments are but one factor to be considered in determining whether an injunction should issue.
+Its been very encouraging to see these early signs of potential convergence by domestic and foreign courts toward sound principles at the intersection of IP and competition law that will encourage dynamic competition for years to come.
+The Division also has made important strides in this space through our Business Review Process.
+For those who might be unfamiliar, this process allows private parties to seek the Divisions enforcement intention regarding proposed conduct.
+[20] The parties provide the Division with certain documents and information, and the Division may write a letter expressing our intentor, more often, non-intentto challenge that conduct.
+We have continued to be busy with business review requests in the IP space over the last few years.
+Particularly apropos to mention this week, as COVID-19 vaccines are beginning to roll out across the United States, is a letter we issued earlier this year.
+This summer, several pharmaceuticals companies utilized the expedited process we implemented in March to help those working to respond to the ongoing pandemic.
+[21] They proposed to exchange limited information regarding the manufacture of monoclonal antibodies that might be developed to treat the virus, in order to expedite production and hopefully get effective treatments to consumers more quickly.
+We are very proud of the Divisions excellent work to review their proposal, identify the relevant competition concerns, and quickly issue a positive letter to the parties.
+Another critical step we took this year was supplementing our 2015 IEEE business review letter.
+Now, the Division typically does not need to act after issuing a positive business review letter.
+This was a highly unusual action we deemed necessary after hearing several reports over the last three years that the 2015 IEEE Letter was being misused and mischaracterized by stakeholders, not only here in the USA but abroad as well.
+Particularly concerning were reports that parties, like IEEE, were representing to competition enforcers outside the USA that our 2015 Letter was an endorsement of IEEEs policy, including its approach to limiting injunctive relief for SEP holders (among other things).
+We were beginning to see evidence that other agencies were relying on those mischaracterizations of our letter, and that this approach might be chilling participation in IEEEs SDO process and potentially hampering innovation.
+When our competition advocacy is being abused and perversely appears to be harming consumer welfare, we not only have the ability to respond, but the obligation to do so.
+As my colleague, Deputy Assistant Attorney General Alex Okuliar recently explained,[22] our review process itself reserves the Divisions authority to bring whatever action or proceeding it subsequently comes to believe is required by the public interest.
+[23] The stakes for consumers when our efforts are misconstrued and misused are very real.
+Adoption of policies or standards that undermine innovationparticularly when there are international ramifications that may magnify these effectsportend significant damage to consumer welfare.
+Much of the growth in our economy derives from dynamic competition and innovation, so behavior that impairs innovation is especially harmful.
+While there was a clear need for us to act here, we are confident that the circumstances necessitating our 2020 IEEE Letter were uncommon and that this supplement will remain an outlier.
+IEEE is now well-positioned to ensure that their policies and advocacy are aligned with modern antitrust law and policy, and that they are working to ensure consumers across the globe continue to benefit from a healthy competitive process and continuing innovation.
+We look forward to seeing positive developments from them in this space.
+This year we also issued a positive letter in response to a request from Avanci LLC.
+[24] Avanci aggregates patents that are essential to the 2G, 3G, and 4G cellular standards, and licenses them to vehicle manufacturers en masse on behalf of the patent holders.
+It plans to perform similar functions with SEPs for the 5G standard, and sought our review of its pooling practices.
+We spoke with industry stakeholders, conducted our own analysis, and concluded that Avancis business model is unlikely to harm competition.
+Indeed, it may benefit consumers.
+Transaction cost savings from pooling may be passed on to consumers in the form of lower prices.
+Patent pools integrate complementary technologies, reduce transaction costs, and help avoid expensive infringement litigation.
+Implementers dont have to negotiate separate licenses with each patent holder.
+Patent holders can join together to find implementers, negotiate licenses, and, if necessary, the pool can facilitate the enforcement of the pools patents in court.
+In this way, patent pools provide a solution to otherwise prohibitively high transaction costs associated with the licensing of thousands of essential patents that go into cellular standards.
+Avanci also requires an independent evaluation of the pools patents for essentiality to the standards, giving comfort to implementers that they are licensing patents they need to implement the standards.
+There are, of course, also potential anticompetitive effects of such arrangements.
+After careful analysis, we determined that Avancis arrangements offset many of those potential concerns.
+For example, Avanci permits SEP holders to negotiate their own individual licenses with implementers, enabling the SEP holders to compete with the aggregate license if they choose to do so, or license in other fields of use.
+It also includes mechanisms to prevent the exchange of competitively sensitive information.
+Based on these safeguards and other factors, we informed Avanci that we did not intend to challenge its aggregation practices in court.
+To conclude: we have prioritized efforts to preserve innovation and dynamic competition by focusing on balancing patent holder and implementer incentives and heading off potential wrong turns in the law.
+Looking back on these past several years, I would say the Division has made great strides and enjoyed considerable success in this endeavor.
+Its our hope and expectation that these successes will pay off for years to come, and that the Division will have continue to have many future successes in this area.
+[1] Makan Delrahim, The New Madison Approach to Antitrust & Intellectual Property Law, 1 J.
+of L.
+& Innovation 1 (Oct.
+2019).
+[2] Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Sophia A.
+Muirhead, Gen.
+Counsel & Chief Compliance Officer, IEEE, at 4 (Sept.
+10, 2020).
+[3] .
+Makan Delrahim, The New Madison Approach to Antitrust & Intellectual Property Law, 1 J.
+of L.
+& Innovation 1 (2019).
+[4] USA Dept of Justice & Fed.
+Trade Commn, Antitrust Enforcement and Intellectual Property Rights: Promoting Innovation and Competition, Ch.
+3,  I, at 35, n.
+12 (Apr.
+2007), https://www.
+justice.gov/sites/default/files/atr/legacy/2007/07/11/222655.
+pdf.
+[5] USA Dept of Justice & Fed.
+Trade Commn, Antitrust Guidelines for the Licensing of Intellectual Property  2.2 (Jan.
+12, 2017), https://www.
+justice.gov/atr/IPguidelines/download.
+[6] Id.
+; Ill.
+Tool Works Inc.
+v.
+Indep.
+Ink, Inc.
+, 547 USA 28, 45-46 (2006) (Congress, the antitrust enforcement agencies, and most economists have all reached the conclusion that a patent does not necessarily confer market power upon the patentee.
+Today, we reach the same conclusion.
+).
+[7] Canadian Competition Bureau, Intellectual Property Enforcement Guidelines  4.1 (Mar.
+13, 2019), https://www.
+ic.
+gc.
+ca/eic/site/cb-bc.
+nsf/eng/04421.
+html#sec04; Commission Regulation 316/2014,  5, 2014 O.
+J.
+(EC); Guidelines on the Applicability of Article 101 of the Treaty on the Functioning of the European Union to Horizontal Co-operation Agreements,  269, COM (Jan.
+14, 2011); Korea Fair Trade Commn, Review Guidelines on Undue Exercise of Intellectual Property Rights  II.
+2.
+C (Dec.
+17, 2014); Taiwan Fair Trade Commn, Disposal Directions (Guidelines) on Technology Licensing Arrangements  3 (Aug.
+24, 2016); State Council Anti-Monopoly Commn, Guidelines on Intellectual Property, Art.
+2, 27 (the Department is using an unofficial translation of the Guidelines); State Admin.
+for Market Regulation, Regulations on prohibiting abuse of intellectual property rights to exclude and restrict competition Art.
+6 (Nov 3, 2020).
+[8] FTC v.
+Qualcomm Inc.
+, 969 F.
+3d 974 (9th Cir.
+2020).
+[9] Br.
+of the United States as Amicus Curiae in Support of Appellant and Vacatur, FTC v.
+Qualcomm Inc.
+, No.
+19-16122 (9th Circ.
+2020), https://www.
+justice.gov/atr/case-document/file/1199191/download.
+[10] Qualcomm Inc.
+, 969 F.
+3d at *982.
+[11] Id.
+at *997 (quoting Amicus Curiae Br.
+of the Honorable Paul R.
+Michel (Ret.
+), at 23).
+[12] Id.
+(quoting Pac.
+Bell Tel.
+Co.
+v.
+Linkline Commcns, Inc.
+555 USA 438, 448 (2009)).
+[13] Continental Auto.
+Sys.
+, Inc.
+v.
+Avanci, LLC, No.
+19-CV-02933-M, 2020 WL 5627224, at *12 (N.
+D.
+Tex.
+Sept.
+10, 2020).
+[14] Id.
+at *11, n.
+13 (quoting Qualcomm, 969 F.
+3d at *997).
+[15] Broadcom Corp v.
+Qualcomm Inc.
+, 501 F.
+3d 297, 314 (3d Cir.
+2007).
+[16] Continental Auto.
+, 2020 WL 5627224, at *11 (quoting Rambus Inc.
+v.
+FTC, 522 F.
+3d 456, 464 (D.
+C.
+Cir.
+2008)).
+[17] Sisvel Intl S.
+A.
+v.
+Haier Deutschland GmbH, [BGH] [Federal Court of Justice] May 5, 2020, KZR 36/17.
+[18] Unwired Planet Intl Ltd.
+v.
+Huawei Techs.
+Co.
+, [2020] UKSC 37.
+[19] Id.
+at [167].
+[20] 28 C.
+F.
+R.
+ 50.6.
+[21] Letter from Thomas O.
+Barnett, Covington & Burling LLP, to Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice (July 15, 2020).
+[22] Alexander Okuliar, Deputy Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice,Promoting Predictability and Transparency in Antitrust Enforcement and Standards Essential Patents, Remarks to the Telecomm.
+Industry Assn (Dec.
+8, 2020).
+[23] 28 C.
+F.
+R.
+ 50.6(9).
+[24] Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Mark H.
+Hamer, Baker & McKenzie (July 28, 2020), https://www.
+justice.gov/atr/page/file/1298626/download.
+Speaker:Michael Murray, Former Acting Principal Deputy Assistant Attorney GeneralAttachment(s): Download Murray Inn of Court Remarks 12.17.
+2020.
+pdfTopic(s):AntitrustIntellectual PropertyComponent(s):Antitrust Division
+Updated December 18, 2020

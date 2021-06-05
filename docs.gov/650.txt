@@ -1,0 +1,447 @@
+https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-okuliar-delivers-remarks-telecommunications-industry
+Deputy Assistant Attorney General Okuliar Delivers Remarks to the Telecommunications Industry Association
+Washington, DCUnited States
+~
+Tuesday, December 8, 2020
+Promoting Predictability and Transparency in Antitrust Enforcement and Standards Essential Patents
+The Importance of Predictability and Transparency to Antitrust Enforcement
+Good afternoon.
+Its a pleasure to join you today, thank you for the invitation.
+Id like to begin with some prepared remarks addressing the importance of predictability and transparency to antitrust enforcement, particularly as it relates to standards-essential patents, give an overview of the Divisions recent activity in this space, and then turn to some questions.
+Antitrust law can be a very powerful tool to promote economic dynamism and innovation.
+It establishes important rules regarding how firms may operate in marketplaces across the economy.
+Firms, in turn, rely on these rules when making all sorts of strategic decisions, from day-to-day concerns to overall operating plans, from pricing or discounting strategies to long-term growth strategies.
+For any economy to realize meaningful long-term growth, firms (and consumers) must have confidence in the underlying legal rules governing their existence and behavior.
+Starting and growing a company is often expensive and risky.
+Maintaining a business is also costly, and firms are constantly assessing their ongoing viability and potential for growth.
+Confidence in the basic legal system is, of course, critical.
+Confidence in specialized regulatory regimes is likewise important.
+Firms are more likely to engage in costly R&D, and in the kind of expensive, time-consuming experimentation that innovation tends to require, when they are confident they will be rewarded for these investmentsthat, for example, antitrust laws will not change in the interim between investment and return in a way that deprives the firm from being able to recoup and benefit from its investments.
+This innovation and dynamic competition are critical to our modern economy.
+So the more that we, as enforcers, can do to ensure the basic competition law rules of the road are clear and predictable, the more we can help to preserve competition and to spur economic growth.
+Not only do firms benefit from this, but so, too, do consumers.
+They are the beneficiaries of the increased R&D and innovation that can thrive in a reliable regulatory and enforcement regime.
+Moreover, clear and foreseeable enforcement empowers consumers, who can then more readily understand when unlawful conduct may be occurring, and be better-positioned to identify violations and to protect themselves and others.
+Predictability and transparency in antitrust enforcement are important across markets and industries, but are often particularly important at the intersection of antitrust and intellectual property.
+Both competition and IP laws seek to foster long-term innovation and dynamic competitionwhich, again, depend on firms continuing to engage in risky and costly efforts today in the hopes of achieving rewards tomorrow.
+This is true for owners of various IP rights, including standards-essential patent holders.
+As competition law regimes have proliferated across the globe, it has become ever more important for antitrust enforcers to be clear regarding applicable rules and standards.
+As one of the oldest competition law regimes in the world, we at the Antitrust Division realize we have an important duty to provide an example of a transparent and predictable competition law system to which others may turn as a model.
+We use many tools to help raise awareness and build a better public understanding of our competition laws and policies.
+Of course, we primarily build transparency and predictability through the discrete law enforcement actions we bring.
+We supplement these actions with a host of efforts including: (1) guidelines and policy statements, like our Horizontal and Vertical Merger Guidelines and our Joint Policy Statement on Remedies for Standards-Essential Patents Subject to Voluntary F/RAND Commitments; (2) business review letters, which provide insights to the requesting parties and to the public regarding factors the Division considers when analyzing certain conduct; (3) amicus briefs and statements of interest in courts, where we can assist generalist judges in analyzing important and developing competition law issues; and (4) speecheslike this onewhich provide an opportunity for Division leadership to discuss with the public key issues and developments.
+Today, Id like to focus on two particular areas in which this administration has made significant strides to enhance transparency and predictability in the competition and IP space.
+First, Ill address our efforts to ensure that our business review process continues to benefit requesting parties and the public and that it is not misused or misinterpreted by parties or other stakeholders.
+Second, Ill turn to the importance of predictability and transparency regarding the enforcement and licensing of standards-essential patents (SEPs).
+Promoting Transparency and Predictability through the Business Review Process
+One way the Antitrust Division can provide transparency into our enforcement intentions is through our business review process.
+Some of you may have heard of the business review process and others may not be familiar, so let me provide a little background.
+The process for a business review is set out in the Code of Federal Regulations.
+[1] Under this procedure, parties may seek the Antitrust Divisions enforcement intentions with respect to proposed conduct (that is, conduct that has not yet been implemented by the parties).
+The Department will review the conduct based on the materials the parties provide, do a limited investigation, and determine whether it would likely take actionbring an enforcement actionshould the conduct begin.
+The Division may also decline to state its enforcement intentions, although this outcome is fairly rare.
+[2]
+Business review letters have provided guidance to the parties and the business community in important areas at the intersection of intellectual property and antitrust such as patent pooling[3] and standards development.
+[4] Regarding the latter, in 2006 and 2007, for example, the Division issued positive business review letters (no present intention to enforce) to the VMEbus International Trade Association (VITA) and the Institute of Electrical and Electronics Engineers (IEEE) respectively, which amended their patent policies to include provisions permitting the ex ante disclosure of maximum licensing terms for standards-essential patents.
+[5] We also issued a favorable review to the GSM Association after it amended its standards development policies to include more stakeholders in the process.
+[6] More recently, the Department also issued several expedited business review letters that addressed information sharing and collaborations related to COVID-19 response.
+[7] Thus, the business review process can be a useful way to understand the Antitrust Divisions thinking on certain novel conduct or complex business arrangements.
+The process also furthers the Departments goal of promoting transparency and predictability with respect to our antitrust enforcement policies.
+With that background, I would like to discuss a recent example in which the Antitrust Division took the step of issuing a supplement to a business review letter that we issued several years prior.
+I am referring to the Antitrust Divisions letter to IEEE in September of this year.
+By way of background, in 2014, IEEE-SA again proposed to amend IEEEs patent policy to clarify the scope of IEEEs patent licensing obligations by, among other ways, requiring patent holders to license their standards-essential patents for any Compliant Implementation, defining one mandatory and other recommended factors for reasonable patent royalty calculations, and placing certain limitations on injunctions.
+[8] Before doing so, as in 2007, IEEE sought a business review from the Antitrust Division, inquiring whether the Division would challenge the patent policy changes as anticompetitive.
+[9] Our task was to determine whether if implemented these policy changes would harm competition, for example, by anticompetitively reducing royalties and diminishing incentives to innovate.
+The Antitrust Division issued a favorable review thereafter, indicating it had no present intention to challenge the proposed changes based on law and Antitrust Division policy at the time.
+[10] Significantly, our 2015 Letter to IEEE indicated on the very first two pages that the Divisions review was not an endorsement of the IEEEs patent policy itself.
+[11]
+Despite this, over the years, the Antitrust Division heard repeated concerns that IEEE and other stakeholders used or referred to the IEEE business review letter as a DOJ endorsement of the policy.
+Whether these statements were misinterpretations or affirmative misrepresentations, they were causing confusion in the business community and among foreign competition enforcers.
+Indeed, in examining these complaints, we found that confusion about the 2015 IEEE Letter appear[ed] to extend around the world and may have influenced foreign enforcement activity.
+[12]
+These developments were concerning.
+As I explained, a business review letter provides guidance to the requesting parties, but also generally to the business community at large, and any misinterpretation or misrepresentation is of great interest to us.
+Consequently, this past September, the Antitrust Division issued an update to the 2015 IEEE Letter.
+Indeed, this is the first time in the history of the business review process that the Division felt compelled to issue a supplementary letter to address the misinterpretation of a favorable review.
+You may be wondering what authority the Division has to supplement a business review letter.
+The Antitrust Divisions authority to take subsequent action comes from the business review process itself, which states that the Division remains completely free to bring whatever action or proceeding it subsequently comes to believe is required by the public interest.
+[13] We determined that in this unusual circumstance a supplementary letter to IEEE was in the public interest because there was widespread confusion about the meaning of the Departments 2015 review.
+In addition, material developments had taken place in the law and policy surrounding SEPs that called into question aspects of the analysis in the 2015 Letter.
+We asked the IEEE to address the misrepresentation and urged it to ensure that neither it nor its members characterize the 2015 Letter as an endorsement of IEEEs Policy.
+[14]
+In addition, we believed it was in the public interest to address some other developments related to the IEEEs policy changes.
+Our supplemental letter notes that the patent policy changes have been criticized by some for resulting in less patent holder participation.
+IEEE is in the best position to evaluate these complaints.
+Therefore, we encouraged IEEE to consider whether changes to its patent policy may be warranted in order to address this potential issue.
+Our supplemental letter emphasized the importance of a balanced standards development process that considers the views of different groups of stakeholders, including implementers and patent holders.
+Standards development can only benefit from participation by a diverse group, many with different technologies that may compete for inclusion in a standard.
+To be sure, competition allows for the inclusion of the best technical solutions in very complex interoperability standards.
+These standards form the backbone of our global economy and will facilitate the wide-spread adoption of 5G technologies and the proliferation of IoT devices desired by consumers.
+Finally, we believed it was in the public interest to point out recent changes to USA law and policy that rendered aspects of the 2015 IEEE review outdated, particularly with respect to the availability of injunctions, reasonable royalty calculation, and the concept of hold up.
+Regarding injunctions, the supplementary letter discusses an important change in Executive Branch policy set forth in the 2018 Joint Policy Statement on Remedies for Standards-Essential Patents Subject to Voluntary F/RAND Commitments (Joint Statement), which I will discuss more fully in a few moments.
+[15] While IEEEs patent policy limits injunctive relief for SEP holders (unless a potential licensee refuses to comply with the outcome of infringement litigation, including an affirming first-level appellate review,)[16] the Joint Statement counsels against placing special limitations on injunctions.
+It advocates that no special damages rules apply to SEPs and that courts should apply e-bays four factor test to determine whether an injunction is appropriate.
+[17] In addition, the Antitrust Divisions 2015 IEEE Letter focuses on how the IEEEs patent policy can address licensing hold up by patent holders that might harm competition, when today concerns over hold up as a competition problem have largely dissipated.
+Indeed, the Ninth Circuit in FTC v.
+Qualcomm recognized the evolution of the law in this specific area, and note[d] the persuasive policy arguments of several academics and practitioners with significant experience in SSOs, FRAND, and antitrust enforcement, who have expressed caution about using the antitrust laws to remedy what are essentially contractual disputes between private parties.
+.
+.
+.
+[18] The 2015 Letter also discussed hold up without considering the possibility of hold out by patent implementers.
+Citing other academics, our supplement explains that hold out can also have detrimental effects on innovation.
+Indeed, there are sophisticated parties on both sides of the negotiation and therefore it is important not to give greater consideration to hold up than hold out.
+One last point about reasonable royalty calculation.
+IEEEs patent policy also recommends the use of the smallest saleable patent practicing unit (SSPPU) as the appropriate royalty base for SEPs.
+The Antitrust Divisions 2015 Letter found this limitation consistent with the direction of current USA law interpreting [F]RAND commitments or USA patent damages law.
+[19] Again, our supplement points out that the caselaw has evolved since 2015 and SSPPU is not the absolute rule for determining a reasonable royalty for complex products.
+Thus, in clarifying the current state of the law, and the Departments antitrust enforcement policies and priorities, we hope to promote further transparency and predictability for the business community, including for standards implementers and standards-essential patent holders.
+One final note.
+You may be wondering whether supplementing prior business reviews will become common practice at the Division, and if so, how can the business review process continue to promote transparency and predictability.
+We do not anticipate there will be an increased need to issue more supplemental letters to correct misrepresentations or misunderstandings about a particular review.
+As I mentioned, the misapplications and mischaracterizations of the 2015 IEEE Letter, necessitated a step never before required in the history of the process.
+In addition, we wrote a supplemental letter to align the now outdated analysis in the 2015 Letter with current USA law and policy, which have evolved in important ways over the last five years in relation to the licensing of SEPs and the governance of SDOs.
+Great care goes into issuing these letters by the Division staff, and I am confident that this circumstance will remain an outlier.
+Predictability in SEP Enforcement
+Now Id like to address the importance of predictability and transparency in the enforcement and licensing of standards-essential patents, which also benefits consumers of the products and services of which such patents are a part.
+What do I mean by predictable and transparent? It is important for licensors and licensees to understand the rules that will govern their negotiations and how licensing disputes might be resolved.
+This makes the process better for everybody.
+Without some measure of certainty, licensors may be unwilling to let their technology be incorporated into standards, or less willing to license their technology after it is standardized.
+Licensees also may be less willing to take a license.
+We all benefit when this process runs efficiently, when standards reflect the best technology we have to offer, and when standards are accessible to more potential competitors.
+We understand that many policy makers around the globe and experts in their field are thinking about these issues, which illustrates how important they are to the marketplace.
+For example, we are watching with interest developments in Europe.
+The European Commission is considering whether it should institute a procedure that will assess the essentiality of patents declared essential to certain standards, including 5G, that could provide more certainty to licensing negotiations depending on how the process is implemented.
+[20] Patent pools, such as Avanci, already perform these essentiality checks for patents relevant to their platforms.
+[21] A similar practice has been developed by the Japanese Patent Office but it has not been widely utilized.
+[22] In addition, as a result of a referral from the Dusseldorf Regional Court in Germany, the European Court of Justice will consider the competition implications of a patent holder choosing where in the supply chain to license its SEPs.
+[23]
+Of course, we are thinking about these issues in the United States as well.
+This is certainly not the first time you have heard me or others at the Division address the need for efficient licensing that appropriately compensates standards-essential patent owners for their inventions.
+AAG Delrahim, for example, recently emphasized that imposing antitrust liability for a patent owners refusal to license their patentsstandards-essential or otherwisedramatically shifts bargaining power between patent holders and implementers in a way that distorts the incentives for real competition on the merits through innovation.
+[24] By contrast, when parties negotiate against the backdrop of contract law, they do so on equal terms .
+.
+.
+because there is no threat of treble damages skewing the negotiations in favor of the implementer.
+[25] This is a key part of AAG Delrahims New Madison approach.
+[26] Predictability and transparency encourage negotiation, on equal footing, between licensors and licensees, from which we all benefit.
+The Antitrust Division has also emphasized these principles in statements of interest and amicus briefs.
+[27] For example, we have stressed the importance of providing licensors and licensees predictable, transparent, and flexible rules.
+[28] We have also reiterated our view, increasingly adopted by courts, that offering a royalty rate that the licensee thinks is too high, or seeking to enjoin unwilling licensees, does not violate the antitrust laws.
+[29] Nor should it.
+Bothsides need leverage for negotiations to work.
+If you take away the possibility of injunctions against unwilling licensees, or introduce the specter of treble damages, this makes negotiations less efficient.
+As I mentioned earlier, the Antitrust Division also issued a Joint Statement, along with the United States Patent and Trademark Office and the National Institute of Standards and Technology.
+This Joint Statement discusses the importance of injunctive relief for standards-essential patent owners.
+[30] Before issuing this statement, we heard from several different stakeholders that there was real confusion about the United States view on whether injunctive relief was available to standards-essential patent owners.
+The Policy Statement provides a clear answer.
+There is no special set of rules for patents and standards-essential patents.
+Patent owners have a right to exclude others from using their invention, and an important part of that right is the ability to get an injunction when licensing negotiations break down.
+This makes it easier for licensors and licensees to predict how their disputes will be resolvedusing the same rules of the road that govern other types of licensing and infringement disputes.
+It also promotes transparency, providing a clear message to all stakeholders, including our international allies, from the Executive Branch.
+Outside of the United States, courts have begun adopting many of the same principles we have advocated here at home.
+The UK Supreme Court decision in Unwired Planet is a good example.
+There, the lower court enjoined the defendants from selling products in the UK unless they accepted a license to the plaintiffs patent portfolios on fair, reasonable, and non-discriminatory (FRAND) terms set by the court.
+In affirming, the UK Supreme Court made several points worth highlighting.
+First, the Court rejected the idea that injunctive relief is inconsistent with a FRAND commitment.
+As the Court explained: [I]f the patent-holder were confined to a monetary remedy, implementers who were infringing the patents would have an incentive to continue infringing until, patent by patent, and country by country, they were compelled to pay royalties.
+It would not make economic sense for them to enter voluntarily into FRAND licences.
+[31] Instead, the Court recognized that [t]he possibility of the grant of an injunction by a national court is a necessary component of the balance which [ETSIs intellectual property rights (IPR)] Policy seeks to strike, in that it is this which ensures that an implementer has a strong incentive to negotiate and accept FRAND terms for use of the owners SEP portfolio.
+[32] Put another way, the threat of an injunction helps balance the negotiation process and ensure that both sides come to the table and negotiate.
+TheCourt added that the defendants arguments for subjecting standards-essential patents to special rules attache[d] too much weight to the protection of implementers against holding up.
+.
+.
+and fail[ed] to give due weight to the counterbalancing purpose of protecting standards-essential patent owners against holding out by licensees.
+[33]
+Second, the Court acknowledged that licensing intermediaries can play an important role in licensing negotiations.
+As the Court explained, the assignment of rights to a [non-practicing entity] .
+.
+.
+may be the most straightforward means by which a [standards-essential patent] owner can obtain value from its intellectual property which is the fruit of its research and innovation.
+[34] The Court therefore rejected the argument that the availability of injunctions should depend on whether the plaintiff makes products or not, concluding that if the right to an injunction is treated as qualified in the hands of the [non-practicing entity] the consequence will be that the [standards-essential patent] owner will not receive the reward which its investment merits.
+[35]
+Finally, the Court emphasized the importance of relying on real world evidence in examining whether a particular licensing offer complies with a patent owners FRAND commitment.
+[36] This sort of flexible approach gives parties room to negotiate using precedent but also their own experience, like prior licenses, as a guide.
+Taken together, Unwired Planet reflects many of the same principles the Division has advanced.
+Parties benefit from transparency rather than a system where special rules govern depending on whether the patent owner has made a FRAND commitment or manufactures products.
+When it comes to licensing, a level playing field benefits licensors and licensees, and a patent owners right to obtain an injunction is an important part of ensuring that these negotiations remain balanced.
+These rules make licensing predictable, more transparent, and ultimately more efficient for licensors, licensees, and consumers.
+These developments make me optimistic.
+But, as is so often the case, new debates have emerged that could undermine this progress.
+Id like to focus on two of these issues here.
+The first issue is forum shopping.
+Courts in the United States, United Kingdom, Germany, and China, among others, have taken different approaches in interpreting the rights of standards-essential patent owners.
+Some variation is expected, and it serves as a kind of international dialogue that develops thinking on these issues for which we all benefit.
+For example, the Court in Unwired Planet cited several cases from the United States, Germany, and China in its decision.
+But if certain jurisdictions adopt more plaintiff-friendly or defendant-friendly rules, intra-jurisdiction competition can fuel a race to the courthouse as parties rush to have their disputes heard in the forum with the rules most favorable to them before the other side files suit in their preferred forum.
+[37] This makes dispute resolution less predictable.
+It also makes negotiations less predictable.
+Now both sides have an incentive to negotiate less and litigate more, and earlier.
+[38] That is worse for everyone involved, including consumers.
+There are some natural limits on forum shopping in patent cases.
+For example, a patent issued by the United States Patent and Trademark Office generally gives you exclusive rights in the United States and it can only be invalidated by a court in the United States.
+Some recent court decisions have undermined this process, however, by requiring parties to accept global licenses in resolving local patent disputes.
+Once they do so, there is little reason for courts in other jurisdictions to calculate either global FRAND rates or even FRAND rates for patents in their own jurisdictions.
+Thus, the first court to set a FRAND royalty rate for a particular set of parties will likely be the only one that will actually do so.
+[39] That reinforces both sides incentive to rush to the courthouse before they have tried to resolve their disputes across the negotiating table.
+The second issue I would like to talk about is a related problemthe rise of antisuit injunctions.
+[40] An antisuit injunction is an interlocutory remed[y] issued by a court in one jurisdiction to prohibit a litigant from initiating or continuing parallel litigation in another jurisdiction.
+[41] I think of it as not just a race to the courthouse, but an arms race.
+For example, lets say as licensing negotiations start to break down the patent owner files a lawsuit in its preferred forum.
+Thats the race to the courthouse at work.
+Now imagine that the licensee files another lawsuit in its preferred forum.
+Next, it asks this new court to enjoin the plaintiff from continuing to litigate its already filed case.
+That is the antisuit injunction.
+Confronted with this practical mess, courts have taken different approaches to issuing antisuit injunctions.
+[42]
+So, why is this an arms race to the courthouse? Well, the next obvious step is that parties will file anti-antisuit injunctions to stop the other side from getting an antisuit injunction, and so on.
+All of this before a judge even reached the merits of their licensing dispute.
+These races have already begun in litigation involving important next generation technology and threaten to become a common practice.
+This process does not encourage parties to negotiate with each other.
+Itdoes not make licensing more transparent.
+Or more predictable.
+Or better for consumers.
+Instead, it leaves both sides unsure of where their disputes will be resolved or how.
+Nobody is better off.
+I am still an optimist, however.
+Courts have rendered decisions that have created a race to the courthouse, or in some cases an arms race, but these are solvable problems.
+And I am raising them here because I think standards development organizations like yours can be a key part of the solution.
+For example, SDOs could help resolve some of these issues before they spill over into court by adopting forum selection clauses in their IPR policies.
+TIAs current patent policy requires patent owners to make a FRAND commitment, but it does not say anything about what happens next.
+[43] As the Court noted in Unwired Planet, the same is true for ETSI and many other SDOs.
+Adopting some guidance about the way licensing disputes should be resolvedso long as those rules are adopted through a process that is driven by consensus, balance, and transparency and provides for due process[44]could bring a significant measure of clarity to patent licensing.
+It could curb forum shopping and the arms race of antisuit injunctions.
+It could also encourage licensors and licensees to use litigation as a last resort, when good-faith negotiations fail.
+Thiscan make licensing, and ultimately the implementation of standards, more efficient, to the benefit of downstream competition and consumers.
+The alternative is continuing an arms race to the courthouse that undermines the hard work of developing and implementing standards.
+That is a race nobody will win.
+Thank you for the opportunity to speak today.
+I am happy to take questions.
+[1] 28 C.
+F.
+R.
+ 50.6.
+[2] See Letter from WilliamJ.
+Baer, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Garrard R.
+Beeney, Partner, Sullivan & Cromwell LLP (Mar.
+26, 2013), https://www.
+justice.gov/sites/default/files/atr/legacy/2013/03/28/295151.
+pdf .
+[3] See, e.
+g.
+, Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Mark H.
+Hamer, Esq.
+, Baker & McKenzie, at 9-10 (July 28, 2020), https://www.
+justice.gov/atr/page/file/1298626/download.
+[4] Letter from Thomas O.
+Barnett, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Robert A.
+Skitol, Esq.
+, Drinker, Biddle & Reath, LLP (Oct.
+30, 2006) [hereinafter VITA letter] ; Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Timothy Cornell, Esq.
+, Clifford Chance US LLP (Nov.
+27, 2019) [hereinafter GSMA Letter].
+[5] Vita Letter; Letter from Renata B.
+Hesse, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Michael A.
+Lindsay, Esq.
+, Dorsey & Whitney LLP (Feb.
+2, 2015) [hereinafter 2015 IEEE Letter].
+[6] GSMA Letter.
+The business review process typically takes anywhere from three months to over a year.
+[7] See, e.
+g.
+, Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Thomas O.
+Barnett, Covington & Burling (July 23, 2020).
+[8] Letter from Michael A.
+Lindsay, Esq.
+, Dorsey & Whitney LLP, to William J.
+Baer, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, at 16 (Sept.
+30, 2014) [hereinafter IEEE Request Letter].
+[9] IEEE Request Letter.
+[10] 2015 IEEE Letter.
+[11] 2015 IEEE Letter ( The Departments task in the business review process is to advise the requesting party of the Departments present antitrust enforcement intentions regarding the proposed conduct.
+It is not the Departments role to assess whether IEEEs policy choices are right for IEEE as a standards-setting organization (SSO).
+SSOs develop and adjust patent policies to best meet their particular needs).
+[12] Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Sophia A.
+Muirhead, Gen.
+Counsel & Chief Compliance Officer, IEEE, at 3 (Sept.
+10, 2020) [hereinafter 2020 IEEE Letter] (citing an action in Korea and EC policy paper).
+[13] 28 C.
+F.
+R.
+ 50.6(9).
+[14] 2020 IEEE Letter, at 3.
+[15] USA Dept of Justice, USA Pat.
+& Trademark Off.
+, & Natl Inst.
+of Sci.
+& Tech.
+, Joint Policy Statement on Remedies for Standards-Essential Patents Subject to Voluntary F/RAND Commitments, at 6 (Dec.
+19, 2019), https://www.
+justice.gov/atr/page/file/1228016/download [hereinafter Joint Policy Statement].
+[16] 2015 IEEE Letter, at 9.
+[17] See Joint Policy Statement.
+[18] FTC v.
+Qualcomm Inc.
+, 969 F.
+3d 974, 39 (9th Cir.
+2020); 2020 IEEE Letter at 4-5.
+[19] 2015 IEEE Letter, at 8.
+[20] See generally Rudi Bekkers et al.
+, Pilot Study for Essentiality Assessment of Standard Essential Patents (2020), https://ec.
+europa.
+eu/jrc/en/publication/pilot-study-essentiality-assessment-standard-essential-patents.
+[21] See Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Mark H.
+Hamer, Baker & Mckenzie (July 28, 2020).
+[22] See Rudi Bekkers et al.
+, Pilot Study for Essentiality Assessment of Standard Essential Patents 51-54 (2020), https://ec.
+europa.
+eu/jrc/en/publication/pilot-study-essentiality-assessment-standard-essential-patents (discussing Hantei-E).
+[23] Pressemitteilung [Press Release], Vorlagebeschluss an den Europischen Gerichtshof in der patentrechtlichen Verletzungsklage Nokia .
+/.
+Daimler [Order for reference to the European Court of Justice in the
+patent infringement suit Nokia .
+/.
+Daimler], Landgericht Dsseldorf [Dsseldorf District Court] (Nov.
+26, 2020), https://www.
+lg-duesseldorf.
+nrw.
+de/behoerde/presse/Pressemitteilungen-2020/22-20.
+pdf.
+[24] Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, Broke.
+.
+.
+but Not No More: Opening Remarks--Innovation Policy and the Role of Standards, IP, and Antitrust, Remarks at the LeadershIP Virtual Series (Sept.
+10, 2020), https://www.
+justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-remarks-leadership-virtual-series.
+[25] Id.
+[26] See also Makan Delrahim, Assistant Atty Gen.
+, Antitrust Div.
+, USA Dept Justice, The New Madison Approach to Antitrust and Intellectual Property Law, Keynote Address at University of Pennsylvania Law School (Mar.
+16, 2018), https://www.
+justice.gov/opa/speech/file/1044316/download.
+[27] Alexander Okuliar, Deputy Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, From Edison to New Madison: Division Activity at the Intersection of Innovation, Competition Law and Technology, Remarks at the United States Council for Intl Bus.
+(Oct.
+28, 2020), https://www.
+justice.gov/opa/speech/deputy-assistant-attorney-general-alexander-p-okuliar-delivers-remarks-united-states#_ftnref15 (collecting cases).
+[28] See, e.
+g.
+, Br.
+for the United States as Amicus Curiae in Support of Neither Party, HTC Corp.
+v.
+Telefonaktiebolaget LM Ericsson, No.
+19-40566 (5th Cir.
+Oct.
+30, 2019).
+[29] See, e.
+g.
+, Statement of Interest of the United States at 9-11, Contl, No.
+3:19-CV-02933-M (N.
+D.
+Tex.
+Feb.
+27, 2020); Contl, 2020 WL 5627224, at *12 (N.
+D.
+Tex.
+Sept.
+10, 2020) (adopting this argument).
+[30] Joint Policy Statement, at 6.
+[31] Unwired Planet Intl Ltd.
+& Other Respondents v.
+Huawei Technologies Co Ltd.
+& Another [2020] UKSC 37 167.
+[32] Id.
+at 61.
+[33] Id.
+at 59.
+[34] Id.
+at 89; see also Statement of Interest for the United States in Apple v.
+Fortress at 3 (Ensuring that [licensing] intermediary activity is not unduly constrained .
+.
+.
+can help ensure that .
+.
+.
+inventors are properly rewarded for beneficial research and development effortsand are incentivized to proceed with them.
+).
+[35] Unwired Planet Intl Ltd.
+& Other Respondents v.
+Huawei Technologies Co Ltd.
+& Another [2020] UKSC 37 89.
+[36] Compare id.
+at 62 ([C]ommercial practice in the relevant market is likely to be highly relevant in an assessment of what terms are fair and reasonable for these purposes.
+), with Br.
+for the United States in HTC v.
+Ericsson at 1819 (discussing the role of market-based evidence in evaluating whether licenses are fair and reasonable).
+[37] Jorge L.
+Contreras, The New Extraterritoriality: Frand Royalties, Anti-Suit Injunctions and the Global Race to the Bottom in Disputes over Standards-Essential Patents, 25 B.
+U.
+J.
+Sci.
+& Tech.
+L.
+251, 280283 (2019).
+[38] Id.
+at 283 ([A] race to the courthouse .
+.
+.
+may prematurely drive parties to litigation rather than negotiation or settlement.
+).
+[39] Id.
+at 280.
+[40] See, e.
+g.
+, Br.
+of the United States, Lenovo v.
+IPCom, N.
+5:19-cv-01389-EJD (N.
+D.
+Cal.
+filed Oct.
+2019), https://www.
+justice.gov/atr/case-document/file/1213856/download (arguing that there was no antitrust basis for granting an anti-suit injunction that would have prevented IPCom from enforcing its patents and seeking an injunction in the United Kingdom, as the US had no policy interest in preventing an injunction or resolving the alleged FRAND breach under antitrust law).
+[41] Id.
+at 265.
+[42]Jorge L.
+Contreras, The New Extraterritoriality: Frand Royalties, Anti-Suit Injunctions and the Global Race to the Bottom in Disputes over Standards-Essential Patents, 25 B.
+U.
+J.
+Sci.
+& Tech.
+L.
+251, at 277-278 (2019).
+[43] Telecomm.
+Indus.
+Assn, TIA Intellectual Property Rights Policy 8-9 (Oct.
+21, 2016), https://www.
+tiaonline.
+org/wp-content/uploads/2018/05/TIA_Intellectual_Property_Rights_Policy.
+pdf.
+[44] Alexander Okuliar, Deputy Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, Remarks at the Intellectual Prop.
+Rights Policy Advisory Group Meeting (May 28, 2020), https://www.
+justice.gov/opa/speech/deputy-assistant-attorney-general-alexander-okuliar-delivers-remarks-intellectual#_ftnref37.
+Speaker:Alexander Okuliar, Former Deputy Assistant Attorney GeneralAttachment(s): Download Okuliar Remarks Before the TIA.
+pdfTopic(s):AntitrustComponent(s):Antitrust Division
+Updated December 14, 2020

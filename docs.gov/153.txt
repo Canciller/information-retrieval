@@ -1,0 +1,59 @@
+https://www.justice.gov/opa/pr/sap-admits-thousands-illegal-exports-its-software-products-iran-and-enters-non-prosecution
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, April 29, 2021
+SAP Admits to Thousands of Illegal Exports of its Software Products to Iran and Enters into Non-Prosecution Agreement with DOJ
+First-Ever Voluntary Self-Disclosure of Export Violations Leads to Non-Prosecution Agreement between Global Software Company and Justice Department
+Note: A full copy of the non-prosecution agreement can be viewedhere.
+To learn more about what the Justice Department is doing to deter and hold to account those who violate export controls and sanctions laws, visit www.
+justice.gov/nsd.
+A full copy of the Voluntary Self Disclosure (VSD) Policy can be found here.
+WASHINGTON  Software company, SAP SE, headquartered in Walldorf, Germany, has agreed to pay combined penalties of more than $8 million as part of a global resolution with the USA Departments of Justice (DOJ), Commerce and Treasury.
+In voluntary disclosures the company made to the three agencies, SAP acknowledged violations of the Export Administration Regulations and the Iranian Transactions and Sanctions Regulations.
+As a result of its voluntary disclosure to DOJ, extensive cooperation and strong remediation costing more than $27 million, DOJs National Security Division (NSD) and the USA Attorneys Office for the District of Massachusetts entered into a Non-Prosecution Agreement with SAP.
+Pursuant to that agreement, SAP will disgorge $5.14 million of ill-gotten gain.
+Todays first-ever resolution pursuant to the Departments Export Control and Sanctions Enforcement Policy for Business Organizations sends a strong message that businesses must abide by export control and sanctions laws, but that when they violate those laws, there is a clear benefit to coming to the Department before they get caught, said Assistant Attorney General John C.
+Demers for the Justice Departments National Security Division.
+SAP will suffer the penalties for its violations of the Iran sanctions, but these would have been far worse had they not disclosed, cooperated, and remediated.
+We hope that other businesses, softwareor otherwise, we heed this lesson.
+
+Today, SAP has admitted to thousands of export violations spanning six years that violated the USA embargo against Iran and endangered the national security of the United States, said Acting USA Attorney Nathaniel Mendell for the District of Massachusetts.
+This settlement should serve as a strong deterrent message to others that the release of software and sale of product and services on the internet are subject to USA export laws and regulations.
+
+This action demonstrates that the Office of Export Enforcement will continue to leverage our unique authorities to enforce our nations export control laws and to deter new violations.
+Violators of the EAR will be held accountable through criminal orcivil penalties, or both when appropriate, said Special Agent in Charge William Higgins for the Commerce Departments Office of Export Enforcement, Boston Field Office.
+These laws are designed to protect USA Foreign Policy and National Security and will be vigorously investigated.
+
+By supplying Iran with millions of dollars worth of illegally exported software and services, SAP circumvented USA economic sanctions against Iranpressure that is intended to end Irans malign behavior.
+However, it was SAP that first uncovered and reported this sanctions violation, and we would like to thank them for working hard to enhance their compliance program to prevent future violations, said Special Agent in Charge Joseph R.
+Bonavolonta for the FBIs Boston Division.
+Let this case be a lesson to others that its better to self-report and own up to ones mistakes than undermine USA foreign policy and adversely affect our national security.
+
+Among HSIs priorities is the commitment to ensuring that sensitive USA products, to include software, are not illegally exported to embargoed destinations, such as Iran, said Acting Special Agent in Charge William S.
+Walker for Homeland Security Investigations, Boston.
+It will continue to be incumbent upon USA companies to guarantee that foreign subsidiaries dealing in their products remain in compliance with USA sanctions and export control regulations.
+HSI will continue to coordinate with our law enforcement partners to safeguard sensitive technologies produced in the United States from ending up in the hands of our adversaries.
+
+Beginning in approximately January 2010 through approximately September 2017, SAP, without a license, willfully exported, or caused the export, of its products to Iranian users.
+SAPs violations occurred in two principle ways.
+First, between 2010 and 2017, SAP and its overseas partners released U.
+S-origin software, including upgrades or software patches more than 20,000 times to users located in Iran.
+Certain SAP senior executives were aware that neither the company nor its USA-based content delivery provider used geolocation filters to identify and block Iranian downloads, yet for years the company did not remedy the issue.
+The vast majority of the Iranian downloads went to 14 companies, which SAP partners in Turkey, United Arab Emirates, Germany and Malaysia knew were Iranian-controlled front companies.
+The remaining downloads went to several multinational companies with operations in Iran, which downloaded SAPs software, updates, or patches from locations in Iran.
+Second, from approximately 2011 to 2017, SAPs Cloud Business Group companies (CBGs) permitted approximately 2,360 Iranian users to access USA-based cloud services from Iran.
+Beginning in 2011, SAP acquired various CBGs and became aware, through pre-acquisition due diligence as well as post-acquisition export control-specific audits, that these companies lacked adequate export control and sanctions compliance processes.
+Yet, SAP made the decision to allow these companies to continue to operate as standalone entities after acquiring them and failed to fully integrate them into SAPs more robust export controls and sanctions compliance program.
+While this conduct constituted serious violations of USA law involving the release of USA origin technology and software through cloud servers and online portals, this Non-Prosecution Agreement recognizes the importance of voluntary self-disclosure and cooperation with the government.
+DOJ and the District of Massachusetts reached this resolution with SAP based upon its voluntary self-disclosure as well as SAPs extensive internal investigation and cooperation over a three-year period.
+During this time, SAP worked with prosecutors and investigators, producing thousands of translated documents, answering inquiries and making foreign-based employees available for interviews in a mutually agreed upon overseas location.
+SAP also timely remediated and implemented significant changes to its export compliance and sanctions program, spending more than $27 million on such changes over the last four years, including, among other things detailed in the NPA: (1) implementing GeoIP blocking; (2) deactivating thousands of individuals users of SAP cloud based services based in Iran; (3) transitioning to automated sanctioned party screening of its CBGs; (4) auditing and suspending SAP partners that sold to Iran-affiliated customers; and (5) hiring of experienced USA-based export controls staff, and (6) conducting more robust due diligence at the acquisition stage by requiring new acquisitions to adopt GeoIP blocking and requiring involvement of the Export Control Team before acquisition.
+Concurrently with this agreement, SAP is entering into administrative agreements with the Department of Commerce, Bureau of Industry and Security (BIS) and the Department of the Treasury, Office of Foreign Assets Control (OFAC).
+Among other things, the BIS settlement agreement requires SAP to conduct internal audits of its compliance with USA export control laws and regulations and produce audit reports to BIS for a period of three years.
+The Department encourages companies to voluntarily self-disclose all potentially willful violations of the statutes implementing the USA governments primary export control and sanctions regimes  the Arms Export Control Act (AECA), the Export Control Reform Act (ECRA), and the International Emergency Economic Powers Act (IEEPA),  directly to NSD.
+The VSD Policy, absent aggravating factors, creates a presumption in favor of a non-prosecution agreement and limits any monetary payment to an amount equal to the gains from the illegal conduct.
+Deputy Chief of Export Controls and Sanctions Elizabeth Cannon and Senior Trial Attorney Heather Schmidt for NSDs Counterintelligence and Export Controls Section, and Assistant USA Attorney B.
+Stephanie Siegmann, Chief of District of the Massachusetts National Security Unit oversaw the investigation and negotiated this agreement.
+Topic(s):Counterintelligence and Export ControlNational SecurityComponent(s):National Security Division (NSD)Press Release Number:21-393
+Updated April 29, 2021

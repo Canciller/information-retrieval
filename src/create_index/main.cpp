@@ -46,33 +46,6 @@ int main(int argc, char const *argv[])
     inverted_index.sort();
 
     inverted_index.compress(outdir, coding_type);
-
-    /*
-    Dictionary &dic = inverted_index.dictonary();
-    Keys &keys = inverted_index.keys();
-
-    for (auto &key : keys)
-    {
-      auto &postings = dic[key];
-      std::cout << key << " -> ";
-
-      for (auto &posting : postings)
-      {
-        std::cout << "{ ";
-        std::cout << posting.doc << ", ";
-
-        auto &entries = posting.entries;
-        for (auto &entry : entries)
-        {
-          std::cout << entry.index << ":" << entry.position << " ";
-        }
-
-        std::cout << "} ";
-      }
-
-      std::cout << "\n";
-    }
-    */
   }
   catch (std::runtime_error &e)
   {

@@ -1,0 +1,39 @@
+https://www.justice.gov/opa/pr/uk-national-sentenced-prison-role-dark-overlord-hacking-group
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Monday, September 21, 2020
+UK National Sentenced to Prison for Role in The Dark Overlord Hacking Group
+Defendant Conspired to Steal Sensitive Personally Identifying Information from Victim Companies and Release those Records on Criminal Marketplaces unless Victims Paid Bitcoin Ransoms
+A United Kingdom national pleaded guilty today to conspiring to commit aggravated identity theft and computer fraud, and was sentenced to five years in federal prison.
+USA District Judge Ronnie White for the Eastern District of Missouri sentenced Nathan Wyatt, 39, who participated in a computer hacking collective known as The Dark Overlord, which targeted victims in the St.
+Louis area beginning in 2016.
+Wyatt was extradited from the United Kingdom to the Eastern District of Missouri in December 2019.
+Judge White also ordered Wyatt to pay $1,467,048 in restitution.
+Nathan Wyatt used his technical skills to prey on Americans private data and exploited the sensitive nature of their medical and financial records for his own personal gain, said Acting Assistant Attorney General Brian C.
+Rabbitt of the Justice Departments Criminal Division.
+Todays guilty plea and sentence demonstrate the departments commitment to ensuring that hackers who seek to profit by illegally invading the privacy of Americans will be found and held accountable, no matter where they may be located.
+
+The Dark Overlord has victimized innumerable employers in the United States, many of them repeatedly, said U.
+S Attorney Jeff Jensen of the Eastern District of Missouri.
+I am grateful to the victims who came forward despite ransom threats and to the prosecutors and agents who were the first to catch and punish a member of The Dark Overlord in the United States.
+
+Cyber hackers mistakenly believe they can hide behind a keyboard, said Special Agent in Charge Richard Quinn of the FBIs St.
+Louis Field Office.
+In this case, the FBI demonstrated once again that it will impose consequences on cyber criminals no matter how long it takes or where they are located.
+
+Wyatt admitted that, beginning in 2016, he was a member of The Dark Overlord, a hacking group that was responsible for remotely accessing the computer networks of multiple USA companies without authorization.
+Victims in the Eastern District of Missouri included healthcare providers, accounting firms, and others.
+Wyatt admitted that The Dark Overlord co-conspirators acted by obtaining sensitive data from victim companies, including patient medical records and personal identifying information, and then threatening to release the companies stolen data unless the companies paid a ransom of between $75,000 and $350,000 in bitcoin.
+Wyatt further admitted that he participated in the conspiracy by creating, validating, and maintaining communication, payment, and virtual private network accounts that were used in the course of the scheme to, among other things, send threatening and extortionate messages to victims within the Eastern District of Missouri.
+The investigation was conducted by the FBIs St.
+Louis Field Office.
+Support was also provided by the FBIs Atlanta Field Office.
+The Justice Departments Office of International Affairs coordinated the extradition of Wyatt.
+The department thanks law enforcement authorities in the United Kingdom, including the Metropolitan Police Service, for their substantial assistance in the investigation.
+Senior Counsel Laura-Kate Bernstein of the Criminal Divisions Computer Crime and Intellectual Property Sectionand Assistant USA Attorney Gwendolyn Carroll prosecuted the case.
+The year 2020 marks the 150th anniversary of the Department of Justice.
+Learn more about the history of our agency at www.
+Justice.gov/Celebrating150Years.
+Topic(s):Cyber CrimeIdentity TheftComponent(s):Criminal DivisionCriminal - Computer Crime and Intellectual Property SectionFederal Bureau of Investigation (FBI)USAO - Missouri, EasternPress Release Number:20-975
+Updated September 21, 2020

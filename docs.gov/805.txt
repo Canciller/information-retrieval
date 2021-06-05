@@ -1,0 +1,464 @@
+https://www.justice.gov/opa/speech/deputy-assistant-attorney-general-alexander-p-okuliar-delivers-remarks-united-states
+Deputy Assistant Attorney General Alexander Okuliar Delivers Remarks Before the United States Council for International Business
+Washington, DCUnited States
+~
+Wednesday, October 28, 2020
+From Edison to New Madison: Division Activity at the Intersection of Innovation, Competition Law and Technology
+Good morning.
+It is a pleasure to speak with you today, thanks for the invitation.
+I will start with prepared remarks highlighting some of the Antitrust Divisions work over the last year and then, time permitting, would be happy to take questions or discuss any issues.
+As most of you likely know, antitrust law is focused heavily on efficiency and consumer welfareand, in particular, static and dynamic efficiency in the economy.
+The Divisions enforcement philosophy acknowledges the importance of innovation as a vital ingredient to promote those efficiencies and to enhance competition and consumer welfare, particularly through the introduction and refinement of technology.
+Therefore, my remarks today will focus most heavily on the Divisions recent enforcement and advocacy activity to protect innovation in the technology sector.
+Ill begin with a quote from Thomas Edison, who said I find out what the world needs.
+Then I go ahead and try to invent it.
+[1] There are over 1,000 patents in Edisons name, which he developed in the first R&D laboratory of its kind in Menlo Park, NJ.
+In his lab, among other innovations, Edison improved upon attempts to create an electric light bulb that consumers could use at home.
+Edison not only created an electric light that was safe and economical, but he also built the lighting system that formed the basis for the USA electric industry.
+[2] Edison developed similar ground-breaking inventions with the phonograph and system for motion pictures.
+[3] To be sure, Edison found ways to make innovation better and improve upon the ideas that came before.
+Similar innovation happens in standards development when industries collaborate to harness the best technical solutions that bring safer and more efficient products and services to consumers.
+Across technology areas, innovators today develop a vision of what the world needs, and like Edison, set out to invent it.
+Often, they work together to bring consumers new complementary products and services that interoperate.
+We see these sorts of collaborative developments happening now in the setting of standards for 5G technologies that promise connected products and services like autonomous vehicles, medical devices, and smart city applications.
+[4] For standards to be successful, it is critical that the process for their development be industry-led, competitive, and balanced.
+With this in mind, let me start with a brief discussion of our recent enforcement activity in the tech sector and then I will turn to our advocacy and business review work, as well as other developments we are keeping an eye on, with respect to patents, competition, and standard-setting.
+The Departments Enforcement Efforts on Technology and Digital Markets
+The Division has been hard at work tackling competitive issues in technology and digital markets to ensure innovation continues to flourish.
+Today, these markets cover a vast and ever-expanding array of underlying goods and services.
+Our recent enforcement efforts make this clear.
+Earlier this year, for instance, the Division required significant divestitures to resolve competitive harms in markets related to intelligence and communications technologies in the military, government, and commercial spaces.
+Our investigation of the merger between United Technologies Corporation (UTC) and Raytheon Company revealed that these were the only firms developing, manufacturing, and selling military airborne radiosdevices that allow secure voice, data, and video communications to and from aircraft, and which are installed on every airplane and helicopter the Department of Defense (DOD) currently uses.
+The investigation further revealed that UTC and Raytheon were a couple of the only competitors for military GPS systems for aviation, maritime, and ground applications; and that they were a couple of just a few firms capable of producing several components for space-based optical/infrared (EO/IR) reconnaissance satellites.
+These satellites provide the DOD and USA intelligence community customers with essential information like early warning missile launches.
+Our divestitures sought to remedy any potential harms to competition and innovation in these critical overlapping technology businesses.
+Similarly, the Division obtained a key divestiture to maintain competition for large geostationary satellite antennas in a transaction between General Dynamics and Communications and Power Industries LLC (CPI), a portfolio company of Odyssey Investment Partners Fund V, LP (Odyssey).
+These antennas are essential components of government, military, and commercial satellite communication networks.
+CPI and General Dynamics subsidiary GD SATCOM were two of only a few firms designing, manufacturing, and selling these antennas.
+The divestitures the Division obtained in these cases preserve competition that leads to lower costs and increased innovation in critical military and defense products, benefiting Americans as citizens and as taxpayers.
+Turning now from the military, government, and intelligence space to commercial telecommunicationsjust last week the Division announced that it would require key divestitures to resolve competitive issues arising from Liberty Latin America Ltd.
+s (Liberty) acquisition of AT&T Inc.
+s wireline and wireless telecom operations in Puerto Rico and the USA Virgin Islands.
+Our investigation revealed that the transaction as originally contemplated would have eliminated competition for essential fiber-optic-based telecommunications services.
+Businesses in Puerto Rico rely on these fiber-optic services for everyday operations.
+By requiring the parties to divest Libertys subsidiary, Liberty Communications of Puerto Rico, and certain AT&T fiber-based telecom assets and customer accounts in Puerto Rico, the settlement will preserve vigorous competition that benefits businesses across Puerto Rico.
+And of course, the Division has also been very busy in digital markets.
+As Assistant Attorney General Makan Delrahim announced last summer, we are undertaking a large-scale review of the diverse business practices of the worlds largest digital markets companies, including various online platforms.
+Our review covers potentially anticompetitive business practices spanning many years, and examines numerous permutations of business models and competitive landscapes.
+We have been hiring digital markets fellows throughout the year and have a very large team dedicated to this project.
+This work is distinct from the Departments work on the qualified immunity for certain digital platforms under Section 230 of the Communications Decency Act.
+Last week, in what is the first public matter to come out of the digital markets review, we filed a civil antitrust lawsuit in the USA District Court of D.
+C.
+to stop Google from unlawfully maintaining monopolies in the search and search advertising markets.
+The Complaint alleges that Google has entered into a series of exclusionary agreements that work together to lock up the primary ways in which customers access search enginesand, through search engines, the internet.
+As the Complaint explains, Google generally has used its monopoly profits to buy preferential or exclusive treatment for its search engine on numerous devices, browsers, and other search access points, creating a continuous and self-reinforcing cycle of monopolization.
+These practices have harmed competition and consumers, hampered innovation, and prevented competitors from disciplining Googles anticompetitive conduct.
+As we take this matter to court, I am confident our efforts will lead to a more competitive search and search advertising ecosystem, protect innovation, and benefit consumers.
+Overview of the Antitrust Divisions Work in the Area of Intellectual Property and Standards Development
+Now I would like to address the Antitrust Divisions work in the area of intellectual property and standards development, which has been a key focus for the Division under AAG Delrahim.
+Under his New Madison approach, the Division has cautioned against the misapplication of antitrust theories to licensing disputes that involve a patent holder unilaterally exercising its exclusive rights conferred by the USA Constitution.
+[5] James Madison was a fierce advocate of strong patent protection, including exclusive rights for inventors, because he recognized it drives innovation.
+In The Federalist Papers, Madison argued that the [t]he copyright of authors has been solemnly adjudged, in Great Britain, to be a right of common law, and that [t]he right to useful inventions seems with equal reason to belong to the inventors.
+[6] His rationale was that [t]he public good fully coincides in both cases with the claims of individuals.
+[7] Madisons advocacy resulted in the Patent and Copyright Clause in the USA Constitution.
+[8] The Division shares Madisons view that patent and copyright protection can drive individuals and firms large and small to continue to innovate and, therefore, it has sought a reasoned approach to antitrust enforcement when it comes to intellectual property.
+Some commentators and parties, however, have advocated for the use of antitrust law as a mechanism to enforce commitments made by patent holders to license standards implementers on fair, reasonable, and non-discriminatory (FRAND) terms.
+Their fear is that a patent holder can hold-up implementers at an above-FRAND rate and that antitrust liability can be used to prevent an injunction and reach a reasonable royalty.
+The Division has repeatedly cautioned against the misapplication of antitrust law to mere royalty disputes, where there has been no harm to the competitive process.
+Such harms are better remedied by contract and patent laws; antitrust is an ill (and potentially harmful) fit.
+Although competition may result in lower prices, USA antitrust law does not regulate royalties even if they are supra-FRAND.
+[9] Nor does it force individual firms to deal, except in rare circumstances.
+Moreover, the reliance on antitrust law as a FRAND bargaining tool increases the likelihood of hold-out, where implementers may delay taking a license.
+This stalls payment for the use of a standard essential patent, which can have detrimental effects on innovation.
+[10] Standard essential patent holders must have some recourse free of antitrust liability.
+Consequently, the Department has recognized that [i]njunctive relief is a critical enforcement mechanism and bargaining toolsubject to traditional principles of equitythat may allow a patent holder (including an essential patent holder) to obtain the appropriate value for its invention when a licensee is unwilling to negotiate reasonable terms.
+[11]
+As AAG Delrahim has pointed out, the New Madison approach has taken hold in the USA and abroad.
+[12] For example, the Department joined the USA Patent & Trademark Office and the National Institute of Standards and Technology in releasing an updated Policy Statement on Remedies for Standards-Essential Patents Subject to Voluntary F/RAND Commitments, which replaced a prior statement on patent remedies that was issued in 2013.
+[13] This Joint Statement restored balance to the debate over the availability of injunctions for infringement of SEPs by advocating that no special rules on remedies need apply, such as those limiting injunctions.
+This well-received policy change was the product of thoughtful work by staff and leadership at DOJ, PTO, and NISTall three Executive Branch agencies whose missions are relevant to standards development.
+We see the courts embracing the New Madison approach as well.
+As you may know, the Department has expanded its advocacy in federal district courts, filing statements of interest that called for the sound application of antitrust law to intellectual property disputes.
+For example, in FTC v.
+Qualcomm, the Ninth Circuit accepted the Departments view that a refusal to license its competitors a SEP and charging its customers what some perceived to be unreasonably high royalties do not alone violate the Sherman Act.
+[14] Similarly, in Continental v.
+Avanci, the district court accepted the Departments view that alleged breaches of FRAND obligations do not constitute exclusionary conduct giving rise to monopolization claims and recently granted a motion to dismiss in that case.
+[15] In Intel v.
+Fortress, the district court declined to accept a theory that the antitrust laws barred the defendants efforts to acquire and monetize patent rights absent a cogent theory that the acquisitions eliminated competing patents, rejecting the plaintiffs overbroad market definition.
+[16] The court dismissed the complaint without prejudice; Apple and Intel have now amended their complaint and we are watching this case with interest.
+Recent rulings by courts in the United Kingdom and Germany similarly recognize that standards essential patent holders must be able to enforce their patents and recoup investment on their contributions to standards development.
+[17]
+In Lenovo v.
+Interdigital, the Department filed a statement of interest advocating that a single firms allegedly anticompetitive FRAND breach does not satisfy Section 1s concerted-action requirement.
+In addition, we argued that over-disclosing standard-essential patents during the standards development process, without more, generally does not violate Section 2.
+[18] In all of these cases, the Departments analysis focused on whether the alleged conduct could harm competition or the competitive process, rather than the price of the royalty.
+Some other general principles can be gleaned from this advocacy work and other related efforts of the Division.
+First, antitrust law is not a panacea for all disputes involving the licensing of standards-essential patentsit does not favor individual competitors or groups of competitors, but focuses on harm to competitive process.
+For example, in analyzing Avancis licensing pool for SEPs for use in 5G-connected vehicles, pursuant to the business review process, the Department found that although the pool did not license to automotive suppliers, the pools license to vehicle manufacturers had the potential to make licensing easier and much more efficient for automakers willing to license the technology necessary to make these vehicles.
+[19] The Department also the found the pool could help to ensure cellular technology innovators are compensated appropriately for the value that their technology brings to connected vehicles.
+Our review of the Avanci 5G pool focused on the potential harms to competition that might be created by the platform and determined that the potential benefits outweighed the potential harms.
+In doing so, the Division did not take sides in the license to all versus access to all debate over where in the manufacturing chain a SEP holder must license to avoid antitrust liability.
+We made clear that the Department is not in the business of choosing winners and losers.
+[20] Thus, we made no assessment of whether end-device licensing will be or should be successful in the automotive industry or whether it is the correct approach to licensing in these sectors.
+Rather, we focused on the pools potential to aggregate a significant number of complementary cellular SEPs in the marketplace and streamline licensing, and found that it is unlikely to harm competition.
+[21] As the Departments letter explains, if Avanci successfully streamlines licensing for both automakers and SEP holders, this means that both groups may be able to focus resources elsewhere, such as on investment in further R&D in emerging 5G technologies and applicationswhich is likely to benefit consumers.
+[22]
+Second, balance is important to maintaining incentives to compete and contribute technology to standards.
+[23] Our business review response to the GSM Association emphasized the importance of balance in maintaining a competitive standards development process.
+[24] It made plain that an open and balanced standards process is central to preserving competition and enabling the emergence of new disruptive technologies.
+[25] Indeed, maintaining a balance of interests in the standard-development process is a critical safeguard that helps to prevent competition concerns from arising in the standard-development process.
+[26]
+Third, antitrust law has a role to play in ensuring concerted action and special interests do not harm a competitive standards development process.
+The Department has engaged directly with standards development organizations (SDOs) on this issue.
+As an example, we recently submitted comments to the American National Standard Institute (ANSI) on its revisions to the USA Standards Strategy.
+[27] Again, our comments emphasized the importance that balance brings to the standards development process.
+The Divisions ANSI comments note in particular that competition among technologies to be included in global standards will not flourish if certain players are allowed to bias [the] standards development processes in their favor.
+[28]
+The Division also stressed the importance of balanced policies and participation in recent advocacy to the Institute of Electrical and Electronics Engineers (IEEE).
+The Department took the step of issuing an update to 2015 IEEE Business Review Letter after numerous concerns were raised by stakeholders and former government officials that the 2015 Letter was being misrepresented or misinterpreted as an endorsement of the IEEEs Patent Policy, which was not the point of the 2015 Letter (again, the Department does not pick winners and losers).
+In addition to addressing mischaracterizations of the 2015 Letter, as AAG Delrahim has explained, the supplemental letter reiterates that SDO policies and procedures must balance the interests of SEP holders and implementers as well as afford parties the flexibility needed to arrive at license terms (like royalty rates) that encourage participation in the SDO process.
+[29] We also updated the 2015 Letter to reflect recent cases that more clearly articulate that FRAND disputes are better addressed under contract or patent law, rather than antitrust.
+Although the Department has been largely successful in its New Madison approach and in advocating these central principles, not everyone has accepted them, and there is still work to be done.
+For the remainder of my time, I would like to focus on some policies outside the United States, particularly in China, that could pose a threat to competition and innovation in standards development.
+Chinas Antimonopoly Enforcement
+As noted by AAG Delrahim in a speech at a conference last month, the Division keeps a close eye on global developments relating to the intersection of IP and competition.
+Indeed, the issue of SEPs will be the basis of a discussion at the next meeting of the Competition Committee of the OECD.
+A jurisdiction that we follow particularly closely is China.
+While Chinas antitrust enforcement regime is fairly new and recently reorganized, China has ramped up enforcement of its Antimonopoly Law (AML) quickly.
+We have heard concerns over the years that Chinas enforcement of the AML targets foreign firms, and promotes industrial policies and national champions.
+We have been and will continue to be quite clearindustrial policy and national interest should play no role in competition enforcement, and the Department routinely engages with Chinese enforcers on application of the AML to advocate non-discriminatory enforcement.
+Indeed, procedural fairness in competition enforcement is an issue of particular importance to the Division.
+In 2018, the Department worked closely with competition enforcers and the International Competition Network (ICN) to develop the Framework on Competition Agency Procedures, or CAP.
+[30] Through this innovative arrangement over 70 competition agencies around the world have committed to fundamental due process protections in competition enforcement, and the signatories held their first meeting virtually last week.
+It is unfortunate that Chinas State Administration for Market Regulation (SAMR), which enforces the AML, has not yet signed the CAP.
+We hope that status changes as our dialogue with Chinese enforcers continues.
+The Antitrust Division also is interested in how the AML is applied to conduct involving intellectual property.
+[31] This summer, the State Council Anti-Monopoly Commission issued its long-awaited Guidelines on Intellectual Property Rights.
+[32] Some of the principles set forth in Guidelines are welcome and well-accepted.
+In fact, we apply them in the USA For example, similar to our IP Guidelines,[33] Article 2 of the Chinese guidelines provides that intellectual property should be analyzed in the same manner as other property rights and that enforcers will not presume that an intellectual property right (including a standards-essential patent, see Chinese guidelines, Article 27) creates market power.
+Moreover, Chinese enforcers are to analyze conduct for procompetitive benefits on a case-by-case basis.
+[34]
+Aspects of the Chinese guidelines apply specifically to standards development.
+For example, the Chinese guidelines recognize that standards development organizations should not become vehicles for concerted action by market participants to harm competition.
+We wholeheartedly agree.
+Under Article 11, Chinese enforcers will examine whether collective standards development excludes competitors, competing standards, or relevant proposals of particular companies without procompetitive justifications.
+While the Chinese adoption of these principles should be applauded, other aspects of the Chinese guidelines are more concerning.
+For example, an intellectual property holder with a dominant market position may violate the AML if it charges an excessive royalty (Article 15), refuses to license an essential intellectual property right or one that is subject to a licensing commitment (Article 16), or if it discriminates in licensing terms (Article 19).
+Indeed, for standards-essential patents, the Chinese guidelines state seeking an injunction or forcing a licensee to accept unreasonable licensing terms may restrict competition and violate the AML (Article 27).
+We have argued against these concepts over the past several years in many fora, because we believe they put companies at risk of violating the antitrust laws when they merely seek to enforce their patents.
+And this can chill innovation.
+For example, in our view, a competition agency that regulates royalties simply because it determines they are unfairly high risks severely reducing firms incentives to innovate.
+Under USA antitrust law, lawful monopolists may set their prices as high as the market will bear.
+The potential for high reward encourages dynamic competition and drives the desire to create a better, more desirable product or service.
+The freedom to set prices relates to the freedom to license.
+We believe the unilateral choice to refuse to license confers greater benefits to the innovator than if it were forced to share with competitors.
+Having this choice creates incentives for the initial investment.
+[35] In the case of patent royalties, including those for standards-essential patents, prices are best set by agreement between licensors and licensees.
+If they cant agree, then arbitration or other similar methods may help to resolve the dispute.
+In contrast, intervention by competition enforcers regarding the price of licenses can undermine the benefits of the market and result in the misallocation of investments.
+We understand that not all competition enforcers agree with our perspective, but we think continued discussion of these issues is critical.
+If soundly applied, competition law can work in concert with intellectual property rights to enhance innovation and economic growth.
+In addition, transparent and procedurally fair enforcement procedures advance incentives for innovation by providing companies with confidence they are operating in a stable, predictable, and fair environment.
+We intend to monitor how Chinas IP Guidelines are applied and will continue to engage with the State Administration for Market Regulation (SAMR) on these topics.
+Chinas Standards Development Initiatives
+Another issue at the intersection of competition and standards we are watching with interest is China Standards 2035, which is a new industrial plan being developed by the Chinese government to advance Chinas position as a key contributor and influencer of global standards, including those that are critical to our infrastructure and national security such as 5G.
+[36] Although a draft of the plan has not been published, we understand that China Standards 2035 will be a complement to Chinas successful Made in China 2025 strategy, which has established China as a leader in global manufacturing in strategic industries such as communications technology.
+[37] China Standards 2035 seeks to internationalize Chinese standards and aggressively incorporate Chinese technologies into global standards.
+Chinas National Standardization Committee issued a report earlier this year confirming that Chinas strategy is to influence international standards development and have more Chinese technologies included in global standards, such as those related to information technology, biotechnology, and COVID-19 response.
+[38] Chinas reported goals reflect its recent efforts to gain prominence in standards development for emerging technologies.
+[39] In short, it appears that Beijing intends to set the foundational rules that will define next-generation technologies, resources, and exchange writ large.
+[40]
+China Standards 2035 follows complaints we have heard about Chinas domestic standards development, which is State-run rather than industry-led.
+For example, companies have complained that they are unable to access Chinese standards, or that they experience roadblocks to participating in the domestic process even if they have a presence in China as well as the technical expertise.
+In addition, we have heard that companies may have their technology incorporated into a domestic standard without their participation or consent.
+In our engagement with Chinese regulators, we have emphasized that standards development should not exclude foreign stakeholders and that contribution of intellectual property to a standard must be voluntary.
+Engagement with China on China Standards 2035 will be important given the plans potential implications for competition in the standards development process.
+While the antitrust laws support and encourage competition in standards development because it can result in better standards, any success of Chinese companies should be because their technologies are better on the merits, not because of Chinas use of industrial policies, including China Standards 2035, that further its goal of having Chinese companies and Chinese interests dominate the development process internationally.
+[41] Controlling the standards process in this way diminishes the benefits that collaboration brings to setting standards in a balanced, consensus-based manner.
+To be sure, China Standards 2035 has the potential to thwart the procedural protections and international norms that SDOs have in place to promote openness and balance in the standards development process.
+[42] International norms require, among other protections, impartiality and consensus, including the opportunity to to contribute to the elaboration of an international standard so that the standard development process will not give privilege to, or [favor] the interests of, a particular supplier/s, country/ies or region/s.
+[43]
+As I mentioned, China Standards 2035 also has the potential to harm competition; for example, Chinas plan may have an effect similar to a concerted effort by a group of competitors to control the outcome of the standards development process.
+[44] Although private standards can have significant procompetitive advantages, the Supreme Court has emphasized that SDOs must promulgate them through procedures that prevent the standard-setting process from being biased by members with economic interests in stifling product competition.
+[45] International SDOs must be cognizant of this threat and respond as necessary.
+As the Department states in its GSMA letter, without balancing interests of different members there is little value in a group having openness, due process, or an appeals process, as there would be no diversity of opinion that would leverage such principles into reaching consensus.
+[46] SDOs must ensure that special interests and the priorities of any one member or group of members do not dominate SDO processes and outcomes.
+We understand that organizations such as ANSI are engaging with China on this plan as well as Chinas other initiatives in the standards development area, and we hope these discussions are fruitful.
+The Administrations recent National Security Strategy for Critical & Emerging Technologies (C&ED), issued last month, addresses similar threats to technology development, including from China.
+It encourages the US Government to lead the development of worldwide technology norms, standards, and governance models that reflect democratic values and interests and engage with the private sector to benefit from its understanding of C&ET as well as future strategic vulnerabilities related to [critical and emerging technologies].
+[47] Indeed, such engagement will be important to ensuring that standards continue to promote interoperability and facilitate global commerce.
+[48] As I have explained previously, the entire process of developing standards should adhere to due process principles so as to ensure that standards development does not advantage a particular country, region, or interest group.
+[49] Ideally China will seek comment on a draft of China Standards 2035 so that stakeholders can share their experience with standards development, including in the United States.
+As you know, the United States Government favors an industry-led, consensus-based approachone that is embraced internationally.
+[50]
+In sum, I believe competition enforcers have an important, though arguably limited, role to play.
+We must continue our global engagement at the intersection of intellectual property, competition, and standards, including with China, as we have on these and other important issues.
+[51] All stakeholders in standards development must continue to favor open, balanced, and fiercely competitive standards development processes that result in the adoption of merits-based solutions.
+To paraphrase Thomas Edison, we know what the world needs.
+We just need to go ahead and make it.
+Thanks so much.
+Id be happy to take questions.
+[1] Quotations from Thomas Edison, Edison Innovation Found.
+, https://www.
+thomasedison.
+org/edison-quotes (last visited Oct.
+20, 2020).
+[2] Edison Biography, Natl Park Serv.
+, https://www.
+nps.gov/edis/learn/historyculture/edison-biography.
+htm (last updated Feb.
+26, 2015).
+[3] Id.
+[4] Jill C.
+Gallagher & Michael E.
+DeVine, Cong.
+Rsch.
+Serv.
+, R45485, Fifth-Generation (5G) Telecommunications Technologies: Issues for Congress, at 6 (Jan.
+30, 2019), https://crsreports.
+congress.gov/product/pdf/R/R45485.
+[5] Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, The New Madison Approach to Antitrust and Intellectual Property Law, Keynote Address at University of Pennsylvania Law School (Mar.
+16, 2018), https://www.
+justice.gov/opa/speech/file/1044316/download.
+[6] The Federalist No.
+43.
+[7] Id.
+[8] USA Const.
+art.
+1,  8, cl.
+8.
+[9] Brief of the United States as Amicus Curiae in Support of Appellant and Vacatur at 6-7, Fed.
+Trade Commn v.
+Qualcomm Inc.
+, No.
+19-16122 (9th Cir.
+Aug.
+30, 2019).
+[10] Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, Take It to the Limit: Respecting Innovation Incentives in the Application of Antitrust Law, Remarks at USAC.
+Gould School of Laws Center for Transnational Law and Business Conference, at 5 (Nov.
+10, 2017), https://www.
+justice.gov/opa/speech/file/1010746/download.
+[11] Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Sophia A.
+Muirhead, Esq.
+, Inst.
+of Elec.
+and Elec.
+Engrs, at 6 (Sept.
+10, 2020), https://www.
+justice.gov/atr/page/file/1315291/download.
+[12] Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, Broke  but Not No More, Remarks at the LeadershIP Virtual Series (Sept.
+10, 2020) [hereinafter Delrahim, LeadershIP Speech] (citing recent decisions in Contl Auto.
+Sys.
+v.
+Avanci, LLC, No.
+3:19-cv-02933-M, 2020 WL 5627224 (N.
+D.
+Tex.
+Sept.
+10, 2020); and then FTC v.
+Qualcomm, 969 F.
+3d 974 (9th Cir.
+Aug.
+11, 2020); and then Sisvel Intl S.
+A.
+v.
+Haier Deutschland GmbH, [BGH] [Federal Court of Justice] May 5, 2020, KZR 36/17; and then Unwired Planet Intl Ltd.
+v.
+Huawei Tech.
+[2020] UKSC 37), https://www.
+justice.gov/opa/speech/file/1316251/download.
+[13] USA Dept of Justice, USA Pat.
+& Trademark Off.
+, and Natl Inst.
+of Sci.
+& Tech.
+, Joint Policy Statement on Remedies for Standards-Essential Patents Subject to Voluntary F/RAND Commitments (Dec.
+19, 2019), https://www.
+justice.gov/atr/page/file/1228016/download.
+[14] Qualcomm, 969 F.
+3d 974, 995 (9th Cir.
+Aug.
+11, 2020).
+[15] Contl, 2020 WL 5627224, at *12 (N.
+D.
+Tex.
+Sept.
+10, 2020); see Statement of Interest of the United States at 9-11, Contl, No.
+3:19-CV-02933-M (N.
+D.
+Tex.
+Feb.
+27, 2020).
+[16] Intel Corp.
+v.
+Fortress Inv.
+Grp.
+, USA Dist.
+LEXIS 158831, at *28 (N.
+D.
+Cal.
+July 15, 2020); see Statement of Interest of the United States at 8-11, Intel, No.
+3:19-cv-07651-EMC (N.
+D.
+Cal.
+Mar.
+20, 2020).
+[17] Delrahim, LeadershIP Speech, supra note 12, at 6-8 (discussing Sisvel v.
+Haier [BGH] [Federal Court of Justice] May 5, 2020, KZR 36/17; and Unwired Planet v.
+Huawei [2020] UKSC 37).
+[18] Statement of Interest of the United States at 19-20, Lenovo Inc.
+v.
+Interdigital Tech.
+Corp.
+, No.
+1:20-cv-00493-LPS (D.
+Del.
+July 17, 2020).
+[19] Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Mark H.
+Hamer, Esq.
+, Baker & McKenzie, at 9-10 (July 28, 2020), https://www.
+justice.gov/atr/page/file/1298626/download.
+[20] Id.
+at 21 n.
+141 (quoting Letter from Charles A.
+James, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice to Douglas W.
+Macdonald, Esq.
+, Webster, Chamberlain & Bean, at 3 (Oct.
+7, 2002), https://www.
+justice.gov/atr/public/busreview/200310.
+htm).
+[21] Id.
+at 21.
+[22] Id.
+at 12.
+[23] United States Statement of Interest Concerning Qualcomms Motion for Partial Stay of Injunction Pending Appeal at 10-11, FTC v.
+Qualcomm, No.
+19-16122 (9th Cir.
+July 16, 2019)
+[24] Letter from Makan Delrahim, Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, to Timothy Cornell, Esq.
+, Clifford Chance, at 9-11 (Nov.
+27, 2019) [hereinafter GSMA Letter], https://www.
+justice.gov/atr/page/file/1221321/download.
+[25] Id.
+; Alexander Okuliar, Deputy Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, Ensuring the Proper Application of Antitrust Law to Standards Development, Remarks before the Intellectual Property Rights Policy Advisory Group of the American National Standards Institute, at 13-15 (May 28, 2020) [hereinafter Okuliar, ANSI Speech] https://www.
+justice.gov/opa/speech/file/1281926/download.
+[26] Okuliar ANSI Speech, supra note 25, at 13.
+[27] USA Dept of Justice, Antitrust Div.
+, Comments on the USA Standards Strategy (Sept.
+8, 2020), https://www.
+justice.gov/atr/page/file/1314196/download.
+[28] Id.
+at 1.
+[29] Delrahim, LeadershIP Speech, supra note 12, at 9.
+[30] Intl Competition Network, Framework on Competition Agency Procedures (Apr.
+3, 2019), https://www.
+internationalcompetitionnetwork.
+org/frameworks/competition-agency-procedures/.
+[31] Roger Alford, Deputy Asst Atty Gen.
+, Antitrust Div.
+, USA Dept of Justice, Crossing the River by Feeling the Stones: Reflections on a Decade of Chinese Competition Enforcement, Remarks at 2018 Competition Policy Forum (July 31, 2018), https://www.
+justice.gov/opa/speech/file/1083971/download; see also Delrahim, LeadershIP Speech, supra note 12, at 9-10.
+[32] The Department is using an unofficial translation of the Guidelines for purposes of these remarks.
+Compare St.
+Council Anti-Monopoly Commn, Guidelines on Intellectual Property Rights with USA Dept of Justice & Fed.
+Trade Commn, Antitrust Guidelines for the Licensing of Intellectual Property  2.1, 2.2 (Jan.
+12, 2017) [hereinafter Antitrust-IP Guidelines], https://www.
+justice.gov/atr/IPguidelines/download.
+[33] St.
+Council Anti-Monopoly Commn, Guidelines on Intellectual Property, art.
+2.
+[34] Compare St.
+Council Anti-Monopoly Commn, Guidelines on Intellectual Property, art.
+2 with Antitrust-IP Guidelines  3.4.
+[35] See Antitrust-IP Guidelines  2.1, 2.2.
+[36] Delrahim, LeadershIP Speech, supra note 12, at 9-10.
+[37] Id.
+; USA Chamber of Commerce, Made in China 2025: Global Ambitions Built on Local Protections (Mar.
+16, 2017), https://www.
+uschamber.
+com/sites/default/files/final_made_in_china_2025_report_full.
+pdf.
+[38] Id.
+at 13-21.
+[39] See, e.
+g.
+, John Seaman, China and the New Geopolitics of Technical Standardization, Notes de lIfri, at 3 (Jan.
+2020), https://www.
+ifri.
+org/sites/default/files/atoms/files/seaman_china_standardization_2020.
+pdf (From emerging technological fields such as 5G, artificial intelligence (AI), the Internet of Things (IoT) and smart cities to traditional sectors including energy, health care, railways and agriculture, China is increasingly proactive in nearly every domain where technical standards remain to be developed and set.
+).
+[40] Emily de La Bruyere & Nathan Picasric, China Standards 2035: Standardization Work in 2020, Horizon Advisory, China Standards Series, at 5 (2020), https://www.
+horizonadvisory.
+org/china-standards-2035-first-report.
+[41] Id.
+at 11 (Beijings standardization plan is not just about China.
+The China Standards outline is explicit about its intentions to proliferate standards internationally  and to do so by integrating with, and co-opting, global standard-setting bodies.
+).
+[42] See Agreement on Technical Barriers to Trade, art.
+15.4, Apr.
+15, 1994, Marrakesh Agreement Establishing the World Trade Organization, Annex 1A, 1868 U.
+N.
+T.
+S.
+120; World Trade Organization, Decisions and Recommendations Adopted by the WTO Committee on Technical Barriers to Trade Since 1 January 1995, at 6, WTO Doc.
+G/TBT/1/Rev.
+14 (Sept.
+24, 2019) [hereinafter WTO Decisions and Recommendations], https://docs.
+wto.
+org/dol2fe/Pages/SS/directdoc.
+aspx?filename=q:/G/TBT/1R14.
+pdf&Open=True.
+[43] WTO Decisions and Recommendations, supra note 42, at 63.
+[44] See Allied Tube & Conduit Corp.
+v.
+Indian Head, 486 USA 492 (1988).
+[45] Id.
+at 501.
+[46] GSMA Letter, supra note 24, at 9 n.
+20.
+[47] Exec.
+Off.
+of the President, National Strategy for Critical and Emerging Technologies, at 1 (Oct.
+2020), https://www.
+whitehouse.gov/wp-content/uploads/2020/10/National-Strategy-for-CET.
+pdf.
+[48] See Am.
+Natl Standards Inst.
+, USA Standards Strategy (2015) (currently under revision), https://share.
+ansi.
+org/shared%20documents/Standards%20Activities/NSSC/USSS_Third_edition/ANSI_USSS_2015.
+pdf.
+[49] Okuliar ANSI Speech, supra note 25, at 17-18.
+[50] See Off.
+of Mgmt.
+and Budget, Revision of OMB Circular No.
+A-119, Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities, 81 Fed.
+Reg.
+4673 (Jan.
+27, 2016), https://www.
+nist.gov/document/revisedcirculara-119asof01-22-2016pdf.
+[51] See, e.
+g.
+, Roger Alford, Deputy Asst Atty Gen.
+, Antitrust Division, The Pearl of Great Worth: The Common Pursuit of Protecting the Markets, Remarks Delivered at the 2019 China Competition Policy Forum (May 7, 2019), https://www.
+justice.gov/opa/speech/file/1160506/download.
+Speaker:Alexander Okuliar, Former Deputy Assistant Attorney GeneralAttachment(s): Download Okuliar_Remarks_Before_the_USCIB.
+pdfTopic(s):AntitrustComponent(s):Antitrust Division
+Updated November 12, 2020

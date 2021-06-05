@@ -1,0 +1,23 @@
+https://www.justice.gov/opa/pr/justice-department-publishes-statement-2016-presidents-council-advisors-science-and
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Wednesday, January 13, 2021
+Justice Department Publishes Statement on 2016 Presidents Council of Advisors on Science and Technology Report
+Today, the Justice Department published a statement on the 2016 Presidents Council of Advisors on Science and Technology (PCAST) Report, Forensic Science in Criminal Courts: Ensuring Scientific Validity of Feature-Comparison Methods.
+The statement is a response to PCASTs claims regarding what it described as forensic feature comparison methods.
+
+Published in September 2016, the PCAST report has been cited by several courts that have recently limited the scope of opinion testimony by firearms and toolmarks examiners regarding the source of a bullet or shell casing.
+These courts relied on certain aspects of the PCAST Report to support their decisions.
+In its Report, PCAST claimed that forensic feature comparison methods belong to the scientific discipline of metrology (measurement science); that feature comparison methods can only be deemed foundationally valid by adhering to PCASTs mandatory and non-severable set of experimental design criteria; and that error rates for feature comparison methods can only be established using these appropriately designed black box studies.
+The Department disagrees with these claims and explains why they are erroneous.
+Specifically, it is the Departments position that:
+Traditional forensic pattern examination methodsas currently practiceddo not belong to the scientific discipline of metrology.
+Forensic examiners visually compare the individual features observed in two examined samples, they do not measure The result of this comparison is a conclusion that is stated in words (nominal terms), not magnitudes (measurements).
+PCASTs claim that forensic pattern examination methods can only be validated using its non-severable set of nine experimental design criteria is inconsistent with its own examples, international laboratory standards, and authorities in experimental design.
+There is no single scientifically recognized means by which to validate a scientific method.
+Casework error rates cannot be established through the exclusive and non-severable application of PCASTs experimental design criteria.
+No single error rate is applicable to all labs, examiners, or cases.
+The full statement can be found here:USA Department of Justice Statement on the PCAST Report:Forensic Science in Criminal Courts: Ensuring Scientific Validity of Feature-Comparison Methodsand a link to the abstract can be found here:USA Department of Justice Statement on the PCAST Report: Abstract.
+Component(s):Office of the Deputy Attorney GeneralPress Release Number:21-44
+Updated January 13, 2021

@@ -1,0 +1,22 @@
+https://www.justice.gov/opa/pr/department-justice-revises-policy-governing-grants-associated-foreign-made-unmanned-aircraft
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, October 8, 2020
+Department of Justice Revises Policy Governing Grants Associated with Foreign-Made Unmanned Aircraft Systems
+The Department of Justice today announced that its Office of Justice Programs (OJP) has issued a revised policy governing the award of grants for the purchase and operation of foreign-made Unmanned Aircraft Systems (UAS).
+The new policy requires grant recipients to utilize OJP funds to procure and operate UAS only in a manner that promotes public safety, protects individuals privacy and civil liberties, and mitigates the risks of cyber intrusion and foreign influence.
+We take seriously concerns about the use of foreign-made UAS and the potential for related data compromise, said Deputy Attorney General Jeffrey A.
+Rosen.
+It is paramount that funding recipients take effective measures to safeguard sensitive information and the publics privacy and civil liberties while operating these systems in a safe and secure manner.
+
+The new OJP Policy has two primary mechanisms to address potential cybersecurity and data privacy concerns.
+First, the Policy prevents OJP funds from being used to purchase or operate UAS manufactured or assembled by an entity that DOJ leadership has determined is subject or vulnerable to extrajudicial direction from a foreign government.
+This policy change helps ensure that our partners can use these valuable tools to support their law enforcement and public safety missions, without compromising information technology systems or sensitive law enforcement or privacy information, said OJP Principal Deputy Assistant Attorney General Katharine T.
+Sullivan.
+Second, the chief executive officer of the applicants jurisdiction seeking funds for purchase or operation of UAS must now certify in writing that, among other things, the applicant and recipient can mitigate the risks posed by malware or unauthorized collection of user information, data theft, or electronic hijacking, can secure communications and protect the security of stored information collected with UAS, and has a plan to address civil liberties-related complaints regarding use of UAS.
+Applicants must be prepared to provide these policies and procedures to DOJ as a condition for receiving a grant for UAS.
+Together, these and other provisions of the Policy will help foster a secure and robust UAS supply-chain for our nations public safety partners.
+The revised policy can be found here.
+Component(s):Office of Justice Programs (OJP)Office of the Deputy Attorney GeneralPress Release Number:20-1070
+Updated October 8, 2020

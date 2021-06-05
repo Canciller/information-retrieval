@@ -1,0 +1,31 @@
+https://www.justice.gov/opa/pr/russian-national-indicted-conspiracy-introduce-malware-computer-network
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Friday, September 4, 2020
+Russian National Indicted for Conspiracy to Introduce Malware into a Computer Network
+A federal grand jury in the District of Nevada returned an indictment today charging a Russian national for his role in a conspiracy to intentionally cause damage to a protected computer.
+Acting Assistant Attorney General Brian C.
+Rabbitt of the Justice Departments Criminal Division,USA Attorney Nicholas A.
+Trutanich of the District of Nevada, and Special Agent in Charge Aaron C.
+Rouse of the FBIs Las Vegas Field Office made the announcement.
+The indictment alleges that Egor Igorevich Kriuchkov, 27, a citizen of Russia, attempted to recruit an employee of a company located in Nevada, with the purpose of introducing malicious software into the companys computer network, extracting data from the network, and thereafter extorting ransom money from the company under the threat of making the extracted data public.
+According to the indictment, from about July 16, 2020, to about Aug.
+22, 2020, Kriuchkov conspired with associates to recruit an employee to introduce malware into the computer network of the employees company.
+The malware would purportedly provide Kriuchkov and his co-conspirators with access to the data within the computer system.
+After the malware was introduced, Kriuchkov and his co-conspirators would extract data from the network and then threaten to make the information public, unless the company paid their ransom demand.
+Kriuchkov was arrested on Aug.
+22, 2020, in Los Angeles, California and had his initial appearance before USA Magistrate Judge Alexander F.
+MacKinnon of the USA District Court in the Central District of California.
+Kriuchkov was detained pending trial and has not yet appeared in the District of Nevada.
+An indictment merely alleges that crimes have been committed.
+The defendant is presumed innocent until proven guilty beyond a reasonable doubt.
+The investigation was led by the FBIs Las Vegas Field Office with assistance by the FBIs Los Angeles and Sacramento Field Offices and the Washoe County (Nevada) Sheriffs Office.
+The case is being prosecuted by Senior Counsel C.
+S.
+Heath and Trial Attorney Thomas Dettore of the Criminal Divisions Computer Crime and Intellectual Property Section and Assistant USA Attorney Richard Casper of the District of Nevada.
+The year 2020 marks the 150th anniversary of the Department of Justice.
+Learn more about the history of our agency at www.
+Justice.gov/Celebrating150Years.
+Attachment(s): Download Kriuchkov IndictmentTopic(s):Cyber CrimeComponent(s):Criminal DivisionCriminal - Computer Crime and Intellectual Property SectionFederal Bureau of Investigation (FBI)USAO - NevadaPress Release Number:20-889
+Updated September 4, 2020

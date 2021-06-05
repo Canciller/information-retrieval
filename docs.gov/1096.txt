@@ -1,0 +1,240 @@
+https://www.justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-remarks-leadership-virtual-series
+Assistant Attorney General Makan Delrahim Delivers Remarks at the LeadershIP Virtual Series
+Washington, DCUnited States
+~
+Thursday, September 10, 2020
+Broke.
+.
+.
+but Not No More: Opening Remarks--Innovation Policy and the Role of Standards, IP, and Antitrust
+Thank you to LeadershIP for putting together this panel on Innovation Policy and the Role of Standards, IP, and Antitrust.
+ Some of you know that I often give my remarks the title of a popular song.
+Teddy Swims has a wonderful song released within the last few weeks called Broke and the first verse contains the lyrics: Broke.
+.
+.
+but not no more.
+ These lyrics have special meaning with respect to antitrust law and policy as they relate to patent licensing practices, which for many years were broken, stifling competition, but are now being restored to their proper role of fostering a competitive and innovative economy.
+[1]
+I am honored to join you, Director Kappos, and to discuss with my colleagues, Under Secretaries Iancu and Copan, the role that each of our agencies plays in fostering an innovative, competitive American economy.
+This is the first time we have been able to get all three of us together since we signed the new joint Policy Statement on Remedies for SEPs Subject to Voluntary F/RAND Commitments in December 2019.
+That day marked a milestone in the Antitrust Divisions New Madison approach to the intersection of antitrust and intellectual property law, and so Id like to use today as an opportunity to point out some additional milestones the Antitrust Division has accomplished related to competition and innovation since that time and to identify challenges on the horizon.
+I.
+The New Madison Approach
+Ill start by briefly reminding everyone of the basics of the Divisions New Madison approach:
+As many of you know, some IP and antitrust scholars are concerned about what they call a hold-up problem in the licensing of Standards Essential Patentsknown as SEPs.
+Standards Development Organizationscalled SDOsestablish standards so that devices and software can interoperate.
+Standards play an important role in numerous industries, including medical devices, wireless communications, and airlines parts, among others.
+The standards let consumers seamlessly integrate technology from different manufacturers without the need for complex workarounds.
+SDOs often require patent holders who want the SDO to consider their technology for use in the standard to agree at the outset that, if their patent is selected, they will license it to implementers on fair, reasonable, and non-discriminatory terms.
+This is known as a FRAND commitment.
+The supposed hold-up problem is that SEP holders might renege on their FRAND obligations after their patents are incorporated into the standard.
+They may demand non-FRAND terms from implementers who need to use their technology to be standard-compliant.
+Furthermore, there is a radical theory that a patent holder who fails to live up to his FRAND commitment can be sued for an antitrust violation for that alone.
+The New Madison approach has four core premises: First: hold-up is fundamentally not an antitrust injury, but rather a contract or fraud injury, when it is proven.
+Second, SDOs should not become vehicles for concerted action by market participants to favor implementers over patent holders.
+Third, a fundamental feature of patent rights is the right to exclude, and courts should be hesitant to limit that right by, say, disfavoring injunctive remedies, absent specific congressional direction.
+Fourth, consistent with the right to exclude, the antitrust laws ought to regard a unilateral decision not to license a patent as per se legal.
+[2]
+The competitive process in this context takes place in the negotiations between implementers and patent holders.
+Negotiating in the shadow of dubious antitrust liability is not only unnecessary, it dramatically shifts bargaining power between patent holders and implementers in a way that distorts the incentives for real competition on the merits through innovation.
+Giving implementers the threat of treble damages in antitrust increases the perverse likelihood of hold-out, which is the other side of the hold-up coin.
+Of course, none of this undermines the importance of the negotiations that took place at the time that an SDO selected competing technologies for inclusion in the standard.
+To the extent that implementers bargained for some benefit, contract law already provides a solution to the problem of patent holders failing to live up to that bargain.
+The parties are on equal terms when they bargain in the shadow of contract law, because there is no threat of treble damages skewing the negotiations in favor of the implementer.
+II.
+New Madison in the Courts, USA and Abroad.
+In addition to the 2019 Joint Policy Statement, which I know well be discussing as part of the Q&A later, the Antitrust Division has offered our New Madison approach in courts that are currently hearing challenges on these issues.
+Ill highlight a few of the cases in which weve filed recently.
+This past February, we filed a statement of interest in the Northern District of Texas in Continental v.
+Avanci, a case that presented the question whether a patent holder who has made a FRAND commitment can be sued for violating Section 2 of the Sherman Act.
+[3] Plaintiff Continental Automotive Systems alleged that defendant Avanci made and then reneged on FRAND commitments.
+Continental sought treble damages under Section 2 of the Sherman Act, which restricts the conduct in which a monopolist can engage.
+Our filing explained that Continentals Section 2 claims based on alleged breaches of FRAND commitments in the standard setting context do not sound in antitrust law.
+Using the antitrust laws in this way is both bad policy and inconsistent with Supreme Court precedent that sharply limits any antitrust obligation to deal with a competitor.
+[4] Were currently awaiting the judges decision on the defendants motion to dismiss.
+[5]
+We made a similar point in our filing in Lenovo v.
+Interdigital in July in the District of Delaware.
+Lenovo went so far as to argue that reneging on FRAND commitments violates not only Section 2 of the Sherman Act, but violates Section 1 as well.
+Our brief explained that Section 1 of the Sherman Act imposes liability only for concerted action, and that making and reneging on a FRAND commitment is unilateral action that involves no coordination with any other party.
+Interdigitals motion to dismiss is currently pending.
+Recently, both Interdigital and DOJ alerted the court of the Ninth Circuits holding in Qualcomm that reneging on FRAND commitments is not an antitrust violation.
+Another important filing that we made as part of our New Madison project is an amicus brief we filed jointly with the USA Patent & Trademark Office last October in the 5th Circuit Case, HTC v.
+Ericsson.
+HTC, the implementer that brought the suit, advanced a rule that reasonable licensing rates for SEPs have to be based not on the revenues for the entire product, but somehow on the value of the smallest saleable patent practicing unitthat is, the smallest independent part of the product that could be said to infringe.
+HTC also argued that any license that imposed different costs on distinct licensees was unacceptably discriminatory.
+We urged the Fifth Circuit to reject both of these rigid rules.
+The first rulethat licensing fees had to be based on the value of the smallest saleable patent practicing unitprevents a patent holder from introducing evidence of how actual licensing fees work in practice.
+Where freely negotiating parties in the market base their licensing arrangements on revenue from the product, there is no reason why courts should categorically exclude such considerations.
+The second rule HTC proposedthat a disparate impact makes a licensing fee discriminatorywould make almost any licensing arrangement discriminatory.
+No implementer is identically situated to its competitors, and any license arrangement is liable to have different effects on differently situated companies.
+The PTO presented oral argument in May, and were now awaiting a decision.
+In March we filed a statement of interest in Intel v.
+Fortress, which is being litigated in district court in the Northern District of California.
+Plaintiffs Intel and Apple based their complaint on a noveland problematicunderstanding of antitrust law.
+They argued that Fortress and the other defendants had violated the antitrust laws by acquiring a large portfolio of patents and aggressively enforcing them.
+Our filing highlighted the absence of any harms to competition in the complaint.
+The complaint failed, for example, to identify any instances where the defendants had acquired substitute patents; that is, where their acquisitions might have eliminated competition.
+Moreover, in that case, the plaintiffs defined the relevant market as the Electronics Patent Market.
+ We explained why the alleged Electronics Patent Market is vastly overbroad and could not constitute an antitrust-relevant market.
+The products in any valid market have to be substitutes for one another; or at least there has to be some cross-elasticity of demand.
+Electronics patents, of course, cover many unrelated technologies that dont substitute for one another.
+The judge agreed with our analysis and dismissed the complaint without prejudice.
+Apple and Intel have now amended their complaint.
+Were watching this case with interest.
+The Divisions filings in these casesContinental v.
+Avanci, Lenovo v.
+Interdigital, HTC v.
+Ericsson, and Intel v.
+Fortressare examples of how the Division can advance a carefully balanced pro-innovation approach and be useful to courts.
+The intersection of intellectual property and antitrust is a highly technical area of law.
+When we weigh in on these issues, we aim to improve courts understanding of the law which, ultimately, will benefit consumers and competition.
+Importantly, courts have been echoing our concern for the proper balancing of the interests of patent holders and implementers.
+Furthermore, courts have rejected antitrust lawsuits premised solely on the violation of FRAND commitments.
+The Ninth Circuits recent decision in FTC v.
+Qualcomm is a strong and important pronouncement of the correct approach to antitrust in the standard setting context.
+[6] As the Court put it, the FTC .
+.
+.
+does not satisfactorily explain how Qualcomms alleged breach of [the] contractual [FRAND] commitment itself impairs the opportunities of rivals.
+[7] Moreover, the Ninth Circuit emphasized that it did not want to go beyond the Aspen Skiing case in establishing a duty to deal with rivals.
+[8] It is encouraging that the Ninth Circuit understood these important but highly complex issues, and explained them clearly.
+We have also seen strong international recognition of the New Madison approachs fundamental principles.
+In this past springs Sisvel v.
+Haier decision from the German Federal Court of Justice, the Court made clear that implementers have to do their part in negotiations over SEPs.
+[9] Under Sisvel, implementers have to be willing to take a license on any terms that are fair, reasonable, and nondiscriminatory.
+Implementers also must take an active role in negotiations.
+In the Sisvel case, Haier, the implementer, did not make counter-offers during negotiations, but merely repeatedly rejected Sisvels offers, stating that the terms were not FRAND.
+This behavior indicated that Haier was not negotiating in good faith, and the German high court indicated that implementers have to make offers of their own; they cannot just reject successive offers claiming that no offer has been made on FRAND terms.
+The Federal Court of Justice also held that the mere fact that the patent holder had offered better licensing terms to a different entity didnt make the offered terms discriminatory.
+Sisvel had offered a large discount to Haiers competitor Hisense, but didnt offer the same discount to Haier.
+Sisvel argued that it had been pressured by the Chinese government to offer the discount to Hisense, but that shouldnt mean that any higher offer to Haier was discriminatory.
+The German High Court held that pressure from a foreign government was a valid reason for offering different rates.
+The UK Supreme Courts recent decision in Unwired Planet International v.
+Huawei Technologies is another foreign court decision that largely aligns with New Madison principles and, in particular, with the 2019 Joint Policy Statement.
+This example of convergence around a principle that was already starting to emerge as consensus in the United States is especially welcome to me, since one of my other priorities as Assistant Attorney General has been seeking international convergence for the rules governing competition around the world.
+In Unwired Planet, the UK Supreme Court held that SEP holders may be entitled to injunctive relief and are not limited to seeking monetary damages.
+The defendants argued that injunctive relief should be categorically unavailable with regard to Standards Essential Patents, but the UK Supreme Court noted that this would severely disadvantage patent holders.
+Here is what the Court said:
+[I]f the patent-holder were confined to a monetary remedy, implementers who were infringing the patents would have an incentive to continue infringing until, patent by patent, and country by country, they were compelled to pay royalties.
+It would not make economic sense for them to enter voluntarily into FRAND licences.
+In practice, the enforcement of patent rights on that basis might well be impractical.
+.
+.
+.
+An injunction is likely to be a more effective remedy, since it does not merely add a small increment to the cost of products which infringe the UK patents, but prohibits infringement altogether.
+[10]
+The UK Supreme Court took another position that we welcomeand that aligns with the German high courts Sisvel decision: A patent holder is not required to offer to each implementer the best terms that it has offered to any previous implementer in order to comport with FRAND obligations.
+In Unwired Planet, Huawei, the implementer, argued that it should not be forced to pay more for the technology in dispute than Samsung, another implementer, had paid.
+But the Court pointed to the economic literature on the benefits of price discrimination, and held that differential pricing is not necessarily discriminatory pricing.
+The holder of an SEP has to negotiate with all comers, but is not required to offer all implementers precisely identical terms.
+This reasoning recognizes the principle I mentioned earlier: competition is taking place when patent holders and implementers negotiate.
+Courts are increasingly aware that they should respect those competitive dynamics and limit their own distortionary effects.
+It is this recognition from courts, as well as watching these negotiations and litigations play out over the last several years, that led us to the most recent milestone in the Antitrust Divisions New Madison approach: just earlier today we announced an updated supplement to the Antitrust Divisions 2015 IEEE Business Review Letter.
+We took this step to address the updated legal and policy landscape, as well as incorrect uses of the 2015 letter both at home and abroad.
+The letter we issued today reiterates that SDO policies and procedures must balance the interests of SEP holders and implementers and consider incentives for hold-up and hold-out behavior, and afford parties the flexibility needed to arrive at license terms (like royalty rates) that encourage participation in the SDO process.
+Our newly issued letter will help end any misuses of the 2015 Letter and, in doing so, establish more accurate antitrust policies both at home and abroad.
+III.
+Future Challenges: China Standards 2035 and Beyond
+While the New Madison approach has seen important successes for a free-market and innovation-driven antitrust policy, challenges remain on the horizon.
+One potential concern that is especially relevant to this audience is the recently revealed China Standards 2035 initiative, which is slated for release later this year.
+It appears that China Standards 2035, like Made in China 2025 before it, aims to promote Chinese interestsperhaps even if doing so means forgoing selection of superior technologies in the development of standards that will govern consumer experiences throughout the world.
+Critics have noted that this approach has led to market access barriers and other harms.
+[11] This approach may also ignore obligations China has to evolve or conform to international standards.
+[12]
+Made in China 2025, to achieve its stated goals, is criticized for tending to subordinate free market principles.
+Instead, it reinforced government control and intervention, preferential policies, and financial support for domestic innovation and for acquisition of foreign technology.
+[13] While the final China Standards 2035 document has yet to be released, it is largely expected to take a similar approach and to accelerate Chinas efforts to establish itself as a key decision maker and influencer of global standards.
+[14] This would likely include efforts to exert greater control over both processes and outcomes.
+Standards processes can be susceptible to capture by specialized interests.
+This capture comes at the expense of consumers.
+The Division has seen the negative effects of biased processes firsthand.
+Where they arise, we will not hesitate to investigate and bring an enforcement action.
+Our GSMA investigation relating to the use of eSIMs, which culminated last year in the organization revising its standard-setting processes, demonstrates that the Antitrust Division will act where a preference for certain stakeholders interests tend to result in diminished innovation and worse consumer experiences.
+When global private standards processes are competitive and merits-based, they benefit consumers both domestically and abroad.
+The Antitrust Division, along with numerous domestic and international partners, has worked diligently for many years to foster a global standards development environment that promotes competition and innovation.
+Earlier this week, we at the Antitrust Division encouraged American National Standards Institute to consider strengthening its commitment to globally accepted principles for standards developmentlike transparency, openness, and impartialityin its revision to the USA Standards Strategy.
+[15] ANSI has played an important role in helping to foster a procompetitive environment for global standards development, and it can continue doing so by warning of the dangers from allowing special interests to dominate SDO processes and outcomes.
+IV.
+Conclusion
+I will conclude by emphasizing the considerable success we have seen from the proper interpretation of antitrust enforcement.
+Weve assisted courts by filing amicus briefs, and we have seen important judicial decisions both at home and abroad that make sure that patent holders and implementers are on an even playing field in negotiating licensing rates that both reward innovation and encourage new applications of technologies.
+There are certainly challenges, both domestic and international, that remain.
+It is, however, my hope that the Antitrust Divisions innovative responses to 21st century legal problems will maintain important incentives to innovate and help ensure continued technological progress.
+[1] See Makan Delrahim, Assistant Attorney General  Antitrust Division, The times they are achangin:
+The Nine No-Nos in 2019 (Oct.
+21, 2019), available at https://www.
+justice.gov/opa/speech/file/1213831/download.
+[2] Makan Delrahim, Assistant Attorney General  Antitrust Division, The New Madison Approach to Antitrust and Intellectual Property Law 5 (Mar.
+16, 2018), available at https://www.
+justice.gov/opa/speech/file/1044316/download.
+[3] Continental Auto.
+Sys.
+, Inc.
+v.
+Avanci, LLC, No.
+19-CV-02933-M (N.
+D.
+Tex.
+).
+[4] See Verizon Commcns Inc.
+v.
+Law Offices of Curtis V.
+Trinko, LLP, 540 USA 398 (2004).
+[5] On September 11, 2020, as this speech was being prepared for publication, the court granted defendants motion to dismiss, holding [i]t is not anticompetitive for an SEP holder to violate its FRAND obligations and explaining it disagreed with those cases concluding that deception of an SSO constitutes the type of anticompetitive conduct required to support a  2 claim.
+
+[6] FTC v.
+Qualcomm Inc.
+, No.
+19-16122, 2020 WL 4591476 (9th Cir.
+Aug.
+11, 2020).
+[7] Id.
+[8] Id.
+at *15.
+[9] Sisvel Intl S.
+A.
+v.
+Haier Deutschland GmbH, [BGH] [Federal Court of Justice] May 5, 2020, KZR 36/17.
+[10] Id.
+167.
+[11] See, e.
+g.
+, Naomi Wilson, Testimony before the USA-China Economic and Security Review Commission, Hearing on A China Model? Beijings Promotion of Alternative Global Norms and Standards, at 5-7 (March 13, 2020), https://www.
+uscc.gov/sites/default/files/testimonies/March%2013%20Hearing_Panel%203_Naomi%20Wilson%20ITI.
+pdf.
+[12] See, e.
+g.
+, id.
+at 5-6 (March 13, 2020), (Following WTO accession in 2001, China was required to conduct significant review of its many domestic standards with a view to either adopting international standards or otherwise revising existing standards to bring them in line with international standards.
+However, China still continues to favor China-unique standards, which contravene World Trade Organization (WTO) commitments on Technical Barriers to Trade (TBT).
+).
+The Tokyo Round sections on Technical Barriers to Trade also provides mandates regarding technical regulations and standards.
+ See https://www.
+wto.
+org/english/docs_e/legal_e/tokyo_tbt_e.
+pdf.
+[13] See, e.
+g.
+, USA Chamber of Commerce, Made in China 2025: Global Ambitions Built on Local Protections, (2017), https://www.
+uschamber.
+com/sites/default/files/final_made_in_china_2025_report_full.
+pdf.
+[14] See Arjun Kharpal, Power is up for grabs: Behind Chinas plan to shape the future of next-generation tech, CNBC (Apr.
+26, 2020), https://www.
+cnbc.
+com/2020/04/27/china-standards-2035-explained.
+html (China is set to release an ambitious 15-year blueprint that will lay out its plans to set the global standards for the next-generation of technologies.
+); Emily de La Bruyere & Nathan Picarsic, Chinas next plan to dominate international tech standards, TechCrunch (Apr.
+11, 2020), https://techcrunch.
+com/2020/04/11/chinas-next-plan-to-dominate-international-tech-standards/ (Beijing is about to launch China Standards 2035, an industrial plan to write international rules.
+); Emily de La Bruyere & Nathan Picasric, China Standards 2035: Beijings Platform and Geopolitics Standardization Work in 2020, Horizon Advisory, China Standards Series, at 11 (2020) (Beijings standardization plan is not just about China.
+The China Standards outline is explicit about its intentions to proliferate standards internationally  and to do so by integrating with, and co-opting, global standard-setting bodies.
+).
+[15] USA Dept of Justice, Antitrust Div.
+, Comments on the USA Standards Strategy (Sept.
+8, 2020), https://www.
+justice.gov/atr/page/file/1314196/download.
+Speaker:Former Assistant Attorney General, Makan DelrahimAttachment(s): Download leadership_ip_remarks_final.
+pdfComponent(s):Antitrust Division
+Updated September 11, 2020

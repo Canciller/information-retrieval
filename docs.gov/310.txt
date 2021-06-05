@@ -1,0 +1,35 @@
+https://www.justice.gov/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Friday, March 19, 2021
+Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise
+The Infraud Organization victimized millions of people in all 50 states and caused more than $568 million in financial losses
+Two foreign nationals  one Russian, the other Macedonian were sentenced today for their role in the Infraud Organization, a transnational cybercrime enterprise engaged in the mass acquisition and sale of fraud-related goods and services, including stolen identities, compromised credit card data, computer malware, and other contraband.
+Sergey Medvedev, aka Stells, segmed, and serjbear, 33, of Russia, pleaded guilty in the District of Nevada to one count of racketeering conspiracy in June 2020 and was sentenced today to 10 years in prison.
+According to court documents, Medvedev was a co-founder of Infraud along with Syvatoslav Bondarenko of Ukraine.
+From November 2010 until Infraud was taken down by law enforcement in February 2018, Medvedev was an active participant in the Infraud online forum, operating an escrow service to facilitate illegal transactions among Infraud members.
+For several years, Medvedev served as Infrauds administrator, handling day-to-day management, deciding membership, and meting out discipline to those who violated the enterprises rules.
+Marko Leopard, aka Leopardmk, 31, of North Macedonia, pleaded guilty in the District of Nevada to one count of racketeering conspiracy in November 2019 and was sentenced today to five years in prison.
+According to court documents, Leopard joined Infraud in June 2011, offering his services as an abuse immunity web hoster to Infraud members who wished to create websites to sell contraband.
+Unlike a legitimate host, Leopard would knowingly cater to websites offering illegal goods and services, ignoring any abuse reports from internet users.
+He hosted a number of sites for Infraud members in this fashion, providing the infrastructure that allowed his co-conspirators to profit off of their criminal activities.
+Dismantling a cybercrime organization like Infraud requires aggressive pursuit of not only those who steal, sell, and use personal data, but also those who provide the infrastructure that allows cybercrime organizations to operate, said Acting Assistant Attorney General Nicholas L.
+McQuaid of the Justice Departments Criminal Division.
+Todays sentences should serve as a warning to any web host who willingly looks the other way for a quick buck  and that the United States will hold these bad actors accountable, even when they operate behind a computer screen halfway across the world.
+
+While criminal operators lurk in the deepest corners of the internet, they ultimately do not escape the reach of law enforcement, said Special Agent in Charge Francisco Burrola of USA Immigration and Customs Enforcements Homeland Security Investigations (HSI) Las Vegas.
+We will continue to aggressively investigate, disrupt, and dismantle hidden illegal networks that pose a threat in cyberspace.
+HSI and our partners are at the forefront of combating cyber financial crimes and illicit activities spread by online criminals looking for financial gain.
+
+Infraud was a criminal enterprise that existed to enrich its members and associates through a myriad of criminal acts of identity theft and financial fraud.
+Infraud facilitated the sale of contraband by its members, including counterfeit documents, stolen bank account and credit account information, and stolen personal identifying information.
+Members and associates of Infraud operated throughout the world and the United States, to include Las Vegas.
+The enterprise, which boasted over 10,000 members at its peak and operated for more than seven years under the slogan In Fraud We Trust, is among the largest ever prosecuted by the Department of Justice.
+Infraud was responsible for the sale and/or purchase of over 4 million compromised credit and debit card numbers.
+The actual loss associated with Infraud was in excess of $568 million USD.
+HSI Las Vegas and the Police Department of Henderson, Nevada, investigated the case.
+The Justice Departments Office of International Affairs provided significant assistance in securing the defendants extradition from Croatia.
+Deputy Chief Kelly Pearson and Trial Attorneys Chad McHenry and Alexander Gottfried of the Justice Departments Organized Crime and Gang Section prosecuted the case.
+Topic(s):Cyber CrimeSecurities, Commodities, & Investment FraudComponent(s):Criminal DivisionCriminal - Office of International AffairsOrganized Crime Drug Enforcement Task ForcesPress Release Number:21-250
+Updated March 22, 2021

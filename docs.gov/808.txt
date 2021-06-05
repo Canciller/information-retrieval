@@ -1,0 +1,55 @@
+https://www.justice.gov/opa/pr/taiwan-company-pleads-guilty-trade-secret-theft-criminal-case-involving-prc-state-owned
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Wednesday, October 28, 2020
+Taiwan Company Pleads Guilty to Trade Secret Theft in Criminal Case Involving PRC State-Owned Company
+The Department of Justice today announced that United Microelectronics Corporation, Inc.
+(UMC), a Taiwan semiconductor foundry, pleaded guilty to criminal trade secret theft and was sentenced to pay a $60 million fine, in exchange for its agreement to cooperate with the government in the investigation and prosecution of its co-defendant, a Chinese state-owned-enterprise.
+A federal grand jury had indicted UMC in September 2018, along with Fujian Jinhua Integrated Circuit Co.
+, Ltd.
+(Fujian Jinhua), a state-owned enterprise of the Peoples Republic of China (PRC), and three individuals for conspiracy to steal, convey, and possess stolen trade secrets of an American semiconductor company (Micron Technology, Inc.
+(Micron)) for the benefit of a state-owned enterprise of the PRC (Fujian Jinhua).
+As a result of todays guilty plea, and in accordance with an accompanying plea agreement, UMC, whose American Depository Receipts are publicly traded on the New York Stock Exchange, will pay the finethe second largest ever in a criminal trade secret prosecution, be subject to a three-year term of probation, and cooperate with the United States.
+UMC stole the trade secrets of an American leader in computer memory to enable China to achieve a strategic priority: self-sufficiency in computer memory production without spending its own time or money to earn it, said Deputy Attorney General Jeffrey A.
+Rosen.
+This prosecution is an example of the Department of Justices successful efforts to defend American companies from those who try to cheat and steal their technology.
+
+UMC pleaded guilty to a superseding information charging the company with one count of criminal trade secret theft in violation of 18 USAC.
+ 1832(a)(3).
+The other criminal charges and a parallel civil suit by the United States against UMC will be dismissed.
+The criminal prosecution of Fujian Jinhua and the three individual defendants will continue, as will a civil action seeking to enjoin Fujian Jinhua from the further transfer of stolen trade secrets and the export to the United States of products manufactured by Fujian Jinhua that were made using the stolen trade secrets.
+UMCs guilty plea points this case towards trial against Fujian Jinhua in 2021, said USA Attorney David L.
+Anderson.
+Criminal trade secrets cases protect freedom and innovation.
+These cases have global significance when a foreign defendant is charged with stealing intellectual property protected by USA law.
+
+Protecting American intellectual property and trade secrets is a top priority for the FBI.
+This is especially true for the FBIs San Francisco Division, with Silicon Valley in our area of responsibility, and we will continue to lead the fight in safeguarding USA innovation from foreign adversaries, said FBI Special Agent in Charge Craig Fair.
+This case sends an important message to Bay Area companies: if you report suspicious activity to the FBI, we will follow all investigative leads to identify and prosecute those responsible.
+
+According to the facts admitted in connection with the guilty plea, UMC hired the three individual defendantsChen Zhengkun, a.
+k.
+a.
+Stephen Chen; He Jianting, a.
+k.
+a.
+J.
+T.
+Ho; and Wang Yungming, a.
+k.
+a.
+Kenny Wangfrom Microns Taiwan subsidiary.
+UMC made Chen a senior vice president and assigned him to lead negotiation of an agreement with Fujian Jinhua to develop Dynamic Random Access Memory (DRAM) technology for Fujian Jinhua.
+As a foundry company, UMC previously made logic chips designed by other companies but did not make DRAM memory chips.
+Chen hired Ho and Wang to join the DRAM development team, and Ho and Wang brought Microns confidential information to UMC from Microns Taiwan subsidiary.
+After UMCs Information Technology Department found Microns intellectual property on Hos UMC computer, Chen approved the issuance of two off network laptop computers that allowed UMC employees to access Micron confidential information without further detection by UMCs IT department.
+In particular, Wang used one file containing Microns trade secrets to adjust UMCs design rules for the memory in question.
+Later, when Taiwan authorities searched UMCs offices, Ho and Wang asked another UMC employee to hide papers, notes, USB drives, a personal phone, and a laptop computer while the Taiwan authorities executed their search warrants.
+Taiwan authorities recovered only one of the two off-network laptops.
+The hard drive of the other was reformatted and concealed from Taiwan authorities.
+Beginning in the month of the Taiwan raids, Chen became president of Fujian Jinhua and took charge of its memory production facility.
+This prosecution is a result of an investigation by the FBI.
+Substantial assistance was provided by Taiwans Ministry of Justice, its Ministry of Justice Investigations Bureau (MJIB), and the Taichung District Prosecutors Office (TDPO).
+Topic(s):Counterintelligence and Export ControlNational SecurityComponent(s):National Security Division (NSD)Office of the Deputy Attorney GeneralUSAO - California, NorthernPress Release Number:20-1177
+Updated October 28, 2020

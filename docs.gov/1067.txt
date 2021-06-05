@@ -1,0 +1,51 @@
+https://www.justice.gov/opa/speech/remarks-deputy-attorney-general-jeffrey-rosen-announcement-charges-and-arrests-computer
+Remarks by Deputy Attorney General Jeffrey A.
+Rosen at an Announcement of Charges and Arrests in Computer Intrusion Campaigns Related to China
+Washington, DCUnited States
+~
+Wednesday, September 16, 2020
+Remarks as Prepared for Delivery
+Good morning.
+With me today are FBI Deputy Director David Bowdich, Assistant Attorney General for National Security John Demers, Acting USA Attorney for the District of Columbia, Michael Sherwin and Acting Assistant Director in Charge of the FBIs Washington DC Field Office James Dawson.
+We are here to announce coordinated, wide-ranging actions to disrupt the malicious cyber activities of a group commonly referred to as Advanced Persistent Threat (APT)-41, as well as a related international criminal enterprise involving APT-41 actors.
+Cybersecurity experts have referred to APT-41s activities as one of the broadest campaigns by a Chinese cyber espionage actor [] in recent years.
+
+We are announcing today multiple efforts to disrupt these activities.
+First and foremost is that we have unsealed three indictments that, collectively, charge five Chinese nationals with computer hacking and charge two Malaysian nationals for helping some of those hackers target victims and sell the fruits of their hacking.
+Our charges allege two distinct categories of criminal conduct:
+First, as the core of APT-41s computer hacking, the Chinese defendants targeted well over 100 victims worldwide in a variety of industries and sectors that are, sadly, part of the standard target list for Chinese hackers.
+These criminal acts were turbo-charged by a sophisticated technique referred to as a supply chain attack, in which the Chinese hackers compromised software providers around the world, and modified the providers code to install backdoors that enabled further hacks against the software providers customers.
+Second, and as an additional method of making money, several of the Chinese defendants compromised the networks of video game companies worldwide (a billion-dollar industry) and defrauded them of in-game resources.
+Two of the Chinese defendants stand accused, with two Malaysian defendants, of selling those resources on the black market, through their illicit web site.
+Now, in addition to these unsealed indictments, I am pleased to announce that, through the cooperation of Malaysian law enforcement authorities, the two Malaysian defendants were arrested on Sunday evening and now face extradition proceedings.
+Identifying those responsible and holding them to account is our primary mission, but criminal investigation and prosecution alone are not enough to make the Internet safer.
+So there is a third part of todays announcement.
+Specifically, in addition to these criminal charges, and the two arrests, the Department of Justice and the FBI have been working with seven private sector partners, including Microsoft Corporation, Google, Facebook, and Verizon Media, to identify and neutralize the computer infrastructure that APT-41 uses to conduct its crimes: its virtual private servers, malware, malicious domains, and other tools.
+We have done this through a combination of public and private actions, including technical measures to block this threat actor from accessing victims computer systems, issuing a public safety announcement outlining their tactics, techniques, and procedures (to aid network defenders), and by taking control of, or otherwise disabling, their accounts pursuant to court orders or terms of service violations.
+The bottom line is that we have used every tool at the departments disposal to disrupt these APT-41 activities.
+Ideally, I would be thanking Chinese law enforcement authorities for their cooperation in this matter and the five Chinese hackers would now be in custody awaiting trial.
+Unfortunately, the record of recent years tells us that the Chinese Communist Party has a demonstrated history of choosing a different path, that of making China safe for their own cyber criminals, so long as they help with its goals of stealing intellectual property and stifling freedom.
+Less than two months ago, Assistant Attorney General Demers was at this podium to announce an indictment in another hacking case in which the Chinese government tolerated the defendants criminal activity because those defendants were willing to work on behalf of the Chinese intelligence services.
+And here we are again.
+In this case, one of the Chinese defendants is accused of boasting to a colleague that he was very close to the Ministry of State Security and would be protected unless something very big happens.
+ The hacker and his associate agreed not to touch domestic stuff anymore.
+
+We know the Chinese authorities to be at least as able as the law enforcement authorities here and in like-minded states to enforce laws against computer intrusions.
+But they choose not to.
+But know this: no country can be respected as a global leader while paying only lip service to the rule of law and without taking steps to disrupt brazen criminal acts like these.
+No responsible government knowingly shelters cyber criminals that target victims worldwide in acts of rank theft.
+Responsible nations not only condemn criminal conduct, they root it out and punish it.
+Responsible nations disavow criminals within their borders and bring them to justice.
+Responsible nations work with other countries law enforcement authorities and ensure that justice is served in a court of law.
+The PRC has done none of these things.
+You can take three additional observations from this press conference today.
+First, the Chinese government has the power to help stop crimes like these.
+Second, the Chinese Government has made a deliberate choice to allow its citizens to commit computer intrusions and attacks around the world because these actors will also help the PRC.
+But, third, the Department of Justice will do everything it can to disrupt these crimes by exposing the techniques, tactics, and procedures used by APT-41, enabling the private sector to disable them, and working with our law enforcement colleagues around the world to arrest the hackers when we can.
+We appreciate our partnerships with the private sector, such as Microsoft, Google, Facebook, and Verizon Media, and foreign law enforcement partners who have been a force multiplier in the fight against these international criminals.
+Such partnerships send a clear message that governments and the private sector are prepared to work together to defend against significant cyber threats.
+Today, on top of all the measures Ive mentioned already, we are exposing this threat to the international community, to cybersecurity experts, and to the greater public, and we will never stop pursuing the individuals responsible for these alleged criminal acts, here and abroad, and anywhere they travel.
+Now, I will turn the podium over to Acting USA Attorney Michael Sherwin, who will discuss the allegations in the indictments in greater detail.
+Speaker:Deputy Attorney General Jeffrey A.
+Rosen Topic(s):Cyber CrimeComponent(s):Office of the Deputy Attorney General
+Updated September 16, 2020

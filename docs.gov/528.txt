@@ -1,0 +1,47 @@
+https://www.justice.gov/opa/pr/acting-ag-and-five-country-statement-temporary-derogation-eprivacy-directive-combat-child
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Tuesday, January 12, 2021
+Acting AG and Five Country Statement on the Temporary Derogation to the ePrivacy Directive to Combat Child Sexual Exploitation and Abuse
+Acting Attorney General Jeffrey A.
+Rosen joined the Home Affairs, Interior, and Security Ministers of Australia, Canada, New Zealand, and the United Kingdom in issuing the following statement:
+We, the Home Affairs, Interior, and Security Ministers of Australia, Canada, New Zealand, the United Kingdom and the United States of America (the Five Countries), are proud of our collective work alongside our European partners to combat online child sexual exploitation and abuse.
+Together, we have taken the lead in working with the worlds largest technology companies to develop new and better ways to protect children from the production and circulation of child sexual abuse material, grooming, live-streamed abuse, and all other forms of sexual abuse occurring on online platforms.
+In this statement, we highlight how from December 21 2020, the ePrivacy Directive, applied without derogation, will make it easier for children to be sexually exploited and abused without detection  and how the ePrivacy Directive could make it impossible both for providers of internet communications services, and for law enforcement, to investigate and prevent such exploitation and abuse.
+It is accordingly essential that the European Union adopt urgently the derogation to the ePrivacy Directive as proposed by the European Commission in order for the essential work carried out by service providers to shield endangered children in Europe and around the world to continue.
+Without decisive action, from December 21, 2020 internet-based messaging services and e-mail services captured by the European Electronic Communications Codes (EECC) new, broader definition of electronic communications services are covered by the ePrivacy Directive.
+The providers of electronic communications services must comply with the obligation to respect the confidentiality of communications and the conditions for processing communications data in accordance with the ePrivacy Directive.
+In the absence of any relevant national measures made under Article 15 of that Directive, this will have the effect of making it illegal for service providers operating within the EU to use their current tools to protect children, with the impact on victims felt worldwide.
+We note the European Parliament Committee on Civil Liberties, Justice and Home Affairs (LIBE) voted on December 7, 2020 in favor of the Temporary derogation from certain provisions of Directive 2002/58 as regards the use of technologies by number-independent interpersonal communications service providers for the processing of personal data and other data for the purpose of combatting child sexual abuse online.
+We now urge the Presidency of the Council, the European Commission and the European Parliament to come to a rapid agreement at Trilogue on a final text that ensures that this important work can continue as it does today.
+The European Union has a unique role to play in the global fight against online child sexual exploitation.
+It is essential that the European Union adopt measures that ensure not only the legal authority, but also the practical ability, for providers to use tools to detect online child sexual exploitation.
+For example, a requirement that tools have false positives less than 1:50 billion would prevent the use of some of the most common and effective tools used today to rescue children.
+Without that ability the Union places its own Strategy for a More Effective Fight against Child Sexual Abuse in jeopardy.
+In July 2020, we welcomed the launch of the European Union (EU) Strategy for a More Effective Fight against Child Sexual Abuse.
+In particular, we were pleased to see the EU commit to propose the necessary legislation to tackle child sexual abuse online effectively, including by requiring relevant online services providers to detect known child sexual abuse material and to report that material to public authorities.
+
+These commitments strongly align with the Voluntary Principles to Counter Online Child Sexual Exploitation and Abuse, which were developed by the Five Countries in close consultation with six leading platforms.
+We launched the Voluntary Principles in March 2020 to provide a framework for the technology industry to combat online child sexual exploitation and abusethey are intended to drive both individual company efforts and collective industry action.
+But those Voluntary Principles are predicated upon the continuation of companies legal and technical ability to identify and take action against child sexual abuse content and activity on their platforms.
+Certain providers of communications services already voluntarily use specific technologies to detect, report, and remove child sexual abuse material on their services.
+United States-based electronic service providers are legally obliged to report instances of child sexual abuse to the National Center for Missing and Exploited Children (NCMEC).
+In 2019, these electronic service providers made 16.9 million reports to NCMEC, comprising 69.1 million videos, images and files.
+The number of reports in 2020 is expected to eclipse previous years, with NCMEC President and Chief Executive Officer John F.
+Clark noting, in his letter of November 2020 to Members of the European Parliament, that [i]n the first nine months of 2020, more than 52 million child sexual abuse files have been reported to NCMEC, and more than 2.3 million of these files involve an offender or a child victim in the EU.
+The vast majority of NCMEC reports come from direct messaging services and are usually generated as a result of platforms use of automated hashing measures (such as PhotoDNA), grooming indicators, artificial intelligence and other technologies to identify and report child sexual abuse material.
+The Commissions proposals for a temporary derogation address the unintended consequences of the EECC and ensures companies can continue to use highly effective tools to detect, report and remove child sexual abuse material online until at least the end of 2022.
+We are now calling upon friends and partners in the EU to carry out their responsibility to protect not only European children, but also children around the world whose abuse will be shared among EU citizens that providers will be blind to stop.
+We therefore urge you, on behalf of children around the world, to allow the work that is being done to protect them from sexual abuse and exploitation to continue.
+We look forward to continuing to work with you as your closest international partners in tackling child sexual exploitation and abuse, both in our respective countries and around the world.
+
+Signatories,
+Jeffrey A.
+Rosen, Acting Attorney General of the United States
+Rt Hon Priti Patel MP, Secretary of State for the Home Department for the United Kingdom
+The Hon Peter Dutton MP, Minister for Home Affairs for Australia
+The Hon Jan Tinetti, Minister of Internal Affairs for New Zealand
+The Hon Bill Blair, Minister of Public Safety and Emergency Preparedness for Canada
+Component(s):Criminal - Child Exploitation and Obscenity SectionNational Security Division (NSD)Office of the Attorney GeneralPress Release Number:21-37
+Updated January 12, 2021

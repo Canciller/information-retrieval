@@ -1,0 +1,31 @@
+https://www.justice.gov/opa/pr/justice-department-issues-favorable-business-review-letter-isda-proposed-amendments-address
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, October 1, 2020
+Justice Department Issues Favorable Business Review Letter To ISDA For Proposed Amendments To Address Interest Rate Benchmarks
+The Department of Justices Antitrust Division announced today that it has completed its review of the proposal by the International Swaps and Derivatives Association Inc.
+(ISDA) to amend its standardized model documentation for derivatives to account for the potential discontinuation of certain interbank offered rates (collectively referred to as IBORs).
+The department has concluded, based on the representations in ISDAs letter request, including its description of certain safeguards, that ISDAs proposed amendments to its standardized documentation are unlikely to harm competition.
+Therefore, the department does not presently intend to challenge ISDAs proposed amendments to its standardized documentation for derivatives.
+ISDAs process, including its cooperation with government regulators and its consultation-driven process for obtaining feedback from industry participants, has had the effect of clarifying the practical issues involved in planning for when LIBOR and other IBORs are no longer available and preparing for a smooth transition away from IBORs to other reference rates, said Assistant Attorney General Makan Delrahim.
+ISDA has put in place safeguards to avoid harm to competition, such as making the selection of the fallback rates voluntary, which allows contracting parties the flexibility to designate alternative competitive rates they may think are more appropriate.
+
+According to the departments business review letter, ISDAs model documents are widely used by financial institutions to engage in swaps, forwards, and other types of derivatives contracts such as interest rate and credit default swaps.
+These derivatives contracts incorporate various interbank offered rates (IBORS), including the London Inter-Bank Offered Rate (LIBOR).
+Derivatives allow financial institutions to hedge risks they incur when lending or borrowing money.
+The departments business review letter recognizes that ISDAs proposed amendments to its standardized documents for derivatives contracts are part of a larger effort to use alternative reference rates in financial instruments in the place of IBORs.
+This is in part because investigations by USA and regulators from other jurisdictions uncovered explicit manipulation of the submissions from certain banks to administrators of LIBOR and other interest rate benchmarks.
+In addition, the United Kingdoms Financial Conduct Authority, LIBORs regulator, has publicly stated that firms cannot rely on LIBOR being published after 2021.
+To account for this eventuality, ISDA worked with regulators and industry participants to propose amendments to ISDAs standardized documentation to incorporate fallback rates and calculation methods so that market participants can, if they so choose, refer to different rates in future derivatives contracts and efficiently amend existing contracts to incorporate the different rates.
+Under the departments business review procedure, an organization may submit a proposed action to the Antitrust Division and receive a statement as to whether the department currently intends to challenge the action under the antitrust laws based on the information provided.
+The departments conclusions in this business review apply only to ISDAs Proposed Supplement and Proposed Protocol modifying its standardized documentation.
+This business review is not applicable to any other agreements, supplements, proposals, or initiatives relating to ISDAs work.
+The department reserves the right to challenge the proposed action under the antitrust laws if the actual operation of the proposed conduct proves to be anticompetitive in purpose or effect.
+Copies of the business review request and the departments response are available on the Antitrust Divisions website at https://www.
+justice.gov/atr/business-review-letters-and-request-letters, as well as in a file maintained by the Antitrust Documents Group of the Antitrust Division.
+After a 30-day waiting period, any documents supporting the business review will be added to the file, unless a basis for their exclusion for reasons of confidentiality has been established under the business review procedure.
+Supporting documents in the file will be maintained for a period of one year, and copies will be available upon request to the FOIA/Privacy Act Unit, Antitrust Documents Group at atrdocs.
+grp@usdoj.gov.
+Component(s):Antitrust DivisionPress Release Number:20-1038
+Updated October 1, 2020

@@ -1,0 +1,71 @@
+https://www.transportation.gov/content/safety-data-initiative
+Safety Data Initiative
+Announcement: State and Local Government Data Analysis Tools for Roadway Safety Notice of Funding Opportunity
+The State and Local Government Data Analysis Tools for Roadway Safety Notice of Funding Opportunity (NOFO) awardees have been announced.
+Pedestrian Fatality Risk Map
+Explore the Pedestrian Fatalities Risk Map, built on methods described in our published article Effects of Roadway and Built Environment Characteristics on Pedestrian Fatality Risk.
+PreviousNext
+Understanding a challenge helps overcome it.
+At the USA Department of Transportation (DOT), were using data to identify safety challenges and find solutions that can save lives.
+Our Safety Data Initiative (SDI) seeks to advance our ability to:
+Integrate existing data and new big data sources
+Use advanced data analytics to provide new insights into transportation safety risks
+Create data visualizations to help policymakers arrive at safety solutions
+Our Goal
+Ourgoal is to evolve from retrospective to predictive analysis.
+Through data integration, analysis, and visualization improvements, we believe DOT will not only advance its understanding of what has happened in the past, but also be able to rapidly identify and address emerging risks so that we can intervene more quickly to save lives.
+Why SDI?
+Data integration and analysis is essential to understanding transportation safety challenges and devising policies that can help reduce the tens of thousands of fatalities that occur on USA roads each year.
+Today, DOT faces challenges integrating existing data sources from across DOT and other sources.
+DOT is innovating and breaking new ground by taking advantage of new technologies to improve data integration, using advanced analytics to provide new insights into transportation safety challenges, and using this information to take actions to save lives.
+SDI in 2020
+DOT is working with state and local governments and other stakeholders to apply new data integration and analysis techniques, test new tools developed by DOT, and share lessons learned and best practices to advance transportation safety practice and ultimately save lives.
+TheState and Local Government Data Analysis Tools for Roadway Safety Notice of Funding OpportunityandConducting Innovative, Applied Research to Gain New Roadway Safety Insights and Tools - Broad Agency Announcementhave been announced.
+State and Local Government Data Analysis Tools for Roadway Safety Notice of Funding Opportunity
+In June 2020, USDOT announced almost $3.3m in awards to State, local, and Tribal governments.
+The recipients will develop, refine, and implement roadway safety tools.
+Link to announcement page.
+Conducting Innovative, Applied Research to Gain New Roadway Safety Insights and Tools Broad Agency
+The intent of the BAA is to explore approaches that use new data sources and/or data unavailable to the USDOT to gain novel, useable, and actionable insights to answer the most pressing and persistent surface transportation safety problems and improve safety outcomes.
+Projects
+Safety Data Initiative Projects
+Since the inception of the Safety Data Initiative (SDI), the Department of Transportation (DOT) has worked on several pilot projects that explore the possibilities of using data for safety applications.
+Projects include:
+Rural Speed Project;
+Waze Pilot Project; and
+Pedestrian Fatalities Pilot.
+This page provides information about these projects.
+Click here to view the teams projects.
+Solving for Safety: Visualization Challenge
+DOT launched a safety challenge asking participants to come up with innovative ways to visualize data that will reveal insights into serious crashes on our roads and rail systems while improving our understanding of transportation safety.
+For more information, visit theSolving for Safety Submissions pageorread the press release announcing the winner.
+Safety Data Forum
+DOT hasconvened twoSafety Data Forums to engage diverse groups of stakeholders in discussion about opportunities to leverage data analytics tools to predict and prevent transportation fatalities and injuries.
+The forums have beenattended by representatives of data and technology firms, universities, national safety organizations, and all levels of government.
+For more information, visit the 2018 Safety Data Forum pageand the 2019 Safety Data Forum page.
+Secure Data Commons
+Waze data received by DOT is controlled and administered through DOTsSecure Data Commons (SDC) Portal, a cloud-based analytic sandbox.
+This portal provides immediate, secure access for approved researchers to review Waze pilot data, conduct analysis within the sandbox through a cloud-based workstation.
+The SDCallows for researchers to share codeand results with others within and outside the system.
+For more information, visit the Secure Data Commons.
+Supporting Activities
+Pre-Solicitation Webinars
+The USA Department of Transportation (DOT) heldtwo webinars on Wednesday, July 10, 2019 to share information about two anticipated procurements as part of the next phase of the SDI.
+The webinar materials are available here:
+Pre-Solicitation Webinar for Conducting Innovative, Applied Research to Gain New Roadway Safety Insights and Tools
+Slides(PDF)
+Webinar Recording(Adobe Connect)
+Pre-Solicitation Webinar for State and Local Government Use of Roadway Safety Tools for Policy and Decision Making
+Slides(PDF)
+Webinar Recording(Adobe Connect)
+DOT is committed to ensuring that information is available in appropriate alternative formats to meet the requirements of persons who have a disability.
+If you require an alternative version of the webinar recordings provided on this page, please contactUSDOTSafetyDataInitiative@dot.gov.
+Request for Information
+DOT issued a request for information (RFI) intended to inform the Office of the Secretary of Transportation on the current status of industry sources, business practices, technical capacity, and operational capability related to data integration, data analysis, and data visualization that could be leveraged to further DOTs capabilities to use safety-related data to better inform policy and decision making for multimodal surface transportation safety.
+The due date for submission of responses to the RFI was December 7, 2018 at 2 pm Eastern Time.
+Follow this link to read the RFI.
+On November 15, 2018, DOT hosted a webinar for potential respondents to the RFI.
+The webinarrecording is available throughAdobe Connect here,slides are available here, andtranscript is available here.
+Did you miss the RFI but are interested in future opportunities? Email us at USDOTSafetyDataInitiative@dot.gov.
+Safety Factoids
+For more Safety Factoids, please visit theFederal Highway Administrations Infographics Library.

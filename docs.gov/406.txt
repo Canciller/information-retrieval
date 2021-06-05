@@ -1,0 +1,57 @@
+https://www.justice.gov/opa/pr/assistant-attorney-general-john-c-demers-delivers-remarks-national-security-cyber
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Wednesday, February 17, 2021
+Assistant Attorney General John C.
+Demers Delivers Remarks on the National Security Cyber Investigation into North Korean Operatives
+Justice Department Announces New Charges in United States v.
+Jon Chang Hyok, Kim Il, and Park Jin Hyok (CDCA)
+Today, the Justice Department is announcing charges following a significant national security cyber investigation first disclosed publicly more than two years ago.
+As laid out in todays indictment, North Koreas operatives, using keyboards rather than guns, stealing digital wallets of cryptocurrency instead of sacks of cash, are the worlds leading bank robbers.
+The Department will continue to confront malicious nation state cyber activity with our unique tools and work with our fellow agencies and the family of norms abiding nations to do the same.
+We were together back in September 2018, when the USA Attorneys Office for the Central District of California, with the assistance of the National Security Division, charged a North Korean programmer, who was working for the government of the Democratic Peoples Republic of Korea (DPRK), with conspiring to conduct some of the most damaging cyberattacks ever, including the:
+November 2014 destructive attack and hack-and-dump targeting Sony Pictures Entertainment over a comedy film they did not like;
+February 2016 cyber-enabled heist of $81 million from the Bank of Bangladesh and other heists; and
+May 2017 global Wannacry 2.0 attack.
+The events as described in that complaint provided the first indications that the North Korean regime would become focused on, and adept at, stealing money from institutions around the world.
+Today, the Department unseals an indictment, returned by a grand jury in the Central District of California, charging the same DPRK programmer, as well as two newly-identified DPRK conspirators, with a campaign of cyber heists and extortion schemes, targeting both traditional and cryptocurrencies.
+The indictment adds to the list of victims since 2018, including continued cyber-enabled heists from banks on four continents targeting over $1.2 billion.
+It also describes in stark detail how the DPRK cyber threat has followed the money and turned its revenue generation sights on the most cutting edge aspects of international finance, including through the theft of cryptocurrency from exchanges and other financial institutions, in some cases through the creation and deployment of cryptocurrency applications with hidden backdoors.
+The indictment refines the attribution of this crime spree to the DPRK military intelligence services, specifically the Reconnaissance General Bureau (RGB).
+Simply put, the regime has become a criminal syndicate with a flag, which harnesses its state resources to steal hundreds of millions of dollars.
+In a moment, you will hear more details about the charges and evidence in this case from the Acting United States Attorney for the Central District of California, the FBI, and the United States Secret Service.
+But, I want to take a moment to highlight the significance of these charges for the Department, the United States, and the international community: As the description of victim entities in the indictment shows, the DPRKs malicious activities are a global problem, requiring global awareness, condemnation, and cooperative disruption.
+With this indictment and related disruptions, the United States continues to do its part.
+First, we continue to shine a light on the global campaign of criminality being waged by the DPRK.
+Nation-state indictments like this are an important step in identifying the problem, calling it out in a legally rigorous format, and building international consensus.
+Second, in addition to educating the USA public and international community about this activity, we are also targeting the networks through which the DPRK is cashing-out its ill-gotten gains.
+As will be described in more detail by my colleagues, the Department has obtained custody over a dual-USA/Canadian national who organized the laundering of millions of dollars stolen by the DPRK hackers.
+He has admitted his role in these criminal schemes in a plea agreement, and he will be held to account for his conduct.
+This prosecution demonstrates the commitment of the Department to ensuring that those who conspire with the DPRK hackers will face justice.
+The Department was also able to seize and expects to ultimately return almost $2 million stolen by the DPRK hackers from a New York-based financial services company.
+This follows on similar seizure actions announced in March and August 2020, in which with the USA Attorneys Office for the District of Columbia seized and froze approximately $8.5 million of cryptocurrency.
+These cryptocurrency seizures and prosecution of a high-level money launderer collectively represent important steps in disrupting the DPRK hackers and their money laundering networks, and illustrate the Departments commitment to repatriating stolen funds before they reach the DPRK.
+Third, the United States is empowering network defenders.
+As you will hear about, the prosecutors and investigators have  throughout this investigation  worked closely with victims and intended victims of the DPRK hackers, and have provided these victims with information about avoiding and remediating infections.
+This work continues today.
+Accompanying this announcement, the FBI and the Department of Homeland Securitys Cybersecurity and Infrastructure Security Agency, with the assistance of the Department of the Treasury, are releasing a Joint Cybersecurity Advisory and Malware Analysis Report regarding the DPRKs malicious cryptocurrency applications.
+The criminal investigation leading to todays indictment obtained that information for distribution to network defenders.
+Further, the context provided in todays indictment underscores the necessity of paying attention to this Advisory and its recommendation.
+Fourth, the allegations in todays indictment inform and empower the international community so that they can not only join us in condemning this activity, but also help stop it.
+In that regard, the European Unions (EU) July 2020 sanctions related to the Lazarus group was a welcome development.
+We commend the EU for its initial efforts to impose consequences for state-sponsored malicious cyber activities.
+However, other nations that wish to be regarded as responsible actors on the international stage must also step up.
+These conspirators described in todays indictment are alleged to have been working, at times, from locations in China and Russia.
+The DPRK has also utilized Chinese over-the-counter cryptocurrency traders and other criminal networks to launder the funds.
+Just as the United States has disrupted the DPRKs crime spree through arrests, forfeitures, and seizures, the time is ripe for Russia and China, as well as any other country whose entities or nationals play a role in the DPRK revenue-generation efforts, to take action.
+The Departments criminal charges are uniquely credible forms of attribution  we can prove these allegations beyond a reasonable doubt using only unclassified, admissible evidence.
+And they are the only way in which the Department speaks.
+If the choice here is between remaining silent while we at the Department watch nations engage in malicious, norms-violating cyber activity, or charges these cases, the choice is obvious  we will charge them.
+Before I turn this over, Id like to thank the agents at the FBI in Los Angeles, Charlotte, and Raleigh; the Secret Service in Savannah, Los Angeles, and D.
+C.
+; and the prosecutors in Los Angeles and at the National Security Division in D.
+C.
+for stepping up to the plate to play their part.
+Topic(s):Cyber CrimeNational SecurityComponent(s):National Security Division (NSD)Press Release Number:21-155
+Updated February 17, 2021

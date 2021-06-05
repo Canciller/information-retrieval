@@ -1,0 +1,40 @@
+https://www.justice.gov/opa/pr/owner-bitcoin-exchange-sentenced-prison-money-laundering
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Tuesday, January 12, 2021
+Owner of Bitcoin Exchange Sentenced to Prison for Money Laundering
+A Bulgarian national who was convicted by a federal jury for his role in a transnational and multimillion-dollar scheme to defraud American victims was sentenced today to 121 months in prison.
+Acting Assistant Attorney General David P.
+Burns of the Justice Departments Criminal Division, USA Attorney Robert M.
+Duncan Jr.
+of the Eastern District of Kentucky, and Resident Agent in Charge John Oldham of the USA Secret Service made the announcement.
+USA District Court Judge Robert E.
+Weir sentenced Rossen G.
+Iossifov, 53, formerly of Bulgaria, for conspiracy to commit a Racketeer Influenced and Corrupt Organizations Act (RICO) offense and conspiracy to commit money laundering.
+According to trial evidence, Iossifov owned and managed RG Coins, a cryptocurrency exchange headquartered in Sofia, Bulgaria.
+According to the evidence at trial, Iossifov knowingly and intentionally engaged in business practices designed to both assist fraudsters in laundering the proceeds of their fraud and to shield himself from criminal liability.
+At least five of Iossifovs principal clients in Bulgaria were Romanian scammers, who belonged to a criminal enterprise known in court records as the Alexandria (Romania) Online Auction Fraud (AOAF) Network.
+More specifically, according to court documents and evidence presented at trial, Iossifov and his co-conspirators participated in a criminal conspiracy that engaged in a large-scale scheme of online auction fraud that victimized at least 900 Americans.
+Romania-based members of the conspiracy posted false advertisements to popular online auction and sales websites  such as craigslist and eBay  for high-cost goods (typically vehicles) that did not actually exist.
+Once victims were convinced to send payment, the conspiracy engaged in a complicated money laundering scheme wherein domestic associates would accept victim funds, convert these funds to cryptocurrency, and transfer proceeds in the form of cryptocurrency to foreign-based money launderers.
+Iossifov was one such foreign-based money launderer who facilitated this final step in the scheme.
+According to evidence at trial, Iossifov designed his business to cater to criminal enterprises by, for instance, providing more favorable exchange rates to members of the AOAF Network.
+Iossifov also allowed his criminal clients to conduct cryptocurrency exchanges for cash without requiring any identification or documentation to show the source of funds, despite his representations to the contrary to the major bitcoin exchanges that supported his business.
+Evidence submitted during trial and his sentencing hearing revealed that Iossifov laundered nearly $5 million in cryptocurrency for four of these five scammers in a period of less than three years.
+This represented over $7 million in funds defrauded from American victims.
+In return, Iossifov made over $184,000 in proceeds from these transactions.
+Iossifov was convicted after a two-week trial in front of Judge Weir in Frankfort, Kentucky in September 2020.
+Under federal law, Iossifov must serve 85 percent of his prison sentence.
+Thus far, 17 members of the AOAF Network have been convicted for their role in this scheme, including Iossifov.
+Seven others have been sentenced, including Livui-Sorin Nedelcu to 82 months in prison, Marius Dorin Cernat to 50 months in prison, Stefan Alexandru Paiusi to 31 months in prison, Eugen Alin Badea to 40 months in prison, Florin Arvat to 30 months in prison, Alin Ionut Dobric to 37 months in prison, and Austin Edward Nedved to 96 months in prison.
+Three members are fugitives.
+The investigation was conducted by the USA Secret Service, Kentucky State Police, Lexington Police Department, IRS Criminal Investigation and USA Postal Inspection Service, and supported by the Justice Departments Organized Crime Drug Enforcement Task Force (OCDETF) and the International Organized Crime Intelligence and Operations Center (IOC-2).
+Assistance was provided by the Romanian National Police (Service for Combating Cybercrime), the Romanian Directorate for Investigating Organized Crime and Terrorism (Agency for Prosecuting Organized Crime), and the Supreme Prosecutors Office of Cassation of the Republic of Bulgaria.
+The Justice Departments Office of International Affairs and Money Laundering and Asset Recovery Section of the Criminal Division provided significant support.
+This case is being prosecuted by Senior Counsel Frank Lin and Senior Trial Attorney Timothy Flowers of the Criminal Divisions Computer Crime and Intellectual Property Section and Assistant USA Attorneys Kathryn M.
+Anderson and Kenneth R.
+Taylor of the USA Attorneys Office for the Eastern District of Kentucky.
+Individuals believing they may be victims of the advanced fee and online auction fraud or brute-force attack schemes described herein are encouraged to visit the following website to obtain more information: https://justice.gov/usao-edky/information-victims-large-cases.
+Topic(s):Cyber CrimeSecurities, Commodities, & Investment FraudComponent(s):Criminal DivisionCriminal - Computer Crime and Intellectual Property SectionCriminal - Money Laundering and Asset Recovery SectionCriminal - Office of International AffairsUSAO - Kentucky, EasternPress Release Number:21-40
+Updated January 12, 2021

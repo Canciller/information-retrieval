@@ -1,0 +1,54 @@
+https://www.justice.gov/opa/speech/assistant-attorney-general-beth-williams-delivers-remarks-national-association-attorney-0
+Assistant Attorney General Beth A.
+Williams Delivers Remarks to the National Association of Attorneys General on Responsible Encryption and Lawful Access
+Washington, DCUnited States
+~
+Thursday, September 17, 2020
+Remarks as Prepared for Delivery
+Good afternoon, everyone.
+First, I would like to thank Amie Ely and the wonderful team at NAAG for all of their amazing work, and for hosting this event on such an important topic.
+Thank you as well to everyone in the audience for taking the time to join virtually for what should be a truly interesting conversation.
+Perhaps its fitting that we are having a discussion  via webcam  that highlights the importance of digital evidence.
+As Amie said, my name is Beth Williams, and I am the Assistant Attorney General for the Office of Legal Policy, or OLP.
+ OLP sits at the intersection of the Justice Departments many different components, and is responsible for developing and coordinating high-priority policy initiatives for the Attorney General.
+OLP is often referred to as the think tank of the Department of Justice.
+Because OLP is not a litigating component, we have the freedom to be proactive, which means thinking ahead to what will be the most pressing concerns going forward in criminal justice, national security, and many other areas.
+Of the policy issues on which Ive had the opportunity to work while at the Department, its clear that responsible encryption and Lawful Access is one of the most essential to public safety, both now and in the future.
+When I say Lawful Access, I am referring to the governments ability  consistent with the Constitution and all applicable laws  to access the digital evidence necessary to investigate and prosecute criminal and national security threats.
+This includes evidence stored on locked devices  which we will hear much about during the presentations today  as well as evidence transmitted over networks.
+In 2020, it is hard to imagine criminal activity that does not in some way connect with the digital world, from online child exploitation and human trafficking, to violent gang activity and terrorism.
+And yet, over the past several years, the development of end-to-end or warrant-proof encryption means that law enforcement is increasingly unable to access essential evidence to combat these threats, even with a warrant or court order.
+The situation is especially dire for many of you, our state and local partners, who handle the vast majority of criminal investigations and prosecutions in our country.
+The Justice Department explored this phenomenon at a summit entitled Lawless Spaces: Warrant-Proof Encryption and Its Impact on Child Exploitation Cases, which included an eye-opening panel on the experience of state and local law enforcement with warrant-proof encryption.
+I encourage you all to view a recording of the event on DOJs Lawful Access website.
+During the summit, I had the privilege to speak with a mother who experienced the real-life nightmare of learning from law enforcement that her daughter was subjected to sexual abuse shared online.
+At the time, the images of her abuse were the most highly traded child sexual abuse materials in the world.
+Analysts at the National Center for Missing & Exploited Children (or NCMEC) were able to determine that the criminal responsible was the childs own biological father, who had been abusing his daughter since she was five years old.
+Fortunately, law enforcement was able to analyze the evidence, rescue the child, and bring her abuser to justice.
+Increasingly, however, tragic stories like this one do not result in rescue for the child or justice for the abuser.
+During our work on Lawful Access, we learned about a case in Ohio, where an undercover cop responded to an online ad for prostitution.
+The ad implied that the woman being sold was potentially a victim of sex trafficking, and youngpossibly even underage.
+Law enforcement arranged to meet the girl and her escort at a hotel, where they quickly established that she was only 16 years old.
+Police arrested the girls handler and seized his cell phone.
+The next day, the suspect told an acquaintance over a jail telephone that If they get in my phone, Im doing time for other [stuff].
+ Law enforcement obtained a search warrant for the phone, which they expected to contain names of other potential victims and predators.
+But law enforcement wasnt able to access that information because the phone was locked and encrypted.
+In fact, we may never get the evidence needed to prosecute the suspect for his most serious offenses, bring other offenders to justice, or save other potential victims.
+The exponential increase in child exploitation would be troubling enough by itself, but it is particularly alarming because of the accompanying spread of warrant-proof encryption technology that makes detection and prevention much more difficult, and, in many cases, simply impossible.
+This is despite the fact that judges often rule that there is probable cause of evidence of a crime to justify the search.
+Warrant-proof encryption defies our Fourth Amendment jurisprudence, in which courts have balanced privacy and the need for criminal enforcement for hundreds of years.
+Consider that in 2019 alone, NCMEC received 16.9 million reports of suspected online abuse of children.
+These reports are often the only lifeline for children who have been  or are continuing to be  abused in the most horrifying ways imaginable.
+And yet, NCMEC estimates that, if warrant-proof encryption continues to expand, more than half of these tips will vanish.
+In real terms, that means thousands of children who will not be saved.
+We recognize that encryption is an essential tool that helps protect our data and devices from cyber threats; but we are also compelled to acknowledge that warrant-proof forms of encryption are subject to misuse and abuse, and should be addressed.
+As Attorney General Barr has stated, making our virtual world more secure should not come at the expense of making us more vulnerable in the real world.
+.
+.
+.
+The status quo is exceptionally dangerous, unacceptable, and only getting worse.
+ I hope that todays event will promote a dialogue about achieving real solutions for this urgent problem.
+Thank you, all.
+Speaker:Assistant Attorney General Beth A.
+WilliamsComponent(s):Office of Legal Policy
+Updated September 21, 2020

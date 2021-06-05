@@ -1,0 +1,260 @@
+https://www.justice.gov/opa/speech/honorable-douglas-h-ginsburg-delivers-remarks-consumer-welfare-standard-occasion
+The Honorable Douglas H.
+Ginsburg Delivers Remarks on the Consumer Welfare Standard on the Occasion of Receiving the 2020 Sherman Award
+Washington, DCUnited States
+~
+Friday, October 23, 2020
+Remarks as Delivered
+Thank you very much, Makan.
+Somehow, I thought the award was just notional; I didnt realize it would have a physical manifestation  and a beautiful one at that.
+I know just where I will put it, too, in a prominent place in my chambers.
+Well, this has been an extraordinary experience for me, a little bit like a wake  being awake at ones wake.
+Only good things were noted.
+I appreciate that.
+It is a signal honor for me, as it would be for anyone in our common field, to receive the John Sherman Award and I am very grateful to Assistant Attorney General Makan and to your colleagues for making this possible, and for Fred Young who sang the national anthem so very beautifully.
+This award puts me in the company of 11 distinguished recipients who have received the award over the past 26 years.
+[1] And I must say I am particularly humbled by joining a list comprising my former professor, Judge Richard Posner; my former colleague on the Harvard Law faculty, Professor Phil Areeda; and my former boss here at the Antitrust Division, Professor William Baxter, who was on leave from the Stanford Law School.
+These are people to whom I looked up even before I first met any of them and it is truly an honor to be on a list with them.
+No one else on that list is a slouch.
+We here today are all part of a remarkably close-knit community.
+There is only one person on the list that I didnt know personally.
+And there is no one on the list that I found at all surprising.
+These are really the people who shaped our thinking over the last 50 years.
+I came to the Division as Bill Baxters Deputy for Regulatory Affairs and then I came back as Ed Meeses Assistant Attorney General for Antitrust.
+Attorney General Meese then gave me a life sentence by recommending to the president that I be appointed to the D.
+C.
+Circuit.
+But I never lost my affection for the Division, for the men and women who serve here, and for my many distinguished successors as Assistant Attorney General.
+I have hired law clerks from the Division as well as encouraging law clerks who leave me to join the Division.
+Three of them have been mentioned.
+But what has not been mentioned is that each of the three, Daniel Haar and Taylor Owings and Cecilia Cheng, co-authored an article with me during that one-year clerkship.
+I suppose that reflects a selection bias in whom I bring in as a law clerk -- people who have an academic interest as well as the intention to practice antitrust law.
+For the remainder of my limited time here today, I want to take up an issue that was being discussed when I came to the Division in 1983 -- indeed, even when I started teaching antitrust law in the late 1970s.
+Then, after a long hiatus, it came under discussion again in the last several years.
+I refer to the idea that antitrust enforcement should have as its goal something other than, or in addition to, consumer welfare.
+Getting consumer welfare accepted as the sole purpose of the antitrust laws was a hard-won victory for economic rationality and the rule of law.
+The intellectual foundation was laid in the 1960s by some of the people who have received this award: Richard Posner, Bob Bork and, almost to the same degree, Phil Areeda, and certainly Bill Baxter.
+[2] It was in 1977, after about ten years of academic work on this subject, when the Supreme Court adopted the consumer welfare standard, simply saying the Sherman Act is a consumer welfare statute and repeating it in 1979.
+[3] The Court has adhered to that insight ever since then, which meant overruling about half a dozen of its own precedents over the years.
+[4] These included all the precedents that made vertical restraints per se unlawful.
+One after another, territorial restraints, maximum price restraints, and eventually minimum resale price restraints, were all re-examined and made subject to the rule of reason.
+All of this was done through economic analysis.
+Per se condemnations were seen often to be contrary to the welfare of consumers and to prevent efficient arrangements in the chain of distribution.
+[5] Likewise, the application of economics and the consumer welfare standard altered the Supreme Courts understanding and its application of Section 2 of the Sherman Act with respect to monopolization and attempted monopolization, particularly with respect to intellectual property rights.
+[6]
+When Bill Baxter came to the Division in 1981, he discarded the so-called Nine No-Nos, the Divisions official list of nine practices previously thought to be anticompetitive in the licensing of intellectual property rights.
+[7] It was a good deal later before we saw the Supreme Court making the basic point that the possession of an intellectual property right does not ordinarily entail a monopoly or even meaningful market power.
+[8] I have a monopoly over my backyard, but that does not give me any market power.
+It is rare, indeed, that the possession of a lawfully acquired patent provides monopoly power that should be of concern as opposed to being viewed as a reward for investment in innovation.
+All of that came into question and was starting to be debated, as I said, before I came to the Division in 1983.
+And the debate had been originated, not surprisingly, by another recipient of the John Sherman award, FTC Chairman Robert Pitofsky, who received the award in 2010.
+Bob was concerned with the political influence that a large firm might acquire by virtue of its size and could use to its advantage or to disadvantage its rivals via the political branches of government.
+[9]
+Corporate political influence, which is usually used for rent-seeking, is a legitimate cause for concern.
+The result is too often a crony capitalism that distorts resource allocation, unjustly rewards some and harms others, and may be antithetical to the market competition that animates the economy.
+It does not necessarily follow, however, that antitrust enforcement is an appropriate preventative for corporate political influence.
+If not the only, certainly the primary tool with which an antitrust agency can inhibit corporate political influence is merger control, that is, by blocking mergers not because they are thought to be anticompetitive but solely in order to prevent the merged firm from obtaining a size that is thought to be conducive to political influence.
+There are a number of problems with using merger control to that end.
+First and most obviously, it precludes realizing whatever efficiencies are motivating the merger, to the detriment, therefore, of consumers.
+Second, size is a rather poor proxy for political influence.
+Many small firms and, particularly, associations of small firms, have substantial political clout, often besting large firms on the other side of an issue.
+Consider insurance agents versus insurance companies.
+Automobile dealers versus automobile manufacturers.
+[10] Gasoline retailers versus petroleum companies.
+[11] These small dealers and worthy men, as Justice Brandeis might have called them,[12] prevail consistently, both in the state and the federal legislatures.
+Finally, some firms attain size and perhaps political influence quite apart from mergers or acquisitions but simply because they are successful in satisfying consumers.
+A merger control program aimed at preventing firms from becoming large would leave them unaffected.
+It would be essentially an arbitrary and haphazard application of the antitrust laws.
+More recently, other voices have championed other goals for antitrust.
+You can hold your laughter, but they include the preservation of jobs that would be eliminated as redundant if a merger were approved; countering income inequality; preserving small, locally owned businesses, again as Brandeis suggested; protecting the privacy of consumers personal data; and safeguarding the environment.
+Here are some specifics.
+This is from Lina Khan and Sandeep Vaheesan[13]: [A]ntitrust laws must be reoriented away from the current efficiency focus toward a broader understanding that aims to protect consumers and small suppliers from the market power of large sellers and buyers, maintain the openness of markets, and disperse economic and political power.
+
+Jonathan Baker and Steven Salop[14]: [A]ntitrust law and regulatory agencies could address inequality more broadly by treating the reduction of inequality as an explicit antitrust goal.
+
+In testimony before the Senate in 2017, Barry Lynn from the Open Markets Institute argued that the consumer welfare standard warps antitrust law by preventing its use for specific policy outcomes .
+.
+.
+such as reducing inequality or raising the earnings of workers or fighting concentrated political power.
+[15]
+But the most ambitious of all is Maurice Stucke[16]: If antitrusts ultimate goal is to promote well-being, we must then address what constitutes well-being.
+ .
+.
+.
+Promoting well-being entails promoting (1) material well-being (income and wealth, housing, and jobs and earnings) and (2) quality of life (health status, work and life balance, education and skills, social connections, civic engagement and governance, environmental quality, personal security, and subjective well-being).
+
+To maximize well-being, Professor Stucke goes on, any competition policy must balance the promotion of material well-being with quality of life factors, such as freedom and self-determination, while not deterring the exercise of compassion and interpersonal relationships.
+[17]
+As you could not help but realize while hearing this litany, none of these suggestions for broadening the goal of antitrust from consumer welfare to incorporate additional objectives seems in the least bit practical.
+Lets take inequality.
+What could an antitrust agency do about inequality, whether inequality of wealth or of income? I have not found a single proponent of the idea who has laid out what the Division could do to reduce inequality.
+I suppose it could try to inhibit business success or transactions that would make an entrepreneur rich but that is too absurd to attribute to serious scholars such as Jon Baker and Steve Salop.
+[18] Use antitrust to raise the earnings of workers, says Barry Lynn.
+How? By making a raise for employees a condition for approving a transaction?
+But perhaps the people hawking these generalities have so different a conception of antitrust that they also conceive of a different type of enforcement agency, one empowered to order wages raised, quite apart from any transaction contemplated by the Sherman Act.
+One that breaks up large companies not because of any anticompetitive conduct but because they have too much political influence, or have centralized their management instead of treating smaller units as autonomous in the interest of localism.
+According to Professor Stucke, it seems, deterring the exercise of compassion and interpersonal relationships would also be another antitrust offense or perhaps just a factor to be considered against a firm in the dock for some other conduct, some conduct that actually has something to do with competition.
+What kind of decision making would all -- or any of it -- lead to? At the very least, it would require antitrust enforcers to impose losses on consumers for gains in, let us say, employment, or for some contribution to income inequality, or to prevent the loss of local control of a company that wants nothing more than to sell itself to a national firm.
+These are all incommensurable values.
+Just how much should consumers pay in the form of higher prices, poorer quality, or foregone innovation to make up for some decrease in inequality, whether measured by income or wealth? There is no way to make this trade off any way but arbitrarily.
+Arbitrary decision making is systemically costly.
+It invites political manipulation.
+A call from a congressman cannot turn an anticompetitive transaction into benefit for consumers or a pro-competitive transaction into its opposite.
+But if the agencys analysis is readily manipulable by throwing in or out some effects on wages or localism or what-have-you, then every outcome can be jiggered.
+Even if no call ever comes, there is little reason for the public to think the agencys decisions are, in fact, made on some objective or at least defensible basis.
+Indeed, insofar as the decisions are explained in an agency release or in a brief in court, the agency will be hard-pressed to dispel the implication that it has acted in an arbitrary way.
+I suggest that, at bottom, the assault on the consumer welfare standard is an assault on the foundation of the antitrust enterprise.
+If inequality or wages or political influence should be regulated, that is a job respectively for the Internal Revenue Service, for a wage control board, or for those who enforce the codes of ethics that apply to the political branches.
+This is not just a plea for the status quo.
+It is a plea for having a transparent criterion the application of which can be evaluated by the affected partiess and reviewed in a court of law if necessary.
+Only then can decisions be respected, having been made on an objective criterion about which people can differ and which a court can review.
+There are going to be two sides in every case and two economists in every case.
+But that is a very different proceeding than one would see in a court if the agency has made its decision based upon distributive or environmental or any or of the other criteria being proposed without a moments thought about arbitrariness and transparency.
+A variation on this threat to the rule of law may already be coming our way.
+As of now it is being talked about more in Europe than here.
+Believe it or not the European Commission has something called the Green Deal.
+[19] I suppose they couldnt call it the Green New Deal because they dont have an old New Deal.
+The Green Deal is very much what you would imagine, and the talk there is about the degree to which firms should be allowed to collaborate in order to accomplish the goals of the Green Deal  which have to do primarily with energy and climate change, of course  without running afoul of the European competition laws.
+[20]
+This is going to be a rallying point for a great deal of agitation by firms seeking permission to collaborate; many of them will be sincerely trying to do something to advance their governments views on the environment but others will be seeking a guise to get together and do things they would like to do for themselves but are inhibited from doing now by the antitrust laws.
+Rent seeking, that is, will be a growth industry on a scale not seen before.
+The European Commission fell off a stool once many years ago when it approved a collaboration among makers of household appliances (clothes washers, in particular) to allow them to collaborate to achieve a standard that would conserve water.
+[21] Its the only time to my knowledge the Commission has done anything of this sort but its quite clear that similar proposals will now be coming its way.
+[22] Surely something similar can be expected here, considering the parallel interest in slowing climate change.
+On this side of the Atlantic there is already a focus on the pursuit of so called ESG  environmental, social, and (corporate) governance factors -- as the predicate for firms seeking relief from the antitrust laws[23].
+The antitrust enterprise is going to be under assault from two directions, from people who are agitating for non-consumer welfare criteria as a general matter, and by firms that are interested in collaborating on ESG in the hope of circumventing the antitrust laws.
+If I am correct in this, then we are heading into a rocky time in the antitrust world, or perhaps I should say just a particularly rocky time.
+Fasten your seatbelts and Godspeed.
+[1] The previous recipients are: Diane P.
+Wood (2015), James F.
+Rill (2012), Robert Pitofsky (2010), Herbert Hovenkamp (2008), Robert H.
+Bork (2005), Richard A.
+Posner (2003), Milton Handler (1998), Thomas Kauper and William Baxter (1996), Phillip Areeda (1995), and Howard Metzenbaum (1994).
+ Dept.
+of Justice, Press Release, The Honorable Douglas H.
+Ginsburg to Receive Justice Departments 2020 John Sherman Award (Feb.
+12, 2020), https://www.
+justice.gov/opa/pr/honorable-douglas-h-ginsburg-receive-justice-departments-2020-john-sherman-award.
+[2] See, e.
+g.
+, Richard A.
+Posner, The Federal Trade Commission, 37 U.
+Chi.
+L.
+Rev.
+47 (1969); Robert H.
+Bork, The Rule of Reason and the Per Se Concept: Price Fixing and Market Division, 74 Yale L.
+J.
+775 (1965); Phillip E.
+Areeda, Antitrust Analysis (1st Ed.
+1967); William F.
+Baxter, Legal Restrictions on Exploitation of the Patent Monopoly: An Economic Analysis, 76 Yale L.
+J.
+267 (1966).
+[3] Brunswick Corp.
+v.
+Pueblo Bowl-O-Mat, Inc.
+, 429 USA 477, 486 n.
+10 (1977) (The discussions of [the treble damages provision of the Sherman Act] on the floor of the Senate indicate that it was conceived of primarily as a remedy for (t)he people of the United States as individuals, especially consumers); Reiter v.
+Sonotone Corp.
+, 442 USA 330, 343 (1979) ([The floor debates] suggest that Congress designed the Sherman Act as a consumer welfare prescription (quoting Robert Bork, The Antitrust Paradox 66 (1978)).
+[4] See Continental TV, Inc.
+v.
+GTE Sylvania Inc.
+, 433 USA 36 (1977) (lifting per se rule against territorial restraints); Copperweld Corp.
+v.
+Ind.
+Tube Corp.
+, 467 USA 752 (abandoning the intra-enterprise conspiracy doctrine); Brooke Group Ltd.
+v.
+Brown & Williamson Tobacco Corp.
+, 509 USA 209 (1993) (raising the required showing for predatory pricing); State Oil Co.
+v.
+Khan, 522 USA 3 (1997) (lifting per se rule against maximum resale price maintenance); Illinois Tool Works, Inc.
+v.
+Ind.
+Ink, 547 USA 28 (2006) (eliminating the presumption that a patent confers market power); Leegin Creative Leather Prods, Inc.
+v.
+PSKS, Inc.
+, 551 USA 877, 907 (2007) (lifting per se rule against minimum resale price maintenance).
+[5] See GTE Sylvania, 433 USA at 54-56.
+[6] See Ind.
+Ink, 547 USA at 33-46.
+[7] See Abbott B.
+Lipsky, Jr.
+, Deputy Assistant Attorney General, Current Antitrust Division Views on Patent Licensing Practices, 50 Antitrust L.
+J.
+515 (1981).
+[8] Ind.
+Ink, 547 USA at 44-45.
+[9] See Robert Pitofsky, The Political Content of Antitrust, 127 U.
+Penn.
+L.
+Rev.
+1051 (1979).
+[10] See Daniel A.
+Crane, Tesla, Dealer Franchise Laws, and the Politics of Crony Capitalism, 101 Iowa L.
+Rev.
+573 (2016).
+[11] See Exxon Corp.
+v.
+Governor of Maryland, 437 USA 117 (1978).
+[12] United States v.
+Trans-Mo.
+Freight Assn, 166 USA 290, 323 (1897).
+[13] Lina Khan & Sandeep Vaheesan, Market Power and Inequality: The Antitrust Counterrevolution and Its Discontents, 11 Harv.
+L.
+& Poly J.
+235, 237 (2017).
+[14] Jonathan B.
+Baker & Steven C.
+Salop, Antitrust, Competition Policy, and Inequality, 104 Geo.
+L.
+J.
+1, 24 (2015).
+[15] Barry C.
+Lynn, The Consumer Welfare Standard in Antitrust: Outdated or a Harbor in a Sea of Doubt?, Testimony before the S.
+Comm.
+on the Judiciary, Subcomm.
+On Antitrust, Competition, and Consumer Rights 13 (Dec.
+13, 2017).
+[16] Maurice E.
+Stucke, Reconsidering Antitrusts Goals, 53 B.
+C.
+L.
+Rev.
+551, 599-600 (2011).
+[17] Id.
+at 602.
+[18] Not surprisingly, because Baker and Salop are serious scholars, their statement quoted above is followed by recognition of the several issues and challenges that would be presented by making the reduction of inequality an antitrust goal.
+A fair reading is that the authors think it more a theoretical than a practical possibility.
+[19] European Commission, A European Green Deal (2019), https://ec.
+europa.
+eu/info/strategy/priorities-2019-2024/european-green-deal_en.
+[20] See Margrethe Vestager, The Green Deal and Competition Policy (Sept.
+22, 2020), https://ec.
+europa.
+eu/commission/commissioners/2019-2024/vestager/announcements/green-deal-and-competition-policy_en (asking for input into whether the EU should make it easier for companies to agree to produce greener products, without breaking competition rules).
+[21] Commission Decision of 24 January 1999 (Case IV.
+F.
+1/36.718 - CECED), OJ [2000] L 187/47.
+[22] See, e.
+g.
+, Linklaters, Sustainability goals: Is competition law cooperating?, Lexology (Jan.
+21, 2020), https://www.
+lexology.
+com/library/detail.
+aspx?g=7fc53217-3b30-4144-92ed-ee508a91efb2.
+[23] See, e.
+g.
+, Paul Balmer, Colluding to Save the World: How Antitrust Laws Discourage Corporations from Taking Action on Climate Change, 47 Ecology L.
+Q.
+219 (2020), https://www.
+ecologylawquarterly.
+org/currents/colluding-to-save-the-world-how-antitrust-laws-discourage-corporations-from-taking-action-on-climate-change/; see also, Sean OKane, DOJ drops antitrust probe into automakers that want cleaner cars, The Verge (Feb.
+7, 2020), https://www.
+theverge.
+com/2020/2/7/21128684/doj-antitrust-investigation-closed-trump-ford-vw.
+Attachment(s): Download Judge Ginsburg Remarks at Sherman Award.
+pdfTopic(s):AntitrustComponent(s):Antitrust Division
+Updated January 15, 2021

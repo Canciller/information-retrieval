@@ -1,0 +1,246 @@
+https://www.justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-final-address
+Assistant Attorney General Makan Delrahim Delivers Final Address
+Washington, DCUnited States
+~
+Tuesday, January 19, 2021
+Remarks as Prepared for Delivery
+Virtual Event Hosted by Duke University
+A Whole New World*: An Antitrust Entreaty for a Digital Age
+Thank you very much for that introduction, Matt.
+I am grateful to Duke University and Dukes Center on Science & Technology Policy for the privilege of being with you today to share some thoughts about the future of antitrust policy.
+1
+This event is a very special one for me.
+Today is my last day as the Senate-confirmed Assistant Attorney General of the Antitrust Division at the Justice Department.
+It has been an immense honor to serve in this role and to lead the men and women of the Antitrust Division through this time of intense scrutiny around antitrust policy.
+I would also like to recognize that yesterday we celebrated the legacy of Dr.
+Martin Luther King, Jr.
+Let us remember that his struggle and lasting message of peace, justice, and freedom, included express hope for economic justice and economic freedom.
+Indeed, Dr.
+King once noted that philanthropy is commendable, but it must not cause the philanthropist to overlook the circumstances of economic justice which make philanthropy necessary.
+ Leading the Antitrust Division, I take pride that the Division plays an importantif sometimes indirect role in ensuring such justice and that our day-to-day work helps preserve incentives to innovate, work, and start businesses, to the benefit of consumers and laborers.
+I am also proud that the legacy of the Antitrust Division includes two former Assistant Attorneys GeneralRobert H.
+Jackson and Tom C.
+Clarkwho had individual roles in the long arc of the moral universe when they cast two votes in the unanimous decision of the Supreme Court in Brown v.
+Board of Education.
+I should note that Tom Clark, later as Attorney General, also integrated the DOJs attorney ranks in 1946 with the hiring of Maceo Hubbard as the first black attorney in the Departments Civil Rights Division.
+Some of you may have read that I started my career as a patent lawyer.
+When I pivoted to antitrust, it was more of an esoteric specialty.
+While John D.
+Rockefeller and Standard Oil have rightly earned their places in American business history, few had a true appreciation for antitrust as a discipline that polices the industrial relations of firms for the betterment of consumers broadly defined.
+Today, antitrust is at the forefront.
+Spurred by the social, political, and economic crises of our time, today we are all participants in a spirited public discussion about the goals and limits of antitrust.
+In many ways, 2020 was an inflection point in that conversationand perhaps a signal that we have pivoted from discussion to action.
+Last fall, we saw the filing of historic lawsuits by the government against Google and Facebook.
+A few months before, the House Antitrust Subcommittee released a landmark report on market power in digital markets.
+Additionally, Congressman Ken Buck, joined by others, issued a separate report, The Third Way, addressing their concerns of the competitive deficiencies in the technology marketplace.
+These important events reflect sustained, bipartisan interest in antitrust issues.
+Undoubtedly, I have had a unique perch from which to participate in and observe this critical period.
+Over the last three and a half years, I have wrestled with difficult civil and criminal enforcement decisions; overseen victories and painful losses; witnessed the promise of public and non-public investigations while being inspired by the tenacity of the Divisions staff; and engaged antitrust thought leaders with whom I agree and many with whom I vigorously disagree.
+This work has challenged me in important ways.
+On some matters, I have reassessed certain intellectual priors and re-considered arguments that I once thought out of the question.
+I have retreated to first principles to explain why some fashionable policies would be bad for consumers.
+I have stretched to consider whether worthy welfare goals could be achieved by better means.
+Most consequentially, I have asked and empowered the men and women of the Antitrust Division to approach problems both big and small differently, and they have had the grace and intellectual rigor to consider those directives.
+The transition of power is an important opportunity to share lessons and insights because, regardless of politics, I root for the success of this great institution and for its forthcoming stewards.
+In addition to being available to them in any way that I can, I want to share some of my considered conclusions with the publica testimony of a kind to the policymakers in Congress and both domestic and international antitrust enforcers who will lead through the next few years.
+I hope these suggestions will make enforcement more administrable, empower consumers, and offer increased clarity to businesses, both established and the ever-important start-up.
+I offer two major theses.
+First, antitrust enforcers and policymakers can continue to do more to accomplish reliably the results that our traditional effects-based analysis dictate.
+Thoughtful legislative changes can effectuate these goals.
+Second, some of the current debate about online platforms and digital markets is focused on principles that are foundational to trust in a market-based economy.
+Policy solutions have ranged from direct command-and-control regulation by creating yet another regulatory agency to oversee the digital technology industry, to wholesale calls for breakup of companies with a certain size, to more laissez-faire self-regulation by industry itself.
+The events of recent days have laid bare the extraordinary influence of tech giants in matters of public policy.
+But if we dont find a way to harness that market power into partnership with democratic policy-making, we risk devastating outcomes for our civil democratic society.
+Today, I suggest another model.
+A hybrid public-private rulemaking body with limited government oversight to advance the goal of increasing competition and consumer trust in online platforms.
+This design will benefit from positive incentives to establish rules that benefit all stakeholders and harness the ingenuity and technical expertise of the private sector to do so.
+This body also could implement rules that products and services should not face discrimination from dominate and essential platform operators, either on the basis that they compete with another product that the platform operator provides, or on the basis that they espouse viewpoints inconsistent with those of the platform operators.
+Legislative Reforms
+Congress serves two important roles: oversight and law-making.
+Rooted in the separation of powers, our system works best when checks and balances are robust.
+While the executive and judicial branches have been active, the public is best served when Congress uses the power allotted to it by the framers.
+As the first article of the Constitution, its importance cant be overstated.
+The 116th Congress made great strides for the advancement of antitrust enforcement.
+Undoubtedly, one of the more consequential events that coincided with my tenure as AAG was the 116th Congress in both chambers using its oversight, including subpoena, power to investigate market power in digital markets.
+That work culminated in a body of public record and the issuance of the House report summarizing the Antitrust Subcommittees findings and recommendations.
+While I believe some of its suggested reforms require further consideration, several are quite sensible.
+On the legislative front, I was extremely pleased that Congress passed, and the President signed into law, several important antitrust reforms that will strengthen the Divisions enforcement efforts.
+Our Competition Policy and Advocacy section led the Divisions successful effort to advocate for the permanent enactment by Congress of the Antitrust Criminal Penalty Enhancement and Reform Act (ACPERA) and the Criminal Antitrust Anti-Retaliation Act.
+These tools strengthen the Divisions ability to detect, deter, and prosecute cartel offenses.
+Just last week, the Competitive Health Insurance Reform Act repealed the McCarran- Ferguson Acts exemption of health insurance from the federal antitrust laws, so that the antitrust laws can be brought to bear on the business of health insurance.
+ This important amendment is consistent with a priority of my tenure: interpreting antitrust exemptions and immunities narrowly, as evidenced by my oral argument against a broad interpretation of McCarran- Ferguson before the 11th Circuit last year.
+Ultimately, this revision will bolster competition in health insurance markets to the benefit of American patients and healthcare providers throughout the country.
+I am most proud that Congress saw the need for additional resources for the Antitrust Division.
+Despite rising costs, shrinking headcount, and more resource-intensive investigations, funding effectively has decreased each year for at least 10 years.
+The recent omnibus appropriations bill contained the first enhancement to our budget in more than ten years.
+This represents one of the most important pieces of support for the antitrust mission: it will allow us to hire additional staff that we need to effectively enforce the laws.
+I hope that the new Congress also will pass bi-partisan legislation to bring merger filing fees current with inflation, and consider allocating further increases to the Divisions enforcement budgets.
+These latest developments enhance the Divisions ability to carry out our mission, but more should be done.
+Congress would be well suited to consider immediately some simple legislative reforms to improve the predictability and efficiency of antitrust enforcement to make consumers better off and protect free markets.
+I offer six recommendations for Congress to consider this term.
+Burden-Shifting Legislation on Excessive Consolidation
+First, Congress should pass legislation to introduce bright line rules and alter the burdens of proof in civil merger cases in order to effectively combat certain excessive market concentration.
+This recommendation is grounded in the Divisions actual experience investigating and challenging the Sabre/Farelogix and Visa/Plaid mergers in court.
+Indeed, we at the Division have studied and have drafted burden-shifting legislation to advance consideration of this issue.
+2 The proposed legislation would amend the Clayton Act to address acquisitions of nascent competitors by dominant firms.
+Specifically, I propose that for firms with more than 50 percent market share in any defined market, there should be a presumption that further acquisitions in that same market are anticompetitive, which can be rebutted by the merging companies if they can show by a preponderance of the evidence that:
+the parties combined post-transaction would not be able to exercise market power; or
+the anticompetitive effects of the transaction are insubstantial, or outweighed by the procompetitive benefits of the transaction.
+The presumption should apply regardless of the size of target company, helping to address situations in which dominant firms engage in acquisitions of smaller firms to maintain and solidify their market power, not by superior business acumen, but by acquisition.
+Under this proposal, the Government still would bear the burden of:
+defining the market in which there may be a substantial lessening of competition;
+proffering the merged firms shares in that market; and
+rebutting cognizable, merger-specific procompetitive efficiencies.
+The existing legal standards on these topics (e.
+g.
+, market definition, efficiencies) would remain unchanged, facilitating administrability and predictability.
+The goal here is to create a bright-line rule for merging parties and for courts, allowing for better business planning by private parties and better litigation planning by federal antitrust enforcers.
+Clarifying the Reach of Ohio et al.
+v.
+American Express (2018)
+Second, I urge Congress to provide much-needed clarity on the reach of the Supreme Courts 2018 decision in Ohio et al.
+v.
+American Express.
+The law that has developed as a result creates confusion and may result in uncertainty and unnecessary litigation for businesses.
+The issue on appeal was how to prove Section 1 liability for two-sided transaction platforms like credit cards, where merchants and store owners are on one side of a platform run by American Express, and customers are on the other.
+Credit cards, of course, are just one type of two-sided transaction platform.
+Under the majority opinion, certain digital platforms may qualify as two-sided as well.
+The Solicitor Generals brief explained that to show behavior is illegal, plaintiffs should have to prove harm to only one side of the platform.
+If the platform wants to rely on offsetting benefits on the other side, the defendant should bear the burden of proof.
+Instead, the Courts opinion requires the plaintiffs to not only show harm, but to somehow preemptively disprove that there are benefits anywhere else on the platform.
+The American Express decision, in my view, obfuscated the legal standard in rule of reason cases.
+Among other things, it incorrectly raised the standard for plaintiffs to prove antitrust cases by paving the way for defendants and courts to wrongly assert that every market is a two-sided platform.
+This is a classic example of bad cases leading to bad law.
+In only two years, we already have seen unbridled defense arguments and confused decisions by the lower courts, including in the Divisions case to block Sabres acquisition of Farelogix.
+For these reasons, among others, the opinion has been criticized and recognized as creating a significant barrier to antitrust enforcement against platforms.
+Legislation should codify the approach to two-sided markets as reflected in the Departments briefs and largely adopted by Justice Breyer in his dissent.
+Specifically, Congress should consider allowing a plaintiff to establish a prima facie violation by proving harm on only one side of a multi-sided platform, and importantly, allowing procompetitive benefits on either side of the market, but place the burden of showing such benefits on the defendant.
+Illinois Brick & Hanover Shoe Repealer
+Third, Congress should repeal Illinois Brick & Hanover Shoe Supreme Court decisions.
+3 These decisions work together to confuse antitrust damages doctrine and to handcuff most victims of anticompetitive conduct with no path for recovery, while providing other plaintiffs with an unfair windfall.
+The Supreme Court in Hanover Shoe in 1968 held that an antitrust plaintiff could recover damages from overcharges, regardless whether those price increases had been passed on to consumers further down the distribution chain.
+Nine years later, in Illinois Brick, the Supreme Court prevented the proliferation of damages post-Hanover Shoe, holding that only direct purchasers of goods or services from an antitrust violator can sue.
+Together, these decisions have long been criticized as unfair to consumers, who are frequently victimized by upstream cartels affecting productssuch as LCD glass screens or auto partswhose increased prices are passed on into the products that consumers ultimately buy.
+Legislation should overturn both the Illinois Brick and Hanover Shoe decisions in order to allow purchaserswhether direct or indirectto also recover for harm caused to them by violations of the antitrust laws, as contemplated by the explicit text of the Clayton Act.
+Consistent with the recommendations of the bipartisan Antitrust Modernization Commission,4 this legislation would improve judicial efficiency by allowing related direct and indirect purchaser to be removed and consolidated in the same court.
+The legislation would also ensure fairness by allowing defendants in private suits to present evidence that some or all of the damages alleged by a given plaintiff were passed-on to other persons in the value chain.
+Modernized Pay Scale for Federal Antitrust Agencies
+Fourth, Congress should consider a modernized pay scale for the attorneys and economists of the federal antitrust agencies.
+This pay scale does not need to be bespoke, but modeled after one already used at the Securities and Exchange Commission.
+The simple truth is that there is great competition for the technical expertise of antitrust attorneys and industrial organization economists at the antitrust agencies.
+Such a change, in my view, is well-justified and would ensure that the agencies are able to both retain and recruit top talent, especially as they compete with a handful of dominant technology firms in the same talent pool.
+I would suggest, however, that with the new salary structure, Congress demand performance accountability by requiring that employees who are rated in the bottom five percent each year are dismissed.
+International Attaches in Beijing and Brussels
+Fifth, Congress should authorize the placement of antitrust experts at the USA Mission in Beijing and the USA Mission to the European Union in Brussels.
+In an inter-related world, antitrust enforcement increasingly is an international endeavor.
+Today, there are nearly 140 antitrust agencies across the globe.
+The Department of Justice spends considerable resources engaging with our enforcement partners on cartel, merger, and conduct enforcement almost on a daily basis.
+Given the importance of China and the E.
+U.
+to the global economy and to the United States, it would benefit both USA enforcers and the United States economy for the Department of Justice to have permanent attachs to focus on competition issues in those two regions.
+This also can be achieved through personnel details to the two regions through an agreement with the Office of the United States Trade Representative, which already has a presence in each others missions.
+Specialty Antitrust Courts
+Finally, Congress should consider and implement a pilot for a specialized antitrust court to hear government enforcement actions, a view echoed by one of my predecessors turned legendary professor and Court of Appeals Judge, the Honorable Douglas H.
+Ginsburg.
+5
+When the government brings an enforcement action to stop an anticompetitive merger or remedy anticompetitive conduct, we sometimes have been confronted by generalist judges who lack experience with antitrust law or economics.
+Some have even voiced discomfort with the idea of deciding a case because antitrust law often deals in the counterfactualthe but for worldsuch that courts must make informed predictions about the future.
+As a result, antitrust enforcers devote significant resources to educating courts, an exercise that is sometimes wasteful, may lead to trial delays, and is ill-suited for rapidly evolving industries like the technology sector.
+Even companies find it difficult to police their conduct and M&A strategies in this framework, thereby undermining the deterrence goals of antitrust enforcement.
+For that reason, a specialty district court where the government can bring civil antitrust cases may be a solution.
+This court would be modeled on Foreign Intelligence Surveillance Act, or FISA, with current Article III judges selected by the Chief Justice of the United States among interested and experienced district court judges across the country who can develop antitrust expertise and help expedite antitrust cases.
+Yet unlike FISA courts, proceedings and decisions should be open to the public.
+Above all, these six reforms are legislative solutions that could improve predictability for enforcers and businesses, and reduce waste, while expanding transparency and avoiding error costs.
+Digital Markets Rulemaking Board
+Next, I would like to discuss a new paradigm as a solution for improving the conundrum of concentration and monopoly power in the digital markets.
+The single greatest issues facing my successors, the new Congress, and the public relate to concerns of market integrity and market power in the increasingly concentrated digital marketplace.
+These issues include data portability, non-discrimination and interoperability of digital products and services.
+6
+There is now a groundswell of academic and agency proposals that contemplate direct regulation of firms in digital markets.
+For example, European Commission Vice president and Competition Commissioner Margrethe Vestager recently unveiled two new legislative packages that expand the tools available to restrict the power of digital platforms.
+7 I commend this fresh thinking and the work that our colleagues in Europe and Australia have done to propose specific guardrails on companies that serve as gatekeepers to many digital marketplaces.
+Advanced economies require vital preconditions for the success of competition regimesamong them, rule of law foundations, durable property rights, and public confidence in intangible rights such as privacy and data security to enhance free and open markets.
+As Congress contemplates action, we must strike an appropriate balance between incentives to innovate and protect consumers who participate in the digital economy.
+Also, we must work to create some international standards.
+Without consensus and a global, unified approach, we risk a race to the bottom where neither goal is achieved.
+Today, I announce a proposal for Congress to consider for a new digital oversight model, a hybrid approach that harnesses the benefits and efficiencies of self-regulation with limited government oversight: a Digital Markets Rulemaking Board (DMRB or Board).
+This would be an alternative to rigid and direct regulation through traditional regulatory agency models Congress has enacted in the past to address market failures or natural monopolies, such as through the FCC, FERC, or similar market regulators.
+Operating alongside current federal privacy, antitrust, and consumer protection, the proposed DMRB would supplement these legal regimes, and in appropriate places preempt inconsistent state laws.
+What I propose is similar in structure to the Municipal Securities Rulemaking Board (MSRB).
+With almost 45 years of experience and experimentation, the MSRB has proven to bean efficient way to achieve the objectives and challenges of certain markets within the securities laws.
+Congress established the MSRB to address issues of market integrity and investor protection in the municipal bond market.
+Specifically, I propose that Congress establish and empower the DMRB to have certain mandates to address market integrity and have sufficient flexibility for the DMRB to respond to rapid changes in the digital marketplace.
+The DMRB would operate based on the view that private standards of behavior, established in conjunction with public involvement and oversight and enforced by a federal enforcement agency, can more effectively address the market related concerns in the digital marketplace.
+The proposed DMRBs market-focused mandate would prevent the DMRBs mission from becoming, in the words of Nobel-prize winning economist Jean Tirole, polluted through considerations that can be dealt with [by] other, proper instruments.
+8
+The DMRB would be a private/public self-regulatory board consisting of industry and public members with technical and policy expertise with the mission to develop and propose market-based, non-discriminatory rules to promote market integrity.
+The public-private makeup of the Board would ensure the DMRB gains the public trust while benefitting from the technical knowledge of market participants.
+Moreover, this model is the most appropriate approach for digital market oversight because it would have the flexibility swiftly to adapt to new technological developments and business practices in the dynamic digital markets.
+A benefit over rigid direct command-and-control regulation.
+The DMRBs substantive rulemaking component could address concerns raised regarding digital markets that are not traditionally captured by antitrust laws or existing forms of regulation in an effective and nimble way.
+9 The substantive rules should address categories such as interoperability, self-preferencing, non-discrimination and data portability that would foster greater innovations and consumer choice.
+These rules would be proposed for limited review and endorsement by a government body, such as the Department of Justice.
+This model may prove to be a workable medium between full government regulation on one spectrum and sub-optimal self-regulation on the other.
+Command and control regulation may be ill-suited for markets that feature great dynamism as technologies and business practices evolve rapidly.
+Self-regulation often results in economic free-riding by competitors who engage in non-compliance.
+Without hindering the dynamism of digital markets with static burdensome regulation, the DMRB can address many concerns of the market power of dominant digital platforms.
+Often in my tenure as Assistant Attorney General, I have channeled the wisdom of former AAG and Supreme Court Justice Robert H.
+Jackson.
+He is no less appropriate today on my last in office.
+In 1937, Jackson cautioned us that American business must make up its mind whether it favors the regulation by competition contemplated by our antitrust laws or the only probable alternativegovernment control.
+10 I truly believe that the more we do today to improve the fitness of the antitrust laws and issues of market integrity, the more we can and should minimize the need for direct command-and-control regulation by government.
+But there is some wisdom I suggest to add to Jacksons, informed by what I have witnessed these last years and days: American policymakers must make up their mind whether they favor a magna carta for free enterprise on the internet or the only probable alternative reactionary and chaotic responses undirected by elected representatives.
+I hope that these sensible antitrust reforms and the concept for the Digital Markets Rulemaking Board provide a path forward.
+Conclusion
+Thank you for your attention and consideration.
+* A WHOLE NEW WORLD, Aladdin: Original Motion Picture Soundtrack, Alan Menken and Tim Rice (Walt Disney, 1992).
+1 I would like to express my deep gratitude to my outgoing Chief of Staff and Senior Counsel, Taylor Owings, attorneys Thomas DeMatteo and Cecilia Cheng for their assistance in helping me prepare these remarks.
+2 Department of Justice Legislative Proposal Amending Section 7 of the Clayton Act,15 USAC.
+ 18 (Section 7 of the Clayton Act, 15 USAC.
+ 18, is amended as follows: (1) After the second paragraph, ending the effect of such acquisition, of such stocks or assets, or of the use of such stock by the voting or granting of proxies or otherwise, may be substantially to lessen competition, or to tend to create a monopoly, inserting the following: The United States or the Federal Trade Commission may initiate a proceeding to enjoin a transaction prohibited by this section.
+In such a proceeding, it shall be presumed that the effect of a transaction may be substantially to lessen competition, or to tend to create a monopoly, if a) The transaction would combine persons that compete in the same market, such that the elimination of competition by agreement between them would constitute a violation of any of the antitrust laws; and b) Any party to the transaction has a pre-transaction share of the market that is greater than 50%.
+The defendants may rebut this presumption only if they demonstrate by a preponderance of the evidence that a) The combined parties post-transaction would not be able to exercise market power; or b) The anticompetitive effects of the transaction are insubstantial, or are clearly outweighed by the procompetitive benefits of the transaction in the relevant market.
+This presumption shall not limit any other presumption courts have created or used or may create or use in resolving cases under this section.
+).
+3Illinois Brick Co.
+v.
+Illinois 431 USA 720 (1977); Hanover Shoe, Inc.
+v.
+United Shoe Machinery Corp.
+, 392 USA 481 (1968).
+4Available at https://govinfo.
+library.
+unt.
+edu/amc/report_recommendation/amc_final_report.
+pdf.
+5 Ginsburg, Douglas H.
+and Wright, Joshua D.
+, Antitrust Courts: Specialists Versus Generalists (July 3, 2013).
+Fordham International Law Journal, Vol.
+36, No.
+4, pp.
+788-811, May 2013, George Mason Law & Economics Research Paper No.
+13-42, available at https://ssrn.
+com/abstract=2289488 (last accessed January 19, 2021).
+6Northern Pacific Railway Co.
+v.
+United States, 356 USA 1, 5 (1958) (The Sherman Act was designed to be a comprehensive charter of economic liberty aimed at preserving free and unfettered competition as the rule of trade.
+It rests on the premise that the unrestrained interaction of competitive forces will yield the best allocation of our economic resources, the lowest prices, the highest quality, and the greatest material progress, while at the same time providing an environment conductive to the preservation of our democratic political and social institutions.
+But even were that premise open to question, the policy unequivocally laid down by the Act is competition.
+) (emphasis added).
+7 European Commission, Press Release: Europe fit for the Digital Age: Commission proposes new rules for digital platforms (Dec.
+15, 2020), https://ec.
+europa.
+eu/commission/presscorner/detail/en/ip_20_2347.
+8 Jean Tirole, Competition Policy at a Crossroad, Presentation at OECD Conference on Competition Under Fire (Dec.
+5, 2019), slide 9.
+9 The DMRBs process could resemble the following steps: 1) initiation of a proposed rule; 2) issue identification and economic analysis; 3) develop proposed rule; 4) request for public comment; 5) file rule with oversight agency (DOJ) for negative public interest review within 60 days; 6) publication in federal register; and 7) approval or disapproval of proposed rule.
+10 Robert H.
+Jackson, Should the Antitrust Laws Be Revised?, 71 USA L.
+Rev.
+575, 577 (1937), available athttps://www.
+roberthjackson.
+org/speech-and-writing/should-the-antitrust-laws-be-revised/.
+Speaker:Former Assistant Attorney General, Makan DelrahimAttachment(s): Download AAG Delrahim Duke Speech.
+pdfTopic(s):AntitrustComponent(s):Antitrust Division
+Updated January 19, 2021

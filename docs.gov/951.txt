@@ -1,0 +1,171 @@
+https://www.justice.gov/opa/speech/assistant-attorney-general-makan-delrahim-delivers-remarks-georgetown-laws-global
+Assistant Attorney General Makan Delrahim Delivers Remarks at Georgetown Laws Global Antitrust Enforcement Symposium
+Washington, DCUnited States
+~
+Tuesday, October 6, 2020
+Reflections: Looking Back and Looking Ahead on Recent Innovations in Merger Review at the Antitrust Division
+I.
+Introduction
+Thank you to the Georgetown Law Global Antitrust Enforcement Symposium for inviting me back to participate today.
+As some of you know, I have a background as a patent lawyer, so I have a particular affinity for innovation.
+Fortunately for me, innovation is an important byproduct of protecting competition through antitrust enforcement.
+I am also pleased that innovation is a defining feature of my tenure as Assistant Attorney General of the Antitrust Division.
+Last week marked the three-year anniversary of when I was confirmed by the Senate and sworn in as Assistant Attorney General, so I would like to take this opportunity to reflect on lessons I have learned in my tenure, and to highlight some of the innovations at the Division that have resulted from those lessons.
+As many of you know, while Assistant Attorney General, I have sought to increase transparency regarding the Divisions practices.
+For example, we recently issued the Vertical Merger Guidelines, which describe how the agencies evaluate vertical transactions.
+The Divisions guidelines on this topic were 36 years old, and much had changed in the way we looked at these transactions.
+This is not surprising.
+To give you a sense of the world 36 years ago, we were navigating using paper maps, cleaning and rewearing our contact lenses, regularly standing in line at the bank, and calling on payphones.
+We have also been seeing the dividends from innovations in our transparency and in our processes.
+For example, we created a model timing agreement and a model voluntary request letter and made them available on our website.
+These measures provide greater transparency toparties, allowing them to better anticipate the merger review process.
+They also expedite our merger reviews.
+When I think about the importance of transparency, I am reminded of why icebergs are so hazardous to ships.
+It is because so much of the ice  almost 90%  is below the water and cant be seen.
+As a result, many ships simply avoid altogether the areas where icebergs are floating.
+Similarly, a lack of transparency can make venturing forth with transactions perilous for parties, and can chill procompetitive transactions.
+I am pleased that we have found ways to innovate at the Division to increase transparency for parties.
+For example, we have increased transparency when we compel the production of documents or testimony, when we engage in negotiations about remedies, and when we bring a complaint in court versus resolving a matter with a fix-it-first remedy or arbitration.
+I.
+Civil Process Updates
+Let me begin by turning to the recent updates to the Divisions Civil Investigative Demand (CID) forms and deposition process, which represent a step towards the promotion of transparency and due process in Division investigations.
+These updates were made to memorialize what has always been true in our civil investigative processes: information provided to the Division in response to a CID may be used by the Department in other civil, criminal, administrative, or regulatory proceedings.
+Specifically, the Division has implemented the following updates:
+First, all CID forms will now provide notice to recipients that their documents, answers to interrogatories, and/or testimony may be used by the Department of Justice in other civil, criminal, administrative, or regulatory cases or proceedings.
+CIDs issued to individuals will also now include a Fifth Amendment notice.
+Second, attorneys taking oral testimony pursuant to a CID will ask questions at the outset of every deposition confirming that the deponent understands the notice provided in the CID.
+It is also worth reiterating that consistent with longstanding Division and Department policy, civil attorneys cannot and will not comment on the existence or status of other investigations, criminal or otherwise.
+Companies and individuals seeking information about the status or existence of criminal proceedings must contact the Divisions criminal program with any questions.
+II.
+Merger Remedies Manual
+The Division also recently released a modernized Merger Remedies Manual, coming full circle on an initiative I announced at this conference in 2018.
+In that speech, I said that the Division would be taking a close look at the merger review process, including our remedies policy.
+The new Merger Remedies Manual provides important transparency to the business community and the antitrust bar about how the Division evaluates remedies for anticompetitive mergers.
+I appreciate the interest that the Manual has generated, and Id like to address a few aspects of it on which Ive heard discussion.
+For the first time, the Merger Remedies Manual addresses the treatment of private equity divestiture buyers.
+The Division frequently sees divestiture buyers that are funded by private equity or other investment firms.
+The Merger Remedies Manual makes clear that the Division evaluates these divestiture buyers using the same criteria as all other divestiture buyers, including strategic buyers.
+In recent years, one topic of some discussion has been whether private equity buyers are more likely to pursue higher margins in the short term, then quickly resell the divested business at a profit.
+Whether this is likely to happen in a particular case is an issue that we investigate.
+As with all proposed buyers, the Division evaluates the buyers intention to compete in the relevant market.
+While the Division ordinarily does not require any restriction on the resale of divestiture assets, we will investigate whether the purchaser is committed to competing in the relevant market.
+Over the past two decades, private equity discipline has shifted, and we have found that PE firms increasingly have strategies that are consistent with the Divisions conditions for approving divestiture buyers.
+Scholars have observed this shift in how private equity firms invest in and hold their portfolio companies.
+For example, a relatively recent article in the Harvard Business Review described distinct phases in the evolution of private equity investment.
+Back in the 1980s, the model of imposing cost cutting and financial restructuring to obtain short-term profits, then quickly flipping the assets of the company to another buyer, was prevalent.
+Since then, however, the model has evolved to one in which private equity investors hold companies for longer periods of time.
+They invest in them, improve their performance, add expert management teams, and operate them independently until they are spun off.
+Private equity firms are not simply holding their investments and waiting to dispose of them, nor are they always operating companies looking to integrate their investments into an existing business.
+That is not to say that every private equity investment will follow this model, but the Division will evaluate PE buyers just as we do strategic buyers, asking whether there is evidence that they intend to competeand are committed to competingin the relevant market.
+Private equity funding can help divestitures succeed in another way, by giving the businesses a ready source of additional investment funding, often at more competitive rates.
+The FTC recently conducted a broad study to evaluate what makes merger remedies successful.
+It found that in some cases, funding from private equity and other investment firms was important to the success of the remedy.
+In such cases, the purchaser had flexibility in investment strategy, was committed to the divestiture, and was willing to invest more when necessary.
+On the other hand, when the reverse was true, there were cases in which a purchasers lack of flexibility in financing contributed significantly to the failure of the divestiture.
+Another trend we have observed is that private equity buyers often partner with experienced industry participants.
+These partnerships can help show that the purchaser has the managerial, operational, and technical capability to compete effectively with the divestiture assets.
+Just as we have encountered more divestiture buyers funded by private equity, we also have seen many HSR filings reporting private equity investments.
+In recent years, changes in the investment landscape also have led to increased competition for corporate control and changes in investor behavior.
+One of my goals at the Division has been to modernize the HSR regime to better account for these changes, and I am pleased to be working with the FTC towards this goal.
+We also have benefitted from the expertise of the Securities and Exchange Commission as we considered these changes.
+The FTC recently published a Notice of Proposed Rulemaking to revise the premerger notification rules to create a new reporting exemption for certain de minimis investments of 10% or less.
+I support the proposed creation of this new exemption.
+To use a reference from basketball, the time Michael Jordan scored 69 points for an overtime win illustrates the sensibility of having a de minimis investment exemption.
+His Chicago Bulls teammate, Stacey King, said, Ill always remember this as the night that Michael Jordan and I combined to score 70 points.
+ On a serious note, the proposed exemption is a meaningful step towards addressing the regulatory burdens of an overbroad HSR requirement for certain minority investments that do not raise competition concerns.
+A second aspect of the Merger Remedies Manual that I would like to focus on today is the discussion of fix-it-first remedies.
+In connection with that, I would like to highlight a few observations regarding the Tunney Act.
+While we need consent decrees to resolve some of the Divisions cases, some cases may be resolved without a consent decree.
+One principle we use to identify cases where a decree is required is when the settlement would impose ongoing obligations on the merging parties.
+In those cases, we require a consent decree because we want to have recourse in the form of a courts contempt power in the event the parties do not comply with their obligations.
+We recently needed that recourse to enforce the conduct obligations in the Live Nation/Ticketmaster consent decree, ultimately bringing an enforcement action and modifying the terms of the decree.
+That case illustrates three important points.
+One, it shows why a consent decree is needed if the remedy imposes ongoing obligations on the merging parties.
+Two, it illustrates many of the flaws of behavior-based remedies.
+The remedy at issue in that case was an anti-retaliation provision, which prohibited the company from retaliating against concert venues for using another ticketing company.
+We were required to devote significant resources to investigating alleged violations and putting a stop to the conduct.
+Three, this and other recent investigations illustrate the importance of decree provisions that improve the enforceability of consent decrees, which the Division has incorporated into all of its consent decrees since the beginning of my tenure, three years ago.
+The modifications to the Live Nation and the recent Anheuser-Busch/Craft Brew Alliance decree include these new standard provisions to help deter any future violations and allow for easier enforcement if any occur.
+Now, turning to fix-it-first remedies, the Division may accept such remedies if the proposed fix does not impose any ongoing obligations on the merging parties and if the Division has not yet determined that it has a substantial basis for filing a complaint challenging the transaction.
+Fix-it-first remedies must fully eliminate any competitive harm.
+In these cases, the Division will forego filing a complaint and a consent decree, although we may ask the parties to sign a pocket decree that we can file if necessary.
+One implication of accepting a fix-it-first remedy is that it does not trigger the time consuming and resource-intensive Tunney Act process.
+The text of the statute confirms that it applies only when the Division files a consent decree that resolves a civil case filed in court.
+The Division, however, can exercise its prosecutorial discretion to accept a fix-it-first remedy and decline to file a case or consent judgment.
+The legislative history of the Tunney Act and relevant case law are clear that it is narrowly focused on civil consent decrees.
+The Tunney Act was prompted by perceived abuses in the settlement of several prominent antitrust casesall of which had been filed in federal court and resolved by consent judgments.
+Indeed, Congress considered and rejected an alternative version of the bill that would have expanded its scope to any proposed consent judgment or decree or other settlement.
+
+Soon after the legislation was enacted, the Second Circuit addressed a related issue in the IBM case.
+The court held that that the Tunney Act does not apply if the Division resolves a case through a stipulated dismissal rather than a consent decree.
+The Second Circuit also noted constitutional concerns that would arise if the Tunney Act applied to stipulated dismissals.
+In the CVS/Aetna proceeding, the court ultimately affirmed a similar principle, that the Government, alone, chooses which causes of action to allege in its complaint.
+Although the opinion goes on to analyze complaints about broader harms from the merger, the court affirmed that a judge cannot deny a motion to enter a consent decree on the basis that the DOJs investigation or complaint should have alleged broader harms.
+The court recognized that its role was limited: to decide only that the remedy provided for in the consent decree was well within the reaches of the public interest.
+In light of this history and the constitutional questions that it highlights, we thought it was important to clarify in the Manual that the Tunney Act does not apply if the Division accepts a fix-it-first remedy.
+III.
+Arbitration: The Divisions Experience in USA v.
+Novelis, Inc.
+and Aleris Corp.
+Another innovation at the Division is the use of arbitration to streamline the adjudication of a dispositive issue in a merger challenge.
+As a result of this innovation, we now face an important choice at the Division whether to engage in arbitration, rather than litigate a merger matter in court.
+As we saw in the Novelis/Aleris case, the Division may benefit from pairing binding arbitration with a court proceeding.
+That is because, if the Division prevails, the remedy is unlikely to be self-executing.
+The Division may need the assistance of the court to effectuate the details of the remedy, even if the parties had agreed in principle about the outcome of a loss in arbitration.
+The court can be a necessary partner for the Antitrust Division, both in enforcing the procedures in the arbitration agreement and in effectuating the forward-looking remedy in the event the Division prevails in arbitration.
+I want to spend some time now talking about additional lessons we learned in Novelis that are likely to affect the Divisions decision to use arbitration in the future.
+As a reminder, the Division had serious concerns that Noveliss acquisition of Aleris Corporation would combine two of only four domestic producers of aluminum autobody sheet.
+Aluminum ABS, as it is known in the industry, is rolled aluminum sheet for automobiles.
+After identifying the competitive concern, the Division insisted that the parties divest one of the parties North American aluminum ABS operations in order to proceed with the transaction.
+The Division and the parties agreed that whether the transaction was likely to substantially lessen competition hinged on a single issue: Whether the Division was correct in defining the market as limited to aluminum ABS and excluding alternative materials in the product market definition.
+Accordingly, prior to the filing of the Complaint, the Division and the parties agreed to arbitrate the issue of product market definition: if the United States prevailed, Novelis would have to divest Aleriss aluminum ABS operations in North America; if the Defendants prevailed, the United States would exercise its prosecutorial discretion and dismiss the Complaint.
+Of course, despite using arbitration to resolve the important legal question of market definition, the Court still played and continues to play an important oversight function: the Complaint was filed in the United States District Court for the Northern District of Ohio and discovery proceeded under the auspices of the federal court and under the Federal Rules of Civil Procedure.
+Once the parties completed fact discovery, the Court stayed the action and referred the matter to arbitration.
+Following the arbitrators decision, the United States filed a proposed Final Judgment with the Court, which was entered following the Tunney Act process.
+Recently, the United States has had to apply for appointment of a divestiture trustee to ensure the timely sale of the divestiture assets.
+Given the unusual circumstances the pandemic created, the Division agreed with Novelis to permit up to 90 calendar days to complete the sale of the Divestiture Assets  which is on the high end of the range the Division typically agrees to  with a potential to seek an extension of time in the Divisions sole discretion.
+Under the terms of the proposed Final Judgment, however, Novelis was required to use their best efforts to divest the Divestiture Assets as expeditiously as possible.
+ Novelis did not divest as required within the 90-day time period and the Division did not agree to an extension of time.
+The United States, therefore, applied for  and the Court appointed  a divestiture trustee to ensure the assets are timely divested to a suitable buyer.
+This combination of arbitration plus court enforcement also was effective in other ways.
+Importantly, the procedure led to an efficient resolution to a merger dispute, while saving resources for both taxpayers and the merging parties and ensuring that competition was preserved:
+First, the arbitration framework  set forth in the Term Sheet agreed to by the parties prior to the filing of the Complaint  allowed for both sides to conduct full fact discovery of party and non-party witnesses under the supervision of the District Court before the matter was referred to arbitration.
+This was critical as there is, generally, an asymmetry in the information that the Division possesses prior to litigation and the access it has to non-party information.
+Second, arbitration allowed for an antitrust expert to decide a dispositive legal question.
+In this case, the parties agreed to a single arbitrator  Kevin Arquit  a leading antitrust lawyer and the former Director of the FTCs Bureau of Competition.
+The benefits of having an arbitrator with antitrust expertise decide a complex issue such as product market definition cannot be overstated.
+Unlike perhaps a generalist judge, the arbitrator did not need to be educated on antitrust law and how product markets are defined.
+He readily understood the quantitative economic analysis, as well as the qualitative evidence, and the weight to ascribe to each.
+This allowed both sides to hone their arguments and streamline the presentation of evidence.
+Third, the arbitration hearing was confidential, not open to the public, and the confidentiality of all evidence was governed by the protective order entered by the Court.
+While some may criticize the closed-nature of these proceedingsand I will discuss this in more detail in a minutethis allowed third-party witnesses confidence that sensitive, confidential information would not be divulged to customers or competitors.
+As we have seen in federal court cases, whether the Court is sealed or not, is up to the discretion of the judge and can vary.
+Fourth, the arbitration hearing was conducted over 10 days and a decision was issued within less than a week.
+This result was reached significantly faster and more efficiently than is typical in a trial court, providing the merging parties with valuable certainty into whether or not their deal could proceed.
+Finally, the use of arbitration to resolve the dispute was a tremendous savings to American taxpayers.
+Novelis reimbursed the United States for the fees and expenses of its attorneys, as well as the costs  including experts fees  incurred in connection with the arbitration.
+Such a savings would not have occurred had the United States proceeded to trial in district court.
+We have also learned from the experience of arbitrating a merger and are identifying areas where there is room for improvement.
+For example, the arbitration hearing was conducted within 120 days after the filing of the Defendants answer to the Complaint.
+This time frame is in line with most recent merger trials, but it can be improved upon with an even more condensed time frame.
+This can be accomplished if the parties are able to agree upon important issues  such as a Case Management Order, fact and expert discovery schedules, the timing and scope of expert reports, and the number of witnesses each side will present at the hearing  in the term sheet before the Complaint is filed.
+This will eliminate any incentives for delay on either side.
+It also will provide even more certainty to the merging parties about the timing of a decision, while maximizing expediency.
+A final lesson from our first-ever use of arbitration in a merger review is that it is important to balance confidentiality with transparency.
+In Novelis, third-party witness testimony from customers and competitors played an integral part in the arbitration hearing and in the arbitrators decision.
+We recognized that, for arbitration  a private remedy  to work effectively, third parties had to feel confident that sensitive business information would be protected and not divulged in an open forum as occasionally happens in merger trials.
+Even the possibility that confidential information may be divulged is likely to give angst to third party witnesses.
+Accordingly, as set forth in the arbitration term sheet, the arbitral hearing and the evidence was kept completely confidential and protected by the protective order entered by the Court.
+To balance the sometimes-conflicting desires for confidentiality and transparency of process, the Division released a redacted copy of the arbitrators decision to the general public.
+The decision sets forth the arbitrators well-reasoned opinion, the evidence he considered and the legal standard he relied upon in reaching his decision.
+The benefits to taxpayers and merging parties that arbitration can confer in merger enforcement are tremendous.
+The Division is continuing to systematically evaluate the lessons we have learned and the criteria to use when evaluating whether a case may be appropriate for arbitration.
+IV.
+Conclusion
+Legendary inventor Thomas Edison reportedly posted a sign in his lab that said, Theres a way to do it better  find it.
+ This message has inspired me as we have pursued our innovative approach to continually making improvements in our enforcement at the Antitrust Division.
+I will conclude by highlighting what I see as the common threads among my experiences at the Division: as enforcers we have a responsibility to evaluate our practices in response to the lessons we learn, be willing to innovate when the situation calls for it, and share those lessons transparently with the business community.
+By faithfully doing these things, we can advance our mission of preserving competition for the benefit of American consumers.
+Thank you.
+Speaker:Former Assistant Attorney General, Makan DelrahimAttachment(s): Download Georgetown 2020 RemarksComponent(s):Antitrust Division
+Updated October 6, 2020

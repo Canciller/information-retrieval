@@ -1,0 +1,33 @@
+https://www.justice.gov/opa/pr/russian-national-pleads-guilty-conspiracy-introduce-malware-us-company-s-computer-network
+Department of Justice
+Office of Public Affairs
+FOR IMMEDIATE RELEASE
+Thursday, March 18, 2021
+Russian National Pleads Guilty to Conspiracy to Introduce Malware into a USA Companys Computer Network
+Defendants attempt to recruit employee to transmit malware to exfiltrate data and extort company thwarted by FBI
+A Russian national pleaded guilty in federal court today for conspiring to travel to the United States to recruit an employee of a Nevada company into a scheme to introduce malicious software into the companys computer network.
+According to court documents and admissions made in court, from July 15, 2020, to Aug.
+22, 2020, Egor Igorevich Kriuchkov, 27, conspired with others to recruit an employee of a large USA company to transmit malware provided by the conspirators into the companys computer network.
+Once the malware was installed, Kriuchkov and his co-conspirators would use it to exfiltrate data from the companys computer network and then extort the company by threatening to disclose the data.
+As part of the conspiracy, Kriuchkov traveled from Russia to California through New York.
+On numerous occasions between Aug.
+1, 2020, and Aug.
+21, 2020, Kriuchkov traveled from California to Nevada in an attempt to entice the employee to participate in this hacking scheme, offering to pay the employee with Bitcoin if the employee transmitted the malware.
+After meeting with Kriuchkov, the employee reported his conduct to the victim company, which promptly contacted the FBI.
+The FBI then thwarted the scheme.
+The swift response of the company and the FBI prevented a major exfiltration of the victim companys data and stopped the extortion scheme at its inception, said Acting Assistant Attorney General Nicholas L.
+McQuaid of the Justice Departments Criminal Division.
+This case highlights the importance of companies coming forward to law enforcement, and the positive results when they do so.
+
+This case highlights our offices commitment to protecting trade secrets and other confidential information belonging to USA businesses  which is becoming even more important each day as Nevada evolves into a center for technological innovation, said Acting USA Attorney Christopher Chiou for the District of Nevada.
+Along with our law enforcement partners, we will continue to prioritize stopping cybercriminals from harming American companies and consumers.
+
+This is an excellent example of community outreach resulting in strong partnerships, which led to proactive law enforcement action before any damage could occur, said Special Agent in Charge Aaron C.
+Rouse of the FBIs Las Vegas Field Office.
+Kriuchkov pleaded guilty to one count of conspiracy to intentionally cause damage to a protected computer and is scheduled to be sentenced May 10.
+The investigation was led by the FBI Las Vegas Field Office with the assistance of the FBI Los Angeles Field Office,the FBI Sacramento Field Office,and the Washoe County Sheriffs Office in Nevada.
+The case is being prosecuted by Senior Counsel C.
+S.
+Heath and Trial Attorney Thomas Dettore of the Criminal Divisions Computer Crime and Intellectual Property Section and Assistant USA Attorney Richard Casper of the District of Nevada.
+Component(s):Criminal DivisionCriminal - Computer Crime and Intellectual Property SectionFederal Bureau of Investigation (FBI)USAO - NevadaPress Release Number:21-246
+Updated March 18, 2021

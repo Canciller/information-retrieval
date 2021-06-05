@@ -1,0 +1,311 @@
+https://www.justice.gov/opa/speech/associate-deputy-attorney-general-sujit-raman-delivers-remarks-community-oriented
+Associate Deputy Attorney General Sujit Raman Delivers Remarks at the Community OrientedPolicing Services (COPS)/Police Executive Research Forum (PERF)Facial Recognition Technology Forum
+Washington, DCUnited States
+~
+Tuesday, September 15, 2020
+Five Principles That Inform the Justice Departments Use of Facial Recognition Technology
+Remarks as Prepared for Delivery
+As the Nations primary federal law enforcement agency, the USA Department of Justice enforces and defends the laws of the United States; protects public safety against foreign and domestic threats; and provides national and international leadership in preventing and investigating crime.
+Technological innovation has created new opportunities for our law enforcement officers to effectively and efficiently tackle these important missions.
+At the same time, such innovation poses new challenges for ensuring that technology is used in a manner consistent with our laws and our valuesand equally important, with the support and trust of the American people.
+Facial Recognition Technology (FRT) is at the forefront of these developments.
+For law enforcement, facial recognition promises a number of benefits, many of which  like providing leads for crime-solving, and reuniting missing children with their families  have been discussed throughout this forum.
+When Facial Recognition Technology is used according to professional standards and within appropriate limitations, it can enable law enforcement to react quickly and effectively to emerging threats, and to conduct more efficient investigations.
+It can also have hugely impactful health, business, and commercial applications, though I will not focus on those non-law enforcement uses today.
+And yet, it is undisputed that certain applications of FRT raise legitimate questions about the extent to which the use of new technology can remain consistent with our societys commitment to privacy, civil rights, and civil liberties.
+I would like to use my time with you to discuss how the USA Department of Justice, particularly the FBI, uses Facial Recognition Technology.
+While the details are important, what really matter are the underlying principles that inform our use of this technology.
+The Justice Department began funding face detection and recognition research nearly a quarter-century ago.
+[1] We remain committed to the federal governments broader investment in building better algorithms, especially by capitalizing on the rapid advance of machine learning tools in the past few years.
+But even as we support the cutting edge of research  and even as we embrace new capabilities that will assist us in fulfilling our duty to protect the American people  our use of Facial Recognition Technology remains fundamentally conservative.
+The FBI does not, for example, use FRT for real-time identification or surveillance.
+Neither does it use this technology as a means of positive identification without corroborating evidence.
+A trained human being is always in the loop; the FBI uses the technology to produce investigative leads, but nothing more.
+The key is trust.
+And while it might seem counterintuitive in connection with dazzling, fast-moving technologies like FRT, trust often finds a refuge in the gray, bureaucratic prose of privacy impact assessments, training manuals, work logs, and compliance audits  that is, in the everyday grammar of the accountability and transparency structures that we, as a free people, demand of our government in order to preserve our liberty, ensure we are treated equitably, and promote the rule of law.
+It is those structures, and the principles that give them the spark of life, that I will discuss with you today.
+I.
+Facial Recognition Technology raises a number of novel questions implicating public safety, individual privacy, and technological change.
+But this is not the first time our society has grappled with these types of questions.
+Our Nations history is replete with examples where our government, our courts, and our civil society have explored how our expectations of privacy evolve along with technological innovation.
+Over the past fifty years in particular, our courts have confronted a number of cases involving law enforcements novel use of technology to advance criminal investigations.
+[2]
+Of course, before many of these questions came before the courts, they had been debated in State and local lawmaking bodies, as well as in the USA Congress.
+FRT is no different.
+Some State and local lawmakers already have taken steps to begin addressing this issue, and several bills have been introduced in the USA Congress.
+Thus, while the use of Facial Recognition Technology may eventually come before the courts as a constitutional question, as citizens in a self-governing society we have an important duty to confront and to debate the complex questions that this technology raises, in the first instance.
+Thanks to facial recognition, tasks that would take countless hours  like combing through large databases of photos, biometric data, or other personally identifiable information already in the governments lawful possession  can be accomplished in a fraction of that time, at much lower cost.
+It goes without saying how such advancements can assist law enforcement.
+At the same time, fears of inaccuracy, the potential for unintended performance differentials reflecting gender, ethnicity, or racial characteristics, and concerns about mass surveillance have led many calls for strict regulatory action.
+State and local governments across the country are in the process of determining for themselves how best to address law enforcement use of facial recognition.
+Some governmental entities, including in San Francisco, Boston, Oakland, and  just last week  Portland, have gone so far as to ban local agencies use of the technology.
+The use (or, more accurately, the misuse) of Facial Recognition Technology in other parts of the world has no doubt exacerbated concerns here in the United States.
+Numerous public reports suggest, for instance, that the Chinese Communist Party takes advantage of facial recognition to assist in its oppression of the Chinese people.
+Chinese officials use facial recognition in public spaces to identify and track dissidents, activists, and other individuals who are of political interest to the regime.
+The Chinese government is also reportedly using FRT to suppress minorities, such as the Uyghur and Tibetan populations, in the name of national security.
+ Moreover, the use of Facial Recognition Technology by authoritarian nations like China and Russia to enforce quarantines shows how these governments justify dragnet surveillance even outside of the purported law enforcement and national security contexts, and raises important questions about the persistence of such all-encompassing surveillance measures once the pandemic has subsided.
+Europe is in the midst of an intense debate about these issues.
+Recently, for example, the data protection authority in Sweden fined a school for deploying Facial Recognition Technology to streamline students access to school facilities and monitor their attendance.
+According to the data protection authority, under European privacy law, students lacked the capacity to consent to such monitoring.
+Shortly thereafter, however, the same data protection authority approved polices use of FRT to identify criminal suspects.
+In France, a court similarly ruled against schools use of facial recognition technology  rendering this judgment against a background where the French government had announced that FRT would be the only way that its citizens could enroll in a mandatory national digital identity program to securely access public services.
+(That program is currently on hold.
+) Meanwhile, reports suggest that Germany is considering using live, automated FRT in train stations and airports throughout the country for security purposes, even as, just last month, the Court of Appeal of England and Wales struck down a local police forces use of that technology, which it had openly deployed around fifty times over two years at a variety of large public events.
+[3] The courts judgment focused mostly on process errors, however, which the police force has stated it plans to fix.
+Some in the European Union have called for a total ban on facial recognition technology, while others have advocated for its substantially increased deployment, in both commercial and public safety applications.
+Perhaps reflecting the deep and unresolved complexities of the public policy debate concerning this technology, the European Commissions recently-published White Paper on Artificial Intelligence makes virtually no mention of Facial Recognition Technology at all, apart from calling for a broad European debate on the specific circumstances, if any, which might justify [its] use, and on common safeguards[4] a remarkable turnabout from an initial draft of the white paper, which had proposed an outright ban on the technology for between three-to-five years.
+In India, the Supreme Court has struck down portions of the Aadhaar national identity system, which incorporates facial recognition among numerous other biometric ID technologies.
+The court upheld the mandatory use of the system for tax purposes, but prohibited its mandatory use by commercial entities in certain contexts where privacy and security risks were involved.
+Meanwhile, a widely-publicized press report from 2018 stated that the Delhi Police traced nearly 3,000 missing children in the span of a mere four days, thanks to a trial use of FRT.
+[5]
+These are just a few examples of the varied discussions going on around the globe, and around our Nation, regarding the proper role of Facial Recognition Technology in society.
+The Department of Justice recognizes the value of these discussions, and we understand the significant concerns giving rise to them.
+We also strongly believe that adopting outright bans or moratoriums on the use of FRT by law enforcement in the United States is not a useful approach.
+Not only do such bans deprive the American public of the clear benefits of this technology in the short term, but they also disrupt the development of better and safer ways for facial recognition to be developed, tested, and deployed in the future.
+It is a false dichotomy to think we have to choose between embracing this emerging technology and abandoning our moral compass.
+To the contrary, [w]e can advance emerging technology in a way that reflects our values of freedom, human rights, and respect for human dignity.
+[6] The United States should be a leader in FRT and the issues surrounding it precisely so that we can help establish the norms and standards that will shape this technology in the decades ahead.
+Otherwise, nations and entities that share neither our values nor our constraints will happily, and aggressively, fill the void.
+But this is not to say that we should blindly move forward with widespread adoption of Facial Recognition Technology without proper consideration for the risks involved.
+A careful, incremental approach that appropriately balances costs and benefits is the best way forward.
+II.
+Our government already has embarked on this path.
+Consistent with the Presidents Executive Order titled Maintaining American Leadership in Artificial Intelligence,[7] and the Office of Management and Budgets proposed, first-of-their-kind principles regarding the regulation and oversight of Artificial Intelligence (AI) applications developed and deployed outside of the federal government,[8] our Nations strategy on achieving leadership in AI technologies can be realized only by ensuring public engagement, limiting regulatory overreach, and promoting trustworthy technology.
+At the Department of Justice, five core principles guide our approach to Facial Recognition Technology.
+These non-exhaustive principles help ensure that we appropriately and responsibly implement FRT specifically  and AI technologies more broadly  consistent with our obligations to protect privacy, civil rights, and civil liberties.
+First, the Department will develop and use Facial Recognition Technology only pursuant to, and in accordance with, constitutional protections, applicable federal laws, and Department policy.
+When considering the USA governments use of facial recognition, it is important to note the significant requirements imposed by existing laws and policies, particularly with regard to the protection of individual privacy.
+These laws and policies set us apart from other entities that are struggling with the implementation of FRT, and are an essential part of any analysis of the costs and benefits of its use by federal law enforcement.
+For instance, the Privacy Act of 1974, as amended,[9] regulates the collection, use, maintenance, and dissemination of personal information by federal executive branch agencies.
+Broadly stated, the purpose of the Privacy Act is to balance the governments need to maintain information about individuals with the rights of individuals to be protected against unwarranted invasions of their privacy stemming from federal agencies collection, maintenance, use, and disclosure of personal information about them.
+[10] The Privacy Act ensures transparency by requiring federal agencies to describe to the public how they secure and maintain lawfully collected biometric images (like palm prints, facial images, and iris images) for criminal, civil, and/or national security purposes.
+In addition, Section 208 of the E-Government Act of 2002 requires federal agencies to conduct Privacy Impact Assessments that describe the risks and benefits of information technologies, and detail how the agencies appropriately mitigate privacy risks when using them.
+The FBIs Facial Analysis, Comparison, and Evaluation (FACE) Services use of Facial Recognition Technology provides a useful example of how existing laws and policies can help strike the right balance.
+[11] FACE Services employees support FBI investigators by comparing the facial images of persons associated with open assessments and investigations against facial images available in [S]tate and federal face recognition systems.
+[12] This point bears repeating: the FBI investigator can provide FACE Services a photograph (called a probe photo) only of persons who are subjects of, or are relevant to, an already-open assessment, preliminary investigation, or full investigation, as those terms have long been defined in the publicly-available Attorney Generals Guidelines for Domestic FBI Operations.
+[13] Moreover, the probe photos themselves must have been collected pursuant to applicable legal authorities as part of an authorized [FBI] investigation.
+[14] For instance, FBI policy prohibits the submission of photos of individuals exercising rights guaranteed by the First Amendment (like lawful assembly or free exercise of religion), unless those actions are pertinent to, and within the scope of, authorized law enforcement activity.
+Upon receipt of the probe photo, FACE Services employees use[ ] face recognition software to compare the probe photo against photos contained within government systems, such as FBI databases .
+.
+.
+, other federal databases .
+.
+.
+, and [S]tate photo repositories,[15] under the terms of an applicable Memorandum of Understanding (MOU) with each State or federal agency.
+The FBI does not have direct access to these photos repositories, and a written MOU or other type of agreement must be in place with the relevant federal or State agency (such as a Division of Motor Vehicles) prior to requesting a search.
+After comparison and evaluation, which includes both automated face recognition software and manual review by a trained biometric images specialist, FACE Services may identify photos that are likely matches to the probe photo.
+[16] (In many cases, there will not be any likely matches.
+) The likely match photos are called candidate photos.
+[17] Candidate photos serve only as investigative leads; unlike fingerprints, the FBIs face recognition results do not constitute positive identification of an individual.
+The candidate photos are then sent to the FBI investigator, who is prohibited from relying solely upon them to conduct law enforcement action.
+Instead, he or she must perform additional investigation to determine if the person in the candidate photo is the same person as in the probe photo.
+All of these protections, along with advanced training requirements and robust auditing capabilities, enhance the accountability of the system.
+[18] This, in turn, increases the likelihood of success storiesof which there are many.
+I can publicly discuss one notable example.
+In 2017, the FBI identified and arrested an MS-13 gang member and murderer who had evaded authorities for over six years, thereby earning a place on the Ten Most Wanted Fugitives list.
+FACE Services played a critical role in helping agents track the fugitive killer down, as photos that he and a woman he was associated with had posted on social media yielded matches that, in turn, provided investigators with a physical location to surveil.
+There, agents confronted the killer and apprehended him without incident.
+Last year, he pled guilty to his crimes, and was sentenced to 25 years in federal prison.
+[19]
+As with any other investigatory technique, the FBIs use of Facial Recognition Technology during the course of an investigation must have a valid purpose consistent with The Attorney Generals Guidelines, and must comply with the USA Constitution, and with all applicable statutes, executive orders, and Department of Justice regulations and policies.
+Moreover, the information technologies used by FACE Services are properly documented in publicly-available Privacy Impact Assessments, which spell out in considerable detail the privacy risks associated with FACE Services use of FRT, and describes the practices and controls the FBI has implemented in order to mitigate those risks so the public can benefit from the technologys use.
+[20]
+It bears emphasizing again that federal law enforcement will not use Facial Recognition Technology to unlawfully monitor people for their political views, or based solely on a persons exercise of First Amendment rights.
+This is expressly prohibited by the Privacy Act and by the FBIs internal policies, as well as by a number of other laws governing the systems of records created by federal agencies.
+Finally, we regularly test, evaluate, and improve the relevant policies and procedures as technology continues to evolve, and as new use cases emerge.
+Notably, an audit revealed that, through December 2018, FACE Services employees had performed nearly 400,000 searches on a variety of databases.
+[21] Each of these searches was made in support of active FBI investigations, with no findings of civil liberties violations or evidence of system misuse.
+[22]
+Second, in making its Facial Recognition Technology resources available to other law enforcement agencies, the Department will insist those agencies use these resources at a similarly high standard, with appropriate safeguards.
+The Department of Justice sets a high bar in its use of FRT, and we share a large number of resources in common with our law enforcement partners around the Nation.
+In making our resources available to other agencies, we will require those agencies to use these resources at a similarly high level of responsibility and accountability.
+The FBIs management of its Next Generation Identification (NGI) Interstate Photo System (IPS) is a prime example.
+The NGI System serves as the FBIs biometric identity and criminal history records system and maintains the fingerprints and associated identity information of individuals submitted to the FBI for authorized criminal justice, national security, and civil purposes.
+[23] This System features a capability by which over 43 million photos are available for facial recognition searching by law enforcement agencies around the Nation.
+State, local, tribal, and federal law enforcement can submit and enroll photos of arrestees, based upon probable cause and supported by ten-print fingerprints, into the NGI IPS.
+[24] These agencies can access the facial recognition search capability that the FBI provides, thereby leveraging the cutting-edge algorithm that the FBI employs  but only if they comply with policy regarding use of the system that the FBI requires of its own employees.
+[25] This includes the requirement that candidate photos serve only as investigative leads, and not as a means of positive identification, as well as the rule that the FBI does not retain any of the probe photos that are searched against the NGI IPS, to ensure that only those photos collected pursuant to a probable cause standard and positively associated with ten-print fingerprints would be available for searching.
+[26]
+In addition, the FBI imposes training requirements in line with national scientific guidelines before users can conduct searches on the System, and requires jurisdictions to meet rigorous technical standards before they can access it.
+To date, fifteen States, the District of Columbia, and two federal agencies have the technical capability to conduct facial recognition searches on the NGI IPS.
+[27]
+All federal law enforcement agencies, including those outside of the Department of Justice, are authorized to enroll and search photos in the NGI IPS for legally authorized purposes.
+Currently, only two federal entities perform facial recognition searches on the System.
+Those agencies are the FBIs FACE Services and the USA Department of Homeland Securitys Customs and Border Protection (CBP) National Targeting Center (NTC).
+[28] The NTC accesses the NGI IPS to conduct facial recognition searches using its screening rules to determine on an individualized basis which travelers are reasonably suspected to pose a risk to border security or public safety; who may be a terrorist or suspected terrorist; who may be inadmissible to the United States; or who may otherwise be engaged in illegal activity under federal criminal law.
+[29] As with all [NGI IPS] users, the candidate photos returned to the NTC are for lead purposes only, cannot be used for positive identification, and the NTC must perform additional research to resolve the identities of the subjects before taking any action.
+[30]
+Overall, like FACE Services use of FRT, law enforcement use of the NGI IPS System should give the American people confidence.
+An audit revealed that, from fiscal year 2017 through April 2019, authorized law enforcement users made over 150,000 facial recognition search requests of the NGI IPS repository.
+During that time, there [were] no findings of civil liberties violations or evidence of system misuse.
+[31]
+Third, the Department will ensure that Facial Recognition Technology is developed and used in a manner that minimizes inaccuracy and unfair biases.
+Improper discrimination has no place in our society, let alone in our law enforcement function.
+It is unlikely we can achieve perfection in any endeavor in which imperfect human beings play a role.
+Perfection is probably unattainable even for machines; after all, [f]acial recognition, like many AI technologies, typically have some rate of error even when they operate in an unbiased way.
+[32] But we must do everything in our power to employ mitigation techniques so that any errors or demographic differentials are minimized and addressed.
+In the FRT context, this effort is already well underway throughout the USA government.
+The National Institute of Standards and Technology (NIST), for instance, has developed a number of reports from its Face Recognition Vendor Test Program[33] that focus on issues like the accuracy of vendor-tested facial recognition models.
+Notably, NISTs work covers demographic differentials.
+Its most recent report on this topic, published late last year, states:
+Contemporary face recognition algorithms exhibit demographic differentials of various magnitudes .
+.
+.
+[F]alse positive differentials are much larger than those related to false negatives and exist broadly, across many, but not all, algorithms tested .
+.
+.
+Operational implementations usually employ a single face recognition algorithm.
+Given algorithm-specific variation, it is incumbent upon the system owner to know their algorithm .
+.
+.
+Since different algorithms perform better or worse in processing images of individuals in various demographics, policy makers, face recognition system developers, and end users should be aware of these differences and use them to make decisions and to improve future performance .
+.
+.
+Reporting of demographic effects often has been incomplete in academic papers and in media coverage.
+In particular, accuracy is discussed without stating the quantity of interest be it false negatives, false positives or failure to enroll.
+As most systems are configured with a fixed threshold, it is necessary to report both false negative and false positive rates for each demographic group at that threshold.
+This is rarely donemost reports are concerned only with false negatives.
+[34]
+We have a moral obligation to study demographic differentials in connection with Facial Recognition Technology.
+We must approach this issue honestly, and with due regard for evidence-based reviews.
+We in the federal government will continue to ensure that demographic differentials and inaccuracies are constantly being tested, quantified, and mitigated using an evidence-based approach.
+In fact, it is precisely that approach that led to the progress reflected in the 2018 NIST Face Recognition Vendor Test, in which top algorithms experienced a failure (i.
+e.
+, a false positive or a false negative match) on NIST-provided data inputs only 0.2% of the time, compared with a 4% failure rate in 2014  an improvement by a factor of 20 in only four years.
+[35] Through its partnership with NIST, the FBI in 2019 upgraded its NGI IPS algorithm; the selected vendors facial recognition algorithm performs at an accuracy rate that exceeds 99%.
+[36] Going forward, the FBI plans, in collaboration with NIST, to test its NGI IPS facial recognition technology annually.
+Much work remains to be done.
+But the remarkable progress we have seen in the accuracy of FRT in just a few years is cause for optimism.
+Fourth, the Department will continue to ensure human involvement in areas where technology is used in a manner that impacts fundamental rights and civil liberties.
+As Ive said, our view is that Facial Recognition Technology assists, but does not replace, the work conducted by our law enforcement investigators and national security personnel.
+Accordingly, we believe that a human being should be involved before any actions are taken that could deprive a person of his or her civil rights or civil liberties, based on any outputs produced by facial recognition (or any similarly advanced) technology.
+Of course, the fact that a human is involved is not enough; that person needs to be properly trained, and needs to function within a broader institutional culture where the state serves its citizens rather than the other way around.
+But human involvement is a prerequisite to any law enforcement or national security use of FRT that claims to advance the cause of freedom.
+Finally, the Department will prioritize the security and quality of the data it uses in connection with Facial Recognition Technology.
+The data involved in FRT, especially in the law enforcement context, can be highly sensitive.
+The FBI imposes strict access requirements to the relevant databases, and complies with all applicable laws and regulations concerning the storage and retention of this data.
+In addition, it provides a secure transport mechanism for all the criminal history record information and biometric-related information it handles.
+Transmission hardware for [the relevant telecommunications infrastructure] is configured by FBI personnel; transmission data to and from [the FBI] is encrypted; and firewalls are mandated and in place.
+[37] The Department will prioritize securing its face image (and associated) data from unauthorized access.
+State and local law enforcement partners, as well as commercial firms, should do the same.
+The American people, too, should be cautious about the products they use, and with whom they share their biometric data.
+Any mobile applicationeven a free, fun, seemingly harmless one that entertains youdeveloped in a nation that does not share our rule of law values could be a potential counterintelligence threat, based on the data that the app collects, its privacy and terms of use policies, and the legal mechanisms available to the host nation to access data within its borders.
+As Americans, we must never forget that our critical AI technologiesas well as our citizens personal dataare under constant attack from strategic competitors, adversarial nations, and malicious non-state cyber actors.
+III.
+Thank you for participating in this important discussion on the future of law enforcements use of Facial Recognition Technology.
+There are many complex and important questions that need to be resolved as technology continues rapidly to advance around us.
+At the USA Department of Justice, we firmly believe the best way to answer these questions is through principled action; through an honest evaluation (and constant re-evaluation) of benefits and costs; and through active engagement with impacted stakeholders.
+Only then can we ensure that the manner in which the government uses technology best serves the American people.
+[1] See USA Department of Justice, Office of Justice Programs, History of NIJ Support for Face Recognition Technology, Mar.
+5, 2020, available at: https://nij.
+ojp.gov/topics/articles/history-nij-support-face-recognition-technology (last accessed September 12, 2020).
+[2] For representative USA Supreme Court cases, see, e.
+g.
+, Katz v.
+United States, 389 USA 347 (1967) (use of electronic listening device to monitor private telephone conversations); Smith v.
+Maryland, 442 USA 735 (1979) (installation and use of pen register); United States v.
+Knotts, 460 USA 276 (1983) (monitoring of electronic beeper on public roads); United States v.
+Karo, 468 USA 705 (1984) (monitoring of electronic beeper within private residence); California v.
+Ciraolo, 476 USA 207 (1986) (aerial surveillance of private home and backyard); Kyollo v.
+United States, 533 USA 27 (2001) (use of thermal imaging device not in general use to explore interior details of home); Maryland v.
+King, 569 USA 435 (2013) (DNA swab of arrestees cheek for identification purposes); Riley v.
+California, 573 USA 373 (2014) (search of arrestees cell phone); Carpenter v.
+United States, 585 USA ___ (2018) (collection of historical cell-site location information).
+[3] See R (Bridges) v.
+Chief Constable of South Wales Police, [2020] EWCA Civ.
+1058, Aug.
+11, 2020, available at: https://www.
+judiciary.
+uk/wp-content/uploads/2020/08/R-Bridges-v-CC-South-Wales-ors-Judgment.
+pdf (last accessed September 12, 2020).
+[4] European Commission, White Paper: On Artificial IntelligenceA European Approach to Excellence and Trust, at 22, Feb.
+19, 2020, available at: https://ec.
+europa.
+eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.
+pdf (last accessed September 12, 2020).
+[5] Times of India, Delhi: Facial recognition system helps trace 3,000 missing children in 4 days, Apr.
+22, 2018, available at: https://timesofindia.
+indiatimes.
+com/city/delhi/delhi-facial-recognition-system-helps-trace-3000-missing-children-in-4-days/articleshow/63870129.
+cms (last accessed September 12, 2020).
+[6] Michael Kratsios, USA CTO, AI That Reflects American Values, Bloomberg, Jan.
+7, 2020, available at: https://www.
+bloomberg.
+com/opinion/articles/2020-01-07/ai-that-reflects-american-values (last accessed September 12, 2020).
+[7] The White House, Executive Order [13859] on Maintaining American Leadership in Artificial Intelligence, Feb.
+11, 2019, available at: https://www.
+whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/ (last accessed September 12, 2020).
+[8] See Russell T.
+Vought, Acting Director, Office of Management and Budget, [Draft] Memorandum for the Heads of Executive Departments and Agencies re: Guidance for Regulation of Artificial Intelligence Applications, Jan.
+2019, available at: https://www.
+whitehouse.gov/wp-content/uploads/2020/01/Draft-OMB-Memo-on-Regulation-of-AI-1-7-19.
+pdf (last accessed September 12, 2020).
+[9] 5 USAC.
+ 552(a) (2018).
+[10] USA Department of Justice, Office of Privacy and Civil Liberties, Overview of the Privacy Act of 1974, July 16, 2015, available at: https://www.
+justice.gov/opcl/policy-objectives (last accessed September 12, 2020).
+[11] The FBIs FACE Services are located within the Investigative Services Support Unit of the Criminal Justice Information Services (CJIS) Divisions Biometric Services Section.
+[12] Federal Bureau of Investigation, Privacy Impact Assessment for the Facial Analysis, Comparison, and Evaluation (FACE) Services Unit [hereinafter FACE Services PIA], May 1, 2015, available at: https://www.
+fbi.gov/services/information-management/foipa/privacy-impact-assessments/facial-analysis-comparison-and-evaluation-face-services-unit (last accessed September 12, 2020).
+[13] See The Attorney Generals Guidelines for Domestic FBI Operations, Sept.
+2008, available at: https://www.
+justice.gov/archive/opa/docs/guidelines.
+pdf (last accessed September 12, 2020).
+[14] FACE Services PIA, supra note 12.
+[15] Id.
+Federal photo repositories include the criminal mugshots in the FBIs Next Generation Identification (NGI) system, the visa and passport photos maintained by the Department of State (DOS), and photos in the Department of Defenses biometric system.
+State photo repositories include drivers licenses, identification cards, and criminal photos maintained in Departments of Motor Vehicles (DMV) and similar [S]tate agencies.
+ Federal Bureau of Investigation, Privacy Impact Assessment for the Facial Analysis, Comparison, and Evaluation (FACE) Phase II System [hereinafter FACE Services Phase II PIA], at 2, July 9, 2018, available at: https://www.
+fbi.gov/file-repository/pia-face-phase-2-system.
+pdf/view (last accessed September 12, 2020).
+[16] FACE Services PIA, supra note 12.
+[17] Id.
+[18] For example, FACE Services securely maintains a manual work log that contains each FRT search request, which generally include[s] the name of the requesting FBI agent/analyst, the case number, and some biographic information related to the subject of the probe photo, such as name and date of birth.
+ FACE Services Phase II PIA, supra note 15, at 2.
+While the work log documents the details of all work transactions, it retains only the probe photo and limited biographic information about the relevant subjects.
+Id.
+[19] See Ryan Lucas, How A TipAnd Facial Recognition TechnologyHelped The FBI Catch A Killer, NPR All Things Considered, Aug.
+21, 2019, available at: https://www.
+npr.
+org/2019/08/21/752484720/how-a-tip-and-facial-recognition-technology-helped-the-fbi-catch-a-killer (last accessed September 12, 2020); Press Release, USA Attorneys Office, District of New Jersey, MS-13 Member Apprehended after Being Placed on FBIs 10 Most-Wanted Fugitives List Sentenced to 25 Years in Prison, July 31, 2019, available at: https://www.
+justice.gov/usao-nj/pr/ms-13-member-apprehended-after-being-placed-fbi-s-10-most-wanted-fugitives-list-sentenced (last accessed September 12, 2020).
+[20] See generally FACE Services PIA, supra note 12; FACE Services Phase II PIA, supra note 15.
+[21] Kimberly J.
+Del Greco, Deputy Assistant Director, Federal Bureau of Investigation, Statement Before the House Oversight and Reform Committee, Facial Recognition Technology: Ensuring Transparency in Government Use [hereinafter Del Greco Statement], June 4, 2019, available at: https://www.
+fbi.gov/news/testimony/facial-recognition-technology-ensuring-transparency-in-government-use (last accessed September 12, 2020).
+[22] Id.
+[23] Federal Bureau of Investigation, Privacy Impact Assessment for the Next Generation Identification-Interstate Photo System [hereinafter NGI IPS PIA], at 1, Oct.
+29, 2019, available at: https://www.
+fbi.gov/file-repository/pia-ngi-interstate-photo-system.
+pdf/view (last accessed September 12, 2020).
+[24] Id.
+[25] Id.
+at 2.
+[26] Id.
+at 16.
+[27] Id.
+at 3.
+[28] The Department of Homeland Securitys use of Facial Recognition Technology falls generally outside of the scope of these remarks, but CBPs and TSAs use of FRT is detailed in a recent report published by the USA General Accountability Office.
+See USA General Accountability Office, Facial Recognition: CBP and TSA are Taking Steps to Implement Programs, but CBP Should Address Privacy and System Performance Issues, Sept.
+2020, available at: https://www.
+gao.gov/assets/710/709107.
+pdf (last accessed September 12, 2020).
+[29] NGI IPS PIA, supra note 23, at 3.
+[30] Id.
+[31] Del Greco Statement, supra note 21.
+[32] Brad Smith, Facial recognition technology: The need for public regulation and corporate responsibility, Microsoft On The Issues, July 13, 2018, available at: https://blogs.
+microsoft.
+com/on-the-issues/2018/07/13/facial-recognition-technology-the-need-for-public-regulation-and-corporate-responsibility/ (last accessed September 12, 2020).
+[33] See National Institute of Standards and Technology, Face Recognition Vendor Test (FRVT), available at: https://www.
+nist.gov/programs-projects/face-recognition-vendor-test-frvt (last accessed September 12, 2020).
+[34] Patrick Grother, Mei Ngan, Kayee Hanaoka, Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects, at 2, 3, Dec.
+19, 2019, available at: https://nvlpubs.
+nist.gov/nistpubs/ir/2019/NIST.
+IR.
+8280.
+pdf (last accessed September 12, 2020).
+[35] See History of NIJ Support for Face Recognition Technology, supra note 1.
+[36] Del Greco Statement, supra note 21.
+[37] NGI IPS PIA, supra note 23, at 13.
+Topic(s):National SecurityComponent(s):National Security Division (NSD)
+Updated September 15, 2020

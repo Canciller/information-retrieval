@@ -1,0 +1,97 @@
+https://www.justice.gov/opa/speech/assistant-attorney-general-beth-williams-delivers-remarks-columbia-law-school-virtual
+Assistant Attorney General Beth A.
+Williams Delivers Remarks at Columbia Law School Virtual Event on Combating the Online Exploitation of Children
+Washington, DCUnited States
+~
+Wednesday, October 28, 2020
+Remarks as Prepared for Delivery
+Good afternoon, everyone, and thank you for joining us today for a conversation on one of the most pressing challenges we face  the continuing fight against the online exploitation of children.
+I want to thank Berit Berger and Columbia Law School for hosting us virtually, and for putting together this event on such an important subject.
+As Berit said, my name is Beth Williams, and I am the Assistant Attorney General for the Office of Legal Policy or OLP.
+OLP sits at the intersection of the Justice Departments many components, and is responsible for developing and coordinating high-priority policy initiatives for the Attorney General.
+OLP is often referred to as the think tank of the Department of Justice.
+It has the freedom to be proactive, which means thinking ahead to what will be the most pressing concerns for the Department and its mission going forward.
+I am hard-pressed to think of an issue that is more deserving of our attention than the need to combat the sexual exploitation of children, both online and in the real world.
+Before our panel begins, I would like to say a few words about the magnitude of this ongoing crisis and the need for a comprehensive approach that achieves the proper balance between our cherished values of justice, privacy, and public safety.
+Addressing the problem of online child exploitation requires that all of civil society work collaboratively  including law enforcement, non-governmental organizations, private industry, and individual citizens.
+As we will hear today, journalists also play an essential role in educating the public and telling the stories of brave survivors like our panelist Sarah Cooper, who has come forward to share her experience.
+I am fortunate to be followed by a distinguished panel that includes leaders who have done amazing work to inform the public and to keep children safe.
+When I say online child exploitation, I am referring to the use of social media platforms, apps, and electronic devices like computers and smart phones to victimize children via the Internet.
+Most are you are likely familiar with the scourge of online child abuse images  properly referred to as Child Sexual Abuse Material or CSAM.
+Every year, individuals produce and share millions of photos and videos depicting the abuse of minors, which are spread around the world using encrypted technologies and the dark web.
+Moreover, exploitation and abuse that begins online in the virtual world often leads to abuse in the real world.
+In an all-too-common scenario, a predator can use social media to make contact with a child, spend time grooming her to build trust, and then attempt to meet in person to engage in abuse.
+Predators can also use social media and other platforms to coerce minor victims into sharing explicit images of themselves, and then blackmail the victims into paying money, producing more explicit content, or engaging in sexual acts.
+This is referred to as sextortion, and those cases are on the rise.
+The reality is that these types of crimes are not rare  they are occurring in our communities throughout the country on a daily basis.
+The National Center for Missing & Exploited Children or NCMEC, which operates a centralized reporting system for online child exploitation, received 16.9 million reports of suspected abuse last year alone.
+Those reports included over 69 million photos, videos, and other files related to child sexual exploitation, many of which involved children younger than 10-years-old.
+Over the years, NCMEC analysts have done the harrowing work of reviewing more than 312 million images and videos of potential abuse, and, as a result, law enforcement has identified more than 18,900 child victims to date.
+Unfortunately, there are many more who have not been identified.
+As we all know, COVID-19 has adversely impacted almost every facet of society, creating new challenges and exacerbating existing problems.
+When it comes to online child exploitation, COVID-19 is making an ongoing crisis even worse.
+Because of school closings, shutdowns, and the cancellation of many in-person activities and events, children are spending more and more time online.
+Many children are now using webcams  some for the first time  to participate in remote learning and to communicate with loved ones.
+This increased familiarity with sharing personal images online can lull children into a false sense of comfort.
+At the same time, kids are often less supervised because parents and guardians must leave for work or spend their time at home teleworking.
+We are fortunate to have advanced technology that provides us the means to stay connected with friends and family, to learn and work remotely, and to participate in virtual events like this one.
+However, that same technology also provides predators with pathways into our homes that can be used to target children for sexual exploitation.
+The good news is that the Department of Justice and our state and local partners have a long track record of successfully investigating and prosecuting child exploitation crimes.
+We are fortunate to have on the panel today Commander John Pizzuro from the Internet Crimes Against Children Task Force Program, which is a national network of federal, state, and local law enforcement officials committed to bringing offenders to justice.
+Since 1998, the task forces have addressed more than one million complaints of child exploitation, resulting in the arrest of more than 100,000 individuals.
+In 2006, the Department of Justice launched Project Safe Childhood, which coordinates federal, state, and local resources to better locate, apprehend, and prosecute individuals who exploit children via the Internet, and to identify and rescue victims.
+As the Attorney General recently recounted, under Project Safe Childhood, federal prosecutions for child exploitation crimes have increased annually for 11 straight years.
+Overall, the number of federal cases filed against individuals who exploit children online has almost tripled, from 218 cases initiated in 2008, to 635 cases in 2019.
+Many of these cases involved serial abusers, and each successful prosecution means one less predator is free to harm children.
+As my colleague Stacie Harris will explain, these statistics demonstrate that we have made major strides in this fight.
+The unfortunate news is that law enforcements ability to combat online predators is increasingly at risk due to the development of technology like end-to-end encryption, which is also known as warrant-proof encryption.
+While encryption technology is an essential tool that helps protect our data and devices from cyber threats, it is also subject to misuse and abuse.
+Indeed, criminals can use warrant-proof encryption to shield virtually every kind of illicit activity from detection.
+To understand fully the threat posed by warrant-proof encryption, it is important first to consider how the Department of Justice and our state and local partners frequently identify and interdict online predators.
+For decades, private sector technology companies have been critical to these efforts.
+Companies like Facebook, Google, and Microsoft monitor their networks for CSAM or other content indicative of abuse, and send what is known as a cyber tip to NCMEC.
+NCMEC reviews these cyber tips and refers them to law enforcement when appropriate.
+In numerous cases, the resulting investigations have enabled law enforcement to pull down abusive imagery, bring offenders to justice, and even rescue children who were actively suffering abuse.
+Indeed, in cases involving ongoing exploitation, cyber tips are often the only lifeline for children who are being abused in the most horrifying ways imaginable.
+Let me give you an example that demonstrates just how critical these cyber tips are.
+In December 2018, NCMEC received a tip involving newly-created photos and videos of an infant who was being sexually abused by an adult male.
+The fact that the images were newly-created meant that the child was likely in imminent danger.
+After tracking the IP information contained in the cyber tip, law enforcement was able to identify a physical address associated with the user who transmitted the images.
+Within three hours, police arrested the suspected abuser and rescued the five-month-old infant along with 11 other children from the home.
+There are thousands more examples where law enforcement has been able to stop abusers and rescue victims because of these tips.
+And yet, this essential system is at risk.
+In the name of user privacy, technology companies are deploying end-to-end or warrant-proof encryption technology by default in everyday consumer devices and software.
+Warrant-proof encryption prevents anyone except the specific participants in an online conversation, or the owner of a specific device, from accessing the contents of the information being shared or stored.
+Warrant-proof encryption puts children at risk for two reasons.
+First, it prevents technology companies from identifying and reporting harmful content on their own networks.
+Consider that, in 2018, Facebook sent 16.8 million cyber tips to NCMEC, representing more than 90 percent of the total reports that year.
+In addition to numerous instances of abusive imagery, 8,000 of Facebooks reports related to attempts by offenders to meet children online and groom or entice them into sharing indecent imagery or meeting in real life.
+Subsequently, however, Facebook announced plans to deploy end-to-end encryption across its network.
+Notably, Facebook itself acknowledged that there are real safety concerns to address before we can implement end-to-end encryption.
+ However, Facebook has committed to moving forward with its plans despite the lack of an adequate mechanism to address user safety, and despite pleas from the Attorney General and his international counterparts.
+And, as a result, NCMEC estimates that 70percent of Facebooks cyber tips  or 12 million reports globally  will be lost.
+This has real life consequences  law enforcement will be less able to act in thousands of cases where they might have otherwise been able to stop the spread of CSAM, arrest a predator, or rescue a child from abuse.
+Second, in addition to undermining the providers ability to monitor their own networks, warrant-proof encryption significantly impairs  or entirely prevents  law enforcement from accessing evidence necessary to investigate or prevent serious crimes, including those involving child exploitation.
+Frequently, critical evidence needed to identify or prosecute a suspected predator is located on the suspects phone or computer.
+However, even after law enforcement obtains a search warrant from a neutral judge to access a suspects device, they may be prevented from accessing the evidence inside because the device is locked and encrypted.
+(Hence, the term warrant-proof encryption.
+) This upsets the traditional balance our society has recognized for generations between the rights of citizens to privacy and the compelling need for government to access evidence to protect public safety.
+For this reason, the Department of Justice, along with our state, local, and international partners, has consistently stressed the need for solutions that ensure the governments lawful access to evidence, while maintaining an appropriate balance between privacy and public safety as enshrined in our Constitution.
+That is why the Attorney General has praised legislation introduced in Congress this summer that would balanc[e] the privacy interests of consumers with the public safety interests of the community by requiring [technology companies] to provide law enforcement with access to encrypted data when authorized by a judge.
+
+We believe this should not simply be a debate between tech companies and privacy advocates on one side, and law enforcement officials on the other.
+Rather, warrant-proof encryption, and the issue of online exploitation of children more broadly, has widespread implications for parents, schools, community organizations, and advocacy groups across society.
+That is why conversations like these are so essential, as we move forward together to protect children and to protect the values we hold dear as Americans.
+In closing, I want to thank each of you for your interest in this issue.
+I encourage you all to engage further by reading stories from journalists like our panelist, Linda Matchan, who shine a light on the tragedies around us and who help to give a voice to victims who are too often ignored or marginalized.
+Indeed, we constantly hear that technology like end-to-end encryption can promote user privacy, and that is true.
+But it is also true that the misuse of such technology can reduce the privacy of individuals like victims of child exploitation, who are re-victimized each time their images are circulated online.
+I would also encourage you to visit the Department of Justices website on lawful access to learn more about the Departments efforts as we seek to work collaboratively toward solutions.
+Most of all, I encourage you to bring your own unique voices and perspectives to this issue.
+The law enforcement community has made its position clear, as has the tech community.
+But the ultimate power to make decisions about important public policy issues rests with the people.
+And it is important that everyone is fully informed.
+I thank you all for your attention, and I look forward to a productive and informative conversation.
+Speaker:Assistant Attorney General Beth A.
+WilliamsTopic(s):Project Safe ChildhoodHuman TraffickingComponent(s):Office of Legal Policy
+Updated October 29, 2020
